@@ -102,14 +102,12 @@ module.exports = {
                     title: note.data.title,
                 }
             });
-
             return npcs;
         },
 
         npcs: (data) => {
             const notes = data.collections.notes;
             const currentFileSlug = data.page.fileSlug;
-
             let npcs = [];
             npcs = notes.filter(onlyPeople).filter((note) => {
                 const isLocation = subsetMatch(note.template.frontMatter.data, 'Location', currentFileSlug);
