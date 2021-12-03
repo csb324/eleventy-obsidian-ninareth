@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "-path:Sessions -path:Templates",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#PC",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:People",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Groups and Organizations\"",
+      "color": {
+        "a": 1,
+        "rgb": 5412832
+      }
+    },
+    {
+      "query": "path:Locations",
+      "color": {
+        "a": 1,
+        "rgb": 14236218
+      }
+    },
+    {
+      "query": "path:Sessions",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.69619908707865,
+  "lineSizeMultiplier": 2.41666081460674,
+  "collapse-forces": true,
+  "centerStrength": 0.258680555555556,
+  "repelStrength": 9.60470085470086,
+  "linkStrength": 0.816907051282051,
+  "linkDistance": 221,
+  "scale": 0.16208746521648085,
+  "close": true
+}

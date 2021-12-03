@@ -1,0 +1,64 @@
+/* ./your-css-folder/styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1, h2, h3, h4, h5 {
+    @apply font-serif; 
+  }
+
+  h1 {
+    @apply text-2xl mt-10 mb-4 font-bold text-red-800;
+  }
+  h2 {
+    @apply text-xl mt-6;
+  }
+
+  a {
+    @apply text-blue-500 hover:text-blue-400;
+  }
+
+  a[href="#"] {
+    @apply text-red-500;
+  }
+
+  blockquote {
+    @apply border-l-4 border-red-600 bg-gray-100 font-serif italic p-5 my-4;
+  }
+
+  table {
+    @apply table-auto text-left;
+  }
+  th,  td {
+    @apply p-1;
+  }
+  th {
+    @apply bg-red-50;
+  }
+  tr {
+    @apply border-b;
+  }
+
+  tr:last-child {
+    @apply border-none;
+  }
+
+}
+
+.dataview.inline-field {
+  @apply inline-flex mb-1;
+}
+
+.inline-field-key, .inline-field-value {
+  @apply px-2 py-1 block border-0;
+}
+.inline-field-key {
+  @apply rounded-l-lg bg-red-100;
+}
+.inline-field-value {
+  @apply rounded-r-lg bg-red-50;
+}
+.inline-field-value a {
+  @apply text-red;
+}

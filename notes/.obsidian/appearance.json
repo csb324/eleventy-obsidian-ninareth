@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "hide-meta",
+    "pretty-inline-tags"
+  ]
+}

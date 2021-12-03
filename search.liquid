@@ -1,0 +1,11 @@
+---
+permalink: '/search.json'
+---
+[  
+  {% for post in collections.notes %} 
+  { 
+    "title":"{{ post.data.title }}",
+    "url":"{{ post.url | url }}" 
+  }
+  {% if forloop.last == false %},{% endif %} {% endfor %}  
+]

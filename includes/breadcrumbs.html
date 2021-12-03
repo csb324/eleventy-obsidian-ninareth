@@ -1,0 +1,15 @@
+{% if breadcrumbs.length > 0%}
+  {% for breadcrumb in breadcrumbs %}
+
+    <table class="table-auto w-full">
+      <tr>
+        {% for link in breadcrumb %}
+          <td class="border border-collapse border-blue-200 text-center py-2">
+            <a href="{{link.url}}" class="backlink__link">{{link.title}}</a>
+          </td>
+        {% endfor %}
+      </tr>
+    </table>
+
+{% endfor %}
+{% endif %}

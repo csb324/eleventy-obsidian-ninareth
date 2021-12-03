@@ -1,0 +1,7 @@
+{% if reference_data.length > 0%}
+<ul class="list-disc list-inside">
+    {% for link in reference_data %}
+        <li class="backlink"><a href="{{link.url}}" class="backlink__link">{{link.title}}</a></li>
+    {% endfor %}
+</ul>
+{% endif %}

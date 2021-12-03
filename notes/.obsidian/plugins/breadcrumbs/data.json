@@ -1,0 +1,109 @@
+{
+  "aliasesInIndex": false,
+  "alphaSortAsc": true,
+  "altLinkFields": [],
+  "CSVPaths": "",
+  "debugMode": "WARN",
+  "defaultView": true,
+  "dvWaitTime": 5000,
+  "dotsColour": "#000000",
+  "fieldSuggestor": true,
+  "filterImpliedSiblingsOfDifferentTypes": true,
+  "limitWriteBCCheckboxStates": {
+    "up": true,
+    "same": true,
+    "down": true,
+    "next": true,
+    "prev": true,
+    "country": true,
+    "neighbors": true,
+    "region": true,
+    "Location": true,
+    "Based in": true,
+    "Within": true,
+    "contains": true
+  },
+  "indexNotes": [
+    ""
+  ],
+  "hierarchyNotes": [
+    ""
+  ],
+  "HNUpField": "",
+  "refreshOnNoteChange": false,
+  "useAllMetadata": true,
+  "parseJugglLinksWithoutJuggl": false,
+  "showNameOrType": false,
+  "showRelationType": false,
+  "rlLeaf": true,
+  "showAllPathsIfNoneToIndexNote": false,
+  "showBCs": true,
+  "showBCsInEditLPMode": false,
+  "showTrail": true,
+  "showGrid": true,
+  "showPrevNext": true,
+  "limitTrailCheckboxStates": {
+    "up": true,
+    "country": true,
+    "region": true,
+    "Location": true,
+    "Based in": true
+  },
+  "gridDots": false,
+  "gridHeatmap": false,
+  "heatmapColour": " hsl( 129,  31.9%,  46.7%)",
+  "showAll": true,
+  "noPathMessage": "",
+  "trailSeperator": "→",
+  "respectReadableLineLength": true,
+  "userHiers": [
+    {
+      "up": [
+        "country",
+        "region",
+        "Location"
+      ],
+      "same": [
+        "neighbors"
+      ],
+      "down": [
+        "contains"
+      ],
+      "next": [],
+      "prev": []
+    },
+    {
+      "up": [
+        "up"
+      ],
+      "same": [
+        "same"
+      ],
+      "down": [
+        "down"
+      ],
+      "next": [
+        "next"
+      ],
+      "prev": [
+        "prev"
+      ]
+    },
+    {
+      "up": [
+        "Based in"
+      ],
+      "same": [],
+      "down": [],
+      "next": [],
+      "prev": []
+    }
+  ],
+  "writeBCsInline": false,
+  "showWriteAllBCsCmd": false,
+  "visGraph": "Force Directed Graph",
+  "visRelation": "Parent",
+  "visClosed": "Real",
+  "visAll": "All",
+  "wikilinkIndex": true
+}

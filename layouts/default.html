@@ -3,23 +3,27 @@
 <head>
     {% include 'head.html' %}
 </head>
-<body>
-    <header class="page-header">
-        <a href="/" class="page-header__logo" title="Go home">
-            <img src="/assets/avatar.png" alt="" width="48">
-        </a>
 
-        <nav>
-            <a href="/">Home</a>
-            <a href="/about">About Me</a>
-            <a href="/notes">Notes</a>
-        </nav>
+<body class="flex flex-col items-stretch min-h-screen">
+    <header class="page-header bg-red text-white font-serif text-lg p-4">
+        <nav class="flex max-w-screen-lg mx-auto">
+
+            <a href="/notes/Locations/Ninareth/" class="text-white font-bold mr-6 hover:text-red-100" title="Go home">
+                Ninareth
+            </a>
+
+            <a href="/notes/Groups%20and%20Organizations/Our%20Party/" class="mr-6 text-white hover:text-red-100">Our Party</a>
+        </div>
     </header>
-    <main>
-        {{content}}
-    </main>
+
+    <div class="p-4 w-full flex-grow">
+        <main class="max-w-screen-lg  mx-auto ">
+            {% include 'search.html' %}
+            {{content}}
+        </main>        
+    </div>
     
-    <footer class="page-footer">
+    <footer class="page-footer w-full flex max-w-screen-lg mx-auto p-4">
         <small>Copyright {{site.author}}</small>
     </footer>
 </body>

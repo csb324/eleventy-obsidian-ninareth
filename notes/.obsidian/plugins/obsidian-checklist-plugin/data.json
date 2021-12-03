@@ -1,0 +1,15 @@
+{
+  "todoPageName": "",
+  "showChecked": false,
+  "groupBy": "page",
+  "sortDirection": "old->new",
+  "ignoreFiles": "Template",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "Locations/Temple of Corellon Outside Quaath.md",
+    "People/Arkhosian Politics/dwarf who seems to like us.md",
+    "People/Professor Leonard Klipitz.md",
+    "adrienne's opinions of things/adriennes-opinions-4.md"
+  ]
+}

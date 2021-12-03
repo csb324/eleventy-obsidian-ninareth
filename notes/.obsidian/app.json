@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Files",
+  "foldHeading": false,
+  "defaultViewMode": "preview",
+  "fileSortOrder": "byCreatedTime"
+}

@@ -1,0 +1,38 @@
+{
+  "userAdmonitions": {
+    "spoiler-r": {
+      "type": "spoiler-r",
+      "color": "80, 220, 174",
+      "icon": {
+        "name": "cancel",
+        "type": "rpg"
+      },
+      "command": true,
+      "title": "Do not read unless you are Rez",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "spoiler-a": {
+      "type": "spoiler-a",
+      "color": "62, 116, 204",
+      "icon": {
+        "name": "cancel",
+        "type": "rpg"
+      },
+      "command": true,
+      "title": "Do not read unless you are Adrienne",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "6.7.1",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "syncLinks": true,
+  "enableMarkdownProcessor": false,
+  "injectColor": true,
+  "parseTitles": true
+}

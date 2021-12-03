@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
+
+{% include 'breadcrumbs.html' %}
 <article>
     {{content}}
 </article>
 {% include 'backlinks.html' %}
+{{ breadcrumbs | log }}
+

@@ -1,0 +1,82 @@
+<div class="container pt-8 mx-auto relative" x-data="initialData()" x-init="loadPages().then((d) => myForData = d);"
+  x-on:keydown.arrow-down.prevent="focusNextOption()"
+  x-on:keydown.arrow-up.prevent="focusPrevOption()"
+>
+  <input
+    x-ref="searchField"
+    x-model="search"
+    x-on:keydown.window.prevent.slash="$refs.searchField.focus()"
+    placeholder="Search"
+    type="search"
+    class="block mb-2 w-full bg-gray-100 focus:outline-none focus:bg-white focus:shadow text-gray-700 font-bold rounded-lg px-4 py-3"
+  />
+
+  <div x-show="filteredPages.length > 0" class="absolute w-64 bg-white shadow-md rounded-b-md p-2" x-ref="listbox">
+    <template x-for="(item, index) in filteredPages" :key="item">
+        <a x-bind:href="item.url"
+          class="text-gray-900 block focus:bg-gray-200 focus:text-red-800 hover:bg-gray-200 hover:text-red-800 rounded-md leading-none w-full p-2 bg-white"
+          x-text="item.title"
+          tabindex="0"
+        ></a>
+    </template>
+  </div>
+</div>
+
+<script>
+  const initialData = function() { 
+    return {
+      search: "",
+      selectedIndex: null,
+      myForData: [],
+      get filteredPages() {
+        if (this.search.length < 2) {
+          return [];
+        }
+        return this.myForData.filter((item) => {
+          return item.title.toLowerCase().includes(this.search.toLowerCase())
+        })
+      },
+      setFocused: function() {
+        const focused = this.$refs.listbox.children[this.selectedIndex + 1];
+        focused.focus();
+      },
+
+      focusNextOption: function () {
+        if(this.filteredPages.length == 0) {
+          return;
+        }
+        if (this.selectedIndex === null) {
+          this.selectedIndex = 0;
+          return this.setFocused();
+        }
+        if (this.selectedIndex > this.filteredPages.length) {
+          return;
+        }
+        this.selectedIndex++;
+        return this.setFocused();
+      },
+
+      focusPrevOption: function () {
+        if(this.filteredPages.length == 0) {
+          return;
+        }
+        if (this.selectedIndex === null) {
+          this.selectedIndex = this.filteredPages.length;
+          return this.setFocused();
+        }
+        if (this.selectedIndex - 1 < 0) {
+          return;
+        }
+        this.selectedIndex--;
+        return this.setFocused();
+      },
+    }
+  };
+  
+  async function loadPages() {
+    const sourceData = await fetch('/search.json')
+      .then(response => response.json());
+    return sourceData;
+  }  
+
+</script>
