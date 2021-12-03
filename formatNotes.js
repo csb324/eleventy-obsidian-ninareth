@@ -86,7 +86,7 @@ function transform(string) {
 function copyFiles() {
   ncp('../Ninareth', 'notes', {
     filter: function(name) {
-      return !name.match('.git');
+      return !name.match('.git') && !name.match('Templates');
     },
     transform: function(read, write, file) {
       const fileName = write.path.replace(process.cwd(), '');
