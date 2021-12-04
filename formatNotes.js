@@ -38,12 +38,11 @@ function replaceScripts(string) {
     }
   });
 
-  return string;
-  
+  return string;  
 }
 
-
 const inlineTagsRE = RegExp(/\[([\w ]+?)::\s*?([^\[]*?|\[\[(.*?)\]\].*?)\]/g);
+
 function hoistTags(string) {
   const fileContent = matter(string);
 
@@ -141,19 +140,6 @@ function copyFiles() {
       console.log("Okay!")
     });
   });
-
-  // readFiles('notes/', function (filename, content) {
-  //   console.log(filename);
-  //   // var newcontent=content.replace(/\n"\nauthor/,"\nauthor");
-  //   var newcontent = replaceEmbeds(content);
-  //   fs.writeFile(filename, newcontent, { encoding: 'utf8' },
-  //     function () {
-  //       console.log('OK ' + filename);
-  //     }
-  //   );
-  // }, function (err) {
-  //   throw err;
-  // });
 
 
 }

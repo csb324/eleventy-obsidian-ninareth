@@ -7,9 +7,10 @@
         "id": "ccaa45dd6a8775a8",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Files/world.jpg"
+            "file": "Locations/Southern Cities.md",
+            "mode": "preview"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/world.jpg",
+                "file": "Locations/Southern Cities.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/world.jpg",
+                "file": "Locations/Southern Cities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/world.jpg"
+                "file": "Locations/Southern Cities.md"
               }
             }
           },
@@ -158,15 +159,15 @@
   },
   "active": "ccaa45dd6a8775a8",
   "lastOpenFiles": [
+    "Locations/Southern Cities.md",
+    "Locations/Ninareth.md",
+    "Locations/Major Nations.md",
+    "Locations/Countries/Dilandil.md",
     "Files/world.jpg",
     "People/Redscale Kids/Professor VonPyremark.md",
     "People/Redscale Kids/Silvia VonPyremark.md",
     "People/Redscale Kids/Requiem Godrin.md",
     "People/Redscale Kids/Marius Cosmal III.md",
-    "Index?.md",
-    "Locations/Countries/Turian Waste.md",
-    "Locations/Countries/Tinkate.md",
-    "Locations/Ninareth.md",
-    "Locations/Countries/The Tendrils.md"
+    "Index?.md"
   ]
 }

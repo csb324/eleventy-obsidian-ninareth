@@ -6,7 +6,7 @@ Location:
 tags:
   - location/region/southern-cities
 ---
-
+![](/assets/obsidian/southern-cities.jpg)
 # Southern Cities
 
 TL;DR they're the cities in the south bro.
