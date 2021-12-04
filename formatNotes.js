@@ -129,7 +129,6 @@ function copyFiles() {
         console.log("oh no!");
         console.log(err);
       }
-      console.log("Okay!")
     });
 
     ncp('../Ninareth/Files', 'assets/obsidian', function(err) {
@@ -137,11 +136,8 @@ function copyFiles() {
         console.log("oh no!");
         console.log(err);
       }
-      console.log("Okay!")
     });
   });
-
-
 }
 
 copyFiles();
