@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c0927b5d11df1f52",
+        "id": "ccaa45dd6a8775a8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Locations/Countries/Turian Waste.md",
-            "mode": "source"
+            "file": "Files/world.jpg"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Countries/Turian Waste.md",
+                "file": "Files/world.jpg",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Countries/Turian Waste.md",
+                "file": "Files/world.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Countries/Turian Waste.md"
+                "file": "Files/world.jpg"
               }
             }
           },
@@ -157,17 +156,17 @@
     "direction": "horizontal",
     "width": 373
   },
-  "active": "c0927b5d11df1f52",
+  "active": "ccaa45dd6a8775a8",
   "lastOpenFiles": [
+    "Files/world.jpg",
+    "People/Redscale Kids/Professor VonPyremark.md",
+    "People/Redscale Kids/Silvia VonPyremark.md",
+    "People/Redscale Kids/Requiem Godrin.md",
+    "People/Redscale Kids/Marius Cosmal III.md",
+    "Index?.md",
     "Locations/Countries/Turian Waste.md",
     "Locations/Countries/Tinkate.md",
     "Locations/Ninareth.md",
-    "Locations/Countries/The Tendrils.md",
-    "Locations/Southern Cities.md",
-    "adrienne's opinions of things/adriennes-opinions-4.md",
-    "adrienne's opinions of things/verbal things.md",
-    "People/Adrienne's past/Julian Slater-Runehorn.md",
-    "People/Adrienne's past/Raven.md",
-    "People/Adrienne's past/Fig.md"
+    "Locations/Countries/The Tendrils.md"
   ]
 }

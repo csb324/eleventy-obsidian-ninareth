@@ -3,7 +3,7 @@
 ---
 # The World
 
-![](/notes/Files/final%20map.jpg)
+![](/notes/Files/world.jpg)
 
 # Regions:
 # [[Southern Cities]]
