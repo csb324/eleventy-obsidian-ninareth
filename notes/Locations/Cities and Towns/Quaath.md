@@ -1,27 +1,23 @@
 ---
 type: location
 locationType: city
-region: [[Southern Cities]]
-tags: 
-- location/city/quaath
+region:
+  - - Southern Cities
+tags:
+  - location/city/quaath
+Location: Southern Cities
 ---
 
 # Quaath
 City
-[Location::[[Southern Cities]]]
+<span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Southern Cities]]</span></span>
 
 ## NPCs
 
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listNPCs(dv);
-```
+{% include 'list-references.html', reference_data: npcs %}
 
 
 ## Points of Interest
 
 
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listPointsOfInterest(dv);
-```
+{% include 'list-references.html', reference_data: points_of_interest %}

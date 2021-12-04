@@ -1,6 +1,7 @@
 ---
 private: true
-up: [[session-4]]
+up:
+  - - session-4
 ---
 
 # the party 

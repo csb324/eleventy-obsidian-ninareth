@@ -1,8 +1,11 @@
 ---
 type: session
-up: [[Session Log]]
-next: [[session-2]]
-prev: [[session-0]]
+up:
+  - - Session Log
+next:
+  - - session-2
+prev:
+  - - session-0
 ---
 
 # Session 1

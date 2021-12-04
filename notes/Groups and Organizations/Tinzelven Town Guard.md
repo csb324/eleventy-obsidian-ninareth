@@ -1,15 +1,13 @@
 ---
 type: org
 tags:
-- orgs/tinzelven-town-guard
+  - orgs/tinzelven-town-guard
+Based-in: Tinzelven
 ---
 
-[Based in::[[Tinzelven]]]
+<span class="dataview inline-field"><span class="inline-field-key">Based in</span><span class="inline-field-value">[[Tinzelven]]</span></span>
 
 It is what it sounds like.
 
 ## NPCs
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listAffiliations(dv);
-```
+{% include 'list-references.html', reference_data: affiliations %}

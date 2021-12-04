@@ -1,9 +1,10 @@
 ---
 type: location
 locationType: Region
-Location: [[Eberron]]
+Location:
+  - - Eberron
 tags:
-- location/region/bihor
+  - location/region/bihor
 ---
 
 ### Bihor Region
@@ -13,7 +14,4 @@ City: [[New Fairhaven]]
 New Fairhaven was established by [[the Swiftwards]] (insert EYES EMOJI). [[Duke v'Bihor]] lives in new fairhaven. The duke's youngest son is alive and we shall not hear anyone sugggest otherwise!!
 
 
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listPointsOfInterest(dv);
-```
+{% include 'list-references.html', reference_data: points_of_interest %}

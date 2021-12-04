@@ -1,25 +1,20 @@
 ---
 type: location
 locationType: city
-tags: 
-- location/city/haag-kitot
+tags:
+  - location/city/haag-kitot
+Location: Devios
 ---
 
 # Haag Kitot
-City, [Location::[[Devios]]]
+City, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Devios]]</span></span>
 
 I think orcs live here. Might be hobgoblins. For sure at war with [[Muulkaan]].
 
 ## NPCs
 
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listNPCs(dv);
-```
+{% include 'list-references.html', reference_data: npcs %}
 
 ## Points of Interest
 
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listPointsOfInterest(dv);
-```
+{% include 'list-references.html', reference_data: points_of_interest %}

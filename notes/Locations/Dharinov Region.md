@@ -1,9 +1,10 @@
 ---
 type: location
 locationType: Region
-Location: [[Eberron]]
-tags: 
-- location/region/dharinov
+Location:
+  - - Eberron
+tags:
+  - location/region/dharinov
 ---
 
 ### Dharinov Region
@@ -15,7 +16,4 @@ The cities of [[Jezeten]] and [[Deal 'Ras]] sort of merged, to protect themselve
 Jezeten: Political capital
 Deal 'Ras: Cultural capital. Site of [[AVAD]].
 
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listPointsOfInterest(dv);
-```
+{% include 'list-references.html', reference_data: points_of_interest %}

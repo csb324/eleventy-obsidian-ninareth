@@ -1,11 +1,12 @@
 ---
 type: location
 locationType: city
-tags: 
-- location/city/tinzelven
+tags:
+  - location/city/tinzelven
+Location: Arkhosia
 ---
 # Tinzelven
-**City, [Location::[[Arkhosia]]]**
+**City, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Arkhosia]]</span></span>**
 A small town outside of [[Jalantar]]
 
 * The kids at [[Redscale]] called it twiddletown
@@ -16,15 +17,9 @@ A small town outside of [[Jalantar]]
 
 
 ## NPCs
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listNPCs(dv);
-```
+{% include 'list-references.html', reference_data: npcs %}
 
 
 ## Points of Interest
 
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listPointsOfInterest(dv);
-```
+{% include 'list-references.html', reference_data: points_of_interest %}

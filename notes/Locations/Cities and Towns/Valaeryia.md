@@ -1,25 +1,20 @@
 ---
 type: location
 locationType: city
-tags: 
-- location/city/valaeryia
+tags:
+  - location/city/valaeryia
+Location: Dilandil
 ---
 
 # Valaeryia
-City, [Location::[[Dilandil]]]
+City, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Dilandil]]</span></span>
 
 \[ crickets \]
 
 ## NPCs
 
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listNPCs(dv);
-```
+{% include 'list-references.html', reference_data: npcs %}
 
 ## Points of Interest
 
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listPointsOfInterest(dv);
-```
+{% include 'list-references.html', reference_data: points_of_interest %}

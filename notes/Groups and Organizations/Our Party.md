@@ -1,7 +1,7 @@
 ---
 type: org
 tags:
-- orgs/our-party
+  - orgs/our-party
 ---
 
 

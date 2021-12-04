@@ -1,10 +1,11 @@
 ---
 type: org
 tags:
-- orgs/zumbinis
+  - orgs/zumbinis
+Based-in: Ninareth
 ---
 
-[Based in::[[Ninareth]]]
+<span class="dataview inline-field"><span class="inline-field-key">Based in</span><span class="inline-field-value">[[Ninareth]]</span></span>
 
 A group of adventurers from [[The Three Dragons War]]. Their descendants are still running around, one assumes.
 

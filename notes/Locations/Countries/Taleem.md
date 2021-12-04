@@ -1,25 +1,20 @@
 ---
 type: location
 locationType: country
-tags: 
-- location/country/taleem
+tags:
+  - location/country/taleem
+Location: Major Nations
 ---
 # Taleem
 
-[Location::[[Major Nations]]]
+<span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Major Nations]]</span></span>
 
 A monarchy that exports bread. I think [[Rez]] might actually be from there. Unclear.
 
 ## NPCs
 
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listNPCs(dv);
-```
+{% include 'list-references.html', reference_data: npcs %}
 
 ## Points of Interest
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listPointsOfInterest(dv);
-```
+{% include 'list-references.html', reference_data: points_of_interest %}
 

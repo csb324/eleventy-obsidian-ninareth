@@ -1,23 +1,18 @@
 ---
 type: location
 locationType: city
-tags: 
-- location/city/durmask
+tags:
+  - location/city/durmask
+Location: Taleem
 ---
 
 # Durmask
-Capital, [Location::[[Taleem]]]. Seat of the taleemian monarchy.
+Capital, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Taleem]]</span></span>. Seat of the taleemian monarchy.
 
 ## NPCs
 
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listNPCs(dv);
-```
+{% include 'list-references.html', reference_data: npcs %}
 
 ## Points of Interest
 
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listPointsOfInterest(dv);
-```
+{% include 'list-references.html', reference_data: points_of_interest %}

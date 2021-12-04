@@ -1,16 +1,14 @@
 ---
 type: location
 locationType: region
-Location: [[Ninareth]]
+Location:
+  - - Ninareth
 tags:
-- location/region/major-nations
+  - location/region/major-nations
 ---
 # Major Nations
 
 
 ## Points of Interest
 
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listPointsOfInterest(dv);
-```
+{% include 'list-references.html', reference_data: points_of_interest %}

@@ -1,7 +1,7 @@
 ---
 type: org
 tags:
-- orgs/wayfinders
+  - orgs/wayfinders
 ---
 
 # Wayfinders
@@ -10,7 +10,4 @@ tags:
 The guild of travelers who escort people from city to city. Hired as protection.
 
 ## NPCs
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listAffiliations(dv);
-```
+{% include 'list-references.html', reference_data: affiliations %}

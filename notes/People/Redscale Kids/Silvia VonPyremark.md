@@ -1,16 +1,20 @@
 ---
 private: true
 type: npc
-tags: 
-- npc
+tags:
+  - npc
+Status: unknown
+Race: Gnome
+Relationship: neutral
+Alma-Mater: Redscale
 ---
 
 # Silvia VonPyremark
 
-[Status::unknown]
-[Race::Gnome]
-[Relationship::neutral]
-[Alma Mater::[[Redscale]]]
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">unknown</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Gnome</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Alma Mater</span><span class="inline-field-value">[[Redscale]]</span></span>
 
 A classmate of Adrienne's at [[Redscale]].
 

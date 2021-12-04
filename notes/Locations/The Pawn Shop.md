@@ -2,19 +2,17 @@
 type: location
 locationType: store
 tags:
-- location/place
-- location/store
+  - location/place
+  - location/store
+Location: Ru'Nileth
 ---
 # The Pawn Shop
 Store
-[Location::[[Ru'Nileth]]]
+<span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Ru'Nileth]]</span></span>
 
 
 
 ## NPCs
   
 
-```dataviewjs
-const { Campaign } = window.customJS;
-Campaign.listNPCs(dv);
-```
+{% include 'list-references.html', reference_data: npcs %}
