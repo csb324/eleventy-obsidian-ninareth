@@ -13,7 +13,7 @@ function replaceEmbeds(string) {
     foundEmbeds.forEach((e) => {
       if(e.match(/(\.jpe?g|\.png)/)) {
         const embedName = e.slice(3, -2);
-        string = string.replace(e, `![](/notes/Files/${encodeURI(embedName)})`);
+        string = string.replace(e, `![](/assets/obsidian/${encodeURI(embedName)})`);
       } else {
         const embedName = e.slice(3, -2);
         string = string.replace(e, `**[[${embedName}]]**`);
@@ -50,8 +50,6 @@ function hoistTags(string) {
   const foundTags = [...fileContent.content.matchAll(inlineTagsRE)];
 
   if (foundTags) {
-    console.log(foundTags);
-
     foundTags.forEach((e) => {
       let key = slugify(e[1]);
       let value = e[3] || e[2];
@@ -135,6 +133,13 @@ function copyFiles() {
       console.log("Okay!")
     });
 
+    ncp('../Ninareth/Files', 'assets/obsidian', function(err) {
+      if(err) {
+        console.log("oh no!");
+        console.log(err);
+      }
+      console.log("Okay!")
+    });
   });
 
   // readFiles('notes/', function (filename, content) {

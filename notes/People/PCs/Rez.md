@@ -11,7 +11,7 @@ Class:
   - Bard
 ---
 
-![](/notes/Files/rez-portrait.jpg)
+![](/assets/obsidian/rez-portrait.jpg)
 # Rez
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Human</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>

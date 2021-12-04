@@ -55,7 +55,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.setLibrary('md', md);
 
     eleventyConfig.addPassthroughCopy('assets');
-    eleventyConfig.addPassthroughCopy('notes/files');
+    // eleventyConfig.addPassthroughCopy('notes/files');
     eleventyConfig.setUseGitIgnore(false);
 
     return {

@@ -3,7 +3,7 @@
 ---
 # The World
 
-![](/notes/Files/world.jpg)
+![](/assets/obsidian/world.jpg)
 
 # Regions:
 # [[Southern Cities]]
