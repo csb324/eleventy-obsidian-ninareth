@@ -1,9 +1,6 @@
----
-{}
----
 # The World
 
-![](/assets/obsidian/world.jpg)
+![[world.jpg]]
 
 # Regions:
 # [[Southern Cities]]

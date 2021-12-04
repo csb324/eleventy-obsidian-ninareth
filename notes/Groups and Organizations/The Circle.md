@@ -1,14 +1,16 @@
 ---
 type: org
 tags:
-  - orgs/political/the-circle
-Based-in: Arkhosia
+- orgs/political/the-circle
 ---
 
 # The Circle
-<span class="dataview inline-field"><span class="inline-field-key">Based in</span><span class="inline-field-value">[[Arkhosia]]</span></span>
+[Based in::[[Arkhosia]]]
 
 The ruling body of [[Arkhosia]]. It has five members, who are elected via proportional representation.
 
 ## NPCs
-{% include 'list-references.html', reference_data: affiliations %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listAffiliations(dv);
+```

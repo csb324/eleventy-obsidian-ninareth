@@ -1,18 +1,23 @@
 ---
 type: location
 locationType: city
-tags:
-  - location/city/demphinster
-Location: Narathian Plains
+tags: 
+- location/city/demphinster
 ---
 
 # Demphinster
-City, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Narathian Plains]]</span></span>
+City, [Location::[[Narathian Plains]]]
 
 ## NPCs
 
-{% include 'list-references.html', reference_data: npcs %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listNPCs(dv);
+```
 
 ## Points of Interest
 
-{% include 'list-references.html', reference_data: points_of_interest %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listPointsOfInterest(dv);
+```

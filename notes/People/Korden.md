@@ -1,13 +1,11 @@
 ---
 type: npc
 tags:
-  - npc
-Affiliation: The Providers
-Home: Tinzelven
+- npc
 ---
 
 # Korden
-<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Providers]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Tinzelven]]</span></span>
+[Affiliation::[[The Providers]]]
+[Home::[[Tinzelven]]]
 
 Has some kind of crop circles situation. Weirdly conservative for a provider.

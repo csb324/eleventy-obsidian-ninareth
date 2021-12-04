@@ -1,20 +1,25 @@
 ---
 type: location
 locationType: country
-tags:
-  - location/country/dilandil
-Location: Major Nations
+tags: 
+- location/country/dilandil
 ---
-![](/assets/obsidian/dilandil.jpg)
+![[dilandil.jpg]]
 
 # Dilandil
-Country, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Major Nations]]</span></span>
+Country, [Location::[[Major Nations]]]
 
 Elves live here, mostly. 
 
 ## Points of Interest
-{% include 'list-references.html', reference_data: points_of_interest %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listPointsOfInterest(dv);
+```
 
 ## NPCs
 
-{% include 'list-references.html', reference_data: npcs %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listNPCs(dv);
+```

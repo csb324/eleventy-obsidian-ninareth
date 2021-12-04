@@ -9,8 +9,7 @@
     "serve": "npx @11ty/eleventy --serve",
     "start": "concurrently 'npm run serve' 'npm run watch:css'",
     "compile": "npx @11ty/eleventy",
-    "predeploy": "npm run fetch",
-    "deploy": "git commit -am \"new content\"; git push"
+    "deploy": "func() { npm run fetch && git add . && git commit -m \"BUILD - New Content\" && git push; }; func"
   },
   "repository": {
     "type": "git",

@@ -1,20 +1,25 @@
 ---
 type: location
 locationType: city
-tags:
-  - location/city/muulkaan
-Location: Devios
+tags: 
+- location/city/muulkaan
 ---
 
 # Muulkaan
-City, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Devios]]</span></span>
+City, [Location::[[Devios]]]
 
 Pretty sure hobgoblins live here. Defintely at war with [[Haag Kitot]].
 
 ## NPCs
 
-{% include 'list-references.html', reference_data: npcs %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listNPCs(dv);
+```
 
 ## Points of Interest
 
-{% include 'list-references.html', reference_data: points_of_interest %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listPointsOfInterest(dv);
+```

@@ -1,17 +1,15 @@
 ---
 type: location
 locationType: country
-region:
-  - - Southern Cities
-tags:
-  - location/country/mulfara
-Location: Southern Cities
+region: [[Southern Cities]]
+tags: 
+- location/country/mulfara
 ---
 
 # Mulfara
 
 | status	| [[College-Mulfara Conflict]] |
-<span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Southern Cities]]</span></span>
+[Location::[[Southern Cities]]]
 
 
 Tends to be home to "monster" races
@@ -22,8 +20,14 @@ Does slavaadi college want it back? Seems like it!
 
 
 ## Points of Interest
-{% include 'list-references.html', reference_data: points_of_interest %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listPointsOfInterest(dv);
+```
 
 ## NPCs
 
-{% include 'list-references.html', reference_data: npcs %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listNPCs(dv);
+```

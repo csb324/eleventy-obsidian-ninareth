@@ -1,18 +1,23 @@
 ---
 type: location
 locationType: country
-tags:
-  - location/country/narathian-plains
-Location: Major Nations
+tags: 
+- location/country/narathian-plains
 ---
 
 # Narathian Plains
-Country, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Major Nations]]</span></span>
+Country, [Location::[[Major Nations]]]
 
 ## NPCs
 
-{% include 'list-references.html', reference_data: npcs %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listNPCs(dv);
+```
 
 ## Points of Interest
 
-{% include 'list-references.html', reference_data: points_of_interest %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listPointsOfInterest(dv);
+```

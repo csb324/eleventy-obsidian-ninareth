@@ -1,12 +1,11 @@
 ---
 type: npc
 tags:
-  - npc
-Status: unknown
+- npc
 ---
 
 # Hanna Dimbleswelter
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">unknown</span></span>
+[Status::unknown]
 [Home::Outside [[Tinzelven]]]
 
 

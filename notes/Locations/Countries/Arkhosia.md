@@ -1,20 +1,25 @@
 ---
 type: location
 locationType: country
-tags:
-  - location/country/arkhosia
-Location: Southern Cities
+tags: 
+- location/country/arkhosia
 ---
 
 # Arkhosia
-Country, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Southern Cities]]</span></span>
+Country, [Location::[[Southern Cities]]]
 
 ## Points of Interest
-{% include 'list-references.html', reference_data: points_of_interest %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listPointsOfInterest(dv);
+```
 
 ## NPCs
 
-{% include 'list-references.html', reference_data: npcs %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listNPCs(dv);
+```
 
 
 # Politics

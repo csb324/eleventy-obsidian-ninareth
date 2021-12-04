@@ -1,20 +1,25 @@
 ---
 type: location
 locationType: country
-tags:
-  - location/country/devios
-Location: Southern Cities
+tags: 
+- location/country/devios
 ---
 
 # Devios
-Country, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Southern Cities]]</span></span>
+Country, [Location::[[Southern Cities]]]
 
 Orcs and Hobgoblins live here. Together in peace? No. Absolutely not. Like [[Mulfara]], this nation was established when the nomadic life became too unstable for the monster races (or anyone, for that matter), after [[The Three Dragons War]].
 
 ## NPCs
 
-{% include 'list-references.html', reference_data: npcs %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listNPCs(dv);
+```
 
 ## Points of Interest
 
-{% include 'list-references.html', reference_data: points_of_interest %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listPointsOfInterest(dv);
+```

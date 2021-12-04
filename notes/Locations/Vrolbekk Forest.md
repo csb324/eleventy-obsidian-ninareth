@@ -1,23 +1,25 @@
 ---
 type: location
 locationType: region
-tags:
-  - location/region/vrolbekk-forest
-Location:
-  - Zalev
-  - Arkhosia
-  - Slavaadi College
+tags: 
+- location/region/vrolbekk-forest
 ---
 
 # Vrolbekk Forest
-Forest passing through <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Zalev]]</span></span>, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Arkhosia]]</span></span>, and <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Slavaadi College]]</span></span>
+Forest passing through [Location::[[Zalev]]], [Location::[[Arkhosia]]], and [Location::[[Slavaadi College]]]
 
 ## NPCs
 
-{% include 'list-references.html', reference_data: npcs %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listNPCs(dv);
+```
 
 
 
 ## Points of Interest
 
-{% include 'list-references.html', reference_data: points_of_interest %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listPointsOfInterest(dv);
+```

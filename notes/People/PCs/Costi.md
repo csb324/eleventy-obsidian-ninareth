@@ -1,22 +1,16 @@
 ---
 type: PC
 tags:
-  - PC
-Race: Human
-Status: alive
-Home: Eberron
-Affiliation: Our Party
-Alma-Mater: AVAD
-Class: Wizard
+- PC
 ---
 
 # Costi
-<span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Human</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Eberron]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Our Party]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Alma Mater</span><span class="inline-field-value">[[AVAD]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Wizard</span></span>
+[Race::Human]
+[Status::alive]
+[Home::[[Eberron]]]
+[Affiliation::[[Our Party]]]
+[Alma Mater::[[AVAD]]]
+[Class::Wizard]
 
 ## Backstory
 Teen. Played Mage Pong at [[AVAD]]. Seems to have had a long lost love or an encounter with corruption or something. 

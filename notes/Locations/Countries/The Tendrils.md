@@ -1,18 +1,23 @@
 ---
 type: location
 locationType: country
-tags:
-  - location/country/the-tendrils
-Location: Ninareth
+tags: 
+- location/country/the-tendrils
 ---
 
 # The Tendrils
-Country, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Ninareth]]</span></span>
+Country, [Location::[[Ninareth]]]
 
 On the east coast. Has bridges.
 
 ## NPCs
-{% include 'list-references.html', reference_data: npcs %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listNPCs(dv);
+```
 
 ## Points of Interest
-{% include 'list-references.html', reference_data: points_of_interest %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listPointsOfInterest(dv);
+```

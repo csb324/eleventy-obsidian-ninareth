@@ -1,18 +1,23 @@
 ---
 type: location
 locationType: place
-tags:
-  - location/place/guruden-estate
-Location: Tinzelven
+tags: 
+- location/place/guruden-estate
 ---
 
 # Guruden Estate
-Place, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Tinzelven]]</span></span>
+Place, [Location::[[Tinzelven]]]
 
 [[Willen Guruden]] lives here. He has [[session-5|yaks]]
 
 ## NPCs
-{% include 'list-references.html', reference_data: npcs %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listNPCs(dv);
+```
 
 ## Points of Interest
-{% include 'list-references.html', reference_data: points_of_interest %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listPointsOfInterest(dv);
+```

@@ -1,20 +1,16 @@
 ---
 private: true
 type: npc
-tags:
-  - npc
-Race: Human
-Status: unknown
-Relationship: enemy
-Home: Ru'Nileth
+tags: 
+- npc
 ---
 
 # Branton Spout
 
-<span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Human</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">unknown</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">enemy</span></span> ? 
-<span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Ru'Nileth]]</span></span>
+[Race::Human]
+[Status::unknown]
+[Relationship::enemy] ? 
+[Home::[[Ru'Nileth]]]
 
 Father to [[Adrienne Spout]]
 

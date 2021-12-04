@@ -1,10 +1,13 @@
 ---
 type: org
 tags:
-  - orgs/arkhosian-delegate
+- orgs/arkhosian-delegate
 ---
 
 
 ## NPCs
 
-{% include 'list-references.html', reference_data: affiliations %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listAffiliations(dv);
+```

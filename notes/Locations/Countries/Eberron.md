@@ -1,21 +1,26 @@
 ---
 type: location
 locationType: country
-tags:
-  - location/country/eberron
-Location: Southern Cities
+tags: 
+- location/country/eberron
 ---
 
 # Eberron
-<span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Southern Cities]]</span></span>
+[Location::[[Southern Cities]]]
 
 
 ## Points of Interest
-{% include 'list-references.html', reference_data: points_of_interest %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listPointsOfInterest(dv);
+```
 
 ## NPCs
 
-{% include 'list-references.html', reference_data: npcs %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listNPCs(dv);
+```
 
 ## Economy
 
@@ -42,9 +47,9 @@ The focus of all life and teaching is on how to better Eberron’s future. Incre
 
 > Eberron is divided into three distinct duchies. Each is in theory as powerful as the other, but the Luthei region is for all intents and purposes the dominant one, and the Duke v'Luthei functionally rules the whole nation. There is a Duke of each, and while they exercise power over their duchy, they bow to the Duke v'Luthei. Typically, a titled noble is referred to by their title, not their birthname. For most, use of their birthname is an insult, and many keep it closely guarded.
 
-**[[Luthei Region]]**
-**[[Dharinov Region]]**
-**[[Bihor Region]]**
+![[Luthei Region]]
+![[Dharinov Region]]
+![[Bihor Region]]
 
 ## Political Opposition
 

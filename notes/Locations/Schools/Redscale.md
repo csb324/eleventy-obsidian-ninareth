@@ -1,15 +1,14 @@
 ---
 type: location
 locationType: place
-tags:
-  - location/school
-  - location/place/redscale
-Location: Jalantar
+tags: 
+- location/school
+- location/place/redscale
 ---
 
 # Redscale Academy for Music and The Arts
 
-<span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Jalantar]]</span></span>
+[Location::[[Jalantar]]]
 
 A music conservatory, arts school, and general daycare for the children of the upper classes. Except also night-care, because it's a boarding school. 
 
@@ -21,7 +20,10 @@ They don't teach magic, really.
 
 ## NPCs
 
-{% include 'list-references.html', reference_data: npcs %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listNPCs(dv);
+```
 
 ## History
 

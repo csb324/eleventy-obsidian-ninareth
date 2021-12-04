@@ -1,6 +1,3 @@
----
-{}
----
  **Arkhosia:**
 
 Arkhosia is, for all intents and purposes, the most democratic nation in Ninarith. It is ruled by a group of five individuals called The Circle. Those that sit in The Circle are chosen by popular vote. The people of Arkhosia vote for a party, and representation on The Circle is distributed proportionately based on the results of that vote. Each party chooses a number of delegates through an internal vote; there are generally between 70-150 delegates in a party at any given time. The Circle is made up of appointed delegates chosen by party leadership. The Circle is almost always divided in a 3-2 split; in the rare occasions it's broken 4-1 a civil war almost invariably breaks out.

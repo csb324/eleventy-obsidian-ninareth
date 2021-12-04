@@ -1,6 +1,3 @@
----
-{}
----
 People whose statuses haven't been added
 
 ```dataviewjs

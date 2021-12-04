@@ -1,10 +1,9 @@
 ---
 type: location
 locationType: city
-region:
-  - - Dharinov Region
-tags:
-  - location/city/deal-ras
+region: [[Dharinov Region]]
+tags: 
+- location/city/deal-ras
 ---
 # Deal 'Ras
 City, Eberron
@@ -17,8 +16,14 @@ TL;DR
 
 ## NPCs
 
-{% include 'list-references.html', reference_data: npcs %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listNPCs(dv);
+```
 
 ## Points of Interest
 
-{% include 'list-references.html', reference_data: points_of_interest %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listPointsOfInterest(dv);
+```

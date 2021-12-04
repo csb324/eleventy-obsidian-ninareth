@@ -2,18 +2,20 @@
 type: location
 locationType: store
 tags:
-  - location/place
-  - location/store
-Location: Tinzelven
+- location/place
+- location/store
 ---
 
 # Needley store or someshit
 Store
-<span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Tinzelven]]</span></span>
+[Location::[[Tinzelven]]]
 
 
 ## NPCs
 
-{% include 'list-references.html', reference_data: npcs %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listNPCs(dv);  
+```
 
 - [ ] learn the actual name of this place.

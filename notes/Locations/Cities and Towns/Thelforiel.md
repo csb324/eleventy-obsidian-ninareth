@@ -1,18 +1,23 @@
 ---
 type: location
 locationType: city
-tags:
-  - location/city/thelforiel
-Location: Dilandil
+tags: 
+- location/city/thelforiel
 ---
 
 # Thelforiel
-City, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Dilandil]]</span></span>
+City, [Location::[[Dilandil]]]
 
 ## NPCs
 
-{% include 'list-references.html', reference_data: npcs %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listNPCs(dv);
+```
 
 ## Points of Interest
 
-{% include 'list-references.html', reference_data: points_of_interest %}
+```dataviewjs
+const { Campaign } = window.customJS;
+Campaign.listPointsOfInterest(dv);
+```
