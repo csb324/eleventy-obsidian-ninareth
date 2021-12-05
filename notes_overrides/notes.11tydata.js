@@ -1,5 +1,5 @@
 const {titleCase} = require("title-case");
-const breadcrumbData = require('./breadcrumbs_data/data.json');
+const breadcrumbData = require('./breadcrumbs-data/data.json');
 
 const wikilinkRegExp = /\[\[\s?([^\[\]\|\n\r]+)(\|[^\[\]\|\n\r]+)?\s?\]\]/g
 
