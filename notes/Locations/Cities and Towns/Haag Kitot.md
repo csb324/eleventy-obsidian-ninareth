@@ -9,7 +9,7 @@ Location: Devios
 # Haag Kitot
 City, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Devios]]</span></span>
 
-I think orcs live here. Might be hobgoblins. For sure at war with [[Muulkaan]].
+I think orcs live here. Might be hobgoblins. For sure at war with [[Muulkan]].
 
 ## NPCs
 

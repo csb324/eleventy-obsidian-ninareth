@@ -18,5 +18,8 @@ Class: Paladin
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Tinzelven]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Paladin</span></span>
 
-Joe's friend Maraid! A paladin who takes no shit. Traveled with [[Rez]] and [[Adrienne Spout]] and [[Livia]] on the road through the [[Vrolbekk Forest]]. Tangled with some [[Vrolbekk Pixies|Pixies]] on the road.
+A slender half-elf woman, in nice clothes with long hair, returning home from making a delivery.
 
+A paladin who takes no shit. Traveled with [[Rez]] and [[Adrienne Spout]] and [[Livia]] on the road through the [[Vrolbekk Forest]]. Tangled with some [[Vrolbekk Pixies|Pixies]] on the road.
+
+Joe's friend Maraid! 

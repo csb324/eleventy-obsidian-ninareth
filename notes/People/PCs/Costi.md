@@ -10,7 +10,7 @@ Alma-Mater: AVAD
 Class: Wizard
 ---
 
-# Costi
+# Costi Grosu
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Human</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Eberron]]</span></span>
@@ -19,7 +19,9 @@ Class: Wizard
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Wizard</span></span>
 
 ## Backstory
-Teen. Played Mage Pong at [[AVAD]]. Seems to have had a long lost love or an encounter with corruption or something. 
+Teen from [[Glensdale]] (or perhaps not, but he definitely said the word glensdale).
+
+Played Mage Pong at [[AVAD]]. Seems to have had a long lost love or an encounter with corruption or something. 
 
 He's looking for [[Costi's Dad|his dad]]. One day, a warforged named [[Hugh|Human Named Finn]] showed up and said he was gonna be dad now. That's been going... okay.
 

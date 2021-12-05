@@ -26,7 +26,7 @@ Location: Guruden Estate
 * His sister [[Quillette Guruden]] is on [[The Circle]]
 * He started calling himself "Captain" and the [[Tinzelven Town Guard]] was like, "sure."
 
-Very formal type of fellow. He will correct your posture. He did it to [[kevin]]. 
+Very formal type of fellow. He will correct your posture. He did it to [[Korvae]]. 
 
 He's friendly, to our faces. 
 

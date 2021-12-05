@@ -1,11 +1,12 @@
 ---
 type: location
 locationType: country
+aliases: Kfalgaard
 tags:
   - location/country/kfalgaard
 Location: Major Nations
 ---
-# Kfalgaard
+# K'falgaard
 Country, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Major Nations]]</span></span>
 
 Dwarves live here, mostly. Mountainous.

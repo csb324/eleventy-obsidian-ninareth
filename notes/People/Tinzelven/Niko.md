@@ -18,7 +18,12 @@ Class: Ranger
 
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Ranger</span></span> or maybe he just loves animals
 
+An Earth genasi with tall granite gray skin with an opaque complexion, flecks of emerald and ruby dust dotting their skin, with a long black braid. 
+
+Works for [[Professor Leonard Klipitz]], and vouches for him. 
+
+Has a good friend “Uru” , a large 12 point elk.
+
 Friends with [[Deeksta]]
 Slept with [[Adrienne Spout|Adrienne]]
-Has a very loyal friend who is an elk or a moose or something
 

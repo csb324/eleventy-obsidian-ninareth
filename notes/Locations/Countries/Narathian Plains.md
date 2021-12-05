@@ -3,11 +3,12 @@ type: location
 locationType: country
 tags:
   - location/country/narathian-plains
-Location: Major Nations
+Location: Ninarith
 ---
 
 # Narathian Plains
-Country, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Major Nations]]</span></span>
+Country, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Ninarith]]</span></span>
+
 
 ## NPCs
 

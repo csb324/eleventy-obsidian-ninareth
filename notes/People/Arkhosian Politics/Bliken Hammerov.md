@@ -23,7 +23,9 @@ Location: Laborers Hall
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Arkhosian Delegates]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Laborers Hall]]</span></span>
 
-He's an [[Arkhosian Delegates|Arkhosian Delegate]]. He worships the dwarf gods, and he's real curious about [[Hugh]].
+He's an [[Arkhosian Delegates|Arkhosian Delegate]]. He worships [[Mordien]], a dwarfish god.
+
+he's real curious about [[Hugh]], especially after hearing about [[TrueSilver]].
 
 - [ ] buy some armor, maybe (medium!)
 
