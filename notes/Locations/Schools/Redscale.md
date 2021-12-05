@@ -39,8 +39,7 @@ They don't teach magic, really.
 Really contributed to the worldwide renown of the school… and the atmosphere of elitism. Placed a lot of emphasis on performing for crowds, and having the students impress world leaders. For networking. He was a storyteller, which helped with the networking.
 
 ##### [[Corynn Akhodi]]
-Played the bagpipes and was up to some shady shit. 
-- [x] ask joe how much adrienne knows about this situation
+Played the bagpipes and was up to some shady shit. She's the reason they don't teach magic.
 
 ##### [[Durstane Brystewood]]
-Immediately after Corynn Akhodi. He oversaw the removal of arcana from the curriculum, for safety reasons.
+Immediately after Corynn Akhodi. He oversaw the removal of arcana from the curriculum, for safety reasons. 

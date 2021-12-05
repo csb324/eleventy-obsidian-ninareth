@@ -1,5 +1,7 @@
 ---
 type: npc
+tags:
+  - npc
 Status: alive
 Race: Goliath
 Relationship: friend
