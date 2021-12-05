@@ -1,5 +1,6 @@
 ---
 type: monster
+tag: monster
 Home: Vrolbekk Forest
 ---
 

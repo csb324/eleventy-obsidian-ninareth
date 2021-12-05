@@ -37,6 +37,7 @@
     "ncp": "^2.0.0",
     "postcss": "^8.4.4",
     "postcss-cli": "^9.0.2",
+    "rimraf": "^3.0.2",
     "slugify": "^1.6.3",
     "tailwindcss": "^2.2.19",
     "title-case": "^3.0.3",

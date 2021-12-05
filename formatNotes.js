@@ -4,6 +4,7 @@ const glob = require('glob');
 const { stringify } = require('yaml');
 const matter = require('gray-matter');
 const slugify = require('slugify');
+const rimraf = require('rimraf');
 
 let knownFileNames = {};
 
@@ -80,64 +81,115 @@ function transform(string) {
   return string;
 }
 
+const copyFilter = function(name) {
+    if (name.match('.git')  || name.match('Templates')) {
+      return false;
+    }
+
+    if(name.match('.obsidian')) {
+      return false;
+    }
+
+    return true;
+}
+
+const copyTransformation = function(read, write, file) {
+  const fileName = write.path.replace(process.cwd(), '');
+  const pieces = fileName.split("/");
+  const title = pieces[pieces.length-1].split(".")[0];
+
+  if(!fileName.match('.obsidian')) {
+    knownFileNames[title] = fileName;
+  }
+
+  read.pipe(write);
+}
+
+const cleanFiles = function() {
+  return new Promise((resolve, reject) => {
+    rimraf('notes', (err) => {
+      if(err) {
+        reject(err);
+      }
+      resolve();
+    })
+  }) 
+}
+
+const copyNotes = function() {
+  return new Promise((resolve, reject) => {
+    ncp('../Ninareth', 'notes', {
+      filter: copyFilter,
+      transform: copyTransformation
+    }, function (err) {
+      if (err) {
+        reject(err)
+      }
+      resolve();
+    });
+  })
+}
+
 function copyFiles() {
-  ncp('../Ninareth', 'notes', {
-    filter: function(name) {
-      return !name.match('.git') && !name.match('Templates');
-    },
-    transform: function(read, write, file) {
-      const fileName = write.path.replace(process.cwd(), '');
-      const pieces = fileName.split("/");
-      const title = pieces[pieces.length-1].split(".")[0];
+  cleanFiles()
+    .then(copyNotes)
+    .then(() => {
 
-      if(!fileName.match('.obsidian')) {
-        knownFileNames[title] = fileName;
-      }
+      glob('notes/**/*.md', function(err, matches) {
+        if(err) {
+          console.log("OH NO");
+          console.log(err);
+        }
+    
+        matches.forEach((match) => {
+          fs.readFile(match, 'utf-8', function(err, content) {
+            if (err) {
+              console.log("oh no!")
+              console.log(err);
+              return;
+            }
 
-      read.pipe(write);
-    }
-  }, function (err) {
-    if (err) {
-      return console.error(err);
-    }
+            const newContent = transform(content);
 
-    glob('notes/**/*.md', function(err, matches) {
-      if(err) {
-        console.log("OH NO");
-        console.log(err);
-      }
-  
-      matches.forEach((match) => {
-        fs.readFile(match, 'utf-8', function(err, content) {
-          if (err) {
-            console.log("oh no!")
-            console.log(err);
-            return;
-          }
-  
-          fs.writeFile(match, transform(content), 'utf8', function (err) {
-            if (err) return console.log(err);
+            fs.writeFile(match, newContent, 'utf8', function (err) {
+              if (err) return console.log(err);
+            });
+            
           });
-          
-        });
-      })
+        })
+      });
+    }).then(() => {
+      ncp('../Ninareth/Scripts', 'assets/scripts', function(err) {
+        if(err) {
+          console.log("oh no!");
+          console.log(err);
+        }
+      });
   
-    });
+      ncp('../Ninareth/Files', 'assets/obsidian', function(err) {
+        if(err) {
+          console.log("oh no!");
+          console.log(err);
+        }
+      });
 
-    ncp('../Ninareth/Scripts', 'assets/scripts', function(err) {
-      if(err) {
-        console.log("oh no!");
-        console.log(err);
-      }
-    });
-
-    ncp('../Ninareth/Files', 'assets/obsidian', function(err) {
-      if(err) {
-        console.log("oh no!");
-        console.log(err);
-      }
-    });
-  });
+      // get specifically the breadcrumbs data
+      // ooooh i wonder if it saves the cache to disk somewhere....
+      ncp('../Ninareth/.obsidian/plugins/breadcrumbs', 'notes/breadcrumbs-data', function(err) {
+        if(err) {
+          console.log("oh no!");
+          console.log(err);
+        }
+      });
+  
+  
+      ncp('notes_overrides', 'notes', function(err) {
+        if(err) {
+          console.log("oh no!");
+          console.log(err);
+        }
+      });  
+    })
 }
 
 copyFiles();

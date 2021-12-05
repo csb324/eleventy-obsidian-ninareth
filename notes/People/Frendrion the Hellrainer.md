@@ -1,7 +1,7 @@
 ---
-type: npc
+type: monster
 tags:
-  - npc
+  - monster
 Status: dead
 Relationship: enemy
 ---
