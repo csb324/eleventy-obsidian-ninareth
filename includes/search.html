@@ -61,7 +61,7 @@
           return;
         }
         if (this.selectedIndex === null) {
-          this.selectedIndex = this.filteredPages.length;
+          this.selectedIndex = this.filteredPages.length - 1;
           return this.setFocused();
         }
         if (this.selectedIndex - 1 < 0) {
