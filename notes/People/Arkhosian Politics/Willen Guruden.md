@@ -21,13 +21,17 @@ Location: Guruden Estate
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Tinzelven]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Guruden Estate]]</span></span>
 
-He owns most of [[Tinzelven]]. Or, at least half. Plus, his sister [[Quillette Guruden]] is on [[The Circle]], so, he's an important guy. He started calling himself "Captain" and the [[Tinzelven Town Guard]] was like, "sure."
+* He owns most of [[Tinzelven]]. Or, at least half. 
+* A known military fellow. 
+* His sister [[Quillette Guruden]] is on [[The Circle]]
+* He started calling himself "Captain" and the [[Tinzelven Town Guard]] was like, "sure."
 
-Very formal type of fellow. He will correct your posture. He did it to [[kevin]].
+Very formal type of fellow. He will correct your posture. He did it to [[kevin]]. 
 
+He's friendly, to our faces. 
 
-[[Julian Slater-Runehorn]] once attended a party at his mansion, and brought [[Adrienne Spout]] to play the harp.
+[[Julian Slater-Runehorn]] once attended a party at his mansion, and brought [[Adrienne Spout]] to play the harp. (Willen has given adreinne compliments about this.)
 
-Something killed his yaks and he has hired us to look into it.
+Something killed his yaks and he hired us to look into it. It turns out, the yaks had been killed by bear-riding [[Gruung]] in the [[Vrolbekk Forest]] next to his house. We killed the Gruung and extracted information from the last one (that the Gruung are preparing an attack on the town the next morning). He invited us to lunch, where we talked about politics.
 
-- [ ] figure out what happened to his yaks
+Currently owes [[Hugh]] and [[Rez]] favors.

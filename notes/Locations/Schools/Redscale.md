@@ -40,7 +40,7 @@ Really contributed to the worldwide renown of the school… and the atmosphere o
 
 ##### [[Corynn Akhodi]]
 Played the bagpipes and was up to some shady shit. 
-- [ ] ask joe how much adrienne knows about this situation
+- [x] ask joe how much adrienne knows about this situation
 
 ##### [[Durstane Brystewood]]
 Immediately after Corynn Akhodi. He oversaw the removal of arcana from the curriculum, for safety reasons.

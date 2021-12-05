@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-meta-css",
+	"name": "MetaCSS",
+	"version": "1.0.1",
+	"minAppVersion": "0.12.0",
+	"description": "This is a plugin to let you use custom CSS based on your note's yml frontmatter",
+	"author": "Clara Bower",
+	"authorUrl": "https://github.com/csb324",
+	"isDesktopOnly": false
+}

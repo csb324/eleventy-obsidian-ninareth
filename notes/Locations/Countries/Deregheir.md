@@ -3,11 +3,11 @@ type: location
 locationType: country
 tags:
   - location/country/deregheir
-Location: Ninareth
+Location: Ninarith
 ---
 
 # Deregheir
-Country, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Ninareth]]</span></span>
+Country, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Ninarith]]</span></span>
 
 A nation that was founded after [[The Three Dragons War]], following the retreat of the [[Turian Waste]]. Some land has been revitalized, and some former wanderers of the wasteland have resettled it.
 

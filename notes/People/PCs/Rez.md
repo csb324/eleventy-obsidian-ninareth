@@ -12,7 +12,7 @@ Class:
 ---
 
 ![](/assets/obsidian/rez-portrait.jpg)
-# Rez
+# Rez Tanin
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Human</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Zalev]]</span></span>
@@ -20,6 +20,7 @@ Class:
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Sorcerer</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Bard</span></span>
 
-
 She's going to [[Jalantar]] to see a band.
 
+#### Known Aliases
+* Filth [[session-5]]

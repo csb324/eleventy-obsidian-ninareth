@@ -3,11 +3,11 @@ type: location
 locationType: country
 tags:
   - location/country/tinkate
-Location: Ninareth
+Location: Ninarith
 ---
 
 # Tinkate
-Country, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Ninareth]]</span></span>
+Country, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Ninarith]]</span></span>
 
 It's in the southeast.
 

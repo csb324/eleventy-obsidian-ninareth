@@ -2,7 +2,7 @@
 type: location
 locationType: region
 Location:
-  - - Ninareth
+  - - Ninarith
 tags:
   - location/region/southern-cities
 ---

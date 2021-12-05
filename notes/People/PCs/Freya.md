@@ -29,3 +29,7 @@ She punched [[Costi]] which Adrienne thinks is pretty solid
 Not sure what's going on with her anger or her nature magic but isn't thrilled about it.
 
 Almost got married one time.
+
+#### Known aliases
+- Gruungslayer [[session-5]]
+- "The other one" - [[session-5]]

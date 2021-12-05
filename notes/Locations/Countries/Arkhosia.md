@@ -27,6 +27,7 @@ Country, <span class="dataview inline-field"><span class="inline-field-key">Loca
 * Proportional representation.
 * Each party has ~100 [[Arkhosian Delegates|Arkhosian Delegates]]
 
+Slavery is technically legal but politically unpopular. Like a 7 dollar minimum wage. 
 
 #### Suffrage
 * Land owners > 800 acres 

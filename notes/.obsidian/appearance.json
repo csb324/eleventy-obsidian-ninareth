@@ -4,6 +4,8 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "hide-meta",
-    "pretty-inline-tags"
+    "pretty-inline-tags",
+    "private-indicator",
+    "stop-alternating-list"
   ]
 }

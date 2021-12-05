@@ -26,5 +26,5 @@ Class: Bard
 
 Plays the harp. 
 
-## reference
-[[verbal things]]
+#### Known Aliases
+* Mud - [[session-5]]

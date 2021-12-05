@@ -6,11 +6,13 @@ prev:
   - - session-3
 ---
 
-# Session 4
+# Session 4: morning after
 
 [[Rez]] wakes up with [[Deeksta]] and finds out about some jobs the [[Tinzelven Town Guard]] might need help with:
 - [[Willen Guruden]] had some yaks killed last night, and he's the captain, so it semes like he's gonna pay more.
 - [[Korden]] has some sort of crop circle problem that objectively sounds more interesting.
+
+([[Adrienne Spout|Adrienne]] also wakes up, we just did a whole bunch of morning-after stuff)
 
 [[Our Party]] catches up over breakfast. Freya talks to Hugh and Costi about her magic situation. Rez lets us know there are some things going on, and we agree to take on the Yak problem. 
 

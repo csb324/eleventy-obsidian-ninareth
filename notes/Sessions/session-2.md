@@ -10,7 +10,7 @@ prev:
 
 We go get the emerald from [[Hanna Dimbleswelter]]'s lab! 
 
-On the way to the lab, we're attacked by [[frog guys]]. The frog guys apparently have seen Freya, Hugh, and Costi before, and have sworn veeeaannnggaaance. We didn't kill all of them, so they probably still want veeeaannnggaaance.
+On the way to the lab, we're attacked by [[Gruung]]. The frog guys apparently have seen Freya, Hugh, and Costi before, and have sworn veeeaannnggaaance. We didn't kill all of them, so they probably still want veeeaannnggaaance.
 
 Anyway, we get to the lab, work our way through, and fight some elemental type things, and a few mimics. 
 

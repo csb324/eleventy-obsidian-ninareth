@@ -1,0 +1,6 @@
+div[data-private*="true"] {
+  --accent: var(--accent2);
+  --dark-accent: var(--text-faint);
+  --deep-dark-accent: var(--footnote);
+  --headers: var(--accent2-lite)
+}

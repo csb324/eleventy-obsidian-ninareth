@@ -1,0 +1,6 @@
+li:nth-child(even) {
+    border-left: var(--b-line) solid var(--accent);
+}
+ul li:nth-child(even)::before {
+  color: var(--accent);
+}

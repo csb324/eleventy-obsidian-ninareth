@@ -3,11 +3,11 @@ type: location
 locationType: country
 tags:
   - location/country/the-tendrils
-Location: Ninareth
+Location: Ninarith
 ---
 
 # The Tendrils
-Country, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Ninareth]]</span></span>
+Country, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Ninarith]]</span></span>
 
 On the east coast. Has bridges.
 

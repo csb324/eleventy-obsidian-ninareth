@@ -1,10 +1,5 @@
 [
-  "templater-obsidian",
-  "dataview",
   "customjs",
-  "tag-wrangler",
-  "obsidian-checklist-plugin",
-  "breadcrumbs",
-  "obsidian-admonition",
-  "map-of-content"
+  "dataview",
+  "templater-obsidian"
 ]

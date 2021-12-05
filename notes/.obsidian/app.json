@@ -3,6 +3,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Files",
   "foldHeading": false,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "fileSortOrder": "byCreatedTime"
 }

@@ -4,9 +4,9 @@ tags:
   - orgs/our-party
 ---
 
+# Our Party
 
-WE SURE DO EXIST.
-
+Currently unnamed.
 
 ## Who We Are
 

@@ -25,6 +25,5 @@ Father of [[Gora Klipitz]]
 Old science friend and also lost lover: [[Hanna Dimbleswelter]]
 
 He keeps building these robots that absolutely do not work and are 1000% more dangerous than they need to be. 
-^bio
 
 - [ ] wait for his machine to backfire which it definitely will.

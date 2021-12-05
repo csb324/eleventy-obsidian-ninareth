@@ -16,4 +16,4 @@ Affiliation: Tinzelven Town Guard
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Tinzelven]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Tinzelven Town Guard]]</span></span>
 
-He's in the [[Tinzelven Town Guard]] under [[Deeksta]]. He recently saw action fighting [[frog guys]].  
+He's in the [[Tinzelven Town Guard]] under [[Deeksta]]. He recently saw action fighting [[Gruung]].  

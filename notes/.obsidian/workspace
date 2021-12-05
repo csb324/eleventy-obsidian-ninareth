@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ccaa45dd6a8775a8",
+        "id": "8998e8e3fc7f6651",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Southern Cities.md",
-            "mode": "preview"
+            "file": "adrienne's opinions of things/adriennes-opinions-4.md",
+            "mode": "source"
           }
         }
       }
@@ -39,11 +39,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataviewjs",
+                "query": "tag:#location",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308
+    "width": 337
   },
   "right": {
     "id": "ebdea276470bfe34",
@@ -61,6 +61,7 @@
       {
         "id": "7159ed136d8a13ac",
         "type": "tabs",
+        "dimension": 64.453125,
         "children": [
           {
             "id": "c04aea16790cc58c",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Southern Cities.md",
+                "file": "adrienne's opinions of things/adriennes-opinions-4.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -96,10 +97,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Southern Cities.md",
+                "file": "adrienne's opinions of things/adriennes-opinions-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "9a9f3e467b95e15d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           },
           {
@@ -108,20 +117,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Southern Cities.md"
+                "file": "adrienne's opinions of things/adriennes-opinions-4.md"
               }
             }
           },
           {
-            "id": "e861b30ba3554073",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "142aa2e482e91c03",
+            "id": "8fe261514a69cf80",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -129,20 +130,28 @@
             }
           },
           {
-            "id": "5b000f4310386c63",
+            "id": "189adb22ca3327e4",
             "type": "leaf",
             "state": {
               "type": "BC-stats",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "88504b5f00d7b229",
         "type": "tabs",
+        "dimension": 35.546875,
         "children": [
+          {
+            "id": "3813da65895a1b54",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          },
           {
             "id": "80b9061451a1a501",
             "type": "leaf",
@@ -151,23 +160,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 373
   },
-  "active": "ccaa45dd6a8775a8",
+  "active": "8998e8e3fc7f6651",
   "lastOpenFiles": [
+    "adrienne's opinions of things/adriennes-opinions-4.md",
+    "adrienne's opinions of things/verbal things.md",
+    "adrienne's opinions of things/spells and their vibes.md",
+    "scratch paper.md",
+    "Events/The Three Dragons War.md",
+    "Locations/Temple of Corellon Outside Quaath.md",
     "Locations/Southern Cities.md",
-    "Locations/Ninareth.md",
     "Locations/Major Nations.md",
-    "Locations/Countries/Dilandil.md",
-    "Files/world.jpg",
-    "People/Redscale Kids/Professor VonPyremark.md",
-    "People/Redscale Kids/Silvia VonPyremark.md",
-    "People/Redscale Kids/Requiem Godrin.md",
-    "People/Redscale Kids/Marius Cosmal III.md",
-    "Index?.md"
+    "Locations/Tack & Trade.md",
+    "Locations/Ninarith.md"
   ]
 }

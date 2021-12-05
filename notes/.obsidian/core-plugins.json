@@ -14,5 +14,6 @@
   "outline",
   "word-count",
   "workspaces",
-  "file-recovery"
+  "file-recovery",
+  "sync"
 ]
