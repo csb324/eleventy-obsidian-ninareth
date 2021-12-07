@@ -14,9 +14,14 @@ module.exports = function(eleventyConfig) {
             });
 
         c.forEach((note) => {
-            knownFileNames[note.fileSlug] = note.filePathStem;
+            knownFileNames[note.fileSlug.toLowerCase()] = note.filePathStem;
         })
-        return c;
+
+        return c;        
+    });
+
+    eleventyConfig.addCollection("pcs", function(collection) {
+        return collection.getFilteredByGlob("notes/People/PCs/*.md");
     });
 
     const md = markdownIt(markdownItOptions)
@@ -38,10 +43,22 @@ module.exports = function(eleventyConfig) {
                 }
 
                 match.text = (parts[1] || parts[0]).trim();
+                let url = parts[0].trim()
+                const urlParts = url.split("#");
 
-                if(knownFileNames[match.text]) {
-                    match.url = knownFileNames[match.text];
+                if(urlParts[1]) {
+                    url = urlParts[0].trim();
+                }
+
+                if(knownFileNames[url.toLowerCase()]) {
+                    let href = knownFileNames[url.toLowerCase()];
+                    if(urlParts[1]) {
+                        href += "#"
+                        href += urlParts[1];
+                    }
+                    match.url = href;
                 } else {
+                    console.log("CANNOT FIND IT: " + url)
                     match.url = '#'
                 }
             }

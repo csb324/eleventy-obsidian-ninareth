@@ -130,34 +130,47 @@ const copyNotes = function() {
   })
 }
 
+function updateFile(match) {
+  return new Promise((resolve, reject) => {
+    fs.readFile(match, 'utf-8', function(err, content) {
+      if (err) {
+        console.log("oh no!")
+        console.log(err);
+        reject(err);
+      }
+  
+      const newContent = transform(content);
+      fs.writeFile(match, newContent, 'utf8', function (err) {
+        if (err) { reject(err) };
+        resolve();
+      });
+      
+    });
+  
+  })
+}
+
 function copyFiles() {
   cleanFiles()
     .then(copyNotes)
     .then(() => {
-
-      glob('notes/**/*.md', function(err, matches) {
-        if(err) {
-          console.log("OH NO");
-          console.log(err);
-        }
-    
-        matches.forEach((match) => {
-          fs.readFile(match, 'utf-8', function(err, content) {
-            if (err) {
-              console.log("oh no!")
-              console.log(err);
-              return;
-            }
-
-            const newContent = transform(content);
-
-            fs.writeFile(match, newContent, 'utf8', function (err) {
-              if (err) return console.log(err);
-            });
-            
-          });
+      return new Promise((resolve, reject) => {
+        glob('notes/**/*.md', function(err, matches) {      
+          if(err) {
+            console.log("OH NO");
+            reject(err);
+          }
+          resolve(matches);
         })
       });
+    }).then((matches) => {
+      return new Promise((resolve, reject) => {
+        let ms = [];
+        matches.forEach((match) => {
+          ms.push(updateFile(match))
+        });
+        resolve(Promise.all(ms));
+      })
     }).then(() => {
       ncp('../Ninareth/Scripts', 'assets/scripts', function(err) {
         if(err) {

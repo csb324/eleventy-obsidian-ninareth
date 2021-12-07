@@ -9,46 +9,13 @@ prev:
 
 # Session 5: whats up with these yaks
 
-[[Brent]] - porter at [[Guruden Estate]]
-[[Jalop]] is a farm fella (orc)
+We visited the [[Guruden Estate]], where the [[Brent|porter]] showed us to the scene of the yak crime. [[Freya]] spoke with the witnesses (two yaks named Steven and ... something that started with a T) and got a description of, you guessed it, [[Gruung]]. Riding bears! [[Brent]] got us a bit more background on [[Gruung]] from the library at the [[Guruden Estate]].
 
-- Yaks have big claw marks and teeth marks and stuff 
-- Adrienne's MO here is basically play a calm little farm song and stand back 
-- Freya talked to a yak and asked *Who opened the door to the pen?*
-	- Small, riding something that looked like a yak but wasn't a yak. A
-	-  couple of things riding other things. 
-	-  Animal thing had big claws 
-- UH OH ITS [[Gruung]] probably. riding... bears?? or something like that. 
-	- Rez confirms with minor illusion
-- Frog guys lore: Fiercely territorial and see themselves as superior to all other beings ! Dwell in trees! Strict caste system based on color ! Very poison! They enjoy enslaving other creatures and beings. 
+We went into the woods to try to locate the [[Gruung]], thinking of setting a trap for them. We also talked to [[Costi]] about [[Samuel]] -- who refuses to communicate with [[Costi]] but nonetheless warned us that in fact the [[Gruung]] were waiting for US!
 
-Bossy little motherfuckers. Slaves are fed poison 
+We killed most of the [[Gruung]] (and [[Hugh]] became friends with a bear, who had been mind-controlled by frog poison), and took the last one for questioning. 
 
-red is middle danger, gold is most 
+[[Adrienne Spout|Adrienne]] and [[Rez]] convinced the hostage that we had seen the error of our disgusting human ways and wanted to aid the [[Gruung]] in their domination (while [[Freya]] hopped menacingly nearby) ([[Costi]] and [[Hugh]] did not want to be part of this, knowing it would end in violence). The [[Gruung]] 100% ate this shit up, and told us about the [[Gruung Attack on Tinzelven]] tomorrow morning. We swore fealty, recieved new gruung-loyal names, and killed him with a single swing of a new axe.
 
-Costi has a raven named Samuel. Samuel won't talk to him. what's that about 
-
-Samuel rules. we stan a legend. 
-
-we might set a trap for the gruung. 
-
-Uh oh the grung found us. they lured us with a yak trap. Oh well. we're gonna kill em. 
-
-known aliases for [[Freya]]: gruungslayer.
-
-The bears are poisoned :( Clara loves the bears and Adrienne does not care about this at all
-
-Slavery is technically legal but frowned upon in arkhosia 
-
-Brent invited us to lunch with [[Willen Guruden]] 
-
-We tell the green gruung we have changed our minds and we want to join team gruung. 
-
-willem needs a word with Julian! Also, I told the group i work for Julian. I should clarify that. Do I want them to know I do? Or don't? Do I? Don't I? I need to think on this one.
-
-Rez tannin ! 
-
-Willem asks what costi thinks about Dharinov
-... interesting 
-
+Then [[Willen Guruden]] invited us in for lunch, and we talked briefly about [[Julian Slater-Runehorn]], as well as [[Duchess v'Dharinov]] and various folks around town. He's informed [[Deeksta]] about the attack tomorrow. And we got paid! In coin (25 platinum) or favor (a piece of paper that says "help them out - WG")
 

@@ -1,5 +1,4 @@
 ---
-private: true
 type: npc
 aliases:
   - Julian
@@ -19,14 +18,7 @@ Alma-Mater: Redscale
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Arkhosia]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Alma Mater</span><span class="inline-field-value">[[Redscale]]</span></span>
 
-* Descendent of [[Antonius Slater-Runehorn]]
+* Employs [[Adrienne Spout]] 
+* Has been travelling for a while.
 
-* Employs [[Adrienne Spout]] (or, did, at least)
 
-* Generally has relationships with every major important group, but more aligned with [[The Guardians]] than [[The Providers]]. 
-
-* Keeping a close eye on dissenters in [[Eberron]].
-
-* Has been travelling for a while. Adrienne hasn't heard from him.
-
-* Employs [[Henrik]].

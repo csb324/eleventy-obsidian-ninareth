@@ -12,3 +12,5 @@ private: true
 - *such* an opportunity
 - I'll send word of you!
 
+**when Clara loves an insane idea and doesn't want Adrienne to be a bitch about it**
+- it's unorthodox... but. ?

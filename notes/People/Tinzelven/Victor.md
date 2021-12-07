@@ -7,6 +7,9 @@ Race: Human
 Relationship: neutral
 Home: Tinzelven
 Workplace: Victor's Needle
+Affiliation:
+  - Arkhosian Military
+  - The Providers
 ---
 
 # Victor
@@ -16,6 +19,8 @@ Workplace: Victor's Needle
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Tinzelven]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Workplace</span><span class="inline-field-value">[[Victor's Needle]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Arkhosian Military]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Providers]]</span></span>
 
 He's the clothes guy. Friends with [[Bliken Hammerov]]. Vaguely racist against [[Hugh]].
 

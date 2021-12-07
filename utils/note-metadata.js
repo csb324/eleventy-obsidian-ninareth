@@ -1,11 +1,9 @@
 const {titleCase} = require("title-case");
 const breadcrumbData = require('../notes/breadcrumbs-data/data.json');
+const caselessCompare = require('./caseless-compare')
 
 const wikilinkRegExp = /\[\[\s?([^\[\]\|\n\r]+)(\|[^\[\]\|\n\r]+)?\s?\]\]/g
 
-function caselessCompare(a, b) {
-    return a.toLowerCase() === b.toLowerCase();
-}
 
 subsetMatch = (p, property, filename) => {
     if(!p[property]) {

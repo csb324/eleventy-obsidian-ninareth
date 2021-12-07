@@ -1,0 +1,13 @@
+<table>
+  <tr>
+    <th>Name</th><th>Race</th><th>Class</th>
+  </tr>
+  {% for item in collections.pcs %}
+    <tr>
+      <td><a href="{{item.url | url}}">{{item.data.title}}</a></td>
+      <td>{{item.data.Race}}</td>
+      {%- if item.data.Class.first -%}<td>{{item.data.Class | join: " / "}}</td>
+      {%- else -%}<td>{{item.data.Class}}</td>{%- endif -%}
+    </tr>
+  {% endfor %}
+</table>

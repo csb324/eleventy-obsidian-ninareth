@@ -5,7 +5,9 @@ tags:
   - orgs/church-of-corellon
 ---
 
-Corellon Larethian is a god.
+# Church of Corellon Larethian
+
+[[Corellon Larethian]] is a god.
 
 ## NPCs
 {% include 'list-references.html', reference_data: affiliations %}

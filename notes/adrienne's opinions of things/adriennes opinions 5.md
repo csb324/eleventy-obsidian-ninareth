@@ -1,6 +1,8 @@
 ---
 private: true
+up: session-5
 ---
+post <span class="dataview inline-field"><span class="inline-field-key">up</span><span class="inline-field-value">[[session-5]]</span></span>, thoughts on the party:
 
 [[Costi]]: dope magic missiles, kid. And he handled himself at lunch with guruden. Maybe not the worst liability.
 
@@ -13,6 +15,7 @@ private: true
 Making a big deal about being freyas biggest fan -> 
 - loyalty
 - a more empowered freya (which Adrienne thinks we need, to hold off the forces of impulsive pacifism)
+- Plus, she really doesn't ask for much. so, that's always a good thing. 
 
-[[Rez]]: we are sisters in fealty to the gruung! Whenever Adrienne is talking shit about "these people", make sure Rez feels like Adrienne means the others.  
+[[Rez]]: again, really wants to be on the team, whatever the team is. We are sisters in fealty to the gruung! Whenever Adrienne is talking shit about "these people", make sure Rez feels like Adrienne means the others.  unless she's weaponizing it. 
 

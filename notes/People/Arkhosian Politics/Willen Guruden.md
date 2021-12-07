@@ -8,6 +8,7 @@ Race: Dragonborn
 Affiliation:
   - The Guardians
   - Tinzelven Town Guard
+  - Arkhosian Military
 Home: Tinzelven
 Location: Guruden Estate
 ---
@@ -20,11 +21,16 @@ Location: Guruden Estate
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Tinzelven Town Guard]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Tinzelven]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Guruden Estate]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Arkhosian Military]]</span></span>
+
+Pronounced *gu ru DEN*
 
 * He owns most of [[Tinzelven]]. Or, at least half. 
 * A known military fellow. 
 * His sister [[Quillette Guruden]] is on [[The Circle]]
 * He started calling himself "Captain" and the [[Tinzelven Town Guard]] was like, "sure."
+- Wearing an untouched breastplate with an elaborate G on it
+- Carrying a gorgeous longsword
 
 Very formal type of fellow. He will correct your posture. He did it to [[Korvae]]. 
 
