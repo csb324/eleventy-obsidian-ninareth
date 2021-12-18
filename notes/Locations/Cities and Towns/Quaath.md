@@ -12,6 +12,8 @@ Location: Southern Cities
 City
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Southern Cities]]</span></span>
 
+Consists of three circles, surrounding the [[Platinum Sanctuary]]. The bronze circle, the silver circle, and the gold circle, in increasing order of wealth. 
+
 ## NPCs
 
 {% include 'list-references.html', reference_data: npcs %}

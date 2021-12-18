@@ -11,3 +11,6 @@ The [[Gruung]] are going to attack [[Tinzelven]] in the early morning!
 ## Preparations
 - [x] inform the [[Tinzelven Town Guard]]
 - [ ] Get mad robots to help, via [[Professor Leonard Klipitz]]? 
+
+
+

@@ -7,7 +7,9 @@ Location: Arkhosia
 ---
 
 # Jalantar
-<span class="subhead">City, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Arkhosia]]</span></span></span>
+City, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Arkhosia]]</span></span>
+
+The location of [[Redscale]]. Ruled by a [[Magister]] 
 
 
 ## NPCs

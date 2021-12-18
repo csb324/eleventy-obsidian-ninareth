@@ -23,4 +23,8 @@ Friends with [[Niko]]
 Slept with [[Rez]]
 Isn't super fond of [[Professor Leonard Klipitz]] and all his rogue robot bullshit.
 
-Seems like a straight shooter.
+The [[Willen Guruden|captain]] once told her, "find someone who does your job better than you do, and then listen to what they say". She's that someone. 
+
+Seems like a straight shooter. Knows how to do her job. 
+
+Does not want to talk about politics.
