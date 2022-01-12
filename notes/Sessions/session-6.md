@@ -19,7 +19,7 @@ Then we talked to [[Korvae]] ([[costi]] told him now is the time to panic, so he
 
 She asked us to get some paper and make some signs for the party. we got a LOT of paper from the [[Tack & Trade]] because we are insatiable for paper. It's on the captains tab. 
 
-- [ ] "What do an Island and the letter T have in common"
+- [x] "What do an Island and the letter T have in common"
 
 Then we made signs, and [[Rez]] (with freyas help) devised a plan for where to put them around town, to funnel the [[Gruung]] into the square. 
 

@@ -32,3 +32,6 @@ Hugh brought a mysterious message from [[Costi's Dad]] -- one of which is "Kiss 
 > But, this is why Costi kissed the thrice-travelled emerald and now he has a sapphire tooth. 
 
 Costi has a raven named [[Samuel]]. Samuel won't talk to him. He has never heard of something like this happening, and it annoys and troubles him. 
+
+#### Known Aliases
+* "The Rebel and the Robot" (with [[Hugh]])

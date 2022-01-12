@@ -1,12 +1,12 @@
 ---
 type: org
 tags:
-  - orgs/rezs-favorite-band-which-has-a-name
+  - orgs/the-miscasts
 ---
 
-# Rez's favorite band which has a name
+# The Miscasts
 
-[[Rez]] loves this band.
+[[Rez]] loves this band. They're performing in [[Jalantar]] soon.
 
 One of the members went to [[Redscale]]
 

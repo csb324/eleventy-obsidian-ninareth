@@ -3,17 +3,16 @@ type: npc
 tags:
   - npc
 Status: alive
-Race: Human
+Race: Halfling
 Relationship: neutral
 Home: Tinzelven
-Workplace: Tack & Trade
 ---
 
-# Abaria
+# Willa
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Human</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Halfling</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Tinzelven]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Workplace</span><span class="inline-field-value">[[Tack & Trade]]</span></span>
+[Affiliation:[[Tinzelven Town Guard]]]
 
-She works at the [[Tack & Trade]] in [[Tinzelven]]. Not 100% trustworthy, but to be fair, neither are we.
+A member of the [[Tinzelven Town Guard]], with healing abilities. [[Hugh]] saved her life after the [[Gruung Attack on Tinzelven]].  

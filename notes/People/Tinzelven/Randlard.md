@@ -3,17 +3,17 @@ type: npc
 tags:
   - npc
 Status: alive
-Race: Human
+Race: Dwarf
 Relationship: neutral
 Home: Tinzelven
-Workplace: Tack & Trade
 ---
 
-# Abaria
+# Randlard
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Human</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Dwarf</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Tinzelven]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Workplace</span><span class="inline-field-value">[[Tack & Trade]]</span></span>
 
-She works at the [[Tack & Trade]] in [[Tinzelven]]. Not 100% trustworthy, but to be fair, neither are we.
+- Presumably a friend of [[Fendrian]]
+- Played the drums at [[The Providers]]' fundraiser at the [[Laborers Hall]]
+

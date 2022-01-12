@@ -20,8 +20,13 @@ A <span class="dataview inline-field"><span class="inline-field-key">Class</span
 
 Insists he's [[Costi]]'s dad. But also, wants to help Costi *FIND* his dad.
 
-Has no memories beyond the last year or so (someone went in and scrambled his brain around or something). 
+Has no memories beyond the last year or so (someone went in and scrambled his brain around or something). In that time in between, he was in the [[Acedian Mountains]] at a forge, where he connected with [[TrueSilver]] (spiritually).
 
 Likes to knit. Has knit many little hats for [[Nadia]]. Likes birds?
 
 Knew [[Costi's Dad]] in the war, maybe. This part is unclear I think. Might be part of the memory loss.
+
+#### Known Aliases
+* "The Rebel and the Robot" (with [[Costi]])
+* Shinyman ([[session-7]])
+

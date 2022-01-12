@@ -10,7 +10,9 @@ Location: Tinzelven
 Store
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Tinzelven]]</span></span>
 
-Insane corner store that tried to sell us a keychain for like forty bucks.
+Insane corner store that tried to sell us a keychain for like forty bucks. (Apparently the overhead costs for these keychains were insane and [[Abaria]] really wants to make her money back).
+
+They sell paper. By the stack. A stack of paper is 10 sheets of paper. Everyone knows this.
 
 ## NPCs
 
