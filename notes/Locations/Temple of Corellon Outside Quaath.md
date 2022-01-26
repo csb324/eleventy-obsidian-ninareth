@@ -3,7 +3,7 @@ type: location
 private: true
 locationType: place
 tags:
-  - location/place/temple-of-corellon-quaath
+  - location/place/temple
 Affiliation: Church of Corellon Larethian
 Location: Quaath
 ---

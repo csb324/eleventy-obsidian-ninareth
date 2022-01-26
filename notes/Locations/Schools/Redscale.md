@@ -3,7 +3,6 @@ type: location
 locationType: place
 tags:
   - location/school
-  - location/place/redscale
 Location: Jalantar
 ---
 
@@ -15,7 +14,7 @@ A music conservatory, arts school, and general daycare for the children of the u
 
 They don't teach magic, really. 
 
-*They used to. When students ask, the answer is “it was too dangerous” but that’s definitely not the full story. Only by individual petition were certain spells permitted to be taught. Feather fall for the dancers, for example. Dancing lights. Harmless spells.*
+> They used to. When students ask, the answer is “it was too dangerous” but that’s definitely not the full story. Only by individual petition were certain spells permitted to be taught. Feather fall for the dancers, for example. Dancing lights. Harmless spells.
 
 [[Adrienne Spout]] went there, as did [[Julian Slater-Runehorn]]. 
 

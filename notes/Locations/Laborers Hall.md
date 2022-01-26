@@ -15,7 +15,7 @@ Affiliation: The Providers
 Seems like [[The Providers]] and other political types organize here.
 
 To do:
-- [ ] Go to a party!
+- [x] Go to a party!
 
 
 ## NPCs

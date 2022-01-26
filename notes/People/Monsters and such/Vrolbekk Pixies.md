@@ -17,9 +17,16 @@ Home: Vrolbekk Forest
 
 A pranking duo (Klida and Bel) who tried to put us to sleep, knocked the wheel off a cart, and then asked for our help. It was basically extortion but [[Rez]] liked their style. After we killed their SPEEEDY cousin Mixx, they were grateful and said to hit them up if we passed through again. So, that's nice.
 
+Bel has a bit of a crush on [[Innis]].
+
+[[session-0]]
+
 In their little grove, we found a [[Wayfinders|wayfinder]] Mixx had killed, and the boxes they were carrying. In those boxes were:
 
 - An immovable rod
 - A bunch of broken glass
 - A frozen heart??? #mysteries
+
+
+
 

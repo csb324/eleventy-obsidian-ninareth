@@ -18,6 +18,4 @@ The location of [[Redscale]]. Ruled by a [[Magister]]
 
 
 ## Points of Interest
-
-
 {% include 'list-references.html', reference_data: points_of_interest %}

@@ -26,3 +26,5 @@ Details page for [[Julian Slater-Runehorn]]
 * Keeping a close eye on dissenters in [[Eberron]].
 * Has been travelling for a while. Adrienne hasn't heard from him.
 * Employs [[Henrik]].
+
+

@@ -22,9 +22,8 @@ Class:
 
 She's going to [[Jalantar]] to see a [[The Miscasts|band]]. A prankster. Loves riddles (so much that [[Hugh]] has promised to be a riddle-machine for her). 
 
-* Has siblings
+Rez grew up in a small town in northern [[Taleem]], but moved with her brother to [[Zalev]] for the vibes and the climate. 
 
 #### Known Aliases
 * Filth [[session-5]]
 * Red [[session-7]]
-* 

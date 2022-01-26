@@ -5,7 +5,7 @@ tags:
 Status: unknown
 Race: Human
 Relationship: neutral
-Home: Glensdale
+Home: Glendan Glade
 ---
 
 # Costi's Dad
@@ -13,7 +13,7 @@ Home: Glensdale
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">unknown</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Human</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Glensdale]]</span></span>, probably
+<span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Glendan Glade]]</span></span>, probably
 
 Father to [[Costi]] and [[Nadia]].
 Married to [[Costi's mom]]

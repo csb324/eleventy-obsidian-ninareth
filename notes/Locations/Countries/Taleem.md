@@ -9,7 +9,7 @@ Location: Major Nations
 
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Major Nations]]</span></span>
 
-A monarchy that exports bread. I think [[Rez]] might actually be from there. Unclear.
+A monarchy that exports bread. 
 
 ## NPCs
 

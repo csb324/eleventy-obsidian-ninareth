@@ -2,10 +2,21 @@
   border: 1px solid var(--background-modifier-border);
   border-radius: 5px;
   padding: 5px;
+  margin-bottom: 5px !important;
+}
+
+/* completely hides the trail when "no path found message" is left empty and no path is found */
+.BC-trail:empty {
+	display: none;
 }
 
 .BC-matrix-square li {
   text-align: left;
+}
+
+/* ensure empty headers not leaving an element  */
+.BC-Matrix .BC-Matrix-square .BC-Matrix-header:empty{
+	display: none;
 }
 
 .internal-link.BC-Link {
@@ -86,4 +97,9 @@
 [data-tooltip="false"]:hover:after {
   visibility: hidden;
   opacity: 0;
+}
+
+.thread-dir-templates .setting-item-control {
+  display: flex;
+  flex-direction: column;
 }

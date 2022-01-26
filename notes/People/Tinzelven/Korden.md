@@ -12,5 +12,5 @@ Home: Tinzelven
 
 Has some kind of crop circles situation. Weirdly conservative for a provider.
 
-- [ ] ask Niko what was up with the crop circles
+- [x] ask Niko what was up with the crop circles
 

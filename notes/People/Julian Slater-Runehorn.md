@@ -18,7 +18,6 @@ Alma-Mater: Redscale
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Arkhosia]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Alma Mater</span><span class="inline-field-value">[[Redscale]]</span></span>
 
-* Employs [[Adrienne Spout]] 
+* Employs [[Adrienne Spout]]
 * Has been travelling for a while.
-
 

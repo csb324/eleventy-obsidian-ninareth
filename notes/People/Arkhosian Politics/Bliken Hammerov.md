@@ -30,9 +30,9 @@ Affiliation:
 
 Renowned blacksmith in the [[Southern Cities]]
 
-He's an [[Arkhosian Delegates|Arkhosian Delegate]] (is this right? he and [[Victor]] are both delegates? that seems like a lot of delegates). He worships [[Mordien]], a dwarfish god of the forge.
+He's an [[Arkhosian Delegates|Arkhosian Delegate]] (is this right? he and [[Victor]] are both delegates? that seems like a lot of delegates). He worships [[Moradin]], a dwarfish god of the forge.
 
 He's real curious about [[Hugh]], especially after hearing about [[TrueSilver]]. 
 
-- [ ] buy some armor, maybe (medium!)
+- [x] buy some armor, maybe (medium!)
 

@@ -28,3 +28,7 @@ Hugh is having a rough one
 Zalevi soldiers leave 
 (Two might be siblings or twins or something - slender women with bows across their back, one is Doha who can draw and drew toasty costi for Rez)
 
+```dataviewjs
+const { MobileTest } = window.customJS;
+dv.header(1, MobileTest.speak());
+```
