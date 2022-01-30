@@ -16,7 +16,7 @@ Luckily, we had advance notice and were prepared! [[Our Party]] waited for the r
 
 ## Preparations
 - [x] inform the [[Tinzelven Town Guard]]
-- [ ] Get mad robots to help, via [[Professor Leonard Klipitz]]?  (no: too unreliable, according to [[Deeksta]])
+- [x] Get mad robots to help, via [[Professor Leonard Klipitz]]?  (no: too unreliable, according to [[Deeksta]])
 
 
 

@@ -38,4 +38,4 @@ So she gave some thought to how to repay them. Not necessarily out of gratitude,
 
 Finally, she asked [[Fig]] if she could take the old harp to get properly repaired. Before she could even explain the caveats -- she didn’t know how long the repairs would take, it was possible the harp would be damaged again in transit although she’d be careful, it was even possible that the harp was too damaged to be worth saving -- Fig said absolutely. For whatever reason, she trusted Adrienne. And Adrienne doesn’t know what to make of that either.
 
-But she’s bringing the harp to [[Jalantar]], to [[Raven]] at [[Gilded Instruments]]. And she’s going to get it repaired, and she’s going to bring it back, and maybe that will resolve the whole thing.
+But she’s bringing the harp to [[Jalantar]], to [[Raven]] at [[The Gilded Instrument]]. And she’s going to get it repaired, and she’s going to bring it back, and maybe that will resolve the whole thing.

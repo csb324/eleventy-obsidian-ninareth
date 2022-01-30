@@ -22,9 +22,7 @@ Affiliation:
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Our Party]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Wayfinders]]</span></span>
 
-She's a wayfinder. Or, a wayfinder in training.
-
-She punched [[Costi]] which Adrienne thinks is pretty solid
+She's a wayfinder in training.
 
 Not sure what's going on with her anger or her nature magic but isn't thrilled about it.
 

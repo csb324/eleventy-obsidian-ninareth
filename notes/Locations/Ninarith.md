@@ -31,7 +31,7 @@ It is the year 3451, exactly 350 years since the Second Sundering.
 > The desert city-state of [[Tinkate]], historically isolated and withdrawn from the affairs of the rest of the continent, has further withdrawn into itself since the Second Sundering. While travelers are sometimes welcome to partake of the vibrant markets lining the city's streets, much of the goings on in Tinkante remain a mystery.
 
 ### [[True North]]
-Well, one can assume it's cold.
+Well, one can assume it's cold. Highly isolated.
 
 # Urbanization
 

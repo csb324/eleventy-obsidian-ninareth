@@ -26,6 +26,8 @@ Likes to knit. Has knit many little hats for [[Nadia]]. Likes birds?
 
 Knew [[Costi's Dad]] in the war, maybe. This part is unclear I think. Might be part of the memory loss.
 
+His spiritual weapon is a flaming bird.
+
 #### Known Aliases
 * "The Rebel and the Robot" (with [[Costi]])
 * Shinyman ([[session-7]])
