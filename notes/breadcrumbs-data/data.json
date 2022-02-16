@@ -1,10 +1,16 @@
 {
   "addDendronNotes": false,
+  "addDateNotes": false,
   "aliasesInIndex": false,
   "alphaSortAsc": true,
   "altLinkFields": [],
   "CSVPaths": "",
   "dateFormat": "YYYY-MM-DD",
+  "dateNoteFormat": "yyyy-MM-dd",
+  "dateNoteField": "next",
+  "dataviewNoteField": "up",
+  "dateNoteAddMonth": "",
+  "dateNoteAddYear": "",
   "debugMode": "WARN",
   "defaultView": true,
   "dendronNoteDelimiter": ".",
@@ -13,8 +19,10 @@
   "dotsColour": "#000000",
   "dvWaitTime": 5000,
   "enableAlphaSort": true,
+  "enableRelationSuggestor": false,
   "fieldSuggestor": true,
   "filterImpliedSiblingsOfDifferentTypes": true,
+  "jugglLayout": "hierarchy",
   "limitWriteBCCheckboxes": [
     "country",
     "region",
@@ -49,10 +57,12 @@
   "openStatsOnLoad": true,
   "openDuckOnLoad": false,
   "openDownOnLoad": true,
+  "overflowMLView": true,
   "parseJugglLinksWithoutJuggl": false,
   "showNameOrType": false,
   "showRelationType": false,
   "regexNoteField": "",
+  "relSuggestorTrigger": "\\",
   "rlLeaf": true,
   "showAllPathsIfNoneToIndexNote": false,
   "showAllAliases": true,
@@ -62,6 +72,7 @@
   "showImpliedRelations": true,
   "showTrail": true,
   "showGrid": true,
+  "showJuggl": false,
   "showPrevNext": true,
   "sortByNameShowAlias": false,
   "squareDirectionsOrder": [
@@ -103,6 +114,7 @@
     "next": "",
     "prev": ""
   },
+  "threadUnderCursor": false,
   "trailSeperator": "→",
   "treatCurrNodeAsImpliedSibling": false,
   "trimDendronNotes": false,
@@ -156,5 +168,16 @@
   "visRelation": "Parent",
   "visClosed": "Real",
   "visAll": "All",
-  "wikilinkIndex": true
+  "wikilinkIndex": true,
+  "impliedRelations": {
+    "siblingIdentity": false,
+    "sameParentIsSibling": true,
+    "siblingsSiblingIsSibling": false,
+    "siblingsParentIsParent": false,
+    "parentsSiblingsIsParents": false,
+    "parentsParentsIsParent": false,
+    "cousinsIsSibling": false
+  },
+  "refreshOnNoteSave": false,
+  "showUpInJuggl": false
 }

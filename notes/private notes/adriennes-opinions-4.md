@@ -36,9 +36,10 @@ there’s a way to make this work.
 -   also can I have some armor 
 
 **[[Juliette]]**:
-- [ ] make sure I talk to her.
+- [x] make sure I talk to her.
 1. butter her up a little bit, mention possible connections if she seems interested. also, make sure she's not mad that i bailed the other night
 2. find out what she's heard about me
+--- lmao this worked! 
 
 # politics
 [[the guardians]]: dicks in charge 

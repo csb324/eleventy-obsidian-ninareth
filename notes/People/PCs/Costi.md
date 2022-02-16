@@ -39,3 +39,4 @@ Costi has a raven named [[Samuel]]. Samuel won't talk to him. He has never heard
 
 #### Known Aliases
 * "The Rebel and the Robot" (with [[Hugh]])
+* "Constantino Grossun"

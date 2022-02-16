@@ -1,5 +1,7 @@
 ---
-private:true
+private: true
+tags:
+  - private
 ---
 
 the party 

@@ -16,6 +16,6 @@ Home: Jalantar
 
 A craftwoman at [[The Gilded Instrument]], who specializes in the harp. Originally from the [[Vrolbekk Forest]], she left home and started a new life in [[Zalev City]], where she fell in with a band of criminals -- the [[Arazoak]]. After a jewelry heist went wrong, she then fled [[Zalev]] for [[Jalantar]].
 
-[[Adrienne Spout|Adrienne]] needs her to repair her old broken harp! She enlisted [[Our Party]] to help track down members of the [[Arazoak]] who have turned up in [[Jalantar]], in exchange. 
+[[Adrienne Spout|Adrienne]] needed her to repair her old broken harp. In exchange, Zephra enlisted [[Our Party]] to help track down members of the [[Arazoak]] who have turned up in [[Jalantar]], so we could find out what their plan was and stop them.
 
-It *seems* she's been captured. 
+It seems she (and some of the [[Arazoak]]) have been captured by the [[Zalevi Military]] -- possibly even our friends [[Captain Fretze]] and co. 
