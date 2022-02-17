@@ -9,7 +9,7 @@ Location: Jalantar
 # St Jitterbig's Devotional Workshop
 Temple, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Jalantar]]</span></span>
 
-A temple to [[Helm]] in the praise district of [[Jalantar]]. It looks like a big, confusingly modern office building.
+A temple to [[Helm]] in the [[Praise District]] of [[Jalantar]]. It looks like a big, confusingly modern office building.
 
 Some of the folks there are very curious about warforged. Curious in a way that may or may not be safe for our friend [[Hugh]], but also may be helpful. 
 
