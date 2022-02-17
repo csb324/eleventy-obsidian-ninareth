@@ -1,6 +1,7 @@
 ---
-{}
+private: true
 ---
+
 ok so, we told people about the harp and fig and Bevin. Zephra did almost get us killed, and freya started to insist, and if this is going to work they're going to find out eventually, and damn it today was weird. 
 
 to do: 
