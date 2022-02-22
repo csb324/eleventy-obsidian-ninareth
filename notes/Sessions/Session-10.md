@@ -6,7 +6,7 @@ prev:
   - - session-9
 ---
 
-# Session 10
+# Session 10: the road and the chapel
 
 On our way to [[Jalantar]]! 
 

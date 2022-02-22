@@ -9,12 +9,7 @@ Location: Jalantar
 # The Fiddlers Respite
 Brothel, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Jalantar]]</span></span>
 
-Owned by [[Innis]]
-
-To do: 
-- [ ] confirm name
-
-
+Owned by [[Innis]]. On the border of [[The Academy District]] and the [[Southern Wing]].
 
 ## NPCs
 {% include 'list-references.html', reference_data: npcs %}

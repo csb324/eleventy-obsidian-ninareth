@@ -17,4 +17,9 @@ Affiliation: Zalevi Military
 
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Zalevi Military]]</span></span>
 
+A tall olive skinned human, with dark braid running halfway down his back.
+
 A captain in the [[Zalevi Military]] who was passing through [[Tinzelven]] during the [[Gruung Attack on Tinzelven]] and stopped to kill some frogs. He's a friend of [[Deeksta]] and [[Victor]], although he and [[Victor]] have been on different sides of wars. Seems to have a pretty chill outlook, with regard to the human costs of war. 
+
+[[Niko]] says to avoid him, and if we *must* interact, definitely do not mention [[Niko]].
+

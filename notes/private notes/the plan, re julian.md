@@ -9,6 +9,15 @@ message back, thank him for the opportunity but you'll be continuing on your own
 
 is this likely to work: depends, how willing is he to give her up?
 is this likely to have negative externalities: probably
+would adrienne do this: maybe
 
 # option b: avoidance
+
+if he contacts you... simply do not answer
+
+is this likely to work: lmao, no
+is this likely to have negative externalities: absolutely
+would adirenne do this: maybe
+
+# option c: maybe we can talk this out
 
