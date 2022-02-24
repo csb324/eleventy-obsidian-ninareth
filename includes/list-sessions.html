@@ -1,0 +1,17 @@
+<hr class="my-6">
+<h3>Timeline</h3>
+<div class="flex">
+
+{% for post in timeline %}
+  {% assign colorClass = "gray-200" %}
+  {% if post.referencesThis %}
+    {% assign colorClass = "red-400" %}
+  {% endif %}
+
+  <a href="{{post.url}}" title="{{post.title}}" class="text-{{colorClass}} flex-grow text-2xl block text-center relative group">
+    <div class="border-t border-gray-100 border-collapse w-full absolute inset-0 transform translate-y-1/2 "></div>
+    <div class="bg-{{colorClass}} group-hover:bg-blue-400 h-2 w-2 rounded-full mx-auto relative z-10"></div>
+  </a>
+{% endfor %}
+
+</div>

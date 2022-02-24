@@ -126,7 +126,7 @@ module.exports = {
         backlinks: (data) => {
             const notes = data.collections.notes;            
             const currentFileSlug = data.page.fileSlug;
-
+            
             let backlinks = [];
 
             // Search the other notes for backlinks
@@ -157,6 +157,39 @@ module.exports = {
                     })
                 }
             }
+
+            return backlinks;
+        },
+
+
+        timeline: (data) => {
+            const sessions = data.collections.sessions;
+            
+            let backlinks = [];
+            if(data.type == 'session') {
+                return [];
+            }
+
+            // Search the other notes for backlinks
+            for(const otherNote of sessions) {
+                let thatSession = {
+                    url: otherNote.url,
+                    title: otherNote.data.title,    
+                    referencesThis: false,
+                    index: parseInt(otherNote.data.title.split("-")[1])
+                }
+                if(thatSession.index + 1) {
+                    if(data.backlinks.map((l) => l.url).includes(otherNote.url)) {
+                        thatSession.referencesThis = true;
+                    }
+    
+                    backlinks.push(thatSession)    
+                }
+            }
+
+            backlinks.sort((a, b) => {
+                return a.index - b.index;
+            });
 
             return backlinks;
         }

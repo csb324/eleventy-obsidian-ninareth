@@ -7,6 +7,11 @@ module.exports = function(eleventyConfig) {
     };
 
     const knownFileNames = {};
+
+    eleventyConfig.addCollection("sessions", function(collection) {
+        return collection.getFilteredByGlob("notes/Sessions/*.md");
+    });
+    
     eleventyConfig.addCollection("notes", function (collection) {
         const c =  collection.getFilteredByGlob(["notes/**/*.md", "index.md"])
             .filter((item) => {
@@ -23,6 +28,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addCollection("pcs", function(collection) {
         return collection.getFilteredByGlob("notes/People/PCs/*.md");
     });
+
 
     const md = markdownIt(markdownItOptions)
     .disable('code')
