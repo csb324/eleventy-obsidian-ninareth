@@ -24,9 +24,19 @@ const onlyPeople = (note) => {
 }
 
 module.exports = {
-    layout: "note.html",
     type: "note",
+
     eleventyComputed: {
+        layout: (data) => {
+            return (data.type == 'session') ? "session.html" : "note.html";
+        },
+        sessionId: (data) => {
+            let s = parseInt(data.title.split("-")[1]);
+            if(typeof s == 'number') {
+                return s;
+            }
+            return false;
+        },
         title: data => titleCase(data.title || data.page.fileSlug),
         points_of_interest: (data) => {
             const notes = data.collections.notes;            
@@ -101,7 +111,6 @@ module.exports = {
             });
             return npcs;
         },
-
         npcs: (data) => {
             const notes = data.collections.notes;
             const currentFileSlug = data.page.fileSlug;
@@ -121,11 +130,9 @@ module.exports = {
             })
             return npcs;
         },
-
         backlinks: (data) => {
             const notes = data.collections.notes;            
             const currentFileSlug = data.page.fileSlug;
-            
             let backlinks = [];
 
             // Search the other notes for backlinks
@@ -160,7 +167,6 @@ module.exports = {
             return backlinks;
         },
 
-
         timeline: (data) => {
             const sessions = data.collections.sessions;
             
@@ -175,7 +181,7 @@ module.exports = {
                     url: otherNote.url,
                     title: otherNote.data.title,    
                     referencesThis: false,
-                    index: parseInt(otherNote.data.title.split("-")[1])
+                    index: otherNote.data.sessionId
                 }
                 if(thatSession.index + 1) {
                     if(data.backlinks.map((l) => l.url).includes(otherNote.url)) {

@@ -1,0 +1,17 @@
+<!-- this is backwards because i want reverse-chronological sessions -->
+{% assign previousPost = collections.sessions | getNextCollectionItem: page %}
+{% assign nextPost = collections.sessions | getPreviousCollectionItem: page %}
+
+<div class="flex justify-between mt-3">
+
+{% if previousPost %}
+  <a href="{{ previousPost.url }}" class="block bg-yellow-100 text-gray-800 hover:bg-blue-200 hover:text-gray-800 px-3 py-1 rounded-sm">
+    &larr; {{ previousPost.data.title }}
+  </a>
+{% endif %}
+{% if nextPost %}
+  <a href="{{ nextPost.url }}" class="block bg-yellow-100 text-gray-800 hover:bg-blue-200 hover:text-gray-800 px-3 py-1 rounded-sm">
+    {{ nextPost.data.title }} &rarr;
+  </a>
+{% endif %}
+</div>
