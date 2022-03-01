@@ -1,0 +1,29 @@
+<script>
+    const initRandomPageData = function() {
+        return {
+            item: {
+                url: "#",
+                title: "..."
+            },
+            items: []
+        }
+    }
+    
+    async function getRandomPage() {
+      const sourceData = await fetch('/search.json')
+        .then(response => response.json())
+        .then((items) => {
+            console.log(items);
+            const i = Math.floor(Math.random() * items.length);
+            return items[i];
+        });
+      return sourceData;
+    }  
+  
+  </script>
+    <p  x-data="initRandomPageData()" x-init="getRandomPage().then((d) => item = d);" class="backlinks-default">
+        You may also enjoy:
+        <a x-bind:href="item.url"
+            x-text="item.title"
+        ></a>
+    </p>

@@ -6,12 +6,13 @@
 
 {% if previousPost %}
   <a href="{{ previousPost.url }}" class="block bg-yellow-100 text-gray-800 hover:bg-blue-200 hover:text-gray-800 px-3 py-1 rounded-sm">
-    &larr; {{ previousPost.data.title }}
+    &larr; {{previousPost.data.title | replace: '-', ' '}}
+
   </a>
 {% endif %}
 {% if nextPost %}
   <a href="{{ nextPost.url }}" class="block bg-yellow-100 text-gray-800 hover:bg-blue-200 hover:text-gray-800 px-3 py-1 rounded-sm">
-    {{ nextPost.data.title }} &rarr;
+    {{ nextPost.data.title | replace: '-', ' ' }} &rarr;
   </a>
 {% endif %}
 </div>
