@@ -3,11 +3,11 @@ type: location
 locationType: place
 tags:
   - location/place/st-jitterbigs-devotional-workshop
-Location: Jalantar
+Location: Praise District
 ---
 
 # St Jitterbig's Devotional Workshop
-Temple, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Jalantar]]</span></span>
+Temple, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Praise District]]</span></span>
 
 A temple to [[Helm]] in the [[Praise District]] of [[Jalantar]]. It looks like a big, confusingly modern office building.
 

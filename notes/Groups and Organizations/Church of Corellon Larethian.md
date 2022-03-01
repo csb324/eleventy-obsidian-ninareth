@@ -1,6 +1,5 @@
 ---
 type: org
-private: true
 tags:
   - orgs/church-of-corellon
 ---

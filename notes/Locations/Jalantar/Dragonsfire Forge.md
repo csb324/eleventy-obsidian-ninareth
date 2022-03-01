@@ -3,11 +3,11 @@ type: location
 locationType: temple
 tags:
   - location/temple/dragonsfire-forge
-Location: Jalantar
+Location: Praise District
 ---
 
 # Dragonsfire Forge
-Temple, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Jalantar]]</span></span>
+Temple, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Praise District]]</span></span>
 
 A temple to [[Moradin]] (and [[TrueSilver]]) in [[Jalantar]]. 
 
