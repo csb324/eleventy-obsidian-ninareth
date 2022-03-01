@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h1>Links</h1>
+
+<h3>Latest sessions:</h3>
+<ul>
+  {% for post in collections.sessions limit: 5 %}
+  <li>
+    <a href="{{post.url}}" title="{{post.title}}">
+      {{post.data.title | replace: '-', ' '}}
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+
+<h3>Random post</h3>
+{% assign randomPost = collections.notes | getRandom %}
+You may also enjoy: <a href="{{randomPost.url}}">{{ randomPost.data.title }}</a>
+
+</div>

@@ -9,5 +9,4 @@ tags:
 Currently unnamed.
 
 ## Who we are
-
-{% include 'list-party.html' %}
+{%- include 'list-party.html' -%}

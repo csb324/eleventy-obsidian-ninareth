@@ -1,14 +1,48 @@
 <hr class="my-6">
 
 <h3>Backlinks</h3>
+{% assign linkCount = 0 %}
 {% if backlinks.length > 0%}
 <ul class="backlinks-container">
     {% for link in backlinks %}
-        <li class="backlink">
-            <a href="{{link.url}}" class="backlink__link">{{link.title}}</a>
-        </li>
+        {% unless link.isSession %}
+            {% assign linkCount = linkCount | plus: 1 %}
+            <li class="backlink">
+                <a href="{{link.url}}" class="backlink__link">{{link.title}}</a>
+            </li>            
+        {% endunless %}
     {% endfor %}
 </ul>
-{% else %}
-<p class="backlinks-default">No backlinks found.</p>
+{% endif %}
+
+{% if linkCount == 0 %}
+  <script>
+    const initRandomPageData = function() {
+        return {
+            item: {
+                url: "#",
+                title: "..."
+            },
+            items: []
+        }
+    }
+    
+    async function getRandomPage() {
+      const sourceData = await fetch('/search.json')
+        .then(response => response.json())
+        .then((items) => {
+            console.log(items);
+            const i = Math.floor(Math.random() * items.length);
+            return items[i];
+        });
+      return sourceData;
+    }  
+  
+  </script>
+    <p  x-data="initRandomPageData()" x-init="getRandomPage().then((d) => item = d);" class="backlinks-default">
+        No backlinks found. You may also enjoy:
+        <a x-bind:href="item.url"
+            x-text="item.title"
+        ></a>
+    </p>
 {% endif %}

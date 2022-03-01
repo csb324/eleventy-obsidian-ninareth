@@ -4,7 +4,6 @@ const caselessCompare = require('./caseless-compare')
 
 const wikilinkRegExp = /\[\[\s?([^\[\]\|\n\r]+)(\|[^\[\]\|\n\r]+)?\s?\]\]/g
 
-
 subsetMatch = (p, property, filename) => {
     if(!p[property]) {
         return false;
@@ -150,10 +149,10 @@ module.exports = {
 
                 // If the other note links here, return related info
                 if(otherNote.data.title && outboundLinks.some(link => caselessCompare(link, currentFileSlug))) {
-
                     backlinks.push({
                         url: otherNote.url,
-                        title: otherNote.data.title,                        
+                        title: otherNote.data.title,
+                        isSession: (otherNote.data.type == 'session')
                     })
                 }
             }

@@ -8,10 +8,27 @@ module.exports = function(eleventyConfig) {
 
     const knownFileNames = {};
 
+
+    eleventyConfig.addFilter("getRandom", function(items, filterTag) {
+        let possible = [...items];  
+        if(filterTag) {
+            possible = possible.filter((i) => {
+                return i.data.tags.includes(filterTag); 
+            })
+        }
+        let selected = possible[Math.floor(Math.random() * possible.length)];
+        return selected;
+    })
+
     eleventyConfig.addCollection("sessions", function(collection) {
-        return collection.getFilteredByGlob("notes/Sessions/*.md");
+        return collection.getFilteredByGlob("notes/Sessions/*.md").sort((a, b) => {
+            const aIndex = parseInt(a.fileSlug.split("-")[1]);
+            const bIndex = parseInt(b.fileSlug.split("-")[1]);            
+            return bIndex - aIndex;
+        }).filter((s) => s.data.type == "session");
     });
-    
+
+
     eleventyConfig.addCollection("notes", function (collection) {
         const c =  collection.getFilteredByGlob(["notes/**/*.md", "index.md"])
             .filter((item) => {
