@@ -15,3 +15,5 @@ Affiliation: Tinzelven Town Guard
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Tinzelven]]</span></span>
 
 A scrawny <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Half-Elf</span></span> who works for the <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Tinzelven Town Guard]]</span></span>
+
+Not to be confused with [[Klaus (Falcon)]] 

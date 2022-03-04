@@ -5,16 +5,15 @@ tags:
 Status: alive
 Race: Dwarf
 Relationship: neutral
-Home: Dragonsfire Forge
+Workplace: Redscale
+Home: Jalantar
 ---
 
-# Father Vidlack Thronestone
+# Professor Vendorsmere
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Dwarf</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Dragonsfire Forge]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Workplace</span><span class="inline-field-value">[[Redscale]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Jalantar]]</span></span>
 
-The leader of the [[Dragonsfire Forge]]. He was able to heal [[Hugh]] and [[Rez]] after the [[Zephra Affair]]. 
-
-He has a long gnarled gray beard, and wears a long chain. 
-
+A [[Redscale]] professor of sword skills and the arcane. A follower of [[Moradin]] and friend of [[Father Thronestone]]. Presumably a Dwarf. 
