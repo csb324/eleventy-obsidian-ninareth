@@ -35,27 +35,3 @@ On our way out of the praise district, we thought we'd drop off the [[summoning 
 [[Adrienne Spout|Adrienne]] bought a forgery kit, and [[Costi]] couldn't find a lockpicking kit - but we went to a cheap music store and found him a Karimba to disassemble. The little narrow teeth-guys might work in a jam.
 
 Now, we're headed to the [[Seven Hooves]], a sort of rowdy bar on the southern end of  [[The Academy District]]. 
-
-
-Still to do:
-- Give Innis her money
-
-Coming up:
-- we'll hear back from the [[Temple of Pelor in Jalantar|Temple of Pelor]] at some point
-- [[Freya]] is going to keep checking on [[Akros]]
-- Costi'll hear back from [[Professor Vendorsmere]] at some point
-- Tomorrow night, dinner with [[Niko]] and [[Giary]]
-- [[Adrienne Spout|Adrienne]]'s harp should be ready in a week or so?
-- 
-- 
-
-
-someone must really like your gift 
-
-A lady named rayenna explains what that means. she invited Adrienne to audition to perform at the larethan cavern theater. 
-
-costi and freya go to the bird store and meet klaus, a falcon. and also a man. who is friends with klaus. Strikta is the person. green Dragonborn in the wilds statue is where the birds do their dogpark 
-
-Trindleswip 
-
-Monday: SEVEN HOOVES 
