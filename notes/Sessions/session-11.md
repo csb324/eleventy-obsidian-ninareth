@@ -23,7 +23,7 @@ We went to [[Fridian's Favor]], a slightly off-campus tavern / student hang, thi
 
 Eventually the bartender came over, and he and zephra arranged a meeting in the back alley, in theives cant. We had excellent backup for the meeting -- [[Costi]] *pretended* to be a drunk sleepy child, [[Hugh]] carried him (pretending to be a bodyguard), costi could see through [[Samuel]]'s eyes what was going on, [[Freya]] just straight up hid really well, and [[Rez]] and [[Adrienne Spout|Adrienne]] came to back [[Zephra]] up. 
 
-Turns out [[Zephra]] didn't need backing up -- the bartender had been harboring her old friends, but they were a pain in the ass and he was willing to be bought out. She took a *big* jewel out of her bag, and he happily accepted that as payment. So uh, yeah, she has the jewels. Bartender let us know the guys were in the cellar.
+Turns out [[Zephra]] didn't need backing up -- [[Lish|the bartender]] had been harboring her old friends, but they were a pain in the ass and he was willing to be bought out. She took a *big* jewel out of her bag, and he happily accepted that as payment. So uh, yeah, she has the jewels. Bartender let us know the guys were in the cellar.
 
 Team Quiet ([[Zephra]] and [[Rez]]) snuck down into the cellar, while team loud (the rest of us) stayed upstairs waiting for the signal. We got a LOT of info from [[Rosco]], [[Drenden]], and [[Kara]] before they knew we were down there. [[Zephra]] stole their paperwork, which ended up being the giveaway that they weren't alone. 
 

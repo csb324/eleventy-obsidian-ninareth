@@ -22,7 +22,7 @@ Anyways. We finished dinner, and [[Niko]] charged some *nice* bottles of whiskey
 
 Upstairs, we came clean, and he kept close track of how many people had gotten our names -- [[Rez]]'s name, in particular. He advised us not to speak to the guards, and to specifically avoid [[Captain Fretze]] if we run into him. He also didn't want us going to the dead drop spot to get info from [[Kara]] -- it sounds like he'll be handling that instead.
 
-(He made two marks on his paper -- one for [[Kara]] and one for the bartender at [[Fridian's Favor]], who he seemed to know).
+(He made two marks on his paper -- one for [[Kara]] and one for [[Lish|the bartender]] at [[Fridian's Favor]], who he seemed to know).
 
 He's staying with his friend [[Giary]] at [[The Sheath and Sickle]], in [[The Promenade]]. We have plans to meet him there in a couple days. ([[Adrienne Spout|Adrienne]] offered to keep him company tonight, but he said he had work to do... probably work that we created).
 

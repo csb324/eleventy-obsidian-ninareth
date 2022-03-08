@@ -31,4 +31,6 @@ His spiritual weapon is a flaming bird.
 #### Known Aliases
 * "The Rebel and the Robot" (with [[Costi]])
 * Shinyman ([[session-7]])
+* The Colonel -- [[session-15]]
+
 
