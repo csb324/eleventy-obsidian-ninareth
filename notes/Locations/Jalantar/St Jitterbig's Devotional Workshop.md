@@ -3,6 +3,7 @@ type: location
 locationType: place
 tags:
   - location/place/st-jitterbigs-devotional-workshop
+  - location/place/temple
 Location: Praise District
 ---
 

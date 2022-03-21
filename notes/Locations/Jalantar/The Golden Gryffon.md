@@ -3,6 +3,7 @@ type: location
 locationType: place
 tags:
   - location/place/the-golden-gryffon
+  - location/inn
 Location: The Academy District
 ---
 

@@ -3,6 +3,7 @@ type: location
 locationType: place
 tags:
   - location/place/the-promenade
+  - location/district
 Location: Jalantar
 ---
 

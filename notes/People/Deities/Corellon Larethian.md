@@ -11,3 +11,8 @@ Relationship: neutral
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 
 God of elves, magic, music, arts & crafts, and warfare.
+
+Symbols:
+* Eight pointed star
+* A [[Larethian Rose]]
+

@@ -18,7 +18,7 @@ Fig was a half-elf as well, which might be why Adrienne listened to her. She loo
 
 Honestly, if you ask Adrienne to explain why she stayed at that temple as long as she did, she’d have a hard time making it make sense. After the first day, when she tried to leave and Fig said no, she just sank into it. She rested. She had weird and vivid dreams. Dreams about [[Ru'nileth]]. Dreams about music.
 
-As she healed, she started talking more with [[Fig]], who was tasked with checking on her, and with [[Bevin]] (gnome, also older). And she slowly learned, or maybe remembered, more about what had made those temples from her childhood so magical.
+As she healed, she started talking more with [[Fig]], who was tasked with checking on her, and with [[Bevin]] (elf, also older). And she slowly learned, or maybe remembered, more about what had made those temples from her childhood so magical.
 
 > It was the harp, but it was also… something else. Some way the light reflected off the stones. Something about the sound in the cavernous space -- so unlike a concert hall. The way she could feel people’s internal chaos settle just a little bit when they stepped into the room. There was something here that reminded her of all those things.
 

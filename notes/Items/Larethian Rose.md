@@ -5,7 +5,7 @@ tags:
 Origin: Corellon's Grove
 ---
 
-#  Latharian Rose
+#  Larethian Rose
 
 <span class="dataview inline-field"><span class="inline-field-key">Origin</span><span class="inline-field-value">[[Corellon's Grove]]</span></span>
 

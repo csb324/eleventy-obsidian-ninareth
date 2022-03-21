@@ -3,6 +3,7 @@ type: location
 locationType: place
 tags:
   - location/place/temple-of-pelor-in-jalantar
+  - location/place/temple
 Location: Praise District
 ---
 

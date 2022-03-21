@@ -1,7 +1,7 @@
 ---
 type: myster
 tags:
-  - mystery
+  - mysteries
 ---
 
 #  Mysterious Circles

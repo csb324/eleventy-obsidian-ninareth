@@ -3,13 +3,14 @@ type: location
 locationType: place
 tags:
   - location/place/the-black-gull
+  - location/store
 Location: The Academy District
 ---
 
 # The Black Gull
 Store, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[The Academy District]]</span></span>
 
-A shop that sells bird food and interesting toys for birds. Possibly connected to [[Eberronian miscellaneous freedom fighters]]. 
+A shop that sells bird food and interesting toys for birds. Possibly connected to [[ELA]]. 
 
 **The bird gang**
 Owner: a halfling named [[Trindleswip]]. 

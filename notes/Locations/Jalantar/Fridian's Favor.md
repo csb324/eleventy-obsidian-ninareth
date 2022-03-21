@@ -3,6 +3,7 @@ type: location
 locationType: place
 tags:
   - location/place/fridians-favor
+  - location/bar
 Location: The Academy District
 ---
 

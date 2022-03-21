@@ -3,6 +3,7 @@ type: location
 locationType: place
 tags:
   - location/place/guruden-estate
+  - location/home
 Location: Tinzelven
 ---
 

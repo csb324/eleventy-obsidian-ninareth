@@ -13,7 +13,7 @@ We left [[Willen Guruden]]'s place in awkward silence, before talking a bit abou
 
 (Of course we aren't going to.)
 
-We bumped into [[Innis]], who IS leaving - [[Livia]] is needed in [[jalantar]] immediately for [[Wayfinders]] business, and Innis wants to get back to her girls. Her girls? Yeah she runs a brothel. sex work is work! [[The fiddlers respite]]? Something like that. 
+We bumped into [[Innis]], who IS leaving - [[Livia]] is needed in [[jalantar]] immediately for [[Wayfinders]] business, and Innis wants to get back to her girls. Her girls? Yeah she runs a brothel. sex work is work! [[The Fiddlers Respite]]? Something like that. 
 
 Then we talked to [[Korvae]] ([[costi]] told him now is the time to panic, so he did) and then [[Deeksta]] (who did not appreciate the panic). Deeksta knows how to do her job, and had a very solid plan: act like we don't know anything, go to the party at the [[Laborers Hall]], make sure it's lit as hell, then go to bed early and be ready to funnel the gruung into the town square where we'll be waiting. maybe fifteen people in [[tinzelven]] are capable of fighting, so everyone else can stay out late. 
 

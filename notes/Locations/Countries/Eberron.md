@@ -50,7 +50,7 @@ The focus of all life and teaching is on how to better Eberron’s future. Incre
 
 > In the last century, a concerted effort has arisen to make some serious changes to the political structure of the duchies.
 
-[[Eberronian miscellaneous freedom fighters]]:
+[[ELA]]:
 "Society for a Better Eberron"
 "Eberron's Third Arrow,"
 "The Eberronian Liberation Association"

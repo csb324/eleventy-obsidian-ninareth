@@ -3,6 +3,7 @@ type: location
 locationType: place
 tags:
   - location/place/the-golden-egg
+  - location/bar
 Location: The Academy District
 ---
 

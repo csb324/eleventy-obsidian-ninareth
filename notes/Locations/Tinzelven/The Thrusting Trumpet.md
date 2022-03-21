@@ -5,6 +5,8 @@ location:
   - - Tinzelven
 tags:
   - location/place/the-thrusting-trumpet
+  - location/bar
+  - location/inn
 Location: Tinzelven
 ---
 # The Thrusting Trumpet

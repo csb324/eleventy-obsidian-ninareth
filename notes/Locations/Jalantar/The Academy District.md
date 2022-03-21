@@ -3,6 +3,7 @@ type: location
 locationType: place
 tags:
   - location/place/the-academy-district
+  - location/district
 Location: Jalantar
 ---
 
