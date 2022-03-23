@@ -14,5 +14,8 @@ Workplace: The Fiddlers Respite
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Workplace</span><span class="inline-field-value">[[The Fiddlers Respite]]</span></span>
 
-One of the sex workers at [[The Fiddlers Respite]]. A copper-skinned Zalevi woman. She enjoyed flirting with [[Costi]].
+One of the sex workers at [[The Fiddlers Respite]]. A copper-skinned Zalevi woman. She seems to have taken a liking to [[Costi]].
 
+She's on the young side -- somewhere near age 20. She carries a dagger and seems pretty excited to use it. 
+
+A newly minted fan of [[The Miscasts]].

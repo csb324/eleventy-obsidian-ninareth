@@ -2,18 +2,22 @@
 type: npc
 tags:
   - npc
+aliases:
+  - Curse
 Status: alive
+Race: Other
 Relationship: neutral
+Home: Zalev
 Affiliation: The Miscasts
 ---
 
-# Jenson Davour
+# Jax (A.K.A. Curse)
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Other</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Zalev]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Miscasts]]</span></span>
 
-The manager of [[the Miscasts]], among other acts.
+The dulcimer player for [[The Miscasts]]. A classic bad boy type. 
 
-He's very well known and connected in the music industry. He's struggled to handle [[Rez]], but after we saved [[Rian]] from [[Jecka]], he's agreed to let bygones be bygones, and even give her a pass for some bygones yet to come. 
-
-He sounds willing to represent [[Adrienne Spout|Adrienne]], but only in the event that it wouldn't put him in hot water with [[Julian Slater-Runehorn|Julian]]. 
+He wears a leather jacket with the arms ripped off (not a vest), and combat boots. 

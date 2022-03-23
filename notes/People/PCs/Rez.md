@@ -20,9 +20,11 @@ Class:
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Sorcerer</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Bard</span></span>
 
-She's going to [[Jalantar]] to see a [[The Miscasts|band]]. A prankster. Loves riddles (so much that [[Hugh]] has promised to be a riddle-machine for her). 
+A prankster. Loves riddles (so much that [[Hugh]] has promised to be a riddle-machine for her). 
 
 Rez grew up in a small town in northern [[Taleem]], but moved with her brother to [[Zalev]] for the vibes and the climate. 
+
+She's a groupie (affectionate) for [[The Miscasts]] - as opposed to a groupie (derogatory). 
 
 #### Known Aliases
 * Filth [[session-5]]

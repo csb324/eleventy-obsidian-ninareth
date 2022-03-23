@@ -11,6 +11,8 @@ Location: Tinzelven
 Store
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Tinzelven]]</span></span>
 
+[[Victor]] sells clothing
+
 ## NPCs
 
 {% include 'list-references.html', reference_data: npcs %}

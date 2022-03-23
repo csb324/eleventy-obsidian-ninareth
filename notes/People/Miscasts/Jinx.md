@@ -3,17 +3,17 @@ type: npc
 tags:
   - npc
 Status: alive
+Race: Tiefling
 Relationship: neutral
+Home: Zalev
 Affiliation: The Miscasts
 ---
 
-# Jenson Davour
+# Jinx
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Tiefling</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Zalev]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Miscasts]]</span></span>
 
-The manager of [[the Miscasts]], among other acts.
-
-He's very well known and connected in the music industry. He's struggled to handle [[Rez]], but after we saved [[Rian]] from [[Jecka]], he's agreed to let bygones be bygones, and even give her a pass for some bygones yet to come. 
-
-He sounds willing to represent [[Adrienne Spout|Adrienne]], but only in the event that it wouldn't put him in hot water with [[Julian Slater-Runehorn|Julian]]. 
+A red tiefling with curling horns. When he meets you he gives you a hug and tells you he loves you. 

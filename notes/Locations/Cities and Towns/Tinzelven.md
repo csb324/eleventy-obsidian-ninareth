@@ -13,10 +13,13 @@ A small town outside of [[Jalantar]]
 
 
 * The kids at [[Redscale]] called it twiddletown
-* Stores
-	* There's an armory run by [[Bliken Hammerov]] who seems to like us (and [[Hugh]] in particular)
-	* Clothing store run by a [[Victor]] (who is afraid of [[Hugh]] but likes us anyway) ([[Victor's Needle]])
-	* [[Tack & Trade]]: Insane corner store that tried to sell us a keychain for like forty bucks. 
+
+Stores
+
+* There's an armory run by [[Bliken Hammerov]] who seems to like us (and [[Hugh]] in particular)
+* ([[Victor's Needle]]: Clothing store run by a [[Victor]] (who is afraid of [[Hugh]] but likes us anyway) 
+* [[Tack & Trade]]: Insane corner store that tried to sell us a keychain for like forty bucks. 
+
 
 
 ## NPCs
