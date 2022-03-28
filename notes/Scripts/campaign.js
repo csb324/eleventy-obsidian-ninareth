@@ -116,8 +116,12 @@ class Campaign {
       }).filter((n) => {
         return !isNaN(n);
       });
-      values = values.array().sort().reverse();
+      values = values.array();
+      console.log(values);      
     });
+    values.sort((a, b) => a - b);
+    console.log(values);
+    values.reverse();
 
     console.log(values);
     return values[0];

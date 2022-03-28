@@ -23,7 +23,7 @@ go to the grove, ask about whether fig has replied, and ask what the hell corell
 
 "hi. I need to talk to someone." she wishes she could talk to fig. 
 
-she does really like the rose. but why is it LOOKING at her. 
+she does really like the rose. but why is it LOOKING at her???
 
 ### On the party 
 
@@ -75,4 +75,6 @@ warm and friendly laugh, talking to other people
 "I was wondering when you'd come talk to me"
 OR, if they've noticed the eye contact and seem interested but aren't coming over...
 "okay, you win. I'm Adrienne. do you want to buy me a drink or do I just have something in my teeth"
+
+--------
 

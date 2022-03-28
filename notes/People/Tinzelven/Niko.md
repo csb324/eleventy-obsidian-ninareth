@@ -28,8 +28,20 @@ Slept with [[Adrienne Spout|Adrienne]]
 
 He's on his way to [[Jalantar]] with us, to get our gems appraised for Klipitz. 
 
-He knows more than he lets on -- he's a voter, and engaged with [[The Providers]] in Tinzelven. [[Professor Leonard Klipitz]] paid him in land, so now he's a voter in Arkhosia, which is something he takes seriously. He also knows *of* [[Julian Slater-Runehorn|Julian]], more than [[Adrienne Spout|Adrienne]] expected.
+Treasurer for [[The Providers]] in Tinzelven. [[Professor Leonard Klipitz]] paid him in land, so now he's a voter in Arkhosia, which is something he takes seriously. 
+
+## past lives
+Niko used to live in zalev. And when he lived in zalev, he was a notorious criminal - but the crime was freeing slaves. He was known as The Hunter. 
+
+
 
 #### Known aliases
 - Mr. Business [[session-7]]
+- Yelten sviethe, a redscale student
+	- via fake documents in his room at [[The Sheath and Sickle]]
+- Giorgan, a merchant from zalev 
+	- via fake documents in his room at [[The Sheath and Sickle]]
+- The Hunter
+	- 
+
 

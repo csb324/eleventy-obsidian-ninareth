@@ -19,5 +19,9 @@ Home: Redscale
 Upon her death, we found:
 1. A little leather bag full of screams
 2. A golden diadem on her brow
+	1. This can cast sending once per day, 
+	2. attuning to it puts you in a spooky witches group chat. 
 3. A dog tag on a chain around her neck, with writing none of us know how to read. It was about to melt into her skin when [[Freya]] pulled it out with her talons. 
+	1. "auntie darkna" - seems like a name 
+	2. "The beauties of shadow" in silvan, a fey language. 
 

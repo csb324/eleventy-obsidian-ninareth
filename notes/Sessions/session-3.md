@@ -9,7 +9,7 @@ prev:
 
 # Session 3
 
-[[Costi]] does some research on [[Professor Leonard Klipitz]], at the Thrusting Trumpet. Decides he's a good man. Apologizes to Freya. 
+[[Costi]] does some research on [[Professor Leonard Klipitz]], at [[The Thrusting Trumpet]]. Decides he's a good man. Apologizes to Freya. 
 
 [[Adrienne Spout]] plays a gig with [[Left Side Haircut]] and fucking *nails* it.
 
