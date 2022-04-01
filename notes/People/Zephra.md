@@ -18,4 +18,6 @@ A craftwoman at [[The Gilded Instrument]], who specializes in the harp. Original
 
 [[Adrienne Spout|Adrienne]] needed her to repair her old broken harp. In exchange, Zephra enlisted [[Our Party]] to help track down members of the [[Arazoak]] who have turned up in [[Jalantar]], so we could find out what their plan was and stop them.
 
-It seems she (and some of the [[Arazoak]]) have been captured by the [[Zalevi Military]] -- possibly even our friends [[Captain Fretze]] and co. 
+She (and some of the [[Arazoak]]) have been captured by the [[Zalevi Military]] -- possibly even our friends [[Captain Fretze]] and co. 
+
+She's currently being held at the [[Zalevi Embassy in Jalantar]], but [[Zalevi Embassy Break-in|not for long]]. 

@@ -6,7 +6,7 @@ prev:
   - - session-17
 ---
 
-# Session 18
+# Session 18: Niko Is Missing
 
 We got back to [[The Sheath and Sickle]]; [[Niko]] was not there. After some conversation (and some spying) [[Giary]] finally decided to tell us he was worried (and made [[Innis]] and [[Qik]] leave). He said a little more about the steps he'd be taking to try to track [[Niko]] down, then left his keys on the counter and left the bar. 
 

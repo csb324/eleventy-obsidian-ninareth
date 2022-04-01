@@ -25,10 +25,12 @@ Status: Upcoming
 - A haunted [[summoning stone]] 
 
 ## The plan
-Loosely, we are thinking we will in fact send in [[Rez]] who wants to see her buddy [[Captain Fretze]] and Doha for her drawing. Then we can use [[Niko]]'s fancy exploding arrows to blow holes in the walls. hooo boy.  I sure hope [[Kara]] has given this some extra thought over the last few days. 
+Loosely, we are thinking we will in fact send in [[Rez]] who wants to see her buddy [[Captain Fretze]] and [[Doha]] for her drawing. Then we can use [[Niko]]'s fancy exploding arrows to blow holes in the walls. hooo boy.  I sure hope [[Kara]] has given this some extra thought over the last few days. 
 
 ## Preparations 
-- [ ]  Talk to Kara and find out where the prisoners are held, what kind of defenses they have in there, et cetera 
-- [ ]  go shopping??
-- [ ]  Ask bel about pixie dust possibly, to facilitate escape
+- [x]  Talk to Kara and find out where the prisoners are held, what kind of defenses they have in there, et cetera  (she didn't know)
+- [x]  go shopping??
+- [x]  Ask bel about pixie dust possibly, to facilitate escape
+
+Part one: [[session-19]]
 

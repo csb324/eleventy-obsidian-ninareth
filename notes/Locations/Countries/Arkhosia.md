@@ -46,7 +46,7 @@ Slavery is technically legal but politically unpopular. Like a 7 dollar minimum 
 |Insurgency			| Minor	 | Radical! Violent! They want a big parliament! They're down to assassinate people. Sort of a boogeyman. Maybe a rumor, invented by [[The Guardians]] to make the other guys look bad. But pamphlets exist. 	|
 |Dairymen			| Minor	 | These dudes love yaks, and farming. They just want the government to make it easier and more profitable to raise yaks. 
 |Dovetails			| Minor	| Radical pacifists. |
-|Hawktails			| Minor	| Violently radical pacifists. It's illegal to be this pacifist. |
+|[[Hawktails]]			| Minor	| Violently radical pacifists. It's illegal to be this pacifist. |
 
 # Economy
 Yaks.

@@ -16,4 +16,5 @@ Affiliation: Zalevi Military
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Zalev]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Zalevi Military]]</span></span>
 
-A [[Zalevi Military|Zalevi soldier]] who has a twin sister [[Dora]] and knows how to draw. Currently owes [[Rez]] a drawing of a sleepy [[Costi]].
+A [[Zalevi Military|Zalevi soldier]] who has a twin sister [[Dora]] and knows how to draw. Drew [[Rez]] a beautiful drawing of a sleepy [[Costi]].
+

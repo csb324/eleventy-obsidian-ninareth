@@ -18,6 +18,10 @@ There's a silenced booth in the corner for private conversations. This seems lik
 
 This place has so much character. Like, an almost excessive amount of character. The beer is not very good. [[Giary]] is so proud of this place.
 
+The bar is performance art. per [[Giary]].
+
+
+A
 
 ## NPCs
 {% include 'list-references.html', reference_data: npcs %}
