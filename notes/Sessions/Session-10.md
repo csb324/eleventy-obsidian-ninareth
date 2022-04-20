@@ -19,7 +19,7 @@ In the evening, we came across a small temple set off the path, dedicated to  [[
 - [[Father Gryuu]]: elderly orc who’s overseen the temple for about 40 years
 - Has an issue with things in the crypt going missing (incense, matches), unexplainable sounds from the crypt at night for the last couple of weeks. 
 - We went down into the crypt and discovered some sort of ghost, bulbous head and pointed ears, near the urn of Tenali. And some shadowy friends. We killed them though
-- Found a hidden [[summoning stone]], looks like a small black rock, tied to a spirit. Barely magical at this point. 
+- Found a hidden [[Summoning Stone]], looks like a small black rock, tied to a spirit. Barely magical at this point. 
 - Gryuu couldn’t figure out anything about the stone. 
 - Wayfinders keep track of where they stop along the way, so maybe they could figure out who left the stone here
 - People do come through the temple to pay their respects, and Tenali died a few months ago

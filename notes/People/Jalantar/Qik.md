@@ -19,3 +19,6 @@ One of the sex workers at [[The Fiddlers Respite]]. A copper-skinned Zalevi woma
 She's on the young side -- somewhere near age 20. She carries a dagger and seems pretty excited to use it. 
 
 A newly minted fan of [[The Miscasts]].
+
+Was recently apprehended by the [[Zalevi Military]], for unknown past offenses. She was released in the [[Zalevi Embassy Break-in]] and escaped with [[Innis]].
+

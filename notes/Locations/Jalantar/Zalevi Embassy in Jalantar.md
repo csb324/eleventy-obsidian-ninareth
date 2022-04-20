@@ -13,6 +13,8 @@ The embassy manages relationships between [[Zalev]] and [[Jalantar]].
 
 [[Captain Fretze]] told [[Rez]] to meet him there so she can pick up her drawing! [[Niko]] said to be careful.
 
+It is filled with beautiful artworks celebrating the might of the [[Zalevi Military]]. 
+
 ## NPCs
 {% include 'list-references.html', reference_data: npcs %}
 

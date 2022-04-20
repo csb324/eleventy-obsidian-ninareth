@@ -10,11 +10,11 @@ Ninarith's first boy band. Managed by the one and only [[Jenson Davour]].
 
 ### Members
 
-[[Jinx]], the frontman with everything that entails
+[[Josh]], the frontman with everything that entails
 [[Jax|Curse]], the dulcimer player and the bad boy
 [[Rian|Hex]], the drummer and kind of a fuckboy
 [[Lorian|Bewitch]], the shy pan flute player
-[[Charm]]: he is a halfling and we haven't really talked to him much.
+[[Tames|Charm]], he is a halfling and we haven't really talked to him much
 
 ## NPCs
 {% include 'list-references.html', reference_data: affiliations %}

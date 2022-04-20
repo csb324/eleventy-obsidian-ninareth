@@ -16,16 +16,21 @@ Affiliation: The Stagehands
 <span class="dataview inline-field"><span class="inline-field-key">Workplace</span><span class="inline-field-value">[[The Sheath and Sickle]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Stagehands]]</span></span>
 
-A friend that [[Niko]] is staying with in [[Jalantar]]. Owns [[The Sheath and Sickle]]. 
+Short hair, large previously broken nose, big guy. Charming, outgoing, and loves his very sticky bar.
 
-Short hair, large previously broken nose, big guy.
+### Background 
+Long-time friend of [[Niko]] is staying with in [[Jalantar]]. Owns [[The Sheath and Sickle]]. Has a lot of shared history with [[Niko]]. Friends with mutual sketchy contact [[Doriq]]
 
 He's a tickettaker in [[The Stagehands]]. 
 
-Charming, outgoing, and loves his very sticky bar.
-
 He and [[Innis]] have a troubled business history. Innis is still mad about it, Giary is not.
 
-Slept with [[Rez]]. Calls [[Costi]] Omlette.
+### Who's he to us? 
+Slept with [[Rez]]. 
+Calls [[Costi]] Omlette.
+
+Helped us rescue [[Niko]] in the [[Zalevi Embassy Break-in]], secured [[Hawktails]] disguises for us, broke in with [[Kara]] and [[Innis]], and escaped on his own. 
 
 For fifty gold, which we gave him, he's going to ask around about [[Costi's Dad]].
+
+Worked with [[The Stagehands]] to help "misplace" [[Rez]]'s [[Jalantar]] visa that was sponsored by [[Niko]]

@@ -12,7 +12,7 @@ Affiliation: The Miscasts
 Alma-Mater: Redscale
 ---
 
-# Rian (A.K.A. Hex)
+# Rian Rourx (A.K.A. Hex)
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Half-Orc</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>

@@ -2,13 +2,16 @@
 type: npc
 tags:
   - npc
+aliases:
+  - Vladimir Grosu
+  - Vladdy Daddy
 Status: unknown
 Race: Human
 Relationship: neutral
 Home: Glendan Glade
 ---
 
-# Costi's Dad
+# Costi's Dad (AKA Vladimir Grosu) (AKA Vlad)
 
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">unknown</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Human</span></span>
@@ -17,3 +20,6 @@ Home: Glendan Glade
 
 Father to [[Costi]] and [[Nadia]].
 Married to [[Costi's mom]]
+
+## Known Aliases
+Vladdy Daddy

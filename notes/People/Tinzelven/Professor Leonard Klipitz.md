@@ -27,3 +27,13 @@ Old science friend and also lost lover: [[Hanna Dimbleswelter]]
 He keeps building these robots that absolutely do not work and are 1000% more dangerous than they need to be. 
 
 He gave us gemstones! They may or may not be real, but he sent [[Niko]] with us to [[Jalantar]] to find out. Either way, we can keep them.
+([[session-16]]: they're real)
+
+### Inventions
+Dimensional anchor: 4 in long black metal spike covered in runes: use it to be sure that when you’re interacting with items changes dimensions or time, that things stay in place
+
+Ionized Leather Sack: describes it as helpful in transplanar travel
+
+Plane of Earth Auto-mine
+
+Riddle-machine: in development for [[Rez]]

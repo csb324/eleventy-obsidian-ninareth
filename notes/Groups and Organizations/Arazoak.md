@@ -9,7 +9,7 @@ A group of crimials based in [[Zalev City]] but recently spotted in [[Jalantar]]
 
 **Members (current)**
 - [[Kara]]: a trained assassin, human
-- [[Rosco]]: seems like a barbarian, human
+- [[Rosco]]: seems like a barbarian, human. Knows [[Niko]].
 - [[Drenden]]: human, shifty
 - [[Sarker]]: a dwarf and a drunk but also someone not to be trifled with
 

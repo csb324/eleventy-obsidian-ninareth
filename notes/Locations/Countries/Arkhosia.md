@@ -21,7 +21,7 @@ Country, <span class="dataview inline-field"><span class="inline-field-key">Loca
 # Politics
 
 * Not currently at war
-	* Currently *involved* in the war between the [[Slavaadi College]] and [[Mulfara]], on the side of the college.
+	* Currently *involved* in the war between the [[Locations/Countries/Slavaadi College]] and [[Mulfara]], on the side of the college.
 * Current ruling party: [[The Guardians]]
 * Ruling body: [[The Circle]] 
 	* Currently 3 guardians, 2 providers

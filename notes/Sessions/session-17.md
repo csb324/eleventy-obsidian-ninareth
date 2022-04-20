@@ -38,9 +38,9 @@ Turns out, those girls were going backstage too, because one of them had [[Rian]
 
 [[Freya]], [[Innis]], and [[Giary]] stayed in the main venue to keep an eye out for [[Niko]]. The rest of us went backstage, and [[Rez]] brought specialty drinks for the guys -- something they invented together in [[Kazan]] called a Throat Lover. 
 
-[[Jinx]] welcomed us by asking everyones name and telling us he loved us. It seems like he's *actually like this*. 
+[[Josh]] welcomed us by asking everyones name and telling us he loved us. It seems like he's *actually like this*. 
 
-[[Adrienne Spout|Adrienne]] went to talk to [[Jenson Davour|Jenson]], who was snorting [[Ghir root]] and talking business with some folks. She congratulated him on putting together such a compelling show. He said he'd asked around about [[Adrienne Spout|Adrienne]] and had heard all good things -- and wanted to make clear that he did not intend to poach her from her [[Julian Slater-Runehorn|current situation]], and that it would be great if she didn't mention that he'd offered. And anyway, he took it back (haha... unless?). She told him not to worry, and that she wouldn't mention the encounter.
+[[Adrienne Spout|Adrienne]] went to talk to [[Jenson Davour|Jenson]], who was snorting [[Ghir Root]] and talking business with some folks. She congratulated him on putting together such a compelling show. He said he'd asked around about [[Adrienne Spout|Adrienne]] and had heard all good things -- and wanted to make clear that he did not intend to poach her from her [[Julian Slater-Runehorn|current situation]], and that it would be great if she didn't mention that he'd offered. And anyway, he took it back (haha... unless?). She told him not to worry, and that she wouldn't mention the encounter.
 
 He (among may others) also said [[Rian]] was off his game tonight, and seemed exhausted -- that girl [[Jecka]] was really keeping him up late and fucking up his focus. [[Adrienne Spout|Adrienne]], who already did not like Jecka, said she'd help try to run the girls off. 
 
@@ -73,13 +73,13 @@ Rattled by this, but understanding this was possibly a frame of mind that would 
 He got a flashback: a hulking figure of a man, pointed ears, monsterous teeth. An Eberronian soldier backing away from the carnage. The huge man grabbing the soldier and throwing him to the ground, saying "we don't retreat". Hugh doesn't remember names, but remembers that he *hates* this man, which is not a feeling he likes to feel.
 
 [[Freya]] did an excellent job searching [[Jecka]]'s body, and found three things:
-1. A little leather bag full of screams
-2. A golden diadem on her brow
-3. A dog tag on a chain around her neck, with writing none of us know how to read. It was about to melt into her skin when [[Freya]] pulled it out with her talons. 
+1. A little leather [[Bag of Screams]]
+2. A golden diadem on her brow, [[Circlet of Sending]]
+3. A [[Beauties of Shadow Dog Tag]] on a chain around her neck, with writing none of us know how to read. It was about to melt into her skin when [[Freya]] pulled it out with her talons. 
 
 We got back to the green room, and [[Giary]] suggested we get the fuck out of there. He's right, probably. But [[Rez]] wanted to close the loop with [[Jenson Davour]]. So the rest of us went back through [[The Promenade]] to [[The Sheath and Sickle]], and [[Adrienne Spout|Adrienne]] let [[Giary]] know that she would not hesitate to burn his bar to the ground if he didn't get [[Rez]] back safely. 
 
-On the walk back, [[Hugh]] told [[Costi]] he hadn't shared everything about [[Costi's Dad]]. He pulled out a patch, which for [[Hugh]] is difficult to read. It says
+On the walk back, [[Hugh]] told [[Costi]] he hadn't shared everything about [[Costi's Dad]]. He pulled out [[Vlad Grosu Patch]], which for [[Hugh]] is difficult to read. It says
 
 > Vladimir Grossu 
 > Corporal 

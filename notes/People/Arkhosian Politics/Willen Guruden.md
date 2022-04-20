@@ -25,18 +25,17 @@ Location: Guruden Estate
 
 Pronounced *gu ru DEN*
 
-* He owns most of [[Tinzelven]]. Or, at least half. 
-* A known military fellow. 
-* His sister [[Quillette Guruden]] is on [[The Circle]]
-* He started calling himself "Captain" and the [[Tinzelven Town Guard]] was like, "sure."
-- Wearing an untouched breastplate with an elaborate G on it
-- Carrying a gorgeous longsword
+### Background 
+He owns most of [[Tinzelven]]. Or, at least half.  A known military fellow. 
+
+His sister [[Quillette Guruden]] is on [[The Circle]]
+
+He started calling himself "Captain" and the [[Tinzelven Town Guard]] was like, "sure." Wears an untouched breastplate with an elaborate G on it, and carrys a gorgeous longsword
 
 Very formal type of fellow. He will correct your posture. He did it to [[Korvae]]. 
 
+### Who's he to us?  
 He's friendly, to our faces. 
-
-[[Julian Slater-Runehorn]] once attended a party at his mansion, and brought [[Adrienne Spout]] to play the harp. (Willen has given adreinne compliments about this.)
 
 Something killed his yaks and he hired us to look into it. It turns out, the yaks had been killed by bear-riding [[Gruung]] in the [[Vrolbekk Forest]] next to his house. We killed the Gruung and extracted information from the last one (that the Gruung are preparing an attack on the town the next morning). He invited us to lunch, where we talked about politics.
 

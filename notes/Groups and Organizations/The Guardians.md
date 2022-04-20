@@ -5,7 +5,7 @@ tags:
 Based-in: Arkhosia
 ---
 
-### The Guardians
+# The Guardians
 
 <span class="dataview inline-field"><span class="inline-field-key">Based in</span><span class="inline-field-value">[[Arkhosia]]</span></span>
 

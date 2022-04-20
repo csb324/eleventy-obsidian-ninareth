@@ -11,7 +11,7 @@ Home: Zalev
 Affiliation: The Miscasts
 ---
 
-# Jax (A.K.A. Curse)
+# Jax Parnet (A.K.A. Curse)
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Other</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>

@@ -6,11 +6,11 @@ tags:
 Location:
   - Zalev
   - Arkhosia
-  - Slavaadi College
+  - Locations/Countries/Slavaadi College
 ---
 
 # Vrolbekk Forest
-Forest passing through <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Zalev]]</span></span>, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Arkhosia]]</span></span>, and <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Slavaadi College]]</span></span>
+Forest passing through <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Zalev]]</span></span>, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Arkhosia]]</span></span>, and <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Locations/Countries/Slavaadi College]]</span></span>
 
 ## NPCs
 

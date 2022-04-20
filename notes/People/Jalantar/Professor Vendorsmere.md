@@ -16,8 +16,18 @@ Home: Jalantar
 <span class="dataview inline-field"><span class="inline-field-key">Workplace</span><span class="inline-field-value">[[Redscale]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Jalantar]]</span></span>
 
-A [[Redscale]] professor of sword skills and the arcane. A follower of [[Oghma]] and friend of [[Father Thronestone]]. 
-
 An older human man with a long ponytail.
 
-Used to be at the [[Slavaadi College (college)]]. 
+### Background
+A [[Redscale]] professor of sword skills and the arcane, has an office at the [[Burbank FIT]]. A follower of [[Oghma]] and friend of [[Father Thronestone]]. 
+
+Been at the Academy for 7 or 8 years, used to teach at [[The Slavaadi College]]
+
+### Who's he to us?
+Training [[Costi]] in magical swordwork, gave him two spells to study: 
+	Armor of Agathys 
+	Mirror Image
+
+Says Costi’s sword is a complicated enchantment and yet has something "empty" in the magic. Says he’s never encountered something like this before, and he’s seen his fair share of weapons.
+
+Offered to connect [[Costi]] and [[Rez]] to colleagues in conjuration and transmutation at the [[The Slavaadi College]]

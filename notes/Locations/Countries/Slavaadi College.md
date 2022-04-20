@@ -14,6 +14,7 @@ status: [[College-Mulfara Conflict]]
 
 
 ## Points of Interest
+[[The Slavaadi College]]
 {% include 'list-references.html', reference_data: points_of_interest %}
 
 ## NPCs

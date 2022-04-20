@@ -11,7 +11,7 @@ Home: Zalev
 Affiliation: The Miscasts
 ---
 
-# Lorian (A.K.A. Bewitch)
+# Lorian Vournae (A.K.A. Bewitch)
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Elf</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>

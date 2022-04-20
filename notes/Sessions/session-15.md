@@ -32,7 +32,7 @@ As the gang started to flee, [[Quarrin Witherspoon|Witherspoon]] came out with a
 
 Witherspoon told us this was unsanctioned and that Lish was a hothead. It turns out, everyone involved is a member of [[The Stagehands]]. 
 
-We talked to [[Quarrin Witherspoon|Witherspoon]] for a bit while we cleaned ourselves up. Adrienne mentioned the [[Zalevi Military]] was involved in the raid at [[Fridian's Favor]], so we really weren't the problem. That seemed to make sense to Witherspoon. Looking to build a relationship, we then offered more information in exchange for some unknown amount of gold. [[Freya]] had the idea to share info on the [[summoning stone]] from the [[Temple of Pelor outside Jalantar]], and [[Quarrin Witherspoon|Witherspoon]] decided that was juicy enough. 
+We talked to [[Quarrin Witherspoon|Witherspoon]] for a bit while we cleaned ourselves up. Adrienne mentioned the [[Zalevi Military]] was involved in the raid at [[Fridian's Favor]], so we really weren't the problem. That seemed to make sense to Witherspoon. Looking to build a relationship, we then offered more information in exchange for some unknown amount of gold. [[Freya]] had the idea to share info on the [[Summoning Stone]] from the [[Temple of Pelor outside Jalantar]], and [[Quarrin Witherspoon|Witherspoon]] decided that was juicy enough. 
 
 ([[Rez]] tried to pocket the gold, with the argument that she's the one who he was physically speaking to at the time. The rest of the party did not agree with this. [[Adrienne Spout|Adrienne]] thought it should be split up, but [[Freya]] suggested we keep the 50 gold as party funds. We now have party funds!)
 

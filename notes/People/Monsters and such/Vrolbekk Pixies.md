@@ -27,7 +27,6 @@ They then followed us to [[Tinzelven]] and eventually [[Jalantar]]. We have prom
 Bel has a bit of a crush on [[Innis]]. He's a figher for justice, and he's got his eye on you. He doesn't trust people, and for good reasons.
 
 ## Klida 
-
 More of a magic user, and more friendly than her brother.
 
 

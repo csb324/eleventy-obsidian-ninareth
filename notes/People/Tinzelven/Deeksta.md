@@ -17,7 +17,7 @@ Home: Tinzelven
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Tinzelven Town Guard]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Tinzelven]]</span></span>
 
-Town guard in Tinzelven. Likes to play cards. Says Rez is trouble.
+De facto Captain of the[[Tinzelven Town Guard]] Likes to play cards. Says Rez is trouble.
 
 Friends with [[Niko]]
 Slept with [[Rez]]

@@ -23,8 +23,8 @@ Next stop: [[Guruden Estate]]. [[Brent]] let us in and gave us something to read
 
 When he finally had time for us, he gave us our reward for helping the town!
 - 500 gold
-- An [[ivory pistol]]
-- A [[Gust fan]]
+- An [[Ivory Pistol]]
+- A [[Gust Fan]]
 - A potion of Lightning Breath
 - a Cloak of Elvenkind
 
