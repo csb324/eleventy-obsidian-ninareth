@@ -63,6 +63,8 @@ Combat ensued!!
 
 [[Hugh]] had tried a few times to heal [[Rian]] and wake him up, but it hadn't worked. Toward the end of the fight, [[Jecka]] knocked [[Costi]] unconscious and was getting away. And [[Hugh]] once again asked [[TrueSilver]] for assistance.
 
+![](/assets/obsidian/If%20you%20won't%20help.jpeg)
+
 > "If you're not going to help me heal, help me *hurt*"
 > - [[Hugh]]
 

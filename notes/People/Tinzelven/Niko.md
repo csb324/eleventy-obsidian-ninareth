@@ -6,7 +6,10 @@ Status: alive
 Relationship: neutral
 Race: Earth Genasi
 Home: Tinzelven
-Class: Ranger
+Class:
+  - Ranger
+  - Fighter
+Affiliation: Burn It All Down Party
 ---
 
 # Niko 
@@ -16,6 +19,8 @@ Class: Ranger
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Earth Genasi</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Tinzelven]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Ranger</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Fighter</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Burn It All Down Party]]</span></span>
 
 An Earth genasi with tall granite gray skin with an opaque complexion, flecks of emerald and ruby dust dotting their skin, with a long black braid.
 
@@ -26,16 +31,21 @@ Works for [[Professor Leonard Klipitz]] as a miscellaneous combat-capable assist
 Has a good friend “Uru” , a large 12 point elk, and a good friend in [[Jalantar]] named [[Giary]]
 
 ### Past Lives
-Niko used to live in [[Zalev]]. And when he lived in Zalev, he was a notorious criminal - but the crime was freeing slaves. He was known as The Hunter. 
+
+Born in [[Deregheir]], he and his family were taken to [[Zalev]] and enslaved when he was young. when he was old enough, he joined the [[Zalevi Military]] just long enough to get combat training, then killed his unit (with the other enslaved soldiers). 
+
+He became a notorious criminal - but the crime was freeing slaves. He was known as The Hunter. Then he moved to [[Tinzelven]] and started getting politically involved in [[Arkhosia]]. That's where he linked up with the [[Burn It All Down Party]]. 
 
 ### Who's he to us? 
 Friends with [[Deeksta]]
 Slept with [[Adrienne Spout|Adrienne]]
-Secretly manipluating/mentoring [[Costi]]
+Manipluating/mentoring [[Costi]]
 
 Traveled to [[Jalantar]] with [[Our Party]], to get our gems appraised for Klipitz. Staying with friend and miscreant [[Giary]] 
 
-Has a working knowledge of [[Julian Slater-Runehorn|Julian]]'s work, but claims he wouldn't be known by him - mistrusts [[Adrienne Spout|Adrienne]] becuase of it. 
+Has a working knowledge of [[Julian Slater-Runehorn|Julian]]'s efforts, but claims he wouldn't be known by him - mistrusts [[Adrienne Spout|Adrienne]] becuase of it. 
+
+Introducing us to his "associates" in (what we're calling) the [[Burn It All Down Party]] at their secret headquartes [[The Furnace]]
 
 
 ### Related Items

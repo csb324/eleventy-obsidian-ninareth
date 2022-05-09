@@ -8,6 +8,7 @@ prev:
 
 
 # Session 5: whats up with these yaks
+![](/assets/obsidian/comic%208.jpeg)
 
 We visited the [[Guruden Estate]], where the [[Brent|porter]] showed us to the scene of the yak crime. [[Freya]] spoke with the witnesses (two yaks named Steven and ... something that started with a T) and got a description of, you guessed it, [[Gruung]]. Riding bears! [[Brent]] got us a bit more background on [[Gruung]] from the library at the [[Guruden Estate]].
 

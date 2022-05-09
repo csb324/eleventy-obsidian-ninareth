@@ -7,6 +7,8 @@ prev:
 ---
 
 # Session 4: morning after
+![](/assets/obsidian/comic%206.jpeg)
+![](/assets/obsidian/comic%207.jpeg)
 
 [[Rez]] wakes up with [[Deeksta]] and finds out about some jobs the [[Tinzelven Town Guard]] might need help with:
 - [[Willen Guruden]] had some yaks killed last night, and he's the captain, so it semes like he's gonna pay more.

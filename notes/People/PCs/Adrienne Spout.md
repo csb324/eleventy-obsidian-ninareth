@@ -11,6 +11,7 @@ Affiliation:
   - Our Party
   - Church of Corellon Larethian
 Class: Bard
+Pronouns: " she/hers"
 ---
 
 # Adrienne
@@ -23,6 +24,7 @@ Class: Bard
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Our Party]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Church of Corellon Larethian]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Bard</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> she/hers</span></span>
 
 A half-elf bard from [[Ru'Nileth]], who attended [[Redscale]]. She once worked at [[The Gilded Instrument]], and then upon graduation took an apprenticeship with a man named [[Julian Slater-Runehorn|Julian]]. She is now on a sabbatical, and trying to get a harp repaired so she can return it to the [[Temple of Corellon Outside Quaath]]. 
 

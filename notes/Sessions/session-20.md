@@ -40,9 +40,9 @@ More combat! Punches: punched! Spears: Thrown! [[Freya]]: Temporarly trapped on 
 [[Hugh]] got the killing blow on [[Sogha]], who was retreating -- which would have been incredibly bad for us, since she had figured out who we were under the masks. This is the second time that's happened to him lately. Hopefully that won't have psychological repercussions! 
 
 ## Rescue
-Finally, we were able to track down a ring of keys and set the four prisoners free ([[Niko]], [[Rosco]], [[Zephra]], and [[Kel]]). [[Niko]] asked what our plan was, and we told him we were going to go back upstairs and make it look like we'd been innocent, terrified bystanders. Except, we were covered in blood, so this might be a tougher sell than we thought. Anyway, [[Niko]] had a better idea -- he could take us as hostages. 
+Finally, we were able to track down a ring of keys and set the four prisoners free ([[Niko]], [[Rosco]], [[Zephyra]], and [[Kel]]). [[Niko]] asked what our plan was, and we told him we were going to go back upstairs and make it look like we'd been innocent, terrified bystanders. Except, we were covered in blood, so this might be a tougher sell than we thought. Anyway, [[Niko]] had a better idea -- he could take us as hostages. 
 
-We gave him [[Grounder]] back, and he aimed it at our heads. [[Zephra]] apologized to [[Adrienne Spout|Adrienne]], while holding a knife to her throat. More Zalevi guards arrived, including one who [[Niko]] seemed to know. They had a brief conversation, while we looked convincingly scared and helpless. 
+We gave him [[Grounder]] back, and he aimed it at our heads. [[Zephyra]] apologized to [[Adrienne Spout|Adrienne]], while holding a knife to her throat. More Zalevi guards arrived, including one who [[Niko]] seemed to know. They had a brief conversation, while we looked convincingly scared and helpless. 
 
 Zalevis take their responsibility as hosts very seriously. So, when the choice was "get [[Niko]] and kill the hostages" or "Let [[Niko]] go and protect those nice people we invited over," they chose the second one -- and we escaped to safety, through the sewers.
 

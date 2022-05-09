@@ -14,6 +14,8 @@ School, Deal 'Ras
 
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Deal 'Ras]]</span></span>
 
+![](/assets/obsidian/AVAD%20invite.jpeg)
+
 TL;DR
 
 ## NPCs

@@ -17,6 +17,8 @@ Home: Temple of Corellon Outside Quaath
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Church of Corellon Larethian]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Temple of Corellon Outside Quaath]]</span></span>
 
->Fig was a half-elf as well... She looked older than she acted. Her long gray hair was pulled back into a wild bun.
+>
+>Fig was a half-elf as well ... She looked older than she acted. Her long gray hair was pulled back into a wild bun.
+>
 
 Took care of [[Adrienne Spout|Adrienne]] when she got sick on the road to [[Demphinster]]. Seems like a nice lady. 

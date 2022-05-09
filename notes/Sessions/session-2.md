@@ -7,6 +7,7 @@ prev:
 ---
 
 # Session 2
+![](/assets/obsidian/comic%203.jpeg)
 
 We go get the emerald from [[Hanna Dimbleswelter]]'s lab! 
 

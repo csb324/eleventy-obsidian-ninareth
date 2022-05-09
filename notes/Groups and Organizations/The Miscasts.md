@@ -5,12 +5,13 @@ tags:
 ---
 
 # The Miscasts
+![](/assets/obsidian/Miscasts.jpg)
 
 Ninarith's first boy band. Managed by the one and only [[Jenson Davour]]. 
 
 ### Members
 
-[[Josh]], the frontman with everything that entails
+[[Jinx]], the frontman with everything that entails
 [[Jax|Curse]], the dulcimer player and the bad boy
 [[Rian|Hex]], the drummer and kind of a fuckboy
 [[Lorian|Bewitch]], the shy pan flute player

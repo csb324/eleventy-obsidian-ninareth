@@ -6,8 +6,9 @@ Based-in: Ninarith
 ---
 
 # The Zumbinis
-
 <span class="dataview inline-field"><span class="inline-field-key">Based in</span><span class="inline-field-value">[[Ninarith]]</span></span>
+
+![](/assets/obsidian/IZ.jpg)
 
 A group of adventurers, who became the heroes of [[The Three Dragons War]]. Their descendants are still running around, one assumes.
 

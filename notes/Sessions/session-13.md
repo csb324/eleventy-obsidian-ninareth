@@ -10,7 +10,7 @@ prev:
 
 Before meeting [[Niko]] for dinner, [[Costi]] found a mysterious box in his bag. It must be [[Niko]]'s! How did it get there? [[Rez|No one could possibly know]].
 
-We discussed (again) our plan not to tell [[Niko]] about the [[Zephra Affair]] and the encounter with the [[Arazoak]]. We of course did not consider that we still look like shit. As soon as he saw us, he knew something had gone down. We told him we'd discuss it in private.
+We discussed (again) our plan not to tell [[Niko]] about the [[Zephyra Affair]] and the encounter with the [[Arazoak]]. We of course did not consider that we still look like shit. As soon as he saw us, he knew something had gone down. We told him we'd discuss it in private.
 
 He took out the gems from [[Professor Leonard Klipitz]], which he got verified. They are indeed real! We have gems! [[Hugh]] took the diamond, the rest are TBD.
 

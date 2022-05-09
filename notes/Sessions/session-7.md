@@ -6,6 +6,7 @@ prev:
   - - session-6
 ---
 # Session 7: party with providers
+![](/assets/obsidian/comic%209.jpeg)
 
 [[Freya]] talked to [[Niko]] to ask about the situation with the yaks. It turns out, some of [[Professor Leonard Klipitz]]'s machines had gone on the fritz. Seems like a normal day in [[Tinzelven]], and unfortunately unrelated to *her* [[Mysterious Circles]].
 
@@ -47,5 +48,8 @@ Meanwhile, [[Hugh]] saw [[Costi]] asleep in the back storeroom, and thought, hey
 
 Costi was very embarrassed and pretty mad about it.
 
+![](/assets/obsidian/comic%2010.jpeg)
+
 Finally, just before dawn, the [[Vrolbekk Pixies]] turned up! They woke [[Rez]] and [[Adrienne Spout|Adrienne]] to say there were *dozens of gruung* thirty minutes outside the town. They also had intel on the animals involved, and wanted to know where [[Innis]] had gone (sounds like Bel has a crush). So they're going to come to [[Jalantar]] as well
 
+![](/assets/obsidian/comic%2011.jpeg)

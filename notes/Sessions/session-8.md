@@ -25,3 +25,5 @@ The rest of us got to cleaning up the [[Laborers Hall]], or, like, helping. We t
 
 Also among the dead: [[Eros]]. So, that'll be interesting.
 
+![](/assets/obsidian/comic%2012.jpeg)
+

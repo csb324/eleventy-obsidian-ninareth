@@ -11,6 +11,7 @@ Home: True North
 Affiliation:
   - Our Party
   - Wayfinders
+Pronouns: " she/hers"
 ---
 
 # Freya
@@ -21,6 +22,7 @@ Affiliation:
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[True North]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Our Party]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Wayfinders]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> she/hers</span></span>
 
 She's a wayfinder in training.
 

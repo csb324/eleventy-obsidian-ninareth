@@ -42,6 +42,15 @@ Includes:
 [[Circlet of Sending]]
 Carried by [[Adrienne Spout|Adrienne]]
 
+Chain of black and gray layered metal found on the undead sewer man body
+Carried by [[Costi]]
+
+Spell scroll from undead sewer man spell book in the [[Necromantic Underground Chapel]]
+Carried by [[Costi]]
+
+[[Shadowfell Shard]] 
+Carried by [[Rez]]
+
 ### Mundane Items:
 
 Pearl
@@ -50,6 +59,8 @@ Near flawless diamond - worth 5000gp
 
 [[Vlad Grosu Patch]]
 
+Vial of strange orange moss
+Carried by [[Hugh]]
 
 
 

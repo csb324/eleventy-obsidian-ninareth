@@ -12,15 +12,15 @@ We pursued the set of footprints coming out the back of [[Fridian's Favor]], and
 
 (First, we briefly ran into some guards and played it like we got attacked. they wanted to take us to the station for full statements, and while we tried to backtrack, the [[Vrolbekk Pixies]] saved our asses with a sleep spell. Thanks, pixies! But also, #todo: talk to guards again perhaps so we don't become suspect)
 
-Anyway, [[Kara]] said the [[Zalevi Military|Zalevis]] took [[Zephra]], [[Rosco]], and [[Drenden]]. THEY were the hoofprints. 
+Anyway, [[Kara]] said the [[Zalevi Military|Zalevis]] took [[Zephyra]], [[Rosco]], and [[Drenden]]. THEY were the hoofprints. 
 
 We should assume at this point that anyone with a horse is a member of the zalevi military. 
 
 We convinced Kara we weren't working for them, she basically figured out that we are bad at crime, and she told us to fuck off, she'd handle this. Which is good, because [[Rez]] did not want to become a fugitive in her home country (and in general, none of us want to be fugitives over this weird situation that fundamentally doesn't seem like our business).
 
-But [[Adrienne Spout|Adrienne]] stipulated that [[Zephra]] MUST get out alive, because she was going to fix Adrienne's harp in exchange for this favor, and Adrienne really didn't have 3000 gold to get it repaired elsewhere. So, leave [[Zephra]] alive, or, we would turn Kara in as well. Kara agreed, and we arranged a dead drop location. (Others found this somewhat unreasonable and demanded to know what the deal was with the harp. Adrienne agreed to discuss this with the party... later.)
+But [[Adrienne Spout|Adrienne]] stipulated that [[Zephyra]] MUST get out alive, because she was going to fix Adrienne's harp in exchange for this favor, and Adrienne really didn't have 3000 gold to get it repaired elsewhere. So, leave [[Zephyra]] alive, or, we would turn Kara in as well. Kara agreed, and we arranged a dead drop location. (Others found this somewhat unreasonable and demanded to know what the deal was with the harp. Adrienne agreed to discuss this with the party... later.)
 
-Then we went back to [[The Gilded Instrument]] to get our things, and spoke to [[Raven]] who is understandably stressed about this. But raven also said the harp repair would cost 400 gold (a friends and former employees discount), which is WAY less than[[Zephra]] had quoted us. So. 
+Then we went back to [[The Gilded Instrument]] to get our things, and spoke to [[Raven]] who is understandably stressed about this. But raven also said the harp repair would cost 400 gold (a friends and former employees discount), which is WAY less than[[Zephyra]] had quoted us. So. 
 
 We checked into  [[The Golden Gryffon]], where we're staying in the admiralty suite. It's fancy AND nautical! 
 

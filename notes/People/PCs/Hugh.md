@@ -7,6 +7,7 @@ Status: alive
 Race: Warforged
 Home: Eberron
 Affiliation: Our Party
+Pronouns: " he/they"
 Class: Cleric
 ---
 
@@ -15,6 +16,7 @@ Class: Cleric
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Warforged</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Eberron]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Our Party]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> he/they</span></span>
 
 A <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Cleric</span></span> of [[TrueSilver]].
 

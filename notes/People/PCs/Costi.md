@@ -8,6 +8,7 @@ Home: Eberron
 Affiliation: Our Party
 Alma-Mater: AVAD
 Class: Wizard
+Pronouns: " he/his"
 ---
 
 # Costi Grosu
@@ -17,6 +18,7 @@ Class: Wizard
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Our Party]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Alma Mater</span><span class="inline-field-value">[[AVAD]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Wizard</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> he/his</span></span>
 
 ## Backstory
 Teen from [[Glendan Glade]] (or perhaps not, but he definitely said the word glensdale).

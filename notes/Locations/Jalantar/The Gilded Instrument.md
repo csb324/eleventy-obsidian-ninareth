@@ -15,7 +15,7 @@ Music Store
 
 A music store in [[Jalantar]], mostly serving [[Redscale]] students. [[Adrienne Spout|Adrienne]] used to work there, as a sales clerk, which is where she met [[Raven]]. 
 
-[[Zephra]] and [[Raven]] currently work there.
+[[Zephyra]] and [[Raven]] currently work there.
 
 ## NPCs
 

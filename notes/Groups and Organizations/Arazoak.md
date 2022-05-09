@@ -14,7 +14,7 @@ A group of crimials based in [[Zalev City]] but recently spotted in [[Jalantar]]
 - [[Sarker]]: a dwarf and a drunk but also someone not to be trifled with
 
 **Members (past)**
-* [[Zephra]], a criminal mastermind
+* [[Zephyra]], a criminal mastermind
 
 ## NPCs
 {% include 'list-references.html', reference_data: affiliations %}

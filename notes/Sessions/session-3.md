@@ -8,6 +8,7 @@ prev:
 
 
 # Session 3
+![](/assets/obsidian/comic%204.jpeg)
 
 [[Costi]] does some research on [[Professor Leonard Klipitz]], at [[The Thrusting Trumpet]]. Decides he's a good man. Apologizes to Freya. 
 

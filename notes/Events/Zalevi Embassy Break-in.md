@@ -7,7 +7,7 @@ Status: Ended
 
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Ended</span></span>
 
-[[Niko]], [[Qik]], [[Zephra]], and others are being held at the zalevi embassy for extradition. We're going to break them out. 
+[[Niko]], [[Qik]], [[Zephyra]], and others are being held at the zalevi embassy for extradition. We're going to break them out. 
 
 ## The team 
 - [[Our Party]]

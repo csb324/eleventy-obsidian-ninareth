@@ -6,7 +6,7 @@ prev: session-5
 ---
 
 # Session 6: prepare for gruuuung
-
+![](/assets/obsidian/comic%205.jpeg)
 <span class="dataview inline-field"><span class="inline-field-key">prev</span><span class="inline-field-value">[[session-5]]</span></span>
 
 We left [[Willen Guruden]]'s place in awkward silence, before talking a bit about whether we were going to stay [[Gruung Attack on Tinzelven|defend the town]]  or get the hell out. [[Adrienne Spout|Adrienne]] is cautious (she isn't scared stop saying that [[Hugh]]). [[Freya]] seems interested in leaving too. 
