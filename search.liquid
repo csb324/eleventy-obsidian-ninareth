@@ -5,7 +5,8 @@ permalink: '/search.json'
   {% for post in collections.notes %} 
   { 
     "title":"{{ post.data.title }}",
-    "url":"{{ post.url | url }}" 
+    "url":"{{ post.url | url }}",
+    "debug": "{{post.data.sessionTitle}}"
   }
   {% if forloop.last == false %},{% endif %} {% endfor %}  
 ]

@@ -6,7 +6,7 @@ prev:
   - - session-11
 ---
 
-# Session 12: [[Arazoak]]s and Errands
+# Session 12: Arazoaks and Errands
 
 We pursued the set of footprints coming out the back of [[Fridian's Favor]], and managed to corner [[Kara]] in an alley. 
 

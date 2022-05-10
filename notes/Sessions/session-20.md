@@ -6,7 +6,9 @@ prev:
   - - session-19
 ---
 
-# Session 20: [[Zalevi Embassy Break-in|PRISON BREAK]]
+# Session 20: PRISON BREAK
+Mid-[[Zalevi Embassy Break-in]]!
+
 We were in the History halls of the [[Zalevi Embassy in Jalantar]], and [[Freya]] noticed a lever. At around the same time, an unrelated explosion went off. 
 
 ## Combat 1: The History Halls

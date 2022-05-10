@@ -25,7 +25,6 @@ const onlyPeople = (note) => {
 
 module.exports = {
     type: "note",
-
     eleventyComputed: {
         layout: (data) => {
             return (data.type == 'session') ? "session.html" : "note.html";

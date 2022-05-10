@@ -25,7 +25,17 @@ module.exports = function(eleventyConfig) {
             const aIndex = parseInt(a.fileSlug.split("-")[1]);
             const bIndex = parseInt(b.fileSlug.split("-")[1]);            
             return bIndex - aIndex;
-        }).filter((s) => s.data.type == "session");
+        }).filter((s) => s.data.type == "session").map((sesh) => {
+            const markdown = sesh.template.inputContent;
+            const searchFor = /# session \d+.*$/gmi;
+            const result = markdown.match(searchFor);
+            if(result) {
+                sesh.data.sessionTitle = result[0].replace("# ", "");
+            } else {
+                sesh.data.sessionTitle = sesh.data.title;
+            }
+            return sesh;
+        });
     });
 
 

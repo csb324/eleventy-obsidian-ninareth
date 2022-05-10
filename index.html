@@ -9,7 +9,7 @@ layout: default
   {% for post in collections.sessions limit: 5 %}
   <li>
     <a href="{{post.url}}" title="{{post.title}}">
-      {{post.data.title | replace: '-', ' '}}
+      {{post.data.sessionTitle | replace: '-', ' '}}
     </a>
   </li>
   {% endfor %}
