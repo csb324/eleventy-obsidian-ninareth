@@ -14,6 +14,7 @@ function replaceEmbeds(string) {
     foundEmbeds.forEach((e) => {
       if(e.match(/(\.jpe?g|\.png)/)) {
         const embedName = e.slice(3, -2);
+        console.log(embedName);
         string = string.replace(e, `![](/assets/obsidian/${encodeURI(embedName)})`);
       } else {
         const embedName = e.slice(3, -2);
@@ -179,7 +180,17 @@ function copyFiles() {
         }
       });
   
-      ncp('../Ninareth/Files', 'assets/obsidian', function(err) {
+      ncp('../Ninareth/Files', 'assets/obsidian', {
+        transform: (r, w, f) => {
+          const directories = r.path.split("/");
+          const assetFolder = directories[directories.length - 2];
+
+          if(assetFolder !== 'Files') {
+            console.log(assetFolder);
+            w.path = w.path.replace(`/${assetFolder}`, "")
+          }
+        }
+      }, function(err) {
         if(err) {
           console.log("oh no!");
           console.log(err);

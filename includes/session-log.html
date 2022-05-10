@@ -1,0 +1,9 @@
+<ul>
+  {% for post in collections.sessions  %}
+  <li>
+    <a href="{{post.url}}" title="{{post.title}}">
+      {{post.data.title | replace: '-', ' '}}
+    </a>
+  </li>
+  {% endfor %}
+</ul>
