@@ -24,6 +24,9 @@ Pronouns: " she/hers"
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Wayfinders]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> she/hers</span></span>
 
+![](/assets/obsidian/Freya.jpg)
+
+### Background
 She's a wayfinder in training.
 
 Not sure what's going on with her anger or her nature magic but isn't thrilled about it.

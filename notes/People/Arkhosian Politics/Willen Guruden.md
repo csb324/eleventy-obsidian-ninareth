@@ -12,6 +12,7 @@ Affiliation:
 Home: Tinzelven
 Location: Guruden Estate
 ---
+
 # Willen Guruden
 
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>

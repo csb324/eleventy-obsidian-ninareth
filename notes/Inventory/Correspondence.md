@@ -4,9 +4,9 @@
 #  Group Correspondence
 
 [[R]] to [[Freya]]  #mysteries  
-Freya, Excellent work, I've heard great things. In jolintar, check in with Akros, he has something for you - R
-- 
-[[Costi's Dad]] to [[Hugh]]
+Freya, Excellent work, I've heard great things. In jalantar, check in with Akros, he has something for you - R
+
+[[Costi's Dad]] to [[Hugh]] #mysteries
 Protect the family near Glendan Glade, find the stone and kiss it for me, hold the blade
 
 [[Qik]] to [[Costi]]

@@ -15,8 +15,5 @@ Most popular policy: Don't change shit.
 
 SOME Guardians want Arkhosia to further lean into the [[College-Mulfara Conflict]], I think to piss off Eberron.
 
-Important people:
-- [[Quillette Guruden]]
-
 ## NPCs
 {% include 'list-references.html', reference_data: affiliations %}

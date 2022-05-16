@@ -1,6 +1,9 @@
 ---
-{}
+type: location
+tags:
+  - location
 ---
+
 # The World
 
 ![](/assets/obsidian/world.jpg)

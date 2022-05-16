@@ -18,6 +18,8 @@ Class: Cleric
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Our Party]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> he/they</span></span>
 
+![](/assets/obsidian/Hugh.jpg)
+
 A <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Cleric</span></span> of [[TrueSilver]].
 
 Insists he's [[Costi]]'s dad. But also, wants to help Costi *FIND* his dad.
@@ -26,9 +28,9 @@ Has no memories beyond the last year or so (someone went in and scrambled his br
 
 Likes to knit. Has knit many little hats for [[Nadia]]. Likes birds?
 
-Knew [[Costi's Dad]] in the war, maybe. This part is unclear I think. Might be part of the memory loss.
+Knew [[Costi's Dad]] in the war, but his memory loss stops him from recalling the specifics. He did still have the [[Vlad Grosu Patch]], which he has given to [[Costi]] -- and he was unable to even read the writing on it. 
 
-His spiritual weapon is a flaming bird.
+His spiritual weapon is a flaming bird, or knitting needles, or perhaps a big bowl of soup.
 
 #### Known Aliases
 * "The Rebel and the Robot" (with [[Costi]])

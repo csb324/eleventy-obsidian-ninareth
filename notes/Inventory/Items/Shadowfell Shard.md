@@ -25,6 +25,6 @@ Item,  tiny black crescent moon-shaped cold crystal filled with the Shadowfell's
 
 ### notes
 
-Found at the [[Necromantic Underground Chapel]] near [[Niko]]'s [[Burn It All Down Party]] secret hideout [[The Furnace]]
+Found at the [[Necromantic Underground Chapel]] near [[Niko]]'s [[Groups and Organizations/Fire Raisers]] secret hideout [[The Furnace]]
 
 When [[Hugh]], [[Adrienne Spout|Adrienne]], and [[Rez]] touched it, they felt a bit sad. 

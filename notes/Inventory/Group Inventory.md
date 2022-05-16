@@ -26,8 +26,7 @@ Carried by [[Freya]]
 Carried by [[Costi]]
 
 [[Ivory Pistol]]
-Normally carried by [[Adrienne Spout|Adrienne]] 
-Currently at the [[Zalevi Embassy in Jalantar]]
+Carried by [[Adrienne Spout|Adrienne]] 
 
 Bag of Mischief 
 Carried by [[Rez]]
@@ -42,7 +41,7 @@ Includes:
 [[Circlet of Sending]]
 Carried by [[Adrienne Spout|Adrienne]]
 
-Chain of black and gray layered metal found on the undead sewer man body
+[[Magically Resistant Chain]]
 Carried by [[Costi]]
 
 Spell scroll from undead sewer man spell book in the [[Necromantic Underground Chapel]]
@@ -61,6 +60,9 @@ Near flawless diamond - worth 5000gp
 
 Vial of strange orange moss
 Carried by [[Hugh]]
+
+[[Magically Resistant Chain]]
+Carried by [[Costi]]
 
 
 

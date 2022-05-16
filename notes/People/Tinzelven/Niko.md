@@ -9,7 +9,9 @@ Home: Tinzelven
 Class:
   - Ranger
   - Fighter
-Affiliation: Burn It All Down Party
+Affiliation:
+  - Fire Raisers
+  - The Providers
 ---
 
 # Niko 
@@ -20,7 +22,8 @@ Affiliation: Burn It All Down Party
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Tinzelven]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Ranger</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Fighter</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Burn It All Down Party]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Fire Raisers]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Providers]]</span></span>
 
 An Earth genasi with tall granite gray skin with an opaque complexion, flecks of emerald and ruby dust dotting their skin, with a long black braid.
 
@@ -34,7 +37,7 @@ Has a good friend “Uru” , a large 12 point elk, and a good friend in [[Jalan
 
 Born in [[Deregheir]], he and his family were taken to [[Zalev]] and enslaved when he was young. when he was old enough, he joined the [[Zalevi Military]] just long enough to get combat training, then killed his unit (with the other enslaved soldiers). 
 
-He became a notorious criminal - but the crime was freeing slaves. He was known as The Hunter. Then he moved to [[Tinzelven]] and started getting politically involved in [[Arkhosia]]. That's where he linked up with the [[Burn It All Down Party]]. 
+He became a notorious criminal - but the crime was freeing slaves. He was known as The Hunter. Then he moved to [[Tinzelven]] and started getting politically involved in [[Arkhosia]]. That's where he linked up with the [[Groups and Organizations/Fire Raisers]]. 
 
 ### Who's he to us? 
 Friends with [[Deeksta]]
@@ -45,7 +48,7 @@ Traveled to [[Jalantar]] with [[Our Party]], to get our gems appraised for Klipi
 
 Has a working knowledge of [[Julian Slater-Runehorn|Julian]]'s efforts, but claims he wouldn't be known by him - mistrusts [[Adrienne Spout|Adrienne]] becuase of it. 
 
-Introducing us to his "associates" in (what we're calling) the [[Burn It All Down Party]] at their secret headquartes [[The Furnace]]
+Introduced us to his "associates" in (what we're calling) the [[Fire Raisers]] at their secret headquartes [[The Furnace]]
 
 
 ### Related Items
@@ -62,6 +65,7 @@ Fake IDs
 - Giorgan, a merchant from zalev 
 	- via fake documents in his room at [[The Sheath and Sickle]]
 - The Hunter
-	- 
+	- His nom de crimes
+
 
 

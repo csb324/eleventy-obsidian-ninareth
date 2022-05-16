@@ -2,6 +2,8 @@
 type: npc
 tags:
   - npc
+  - ? aliases
+  - Jinx
 Status: alive
 Race: Tiefling
 Relationship: neutral

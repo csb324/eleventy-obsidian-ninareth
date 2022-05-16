@@ -16,7 +16,6 @@ Affiliation: Zalevi Military
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Human</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Zalev]]</span></span>
-
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Zalevi Military]]</span></span>
 
 A tall olive skinned human, with dark braid running halfway down his back. 
@@ -34,6 +33,7 @@ He's unerringly friendly to [[Our Party]], and regards us as fun little curiosit
 
 Offered to give [[Our Party]] VIP tickets to big “demonstration festival” and insisted we travel back to [[Zalev]] with their caravan. Timing was dependent on when they get back (probably derailed now...) We assume this festival was intended to be a public execution of the slaves the gathered, primarily [[Niko]].  Volun-told us that he would help hurry along the progress of the [[Adrienne Spout|Adrienne]]'s harp repairs.
 
-Seemingly believed us to be innocent during the [[Zalevi Embassy Break-in]], left us in the care of [[Rhabu]] and went to hold the walls. Should believe [[Niko]] took [[Our Party]] hostage.
+Seemingly believed us to be innocent during the [[Zalevi Embassy Break-in]], left us in the care of [[Rhabu]] and went to hold the walls. Believes [[Niko]] took [[Our Party]] hostage, but might suspect a little bit that we're not giving him the full story.
+
 
 

@@ -8,7 +8,7 @@ prev:
 
 # Session 14: trying to do errands with mixed results
 
-First stop: [[Dragonsfire Forge]]. Hugh was there to pray and be a sweetie. Costi was there to meet a wizard -- and [[Father Thronestone]] let Costi know a few more details this time. The wizard in question is [[Professor Vendorsmere]], an instructor of arcane-swordstuff at [[Redscale]] (specifically, the Burbanks FIT). 
+First stop: [[Dragonsfire Forge]]. [[Hugh]] was there to pray and be a sweetie. [[Costi]] was there to meet a wizard -- and [[Father Thronestone]] let Costi know a few more details this time. The wizard in question is [[Professor Vendorsmere]], an instructor of arcane-swordstuff at [[Redscale]] (specifically, the Burbanks FIT). 
 
 [[Rez]] wanted her face fixed. And, by god, she got her face fixed -- the copper scales now have a seam of silver running through them. It was painful, and expensive! Did she have the money? You bet she didn't. So, now she's signed up to spend two weeks working off her debt to the temple of [[Moradin]]. She's okay at it. 
 
