@@ -8,7 +8,7 @@ Location: Arkhosia
 # Jalantar
 City, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Arkhosia]]</span></span>
 
-![](/assets/obsidian/jalantar-textured.jpg)
+![](/assets/obsidian/jalantar-textured.jpeg)
 
 The second major city in [[Arkhosia]], Jalantar is the birthplace of [[Lillith Redscale]]. They really like that fact. 
 

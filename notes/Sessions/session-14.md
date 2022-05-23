@@ -30,7 +30,7 @@ They then went to the [[Burbank FIT]] to try to make an appointment with [[Profe
 
 Finally we reconvened. We found out that [[Rez]] is a bit sloppy with her ironwork, so [[Costi]] bet her a platinum piece if she could do five perfect pours in a row. [[Adrienne Spout|Adrienne]] and [[Rez]] talked about the importance of learning your scales on a musical instrument, but admittedly harp is [[Adrienne Spout|Adrienne]]'s number one passion in life, and ironworking is something Rez picked up today to get out of paying 100 gold, so it's not exactly the same situation. 
 
-On our way out of the praise district, we thought we'd drop off the [[Summoning Stone]] at the [[Temple of Pelor in Jalantar]]. They wouldn't take it, (specifically, a dragonborn named [[Ickthin]]) but they're going to let us make an appointment. [[Rez]] has the stone now.
+On our way out of the praise district, we thought we'd drop off the [[Summoning Stone]] at the [[Temple of Pelor in Jalantar]]. They wouldn't take it, (specifically, a dragonborn named [[Ickthin]]) but they're going to let us make an appointment. [[Rez]] has the stone now. 
 
 [[Adrienne Spout|Adrienne]] bought a forgery kit, and [[Costi]] couldn't find a lockpicking kit - but we went to a cheap music store and found him a Karimba to disassemble. The little narrow teeth-guys might work in a jam.
 

@@ -14,7 +14,7 @@ Status: " Depleted"
 <span class="dataview inline-field"><span class="inline-field-key">Origin</span><span class="inline-field-value">[[The Sheath and Sickle]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value"> Depleted</span></span>
 
-Item,  
+Item
 
 A fancy silver inlaid ring with a large ruby . If you speak the command word “Ashes”, the ring casts delayed blast fireball, as though you held  concentration for the full duration. 
 

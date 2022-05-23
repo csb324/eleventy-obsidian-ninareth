@@ -28,7 +28,7 @@ Affiliation:
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Laborers Hall]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Bliken's Forge]]</span></span>
 
-Renowned blacksmith in the [[Southern Cities]]
+Renowned blacksmith in the [[Southern Cities]], based out of [[Tinzelven]]
 
 He's an [[Arkhosian Delegates|Arkhosian Delegate]] (is this right? he and [[Victor]] are both delegates? that seems like a lot of delegates). He worships [[Moradin]], a dwarfish god of the forge.
 

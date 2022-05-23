@@ -7,6 +7,8 @@ prev:
 ---
 
 # Session 10: the road and the chapel
+![](/assets/obsidian/comic%2013.jpeg)
+
 On our way to [[Jalantar]]! 
 
 > Along the path from [[Tinzelven]] to Jalantar, we were hit by a smell. 14 humanoid bodies litter the clearing, damage to surrounding plants shows fighting with weapons. At least a few were killed in slings hung in the trees, like they were ambushed. Ragtag armor with no insignia or delineation is clear. Seem to have only been dead about a day, wounds enter from upwards, as though on horseback or very tall. Were not (thoroughly) looted. [[Niko]] inferred they were killed by the [[Captain Fretze|Zalevi guard contingent]]

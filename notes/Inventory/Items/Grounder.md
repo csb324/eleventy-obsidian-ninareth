@@ -12,7 +12,7 @@ Origin: The Sheath and Sickle
 #  Grounder
 
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[Niko]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Carried by</span><span class="inline-field-value">[[Niko]] </span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Carried by</span><span class="inline-field-value">[[Niko]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Origin</span><span class="inline-field-value">[[The Sheath and Sickle]]</span></span>
 
 Item, Bow

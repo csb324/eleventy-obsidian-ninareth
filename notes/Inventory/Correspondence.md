@@ -24,3 +24,5 @@ Hey Vask, things are CRAZY, I’m in Jalantar, I saw the Miscasts again, they’
 
 Notes of Favor from [[Willen Guruden]] to [[Rez]] and [[Hugh]]
 “Help them out, W.G.”
+
+[[Operation Incriminating Letters|Two letters]] -- One to [[Norathar Pent]], one to [[Vigo Underswell]]. Sealed. We got them from the [[Fire Raisers]]. 

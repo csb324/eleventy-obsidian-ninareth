@@ -30,4 +30,9 @@ If we pull it off, the [[Fire Raisers]] will introduce us to someone who thinks 
 If we *warn* the targets, we will royally piss off the [[Fire Raisers]]. 
 
 ## Plan
-We have five days. Plan TBD
+We have four days, and we're starting with recon.
+
+Team [[Adrienne Spout|Adrienne]] [[Costi]] and [[Hugh]] are going to see if public records have any intel
+Team [[Rez]] [[Freya]] and [[Twigs]] are going to scout  [[The Promenade]] and try to spy on [[Norathar Pent]]
+
+We're all meeting with [[Giary]] to discuss contracting [[The Stagehands]] help.

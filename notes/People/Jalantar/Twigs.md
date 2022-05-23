@@ -26,3 +26,5 @@ Associate of [[Niko]], works under [[Cinder]], part of the [[Fire Raisers]]
 
 ### Who're they to us? 
 Helping our party with [[Operation Incriminating Letters]].
+
+![](/assets/obsidian/Twigs%20Crop.jpg)

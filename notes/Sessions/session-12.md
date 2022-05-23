@@ -24,7 +24,7 @@ Then we went back to [[The Gilded Instrument]] to get our things, and spoke to [
 
 We checked into  [[The Golden Gryffon]], where we're staying in the admiralty suite. It's fancy AND nautical! 
 
-[[Hugh]] went to the front desk and asked where he might get a repair. The concierge recommended [[St Jitterbig's Devotional Workshop]] in the [[Praise District]], so off he went. 
+[[Hugh]] went to the front desk and asked where he might get a repair. The [[Uulin|concierge]] recommended [[St Jitterbig's Devotional Workshop]] in the [[Praise District]], so off he went. 
 
 [[Adrienne Spout|Adrienne]] was also heading to the [[Praise District]], and [[Costi]] came with her to try to find [[Hugh]]. meanwhile, [[Freya]] and [[Rez]] went to the [[Jalantar Wayfinders Outpost]] to check in.
 

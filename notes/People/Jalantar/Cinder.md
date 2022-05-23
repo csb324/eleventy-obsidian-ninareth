@@ -5,7 +5,7 @@ tags:
 Status: alive
 Race: half-orc
 Relationship: neutral
-Affiliation: Groups and Organizations/Fire Raisers
+Affiliation: Fire Raisers
 Location: The Furnace
 Pronouns: " he/his"
 ---
@@ -14,7 +14,7 @@ Pronouns: " he/his"
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">half-orc</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Groups and Organizations/Fire Raisers]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Fire Raisers]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[The Furnace]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> he/his</span></span>
 

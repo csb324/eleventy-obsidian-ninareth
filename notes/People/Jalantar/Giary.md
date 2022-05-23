@@ -16,6 +16,8 @@ Affiliation: The Stagehands
 <span class="dataview inline-field"><span class="inline-field-key">Workplace</span><span class="inline-field-value">[[The Sheath and Sickle]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Stagehands]]</span></span>
 
+![](/assets/obsidian/Giary%20Crop.jpg)
+
 Short hair, large previously broken nose, big guy. Charming, outgoing, and loves his very sticky bar.
 
 ### Background 

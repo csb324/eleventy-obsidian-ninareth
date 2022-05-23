@@ -2,7 +2,7 @@
 type: npc
 tags:
   - npc
-  - ? aliases
+aliases:
   - Jinx
 Status: alive
 Race: Tiefling

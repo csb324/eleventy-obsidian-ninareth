@@ -28,9 +28,9 @@ tags:
 - In a few months, [[Costi]] is invited to [[Arkhosia (City)]] to see what democracy looks like.
 
 ## Quick Guide
-
 Our [[Group Inventory]]
 Our [[Correspondence]]
+
 
 ![](/assets/obsidian/our%20party%20group%203.jpeg)
 

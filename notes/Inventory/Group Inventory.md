@@ -2,11 +2,11 @@
 {}
 ---
 # Group Inventory
-Gold - 4726
+Gold - 5476
 
 ### Potions:
 Greater healing - 0 
-Regular healing - 4
+Regular healing - 0
 
 ### Magic Items:
 
@@ -55,6 +55,7 @@ Carried by [[Rez]]
 Pearl
 
 Near flawless diamond - worth 5000gp 
+Carried by [[Hugh]]
 
 [[Vlad Grosu Patch]]
 

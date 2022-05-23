@@ -5,8 +5,7 @@ tags:
 ---
 
 # The World
-
-![](/assets/obsidian/world.jpg)
+![](/assets/obsidian/3451%20Ninarith.jpeg)
 
 It is the year 3451, exactly 350 years since the Second Sundering.
 

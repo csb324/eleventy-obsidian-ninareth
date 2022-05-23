@@ -20,3 +20,7 @@ It is filled with beautiful artworks celebrating the might of the [[Zalevi Milit
 
 ## Points of Interest
 {% include 'list-references.html', reference_data: points_of_interest %}
+
+## Map 
+![](/assets/obsidian/Zalev%20Embassy%201.jpg)
+![](/assets/obsidian/Zalev%20Embassy%202.jpg)

@@ -10,7 +10,7 @@ prev:
 # Session 5: whats up with these yaks
 ![](/assets/obsidian/comic%208.jpeg)
 
-We visited the [[Guruden Estate]], where the [[Brent|porter]] showed us to the scene of the yak crime. [[Freya]] spoke with the witnesses (two yaks named Steven and ... something that started with a T) and got a description of, you guessed it, [[Gruung]]. Riding bears! [[Brent]] got us a bit more background on [[Gruung]] from the library at the [[Guruden Estate]].
+We visited the [[Guruden Estate]], where the [[Brent|porter]] showed us to the scene of the yak crime. (We also met [[Jalop]], a farmhand). [[Freya]] spoke with the witnesses (two yaks named Steven and ... something that started with a T) and got a description of, you guessed it, [[Gruung]]. Riding bears! [[Brent]] got us a bit more background on [[Gruung]] from the library at the [[Guruden Estate]].
 
 We went into the woods to try to locate the [[Gruung]], thinking of setting a trap for them. We also talked to [[Costi]] about [[Samuel]] -- who refuses to communicate with [[Costi]] but nonetheless warned us that in fact the [[Gruung]] were waiting for US!
 

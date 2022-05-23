@@ -10,6 +10,8 @@ prev:
 
 We entered into [[Jalantar]] (through [[The Maw]] to [[The Promenade]] which is very stressful btw) and went more or less directly to  [[The Gilded Instrument]], where [[Raven]] welcomed adrienne warmly. Having a look at adrienne's harp, she pulled in a half-elf half-tiefling from the back room -- an absolute badass named [[Zephyra]].
 
+![](/assets/obsidian/comic%2014.jpeg)
+
 Zephra said she could fix the harp for 3000 gold, *or* our group's help with a favor. After some negotiation, Adrienne agreed to pay costi and hugh 50 gold, and forgive rez's debt -- and [[Zephyra]] threw in some backstage passes for [[Rez]]'s [[The Miscasts|concert]].
 
 **The situation**

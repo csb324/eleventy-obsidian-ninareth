@@ -28,7 +28,7 @@ Has no memories beyond the last year or so (someone went in and scrambled his br
 
 Likes to knit. Has knit many little hats for [[Nadia]]. Likes birds?
 
-Knew [[Costi's Dad]] in the war, but his memory loss stops him from recalling the specifics. He did still have the [[Vlad Grosu Patch]], which he has given to [[Costi]] -- and he was unable to even read the writing on it. 
+Knew [[Costi's Dad]] in the war, but his memory loss stops him from recalling the specifics. He did still have the [[Vlad Grosu Patch]], which he has given to [[Costi]] -- and he was unable to even read the writing on it. #mysteries 
 
 His spiritual weapon is a flaming bird, or knitting needles, or perhaps a big bowl of soup.
 

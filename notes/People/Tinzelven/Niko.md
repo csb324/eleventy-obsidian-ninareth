@@ -25,6 +25,8 @@ Affiliation:
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Fire Raisers]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Providers]]</span></span>
 
+![](/assets/obsidian/Niko%20Crop.jpg)
+
 An Earth genasi with tall granite gray skin with an opaque complexion, flecks of emerald and ruby dust dotting their skin, with a long black braid.
 
 ### Background
