@@ -2,7 +2,7 @@
 {}
 ---
 # Group Inventory
-Gold - 5476
+Gold - 2,199
 
 ### Potions:
 Greater healing - 0 
@@ -33,10 +33,20 @@ Carried by [[Rez]]
 Includes:
 	[[Immovable Rod]]
 	Nets - 10
-	Ball bearings
+	Ball bearings - I
 	Tar
-	Oil
+	Oil - I
 	[[Vrolbekk Pixies]] dust - 5 vials
+	Chain
+    cheap locks
+    Chalk
+    Sand
+    a few different sizes of bags
+    some scarves
+    thin wire
+    Bells
+    Stakes, small metal
+    hammer set (6 sizes, quite small to normal size)
 
 [[Circlet of Sending]]
 Carried by [[Adrienne Spout|Adrienne]]
@@ -51,11 +61,10 @@ Carried by [[Costi]]
 Carried by [[Rez]]
 
 ### Mundane Items:
-
-Pearl
-
-Near flawless diamond - worth 5000gp 
-Carried by [[Hugh]]
+Gems:
+	Pearl
+	Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
+	Small diamonds - 500gp worth
 
 [[Vlad Grosu Patch]]
 
@@ -65,5 +74,7 @@ Carried by [[Hugh]]
 [[Magically Resistant Chain]]
 Carried by [[Costi]]
 
+Disguise kit
+Carried by [[Adrienne Spout|Adrienne]]
 
 

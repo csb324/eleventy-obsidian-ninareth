@@ -71,3 +71,8 @@ The trove of all of our campaign art <3
 ![](/assets/obsidian/jalantar-textured.jpeg)
 
 ![](/assets/obsidian/3451%20Ninarith.jpeg)
+
+### Animations
+**[[Riddles GIF.gif]]**
+
+**[[Adrienne harp vine.gif]]**

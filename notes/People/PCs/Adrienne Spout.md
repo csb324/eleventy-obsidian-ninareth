@@ -34,3 +34,4 @@ A half-elf bard from [[Ru'Nileth]], who attended [[Redscale]]. She once worked a
 * Mud - [[session-5]]
 * Amy - [[session-15]]
 
+**[[Adrienne harp vine.gif]]**

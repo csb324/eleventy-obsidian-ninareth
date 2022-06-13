@@ -7,6 +7,7 @@ prev:
 ---
 
 # Session 12: Arazoaks and Errands
+![](/assets/obsidian/comic%2015.jpeg)
 
 We pursued the set of footprints coming out the back of [[Fridian's Favor]], and managed to corner [[Kara]] in an alley. 
 
@@ -28,7 +29,7 @@ We checked into  [[The Golden Gryffon]], where we're staying in the admiralty su
 
 [[Adrienne Spout|Adrienne]] was also heading to the [[Praise District]], and [[Costi]] came with her to try to find [[Hugh]]. meanwhile, [[Freya]] and [[Rez]] went to the [[Jalantar Wayfinders Outpost]] to check in.
 
-Freya spoke to (old man) and asked about [[Akros]], as she was directed to do by [[R]]. Akros is out of town but she will keep checking in!
+Freya spoke to (old man) and asked about [[Akros]], as she was directed to do by [[Rowley]]. Akros is out of town but she will keep checking in!
 
 [[Rez]] mentioned to the wayfinder there that [[Father Gryuu]] could probably use more company, and fewer ghosts. Also mentioned the death of [[Tenali]], who was (it turns out) a dear friend of this guy. 
 

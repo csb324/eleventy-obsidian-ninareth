@@ -25,5 +25,9 @@ Leader in the [[Fire Raisers]] that seems to be in charge of [[The Furnace]]. Th
 ### Background 
 Was a fisherman in [[Kazdi]] (a town in [[Arkhosia]] that no longer exits. Most of the land was confiscated by Circler Ichlior and turned it into a private resort). He spent a few years in the military, then tried to get into politics but found it impossible to do so, because he's just some guy. Instead, he and his friends joined the [[Fire Raisers]] very early. He wasn't a *founder*, but he was probably a *founding member*.
 
-### Who're they to us? 
-Helping our party with the political unseating we're doing for the [[Groups and Organizations/Fire Raisers]]
+### Who's he to us? 
+Helping our party with the political unseating we're doing for the [[Fire Raisers]]
+
+Leading the effort to reward us for saving [[Niko]] in the [[Zalevi Embassy Break-in]]
+
+Hired us for [[Operation Incriminating Letters]] 

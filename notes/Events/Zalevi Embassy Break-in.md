@@ -35,3 +35,12 @@ Loosely, we are thinking we will in fact send in [[Rez]] who wants to see her bu
 Part one: [[session-19]]
 Part two: [[session-20]]
 
+## Repercussions
+Turns out the Zalevis were overstepping their jurisdiction, folks are calling for a full investigation. Someone, think Jalantar Mayor Zendt maybe, gave them permission to get a few high-risk people -- when everyone was running away and it was more than a couple big baddies, folks ask questions. 
+
+Ambassador [[Darfu Zeen]] was recalled
+[[El'Haliand]] playing innocent
+
+Still looking for a few high priority targets: [[Kel]] [[Niko]]
+
+City officials are looking to interview some people who were involved

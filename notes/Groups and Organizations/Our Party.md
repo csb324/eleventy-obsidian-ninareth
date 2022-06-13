@@ -12,10 +12,10 @@ tags:
 |Name| Class|
 |------|------|
 | [[Adrienne Spout]] | Bard |
-| [[Costi]] | Wizard |
-| [[Freya]] | Barbarian / Druid |
-| [[Hugh]] | Cleric |
-| [[Rez]] | Sorcerer / Bard |
+| [[Costi]] Grosu | Wizard |
+| [[Freya]] Polaris | Barbarian / Druid |
+| Human [[Hugh]] Named Finn | Cleric |
+| [[Rez]] Tanin | Sorcerer / Bard |
 
 
 ## Shit we've got going on

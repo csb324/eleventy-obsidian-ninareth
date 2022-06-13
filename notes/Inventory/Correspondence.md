@@ -3,7 +3,7 @@
 ---
 #  Group Correspondence
 
-[[R]] to [[Freya]]  #mysteries  
+[[Rowley]] to [[Freya]]  #mysteries  
 Freya, Excellent work, I've heard great things. In jalantar, check in with Akros, he has something for you - R
 
 [[Costi's Dad]] to [[Hugh]] #mysteries
@@ -26,3 +26,7 @@ Notes of Favor from [[Willen Guruden]] to [[Rez]] and [[Hugh]]
 “Help them out, W.G.”
 
 [[Operation Incriminating Letters|Two letters]] -- One to [[Norathar Pent]], one to [[Vigo Underswell]]. Sealed. We got them from the [[Fire Raisers]]. 
+
+[[Dawenys]] (as Dawnfather Melfin) to [[Temple of Pelor in Jalantar]]
+"Look at the stone you dipshits"
+

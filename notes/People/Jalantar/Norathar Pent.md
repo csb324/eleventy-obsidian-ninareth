@@ -5,7 +5,9 @@ tags:
 Status: alive
 Race: wood-elf
 Relationship: neutral
-Affiliation: The Providers
+Affiliation:
+  - The Providers
+  - Promenade Aid Society
 Location: The Promenade
 Pronouns: " she/hers"
 ---
@@ -15,13 +17,18 @@ Pronouns: " she/hers"
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">wood-elf</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Providers]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Promenade Aid Society]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[The Promenade]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> she/hers</span></span>
 
 Female wood-elf merchant out of the Promenade, provider delegate. 
 
 ### Background 
-Rose to prominence supplying fine lumber, pretty voal about wanting to reform property rights in the Promenade. Most of her senior employees have land through the corporation. Voraciously buys land across Jalantar outside under false names, but only in amounts just short enough to give citizenship to restrict vote access
+From [[Dilandil]]. Rose to prominence supplying fine lumber, pretty voal about wanting to reform property rights in the Promenade. Most of her senior employees have land through the corporation. Voraciously buys land across Jalantar outside under false names, but only in amounts just short enough to give citizenship to restrict vote access
+
+Lucrative contract with a “prominent merchant from [[Dilandil]], Luzumin Doront, should bring many jobs to the area”
+
+Primary donor to the [[Promenade Aid Society]] and the “Promenade Alms”. 
 
 ### Who're they to us? 
 One of the two targets [[Our Party]] is supposed to unseat in [[Operation Incriminating Letters]].

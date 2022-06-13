@@ -27,3 +27,4 @@ Plans to visit [[Jalantar]] in a few weeks, according to Colonel Finn [[El'Halia
 Employs [[Adrienne Spout]]
 Not on good terms with [[Niko]], [[Giary]], [[Jenson Davour]] 
 Friends with [[El'Haliand]] 
+

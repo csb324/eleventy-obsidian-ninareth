@@ -1,14 +1,14 @@
 ---
 type: world-event
-Status: Upcoming
+Status: Current
 ---
 
 #  Operation Incriminating Letters
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Upcoming</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Current</span></span>
 
 ## Background
 
-[[Norathar Pent]] is a fine lumber supplier who represents [[The Promenade]]. She's a [[The Providers|Provider]], but she also has a way of clearing land in units just-too-small to grant anyone voting status, unless they're people she *wants* to have voting status. She talks a lot about expanding prosperity, but she's actually as corrupt as the rest of them. 
+[[Norathar Pent]] is a fine lumber supplier who represents [[The Promenade]]. She's a [[The Providers|Provider]], but she also has a way of clearing land in units just-too-small to grant anyone voting status, unless they're people she *wants* to have voting status. She talks a lot about expanding prosperity, but she's actually as corrupt as the rest of them. Turns out she's mentioned a lot in The Talon for her "charitable work". 
 
 To clear this land, she works with [[Vigo Underswell]], who contracts it out to [[The Stagehands]].
 
@@ -23,6 +23,7 @@ A very simple plan: they've forged two letters, between the two of them, which p
 To complicate matters, we *also* need to *steal* from each of them -- [[Norathar Pent|Pent]] has a ring that she likes to wear, and [[Vigo Underswell|Underswell]] has an interesting vial of liquid somewhere in his office. 
 The [[Fire Raisers]] want those things.
 
+
 ## Consequences
 
 If we pull it off, the [[Fire Raisers]] will introduce us to someone who thinks he knew [[Costi's Dad]] in the [[Bihor Region]] (near [[New Fairhaven]]). Plus, they say they'll give us more information.
@@ -30,9 +31,10 @@ If we pull it off, the [[Fire Raisers]] will introduce us to someone who thinks 
 If we *warn* the targets, we will royally piss off the [[Fire Raisers]]. 
 
 ## Plan
-We have four days, and we're starting with recon.
+We have three days
 
-Team [[Adrienne Spout|Adrienne]] [[Costi]] and [[Hugh]] are going to see if public records have any intel
-Team [[Rez]] [[Freya]] and [[Twigs]] are going to scout  [[The Promenade]] and try to spy on [[Norathar Pent]]
+Got [[Divitston Goldstone]] to make us a replica [[Norathar Pent]] ring and told him it was for [[Rez]]
 
-We're all meeting with [[Giary]] to discuss contracting [[The Stagehands]] help.
+We contracted [[The Stagehands]] help, they gave us upcoming schedules for both [[Norathar Pent]] and [[Vigo Underswell]], and help us see both of them. 
+
+[[Costi]] will use the spell Wrist Pocket to try and steal the ring from [[Norathar Pent]] at a [[Promenade Aid Society]] fundraiser, [[Adrienne Spout|Adrienne]] will knock into her, presumably having her loose the ring, then "find" it and replace it with a magically-enhanced fake by [[Hugh]] 

@@ -12,6 +12,8 @@ Hotel, <span class="dataview inline-field"><span class="inline-field-key">Locati
 
 [[Willen Guruden]] has promised to pay for our stay, as long as we don't stay too long and embarrass him. Apparently it's a big [[The Guardians|Guardian party]] hangout. The dinner menu is prix fixe, and the concierge, [[Loomis]], seems like a nice fellow.
 
+The night porter does not want to interact with the guests (or ghosts).
+
 ## NPCs
 {% include 'list-references.html', reference_data: npcs %}
 

@@ -14,7 +14,7 @@ Affiliation:
 Pronouns: " she/hers"
 ---
 
-# Freya
+# Freya Polaris
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Firbolg</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Druid</span></span>
@@ -36,3 +36,4 @@ Almost got married one time.
 #### Known aliases
 - Gruungslayer [[session-5]]
 - "The other one" - [[session-5]]
+- Courtney [[session-24]] 

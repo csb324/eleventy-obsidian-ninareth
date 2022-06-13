@@ -11,7 +11,7 @@ Pronouns: " he/they"
 Class: Cleric
 ---
 
-# Hugh
+# Human "Hugh" Named Finn
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Warforged</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Eberron]]</span></span>
@@ -38,3 +38,4 @@ His spiritual weapon is a flaming bird, or knitting needles, or perhaps a big bo
 * The Colonel -- [[session-15]]
 
 
+**[[Riddles GIF.gif]]**

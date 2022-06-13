@@ -22,7 +22,9 @@ Pronouns: " she/hers"
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Bard</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> she/hers</span></span>
 
-A prankster. Loves riddles (so much that [[Hugh]] has promised to be a riddle-machine for her). 
+A prankster, the best in the world, actually. Loves riddles (so much that [[Hugh]] has promised to be a riddle-machine for her). 
+
+Super incredibly talented and beloved by all. 
 
 Rez grew up in a small town in northern [[Taleem]], but moved with her brother to [[Zalev]] for the vibes and the climate. 
 
@@ -32,3 +34,8 @@ She's a groupie (affectionate) for [[The Miscasts]] - as opposed to a groupie (d
 * Filth [[session-5]]
 * Red [[session-7]]
 * Nina Zaaraid [[session-16]] 
+* Amy [[session-24]] 
+
+![](/assets/obsidian/Rez%20Artbreeder.jpeg)
+
+**[[Riddles GIF.gif]]**

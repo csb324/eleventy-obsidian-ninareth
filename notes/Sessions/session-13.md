@@ -7,6 +7,7 @@ prev:
 ---
 
 # Session 13: dinner with niko
+![](/assets/obsidian/comic%2016.jpeg)
 
 Before meeting [[Niko]] for dinner, [[Costi]] found a mysterious box in his bag. It must be [[Niko]]'s! How did it get there? [[Rez|No one could possibly know]].
 
