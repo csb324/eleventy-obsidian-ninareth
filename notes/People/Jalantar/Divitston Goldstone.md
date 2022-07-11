@@ -20,4 +20,4 @@ A cleric at the [[Dragonsfire Forge]]. He's teaching [[Rez]] how to pour iron, a
 
 He's also very interested in how the five-cup shuffle game at [[Seven Hooves]] works, so the two of them are also working on that puzzle.
 
-Asked him to make us a replica ring, for [[Operation Incriminating Letters]] and told him it was for [[Rez]]
+Made us a replica ring, for [[Operation Incriminating Letters]] and told him it was for [[Rez]]

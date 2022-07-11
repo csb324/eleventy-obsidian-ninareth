@@ -18,6 +18,4 @@ Elves live there.
 
 
 ## Points of Interest
-
-
 {% include 'list-references.html', reference_data: points_of_interest %}

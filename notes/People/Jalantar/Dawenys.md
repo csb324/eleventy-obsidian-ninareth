@@ -24,7 +24,7 @@ Pronouns: " she/her"
 A female shorter wood-elf with dark hair pulled back from her face. Wears dark, almost black clothing, with a prominent symbol of Corellan. Does most of the undergound development and plant care at the [[Corellon's Grove]]. 
 
 ### Background
-Had a fling with [[Lorian]], likes to tease him about it
+Had a fling with [[Lorian]], likes to tease him about it. Has always lived in [[Jalantar]], but doesn't seem to be a huge fan. Likes the wilderness. 
 
 ### Who're they to us? 
 Asked for her help with the [[Summoning Stone]], she sent a mean note to the [[Temple of Pelor in Jalantar]] asking them to pay attention, signed as "Dawnfather Melfin"

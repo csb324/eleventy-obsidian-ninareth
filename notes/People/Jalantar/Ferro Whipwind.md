@@ -6,7 +6,7 @@ Status: alive
 Race: Halfling
 Relationship: neutral
 Home: Jalantar
-Location: Pent Logging North
+Location: Pent Logging
 ---
 
 # Ferro Whipwind
@@ -14,9 +14,9 @@ Location: Pent Logging North
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Halfling</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Jalantar]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Pent Logging North]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Pent Logging]]</span></span>
 
-Burly halfling with a thick tousled beard, carries a hatchet. Wears a bandana and overalls.  Foreman at [[Pent Logging North]]
+Burly halfling with a thick tousled beard, carries a hatchet. Wears a bandana and overalls.  Foreman at [[Pent Logging]]
 
 Seems desperately to need workers for a big project, 
 

@@ -35,6 +35,7 @@ She's a groupie (affectionate) for [[The Miscasts]] - as opposed to a groupie (d
 * Red [[session-7]]
 * Nina Zaaraid [[session-16]] 
 * Amy [[session-24]] 
+* Cathy [[session-26]]
 
 ![](/assets/obsidian/Rez%20Artbreeder.jpeg)
 

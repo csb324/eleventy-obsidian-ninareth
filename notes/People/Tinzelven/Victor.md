@@ -28,8 +28,10 @@ Friends with [[Bliken Hammerov]]. Vaguely racist against [[Hugh]]. Seems less ba
 
 Vouched for [[Professor Leonard Klipitz]] when [[Costi]] went looking for dirt on him.
 
-He's an [[Arkhosian Delegates|Arkhosian delegate]], not from [[Tinzelven]] but from [[Arkhosia (City)]]. He's taken a liking to [[Costi]], who reminds him of himself at a young age. 
+He's an [[Arkhosian Delegates|Arkhosian delegate]], not from [[Tinzelven]] but from [[Arkhosia (City)]]. 
 
-He was a "great warrior," according to [[Willen Guruden]]. (Otherwise, they don't seem to like each other much.)
+### Background
+Commanded the [[Arkhosian Military]] Fourth Regiment, one of the most influential leaders and very skilled with a bow. He was a "great warrior," according to [[Willen Guruden]]. (Otherwise, they don't seem to like each other much.)
 
-Victor gave [[Costi]] a pair of magical gloves, that should help him be quick with his hands. He wants to bring [[Costi]] to see the elections when that rolls around. 
+### Who's He To Us?
+He's taken a liking to [[Costi]], who reminds him of himself at a young age. Victor gave [[Costi]] a pair of magical gloves, that should help him be quick with his hands. He wants to bring [[Costi]] to see the elections when that rolls around. 

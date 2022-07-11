@@ -14,3 +14,5 @@ Relationship: friend
 
 [[Costi]]'s familiar. He's a bird, and he refuses to communicate with costi mentally. He does, however, communicate via squawking and pecking.
 
+[[session-29]] 
+Has one white weather in his tail, a new change when he's brought back.

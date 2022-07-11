@@ -52,7 +52,7 @@ When I say [[Rez]] was having a weird day, I cannot emphasize enough how weird h
 
 [[Freya]] disguised herself as a regular human-ish, elf-ish, *not* half-elf person, and [[Rez]] put on a bit of makeup to try to cover her scales.
 
-[[Freya]] and [[Rez]] made it to [[Pent Logging North|Pent's lumberyard]], and figured they'd walk around. Plan A was to be subtle and see if they could potentially overhear something, or sneak around. The lumberyard was fenced and heavily guarded.
+[[Freya]] and [[Rez]] made it to [[Pent Logging|Pent's lumberyard]], and figured they'd walk around. Plan A was to be subtle and see if they could potentially overhear something, or sneak around. The lumberyard was fenced and heavily guarded.
 
 Plan A went horribly wrong. They were not subtle at all. In fact, they were so unsubtle that a guard approached them to ask what the hell they wanted.
 
@@ -60,7 +60,7 @@ Quick thinking, [[Rez]] introduced herself as Amy, and [[Freya]] introduced hers
 
 The doors locked behind them.
 
-### [[Pent Logging North]]
+### [[Pent Logging]]
 
 Limley seemed willing to hire "Amy" and "Courtney", but that doesn't mean she wasn't suspicious (especially of [[Rez]], who just seemed shifty). 
 

@@ -43,4 +43,8 @@ Ambassador [[Darfu Zeen]] was recalled
 
 Still looking for a few high priority targets: [[Kel]] [[Niko]]
 
-City officials are looking to interview some people who were involved
+[[The Fiddlers Respite]] had a boom in business thanks to the publicity around [[Qik]]
+
+City officials are looking to interview some people who were involved, and unknown other people are going to interview [[Professor Leonard Klipitz]], and other folks in [[Tinzelven]], especially regarding [[Niko]] 
+
+[[The Talon]] is running articles, including quotes from [[Our Party]]. [[Costi]] made a public claim that the [[Zalevi Military]] should pay for their crimes.

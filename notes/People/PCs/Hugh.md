@@ -24,7 +24,7 @@ A <span class="dataview inline-field"><span class="inline-field-key">Class</span
 
 Insists he's [[Costi]]'s dad. But also, wants to help Costi *FIND* his dad.
 
-Has no memories beyond the last year or so (someone went in and scrambled his brain around or something). In that time in between, he was in the [[Acedian Mountains]] at a forge, where he connected with [[TrueSilver]] (spiritually).
+Has no memories beyond the last year or so (someone went in and scrambled his brain around or something). In that time in between, he was in the [[Acedian Mountains]] at a forge, where he connected with [[TrueSilver]] (spiritually). Has a brand on his bicep from the [[Beating Heart Regiment]] 
 
 Likes to knit. Has knit many little hats for [[Nadia]]. Likes birds?
 

@@ -23,7 +23,7 @@ Pronouns: " he/his"
 ![](/assets/obsidian/Costi.jpg)
 
 ## Backstory
-Teen from [[Glendan Glade]] (or perhaps not, but he definitely said the word glensdale).
+Teen (19 to be exact) from [[Glendan Glade]] (or perhaps not, but he definitely said the word glensdale).
 
 Played Mage Pong at [[AVAD]]. Seems to have had a long lost love or an encounter with corruption or something. 
 
@@ -45,3 +45,4 @@ Costi has a raven named [[Samuel]]. Samuel won't talk to him. He has never heard
 * "The Rebel and the Robot" (with [[Hugh]])
 * "Constantino Grossun"
 * Omlette (via [[Giary]])
+* Steve, Marius Bora - [[session-26]]

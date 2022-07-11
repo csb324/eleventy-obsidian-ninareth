@@ -3,6 +3,7 @@ type: item
 tags:
   - item
 Owned-by: Our Party
+Carried-by: Costi
 Origin: Necromantic Underground Chapel
 Status: " Active"
 ---
@@ -10,7 +11,7 @@ Status: " Active"
 #  Magically Resistant Chain
 
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[Our Party]]</span></span>
-[Carried by::[[Costi]]
+<span class="dataview inline-field"><span class="inline-field-key">Carried by</span><span class="inline-field-value">[[Costi]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Origin</span><span class="inline-field-value">[[Necromantic Underground Chapel]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value"> Active</span></span>
 

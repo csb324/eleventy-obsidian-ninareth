@@ -33,5 +33,6 @@ A half-elf bard from [[Ru'Nileth]], who attended [[Redscale]]. She once worked a
 #### Known Aliases
 * Mud - [[session-5]]
 * Amy - [[session-15]]
+* Cassie Bora - [[session-26]]
 
 **[[Adrienne harp vine.gif]]**

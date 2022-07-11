@@ -42,3 +42,11 @@ Immediately after the Second Sundering, the world was broken. Many tried to numb
 Life has moved to major settlements. Pastoral folks flocked almost universally, from every place on the continent, to places with walls. And the cities ballooned. Most were scarcely prepared to take in so many stragglers, but they made do. The fact that there were now a great deal of vacant houses didn’t hurt, either.
 
 Eventually, people remembered that living in squalid conditions in overcrowded slums was not ideal. And so they began to set out into the wilds. Over the last three hundred years, the wilds re-earned their name. Initial settlers realized too late that it was no longer safe to live weeks away from the nearest major settlement. So instead of being a few weeks away from large cities, they settled for being maybe a few days out instead.
+
+## Days of the Week
+Sunday- Sikskear (Day of the Sun) Monday- Gribokear (Day of the Feast) 
+Tuesday- Miirkikear (Day of the Songs) 
+Wednesday- Tawurakear (Day of the Works) 
+Thursday- Kovgakear (Day of the Metals) 
+Friday- Xathikear (Day of the Raven) 
+Saturday- Welunkear (Day of the Moon)

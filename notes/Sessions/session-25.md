@@ -36,12 +36,12 @@ We also learned that the [[Zalevi Embassy Break-in]] had made [[The Talon]]. It 
 
 We made plans to meet up with [[Giary]] and publically cry about how deceived we were by our mutual friend [[Niko]]. Who could have suspected that he was a wanted criminal? Not any of us, that's for sure.
 
-We discussed the plan at some length. Since [[Freya]] and [[Rez]] had already made contact with [[Pent Logging North]] [[session-24|yesterday]], we decided the best way to get into [[Norathar Pent]]'s office was for them to *actually get jobs*. So today, their task was to return to the logging camp, no longer projectile vomiting, and get themselves hired.
+We discussed the plan at some length. Since [[Freya]] and [[Rez]] had already made contact with [[Pent Logging]] [[session-24|yesterday]], we decided the best way to get into [[Norathar Pent]]'s office was for them to *actually get jobs*. So today, their task was to return to the logging camp, no longer projectile vomiting, and get themselves hired.
 
 Meanwhile, while [[Norathar Pent]] is at this society event, [[Costi]] thinks he'll be able to steal the ring we need off her finger with a cool spell he just learned (from a scroll he found at the [[Necromantic Underground Chapel]]). [[Hugh]] and [[Adrienne Spout|Adrienne]] will go too. So their plan for the day was to do more research, and to try to find a replacement ring.
 
 ### Job interview part 2
-[[Rez|Amy]] and [[Freya|Courtney]] put on some mundane disguises and came back to [[Pent Logging North]]! It's a good thing, too, because [[Limley]] had a whole squad of guards investigate them for illusions.
+[[Rez|Amy]] and [[Freya|Courtney]] put on some mundane disguises and came back to [[Pent Logging]]! It's a good thing, too, because [[Limley]] had a whole squad of guards investigate them for illusions.
 
 They got another bit of a tour, and then the job was theirs -- the only question was where, specifically, they'd be working. Enter [[Ferro Whipwind]], foreman and boss, who oversaw the contract signing and explained how life at the company works.
 

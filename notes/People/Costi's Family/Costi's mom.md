@@ -14,4 +14,4 @@ Home: Glendan Glade
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">friend</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Glendan Glade]]</span></span>
 
-Affilliated with [[ELA]]  (some organization of unknown name).
+Affilliated with [[ELA]]. 

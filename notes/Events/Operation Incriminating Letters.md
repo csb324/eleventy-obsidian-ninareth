@@ -31,10 +31,26 @@ If we pull it off, the [[Fire Raisers]] will introduce us to someone who thinks 
 If we *warn* the targets, we will royally piss off the [[Fire Raisers]]. 
 
 ## Plan
-We have three days
+We have two days
 
 Got [[Divitston Goldstone]] to make us a replica [[Norathar Pent]] ring and told him it was for [[Rez]]
 
 We contracted [[The Stagehands]] help, they gave us upcoming schedules for both [[Norathar Pent]] and [[Vigo Underswell]], and help us see both of them. 
 
-[[Costi]] will use the spell Wrist Pocket to try and steal the ring from [[Norathar Pent]] at a [[Promenade Aid Society]] fundraiser, [[Adrienne Spout|Adrienne]] will knock into her, presumably having her loose the ring, then "find" it and replace it with a magically-enhanced fake by [[Hugh]] 
+#### Pent Plan
+
+Hugh is going to detect magic to see what vibe Pent's ring has, then enchant the fake the pick up to match, then give it to Costi. [[Costi]] will use the spell Wrist Pocket to try and steal the ring from [[Norathar Pent]] at a [[Promenade Aid Society]] fundraiser, "Pies and Puppies" [[Adrienne Spout|Adrienne]] will knock into her, spilling a drink, presumably having her lose the ring, then "find" it and replace it with a magically-enhanced fake
+
+[[Rez]] and [[Freya]] going on lunch break during the Promen-Aid event to plant the letter. Rez has [[Circlet of Sending]] theives tools and the letter. Adrienne says to hide it near a secret compartment but not in it. Look for uneven designs. Rez is going to suggest to a guard that Ferro told her and Freya to run this important paperwork about North to Pent's office, and someone is supposed to take us there. Adrienne forged some fake papers about logging to plant
+
+Both worked! Not quite as described but it's done. See [[session-26]] for details
+
+We know now that [[Norathar Pent]]'s ring is a [[Ring of Efreet Summoning]]. Wonder why the [[Fire Raisers]] want that... 
+
+#### Underswell Plan
+
+Our party is going to talk to [[Ellinev Del]] and see if she'll give us an introduction letter to [[Vigo Underswell]]. We'll then go to his office building, use the introduction to enter the building, and make our way to his office to break in, steal the potion, and plant the letter. 
+
+[[Giary]] successfully used the [[The Stagehands]] to move a meeting they have with [[Vigo Underswell]] to "Raven Day at 3, where he's going is not known to us but he won't be in his office"
+
+[[Adrienne Spout|Adrienne]] [[Freya]] and [[Costi]] snuck in to his office, and played politics with him, discussing the [[Zalevi Embassy Break-in]]. [[Rez]] and [[Hugh]] waited in the room invisibly and hid the letter in a stack of papers, and were able to steal his potion
