@@ -4,7 +4,10 @@ tags:
   - npc
 Status: alive
 Relationship: neutral
-Affiliation: TrueSilver
+Affiliation:
+  - Moradin
+  - TrueSilver
+Location: Dragonsfire Forge
 Pronouns: " he/his"
 ---
 
@@ -12,9 +15,9 @@ Pronouns: " he/his"
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 [Race::halfling
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
-[Affiliation:: [[Moradin]]
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Moradin]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[TrueSilver]]</span></span>
-[Location:: [[Dragonsfire Forge]]
+<span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Dragonsfire Forge]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> he/his</span></span>
 
 Priest at the temple, recently started wearing a holy symbol for [[TrueSilver]] as well.

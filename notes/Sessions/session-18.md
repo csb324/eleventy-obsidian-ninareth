@@ -55,11 +55,11 @@ The next morning, [[Adrienne Spout|Adrienne]] had a conversation with [[Costi]] 
 
 [[Freya]] had to break the bad news to Uru that [[Niko]] wasn't back yet, but promised him soon. [[Rez]] called in sick to [[Dragonsfire Forge|ironworking]].
 
-Then, we hit up the [[Divian wilds]] to meet the birdlovers. [[Srictha]] and Costi had a conversation about their mutual friend [[Niko|Kristoff]]. [[Srictha]] didn't have much to add, but mentioned we should stay in [[The Academy District]] for the next couple days. He also asked about jewelry, which was a *weird question.* 
+Then, we hit up the [[Divian Wilds]] to meet the birdlovers. [[Srictha]] and Costi had a conversation about their mutual friend [[Niko|Kristoff]]. [[Srictha]] didn't have much to add, but mentioned we should stay in [[The Academy District]] for the next couple days. He also asked about jewelry, which was a *weird question.* 
 
 [[Freya]] talked to [[Klaus (Falcon)]] and his less intelligent bird friends. [[Rez]] talked to some bird lovers. [[Adrienne Spout|Adrienne]] played the harp, and something about the forest and the [[Larethian Rose|rose]], which still hasn't wilted, really put her in a good headspace. With [[Hugh]]'s guidance, she tried to ask [[Corellon Larethian]] what he *wanted* from her. The rose blew back to her. 
 
-We left the wilds and went back to [[The Golden Gryffon]], where we had a package of clothes delivered! We made a big deal about being seen at dinner and talking about how drunk we got at the [[The Miscasts|concert]] and how we stayed at [[The Needle Cushion]] for safety because *jeepers* [[the promenade]] is dangerous at night! 
+We left the wilds and went back to [[The Golden Gryffon]], where we had a package of clothes delivered! We made a big deal about being seen at dinner and talking about how drunk we got at the [[The Miscasts|concert]] and how we stayed at [[The Needle Cushion]] for safety because *jeepers* [[The Promenade]] is dangerous at night! 
 
 [[Samuel]] did us a favor and checked out our drop point with [[Kara]] (looked normal) and the [[Zalevi Embassy in Jalantar|Zalevi embassy]] (looked like 60ish guards, which is more than normal, but they weren't acting crazy weird)
 

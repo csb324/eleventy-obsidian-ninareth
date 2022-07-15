@@ -23,13 +23,6 @@ A very simple plan: they've forged two letters, between the two of them, which p
 To complicate matters, we *also* need to *steal* from each of them -- [[Norathar Pent|Pent]] has a ring that she likes to wear, and [[Vigo Underswell|Underswell]] has an interesting vial of liquid somewhere in his office. 
 The [[Fire Raisers]] want those things.
 
-
-## Consequences
-
-If we pull it off, the [[Fire Raisers]] will introduce us to someone who thinks he knew [[Costi's Dad]] in the [[Bihor Region]] (near [[New Fairhaven]]). Plus, they say they'll give us more information.
-
-If we *warn* the targets, we will royally piss off the [[Fire Raisers]]. 
-
 ## Plan
 We have two days
 
@@ -54,3 +47,10 @@ Our party is going to talk to [[Ellinev Del]] and see if she'll give us an intro
 [[Giary]] successfully used the [[The Stagehands]] to move a meeting they have with [[Vigo Underswell]] to "Raven Day at 3, where he's going is not known to us but he won't be in his office"
 
 [[Adrienne Spout|Adrienne]] [[Freya]] and [[Costi]] snuck in to his office, and played politics with him, discussing the [[Zalevi Embassy Break-in]]. [[Rez]] and [[Hugh]] waited in the room invisibly and hid the letter in a stack of papers, and were able to steal his potion
+
+## Consequences
+If we pull it off, the [[Fire Raisers]] will introduce us to someone who thinks he knew [[Costi's Dad]] in the [[Bihor Region]] (near [[New Fairhaven]]). Plus, they say they'll give us more information.
+
+If we *warn* the targets, we will royally piss off the [[Fire Raisers]]. 
+
+[[Limley]] got fired from [[Pent Logging]], and blamed us (fair). Jumped [[Our Party]] but got herself killed. 

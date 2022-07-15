@@ -10,6 +10,7 @@ Alma-Mater: Redscale
 Affiliation:
   - Our Party
   - Church of Corellon Larethian
+  - The Collection
 Class: Bard
 Pronouns: " she/hers"
 ---
@@ -23,6 +24,7 @@ Pronouns: " she/hers"
 <span class="dataview inline-field"><span class="inline-field-key">Alma Mater</span><span class="inline-field-value">[[Redscale]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Our Party]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Church of Corellon Larethian]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Collection]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Bard</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> she/hers</span></span>
 

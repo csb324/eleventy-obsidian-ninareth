@@ -19,3 +19,6 @@ Affiliation: The Miscasts
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Miscasts]]</span></span>
 
 A red tiefling with curling horns. When he meets you he gives you a hug and tells you he loves you. 
+
+He's not really into sex and drugs -- he's *all about* the rock and roll. 
+

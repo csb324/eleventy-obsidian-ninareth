@@ -11,6 +11,7 @@ Home: True North
 Affiliation:
   - Our Party
   - Wayfinders
+  - The Collection
 Pronouns: " she/hers"
 ---
 
@@ -22,6 +23,8 @@ Pronouns: " she/hers"
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[True North]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Our Party]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Wayfinders]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Collection]]</span></span>
+
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> she/hers</span></span>
 
 ![](/assets/obsidian/Freya.jpg)
@@ -31,7 +34,7 @@ She's a wayfinder in training.
 
 Not sure what's going on with her anger or her nature magic but isn't thrilled about it.
 
-Almost got married one time.
+Almost got married one time. Three snow foxes for wedding outfit
 
 #### Known aliases
 - Gruungslayer [[session-5]]

@@ -42,7 +42,7 @@ After the winner of the pie contest was announced, we got in line to shake the j
 - Hide the ring in a **wrist pocket**
 - Drop the decoy ring on the ground
 
-Reader, it *worked*. Pent's head of security [[Relakas]], seemed to make a mental note of [[Adrienne Spout|Cassie]], but she was also being very sexy about it, so maybe he just wants to call her for drinks. (Alternatively, we have a new problem. It's possible that this isn't the first time someone has been pointedly-sexy to try to distract the head of security. This might in fact be the kind of thing a head of security would know to look out for.)
+Reader, it *worked*. Pent's head of security [[Relakas 1]], seemed to make a mental note of [[Adrienne Spout|Cassie]], but she was also being very sexy about it, so maybe he just wants to call her for drinks. (Alternatively, we have a new problem. It's possible that this isn't the first time someone has been pointedly-sexy to try to distract the head of security. This might in fact be the kind of thing a head of security would know to look out for.)
 
 As we were leaving, a falcon dropped a pouch with the exact amount of gold that we paid for [[Maurice]] the possum. So, another promise from the [[Fire Raisers]] has been fulfilled.
 

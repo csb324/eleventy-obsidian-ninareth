@@ -18,4 +18,11 @@ Affiliation: The Miscasts
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Zalev]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Miscasts]]</span></span>
 
-The lute player of [[The Miscasts]]. He's cute and smart, doesn't take up much of the limelight
+The lute player of [[The Miscasts]]. He's cute and smart, doesn't take up much of the limelight. He seems to love drugs the most, out of the five boys.
+
+Seems to maybe have a drug problem?
+
+### Who's he to us?
+Friend of [[Rez]]
+
+Gave [[Costi]] his first hit of Dizzin

@@ -10,7 +10,6 @@ tags:
 Ninarith's first boy band. Managed by the one and only [[Jenson Davour]]. 
 
 ### Members
-
 [[Jinx]], the frontman with everything that entails
 [[Jax|Curse]], the dulcimer player and the bad boy
 [[Rian|Hex]], the drummer and kind of a fuckboy

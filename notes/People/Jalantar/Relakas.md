@@ -17,9 +17,11 @@ Affiliation: Dragon's Hide
 [Location:: [[Pent Logging]]
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Dragon's Hide]]</span></span>
 
- Large dragonborn, with teeth are filed down to points. Carries a greatsword.
+Large dragonborn, with teeth are filed down to points. Carries a greatsword.
  
 Head of security at [[Pent Logging]], and has been known to travel as security with [[Norathar Pent]]. 
+
+Seems to have some sort of feud with [[Limley]]
 
 ### Background
 Used to be part of the dragons hide - an elite regiment of the guards also known as the “hidesman”.

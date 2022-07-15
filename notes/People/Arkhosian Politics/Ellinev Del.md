@@ -23,7 +23,7 @@ Location: Gorva's Observatory
 
 Younger middle aged, tall half-elven woman. Pale with dark brown hair normally worn in a messy bun with her googles kept on her head and spectacles in her pocket. Wears a stained smock, and carries fine tools.
 
-Has been vocally leading the response to the recent [[Jalantar]] [[The Providers]] headquarters bombing. Says they are part of a larger pattern, and informed us of a new one at the personal residence of [[The Guardians]] Delegate Mufastel. Is suspicous because the [[Zalevi Embassy Break-in]] bombing did not fit the pattern: non-Jalantar related, non-political party, and the only one where people were harmed. 
+Has been vocally leading the response to the recent [[Jalantar]] [[The Providers]] headquarters [[Mysterious Explosions|bombing]]. Says they are part of a larger pattern, and informed us of a new one at the personal residence of [[The Guardians]] Delegate Mufastel. Is suspicous because the [[Zalevi Embassy Break-in]] bombing did not fit the pattern: non-Jalantar related, non-political party, and the only one where people were harmed. 
 
 Appears to be an artificer, says that all of her work is funded by and done on the behest of the [[Jalantar]] government. 
 
@@ -39,9 +39,9 @@ An [[Arkhosian Delegates|Arkhosian delegate]] that [[Victor]] wants to introduce
 Offered to talk more to [[Costi]] 
 
 Sent us a note in [[session-27]]
-	To [[Jalantar]]'s most exciting recent arrivals, if you are available later today I would appreciate speaking with you about your experience at the [[Zalevi Embassy in Jalantar]] during the recent attacks. The committee to investigate acts of terror would surely benefit from your testimony. If you are free, come [[Gorva’s Observatory]] anytime and I will clear my schedule. Looking forward to meeting you, Delegate Elenev Del
+	To [[Jalantar]]'s most exciting recent arrivals, if you are available later today I would appreciate speaking with you about your experience at the [[Zalevi Embassy in Jalantar]] during the recent attacks. The committee to investigate acts of terror would surely benefit from your testimony. If you are free, come to [[Gorva's Observatory]] anytime and I will clear my schedule. Looking forward to meeting you, Delegate Elenev Del
 
 [[session-29]] Costi told her that he was searching for [[Costi's Dad|Vladdy Daddy]]. She said she'd make some inquiries on his behalf. 
 
-Invited [[Our Party]] to some [[The Providers]] meeting in the lead up to [[Arkhosian Elections]] 
+Invited [[Our Party]] to some [[The Providers]] meeting in the lead up to [[Arkhosian Elections]]. It won't be as lit as [[session-7|the last one]].
 
