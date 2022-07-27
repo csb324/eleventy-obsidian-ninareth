@@ -50,7 +50,7 @@ Traveled to [[Jalantar]] with [[Our Party]], to get our gems appraised for Klipi
 
 Has a working knowledge of [[Julian Slater-Runehorn|Julian]]'s efforts, but claims he wouldn't be known by him - mistrusts [[Adrienne Spout|Adrienne]] becuase of it. 
 
-Introduced us to his "associates" in (what we're calling) the [[Fire Raisers]] at their secret headquartes [[The Furnace]]
+Introduced us to his "associates" in the [[Fire Raisers]] at their secret headquartes [[The Furnace]]
 
 
 ### Related Items

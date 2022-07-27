@@ -30,3 +30,15 @@ Notes of Favor from [[Willen Guruden]] to [[Rez]] and [[Hugh]]
 [[Dawenys]] (as Dawnfather Melfin) to [[Temple of Pelor in Jalantar]]
 "Look at the stone you dipshits"
 
+[[Julian Slater-Runehorn|Julian]] to [[Our Party]] (minus [[Adrienne Spout|Adrienne]])
+"To my dear Adrienne’s new companions,
+
+It would bring me great joy if you would do me the honor of attending a small luncheon with me today. Adrienne unfortunately has business to attend to in the city, and while I am a poor substitute, I hope I can show you a pleasant afternoon. 
+
+11:30 sharp! In the private dining room at the [[The Golden Gryffon]]
+
+Julian Slater-Runehorn"
+
+[[Rez]] to [[Adrienne Spout|Adrienne]] and back
+"fuck. Lunch with Julian, today. Where you? You told us not to talk, but ... help us"
+"fuck. be there when I can, reveal little -- be friendly. Good if he underestimates you. He has me busy, I suspect distracted. Just be careful"

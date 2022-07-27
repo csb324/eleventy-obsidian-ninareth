@@ -19,7 +19,9 @@ He's very well known and connected in the music industry. He's struggled to hand
 
 He sounds willing to represent [[Adrienne Spout|Adrienne]], but only in the event that it wouldn't put him in hot water with [[Julian Slater-Runehorn|Julian]]. 
 
-Introduced us to [[The Curator]], presumably at the Curator's request. Seemed anxious. Still, has some kind of relationship with [[The Collection]], and we are certainly not the first people he's put in touch with them. 
+Introduced us to [[The Curator]], presumably at the Curator's request. Seemed anxious. Still, has some kind of relationship with [[The Collection]], and we are certainly not the first people he's put in touch with them. Uncharacteristcally serious in telling [[Adrienne Spout|Adrienne]] not to mention them . 
+
+Got [[The Miscasts]] an audition to open for the [[Bellisime]]
 
 ### Notes
 

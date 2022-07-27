@@ -17,10 +17,11 @@ Home: Dragonsfire Forge
 The leader of the [[Dragonsfire Forge]]. He has a long gnarled gray beard, and wears a long chain. 
 
 ### Who's he to us?
-
 He was able to heal [[Hugh]] and [[Rez]] after the [[Zephyra Affair]]. Grafted new silver dragon scales onto [[Rez]], and allowed her to pay off the price of the scales by learning to forge.
 
 Offered to dispose the [[Bag of Screams]] for a donation
+
+Wanted to check in if [[Rez]] has any lingering symtpoms from her silver dragon scale being melded onto her face, like aggressive, itchy, sore or highly possesive of things.
 
 
 

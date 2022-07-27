@@ -51,3 +51,4 @@ Wednesday- Tawurakear (Day of the Works)
 Thursday- Kovgakear (Day of the Metals) 
 Friday- Xathikear (Day of the Raven) (Associated with [[The Raven Queen]])
 Saturday- Welunkear (Day of the Moon)
+

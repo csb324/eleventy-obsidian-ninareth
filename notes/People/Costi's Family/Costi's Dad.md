@@ -49,3 +49,7 @@ Memory from [[Hugh]] upon killing [[Jecka]]
 
 ## Known Aliases
 Vladdy Daddy
+
+### Sendings
+[[Hugh]] tried, but no response
+[[Costi]] "hey dad it's Costi, I just want to know if you're okay, and I want to tell you I'm trying to find you and hugh's" here

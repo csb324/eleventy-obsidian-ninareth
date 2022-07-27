@@ -1,0 +1,37 @@
+---
+type: npc
+tags:
+  - npc
+Status: alive
+Race: human
+Relationship: neutral
+Home: Taleem
+pronouns: " She/they"
+---
+
+# Victoria Several
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">human</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Taleem]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">pronouns</span><span class="inline-field-value"> She/they</span></span>
+
+Human Female, lighter skinned, seems Taleemian, wearing very nice heavy black armor seems slightly barbed and sword on her hip. Has a necklace tucked into her armor. Has close cropped white hair. Deadpan
+
+### Background
+Has rented an air ship through her family connections
+
+Needed to come to [[Jalantar]], found an interesting tome a few years back, but is looking to get more information on it.  
+
+Family from [[Taleem]] but grew up in [[Quaath]]'s Gold Circle. Mom does contract writing for business, Dad helps "procure things" -- gone a lot growing up. Her dad worked with [[Pik]] and [[Pak]]'s father.
+
+### Who're They to Us?
+Friends with [[Vask]]
+
+Says she can get us tickets to the [[Bellisime]].
+
+### Allies
+[[Vask]]
+[[Magister]]
+[[Pik]]
+[[Pak]]

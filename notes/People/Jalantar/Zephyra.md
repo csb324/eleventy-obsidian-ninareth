@@ -6,6 +6,7 @@ Status: alive
 Race: Half-elf Half-tiefling
 Relationship: neutral
 Home: Jalantar
+Affiliation: Arazoak
 ---
 
 # Zephyra
@@ -13,6 +14,7 @@ Home: Jalantar
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Half-elf Half-tiefling</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Jalantar]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Arazoak]]</span></span>
 
 ![](/assets/obsidian/Zephra.jpeg)
 

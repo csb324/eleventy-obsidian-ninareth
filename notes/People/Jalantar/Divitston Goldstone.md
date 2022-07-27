@@ -16,8 +16,14 @@ Home: Praise District
 <span class="dataview inline-field"><span class="inline-field-key">Workplace</span><span class="inline-field-value">[[Dragonsfire Forge]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Praise District]]</span></span>
 
-A cleric at the [[Dragonsfire Forge]]. He's teaching [[Rez]] how to pour iron, as she works off her debt for her face-repairs. He gave her his first successfully-made dagger, to inspire her.
+A cleric at the [[Dragonsfire Forge]]. 
+
+### Background
+Learned to forge by mining his own metals and smelting them into a dagger, as part of the ritual process, in the [[Ragndaar Mountains]]
+
+### Who's he to us?
+He's teaching [[Rez]] how to pour iron, as she works off her debt for her face-repairs. He gave her his first successfully-made dagger, to inspire her.
 
 He's also very interested in how the five-cup shuffle game at [[Seven Hooves]] works, so the two of them are also working on that puzzle.
 
-Made us a replica ring, for [[Operation Incriminating Letters]] and told him it was for [[Rez]]
+Made us a replica ring, for [[Operation Incriminating Letters]] and told him it was for [[Rez]]. Also gave us led for a magical-concealment box, and other soft metals

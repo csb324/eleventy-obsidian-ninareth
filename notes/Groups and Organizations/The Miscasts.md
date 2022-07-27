@@ -16,5 +16,8 @@ Ninarith's first boy band. Managed by the one and only [[Jenson Davour]].
 [[Lorian|Bewitch]], the shy pan flute player
 [[Tames|Charm]], he is a halfling and we haven't really talked to him much
 
+### Notes
+[[Bellisime]] owns the entire [[The Pirate Queen]] this year, but [[Jenson Davour]] got them auditions to be a warm up act
+
 ## NPCs
 {% include 'list-references.html', reference_data: affiliations %}

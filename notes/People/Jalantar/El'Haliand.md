@@ -21,7 +21,7 @@ Affiliation: Zalevi Military
 Older human man, lighter skin (not Zalevi) graying hair and 5 o’clock shadow, wearing finery of [[Zalev]] government. 
 
 ### Background
-A colonel in the [[Zalevi Military]], and [[Captain Fretze]]'s immediate superior. He's a [[Redscale]] alumnus, and a friend of [[Julian Slater-Runehorn]]. 
+A colonel in the [[Zalevi Military]], and [[Captain Fretze]]'s immediate superior. He's a [[Redscale]] alumnus, and a friend of [[Julian Slater-Runehorn]]. An incredible floutist, graduated with Julian. 
 
 ### Who's he to us?
 Recognized [[Adrienne Spout|Adrienne]] as his associate, and asked her to tell Julian "hello and that we’re owed a rematch"

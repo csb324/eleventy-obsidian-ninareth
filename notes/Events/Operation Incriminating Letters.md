@@ -54,3 +54,21 @@ If we pull it off, the [[Fire Raisers]] will introduce us to someone who thinks 
 If we *warn* the targets, we will royally piss off the [[Fire Raisers]]. 
 
 [[Limley]] got fired from [[Pent Logging]], and blamed us (fair). Jumped [[Our Party]] but got herself killed. 
+
+A new string of [[Mysterious Explosions]] took place, a few at places we messed with. 
+
+Got the arrests done, but accidentally set some fires. [[Norathar Pent]] and [[Vigo Underswell]] are detained and awaiting trials. [[Pent Logging]] will stay active but with actively illegal activity stop. bad working policies will probably stay. 
+
+Opened the door for [[Our Party]] to keep working with them. 
+
+Knows that a few members are being actively monitored. 
+
+### Rewards
+[[Adrienne Spout|Adrienne]] had trouble finding some to teach armor, pulls out a lightly red tinted +1 breastplate. Will help her once she learns how to use it, and also gave a book to help her learn. Still working on it
+
+[[Freya]] gave her the ax. Gives her new shield, looks like a small red brass buckler, an [[Elemental Shield (fire)]]. Once per SR, half damage from melee ranged or spell attack. If used with fire damage, use reaction to deal the damage you take to a creature within 30 feet of you. 
+
+[[Rez]] hard to do subtly, either after or before the [[Bellisime]] show. Will connect us there. 
+
+[[Costi]] meets [[Terrav]] and got some updated information about  [[Costi's Dad|Vladimir Grosu]], seems to counter the rumors that he was dead
+

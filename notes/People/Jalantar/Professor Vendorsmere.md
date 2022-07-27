@@ -16,12 +16,14 @@ Home: Jalantar
 <span class="dataview inline-field"><span class="inline-field-key">Workplace</span><span class="inline-field-value">[[Redscale]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Jalantar]]</span></span>
 
-An older human man with a long ponytail.
+An older human man, well postured, with a long silver ponytail.
 
-### Background
 A [[Redscale]] professor of sword skills and the arcane, has an office at the [[Burbank FIT]]. A follower of [[Oghma]] and friend of [[Father Thronestone]]. 
 
+### Background
 Been at the Academy for 7 or 8 years, used to teach at [[The Slavaadi College]]
+
+Knows [[Julian Slater-Runehorn|Julian]], caught up with him and told [[Adrienne Spout|Adrienne]] they met for lunch at the [[The Academy District]]. Plans to see him at the [[Bellisime]] concert later this week.  
 
 ### Who's he to us?
 Training [[Costi]] in magical swordwork, gave him two spells to study: 

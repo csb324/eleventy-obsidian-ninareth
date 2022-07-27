@@ -5,26 +5,45 @@ aliases:
   - Slater-Runehorn
 tags:
   - npc
-Status: unknown
+Status: alive
 Relationship: neutral
-Home: Arkhosia
+Home:
+  - Arkhosia
+  - Jalantar
 Alma-Mater: Redscale
 ---
 
 # Julian Slater-Runehorn
 
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">unknown</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Arkhosia]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Jalantar]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Alma Mater</span><span class="inline-field-value">[[Redscale]]</span></span>
+
+Older human, short cropped white hair. Very lightly lined face, creases at the top of his mouth. Lightly tanned olive skin, and very light salt and pepper facial hair. Wears a simple blue suit with a red ascot around his neck. Objectively very attractive. He's 77 but looks like his 50's, aging very well. 
+
+Places listening stones, that report anything within 30ft, and can notify us if needed. 
 
 ### Background
 A shady political maneuver-er. Has been travelling for a while. Seems to have a pretty widespread reputation. 
 
+Went to [[Redscale]] and graduated with [[El'Haliand]]. There is a Runehorn Hall at the school. Says they've been a fixture of Jalantar society, since it's founding. His family estate is few days north of here. 
+
+Claims he makes most of his money collecting art. Says he's going to talk to [[Doha]] about her artistic talent. 
+
 Plans to visit [[Jalantar]] in a few weeks, according to Colonel Finn [[El'Haliand]]. He'll be attending a concert.
 
+Says according to him abour 7% of jalantarians can vote, but he invests in people not political causes. 
+
 ### Who's he to us? 
-Employs [[Adrienne Spout]]
+Employs [[Adrienne Spout]], calls her his right hand
 Not on good terms with [[Niko]], [[Giary]], [[Jenson Davour]] 
 Friends with [[El'Haliand]] 
+Offered to have [[Freya]] sit with a historian about [[Polaris]] 
+Friends, no - colleagues with [[Jenson Davour]]
+
+Offered our party introductions, cooperation, and potentially citizenship if we look to stay in Jalantar. Offered [[Costi]] to loan him property so he could vote in the elections. 
+
+Invited us to visit his box at the [Bellisime] show, and added our names to the sponsor list. 
 
