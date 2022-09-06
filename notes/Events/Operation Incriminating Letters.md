@@ -53,15 +53,19 @@ If we pull it off, the [[Fire Raisers]] will introduce us to someone who thinks 
 
 If we *warn* the targets, we will royally piss off the [[Fire Raisers]]. 
 
-[[Limley]] got fired from [[Pent Logging]], and blamed us (fair). Jumped [[Our Party]] but got herself killed. 
+[[Limley]] got fired from [[Pent Logging]], and blamed us (fair). Jumped [[The Unforged Few]] but got herself killed. 
 
 A new string of [[Mysterious Explosions]] took place, a few at places we messed with. 
 
 Got the arrests done, but accidentally set some fires. [[Norathar Pent]] and [[Vigo Underswell]] are detained and awaiting trials. [[Pent Logging]] will stay active but with actively illegal activity stop. bad working policies will probably stay. 
 
-Opened the door for [[Our Party]] to keep working with them. 
+Opened the door for [[The Unforged Few]] to keep working with them. 
 
 Knows that a few members are being actively monitored. 
+
+[[Ricci Scrucks]] has stepped in to fill the [[The Guardians]] seat on the [[Zalevi Embassy Break-in]] after [[Vigo Underswell]] was arrested. 
+
+[[Relakas]] rejoined the [[Dragon's Hide]] and is playing like he didn't know [[Norathar Pent]]'s crimes
 
 ### Rewards
 [[Adrienne Spout|Adrienne]] had trouble finding some to teach armor, pulls out a lightly red tinted +1 breastplate. Will help her once she learns how to use it, and also gave a book to help her learn. Still working on it

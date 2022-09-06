@@ -2,13 +2,13 @@
 type: item
 tags:
   - item
-Owned-by: Our Party
+Owned-by: The Unforged Few
 Carried-by: Hugh
 ---
 
 #  Vladimir Grosu patch
 
-<span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[Our Party]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Carried by</span><span class="inline-field-value">[[Hugh]]</span></span>
 [Origin::[[Costi's Dad]] we think
 

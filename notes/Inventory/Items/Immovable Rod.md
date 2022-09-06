@@ -2,13 +2,13 @@
 type: item
 tags:
   - item
-Owned-by: Our Party
+Owned-by: The Unforged Few
 Carried-by: Rez
 Origin: Vrolbekk Forest
 ---
 
 # Immovable Rod
-<span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[Our Party]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Carried by</span><span class="inline-field-value">[[Rez]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Origin</span><span class="inline-field-value">[[Vrolbekk Forest]]</span></span> 
 

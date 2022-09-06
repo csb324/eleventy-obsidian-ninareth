@@ -17,7 +17,7 @@ Hint: It's all at either [[The Guardians]] or [[The Providers]] spaces
 ### Examples
 1st - The Dishta Chateau, a [[The Guardians]] gathering place  
 2nd - [[The Providers]] Field Office in Southern [[The Publics]] (happened around the same time as the 3rd)  
-3rd - [[Zalevi Embassy in Jalantar]] (thanks to [[Our Party]]) 
+3rd - [[Zalevi Embassy in Jalantar]] (thanks to [[The Unforged Few]]) 
 4th - Personal Residence of [[The Guardians]] Delegate Faharice Mustaphel
 5th - [[Gorva's Observatory]]
 6th - [[the Mayor of Jalantar]] house

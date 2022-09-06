@@ -13,6 +13,10 @@ A massive theater (really a complex of theaters) in [[The Publics]] of [[Jalanta
 
 Surrounded by a small moat that's accessible by paddle-boat (and many footbridges), It's shaped like a sinking ship, with a bust of [[Lillith Redscale]] on the bow. The ship has five distinct decks, each containing its own theater (and with its own crow's nest)
 
+Has a grand aft bridge, where [[The Unforged Few]] entered. 
+
+The main recieving chamber, Lillth Hall, is where the [[Bellisme Show]] was held
+
 ## NPCs
 {% include 'list-references.html', reference_data: npcs %}
 

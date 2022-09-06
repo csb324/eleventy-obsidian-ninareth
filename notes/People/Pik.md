@@ -5,6 +5,8 @@ tags:
 Status: alive
 Race: goblin
 Relationship: neutral
+Class: Barbarian
+Affiliation: The Silver Halves
 ---
 
 # Pik
@@ -12,7 +14,8 @@ Relationship: neutral
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">goblin</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 [Home::[[Quaath]]
-[Class:Barbarian]
+<span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Barbarian</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Silver Halves]]</span></span>
 
 Goblin, carries a very large sword. Believes to be [[Pak]]’s twin
 
@@ -21,7 +24,7 @@ Goblin, carries a very large sword. Believes to be [[Pak]]’s twin
 ### Who're They to Us?
 Friends with [[Vask]]
 
-### Allies
+### Party Members
 [[Victoria Several]]
 [[Magister]]
 [[Vask]]

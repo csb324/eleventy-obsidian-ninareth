@@ -19,9 +19,9 @@ Home: Redscale
 Upon her death, we found:
 1. A little leather [[Bag of Screams]]
 2. A [[Circlet of Sending]] on her brow
-	1. This can cast sending once per day, 
-	2. attuning to it puts you in a spooky witches group chat. 
-3. A [[Beauties of Shadow Dog Tag|dog tag]] on a chain around her neck, with writing none of us know how to read. It was about to melt into her skin when [[Freya]] pulled it out with her talons. 
-	1. "auntie darkna" - seems like a name 
-	2. "The beauties of shadow" in silvan, a fey language. 
+	* This can cast sending once per day, 
+	* Attuning to it puts you in a spooky witches group chat. 
+1. A [[Beauties of Shadow Dog Tag|dog tag]] on a chain around her neck, with writing none of us know how to read. It was about to melt into her skin when [[Freya]] pulled it out with her talons. 
+	* *"auntie darkna" - seems like a name 
+	* "The beauties of shadow" in sylvan, a fey language. 
 

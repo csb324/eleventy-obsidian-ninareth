@@ -10,6 +10,7 @@ Affiliation:
   - The Stagehands
 Location: The Publics
 Pronouns: " he/his"
+Title: " Delegate"
 ---
 
 # Vigo Underswell
@@ -20,6 +21,7 @@ Pronouns: " he/his"
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Stagehands]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[The Publics]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> he/his</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Title</span><span class="inline-field-value"> Delegate</span></span>
 
 Older halfling, pretty tall relatively, at about 3.5ft, with well coiffed and stiff white hair, white mutton chops and deeply tanned skin. Green suit, with a pink button flower. Very stately air. Very focused on his family, the most typical politician we’ve seen so far. 
 
@@ -35,7 +37,7 @@ He left to meet with [[The Stagehands]], grabbing multiple guns from the desk, a
 Involved in politics for about 40 years, father peaked as Deputy Mayor of [[Jalantar]]. Comes from a long time political dynasty family. However, that family is now bankrupt, but recently started making ends meet importing drugs with [[The Stagehands]]. Seems to have nefarious political actions, like conveniently persuading his opponents to move away or, in at least one case, disappear.
 
 ### Who're they to us? 
-One of the two targets [[Our Party]] is supposed to unseat in [[Operation Incriminating Letters]]. We planted a letter in his office and stole his cloudy potion.
+One of the two targets [[The Unforged Few]] is supposed to unseat in [[Operation Incriminating Letters]]. We planted a letter in his office and stole his cloudy potion.
 
 Has previously worked with [[Adrienne Spout|Adrienne]] and [[Julian Slater-Runehorn|Julian]]
 
@@ -47,4 +49,4 @@ Thick vial of white viscous liquid in a bottle about 2 inches tall (it's not cum
 ### Notes
 Seems a bit testy that [[Ellinev Del]] visited with us first, and claimed that he wrote a similar introductory letter that must have been lost in the mail. 
 
-Next week, on grivokveir, his family is hosting their traditional ball. Invited [[Our Party]] as his guests of honor, and to meet for a drink early. 
+Next week, on grivokveir, his family is hosting their traditional ball. Invited [[The Unforged Few]] as his guests of honor, and to meet for a drink early. 

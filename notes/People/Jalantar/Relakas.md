@@ -9,7 +9,7 @@ Home: Jalantar
 Affiliation: Dragon's Hide
 ---
 
-# Relakas
+# Relakas Freed
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Dragonborn</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
@@ -17,11 +17,13 @@ Affiliation: Dragon's Hide
 [Location:: [[Pent Logging]]
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Dragon's Hide]]</span></span>
 
-Large dragonborn, with teeth are filed down to points. Carries a greatsword.
+Large copper dragonborn, with teeth are filed down to points. Carries a greatsword.
  
 Head of security at [[Pent Logging]], and has been known to travel as security with [[Norathar Pent]]. 
 
 Seems to have some sort of feud with [[Limley]]
+
+Old friend with [[Ricci Scrucks]]
 
 ### Background
 Used to be part of the dragons hide - an elite regiment of the guards also known as the “hidesman”.

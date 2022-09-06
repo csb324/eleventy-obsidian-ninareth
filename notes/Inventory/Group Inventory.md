@@ -2,7 +2,7 @@
 {}
 ---
 # Group Inventory
-Gold - 2,199
+Gold - 2,399
 
 ### Potions:
 Greater healing - 0 
@@ -60,11 +60,31 @@ Carried by [[Costi]]
 [[Shadowfell Shard]] 
 Carried by [[Rez]]
 
+Dragon Scales: Carried by [[Freya]]
+	Blue - 8
+	Red - 9
+
+[[Blue Dragonstaff]]
+Carried by [[Rez]]
+
+Jorus Holy Symbol of [[Bahamat]] and a notebook in shorthand
+Carried by [[Rez]] 
+
+A vial of black liquid bone adehsive 
+Carried by [[Hugh]]
+
+A vial of red highly corrosive / flammable liquid
+Carried by [[Hugh]]
+
 ### Mundane Items:
 Gems:
 	Pearl
 	Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
 	Small diamonds - 500gp worth
+	pearl necklaces - 2
+	a ruby brooch
+	diamond ring
+	many jeweled rings - 3
 
 [[Vlad Grosu Patch]]
 
@@ -77,4 +97,11 @@ Carried by [[Costi]]
 Disguise kit
 Carried by [[Adrienne Spout|Adrienne]]
 
+[[Sqwank]]'s  [[Wayfinders]] dog tag
+Carried by [[Freya]]
 
+Shorthand notes 
+Carried by [[Adrienne Spout|Adrienne]]
+
+Unscaled shorthand key
+Carried by [[Costi]] 

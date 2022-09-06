@@ -20,7 +20,7 @@ Pronouns: " they/them"
 
 ![](/assets/obsidian/Twigs.jpeg)
 
-Blue skin and aqua green hair. Wearing the remains of a torn business suit and basketball shoes. Hexblade warlock. Everyone in their family is named Twigs. Met [[Our Party]] at [[The Furnace]]. Explosives enthusiast.
+Blue skin and aqua green hair. Wearing the remains of a torn business suit and basketball shoes. Hexblade warlock. Everyone in their family is named Twigs. Met [[The Unforged Few]] at [[The Furnace]]. Explosives enthusiast.
 
 Associate of [[Niko]], works under [[Cinder]], part of the [[Fire Raisers]] 
 

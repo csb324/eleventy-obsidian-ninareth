@@ -8,8 +8,11 @@ Relationship: neutral
 Affiliation:
   - The Providers
   - Promenade Aid Society
-Location: The Promenade
+Location:
+  - The Promenade
+  - Pent Logging
 Pronouns: " she/hers"
+Title: " Delegate"
 ---
 
 # Norathar Pent
@@ -19,8 +22,9 @@ Pronouns: " she/hers"
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Providers]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Promenade Aid Society]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[The Promenade]]</span></span>
-[Location:: [[Pent Logging]]
+<span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Pent Logging]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> she/hers</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Title</span><span class="inline-field-value"> Delegate</span></span>
 
 Female wood-elf bronze skinned with intricate long black braids. Wearing a fine emerald dress, subtly incredibly expensive. A circlet and on her right ring finger she has a silver band.
 
@@ -34,7 +38,7 @@ Lucrative contract with a “prominent merchant from [[Dilandil]], Luzumin Doron
 Primary donor to the [[Promenade Aid Society]] and the “Promenade Alms”. 
 
 ### Who're they to us? 
-One of the two targets [[Our Party]] is supposed to unseat in [[Operation Incriminating Letters]].
+One of the two targets [[The Unforged Few]] is supposed to unseat in [[Operation Incriminating Letters]].
 
 ### Related Items
 Pent’s ring (often on her person), large and silver - has a pink center stone and 17 crystals along the edge

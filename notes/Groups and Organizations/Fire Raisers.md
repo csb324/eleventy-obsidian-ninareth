@@ -19,7 +19,7 @@ Keep bloodshed avoided, but want to expose corruptions and let the people decide
 ### Who're they to us?
 [[Niko]] brought us to their HQ [[The Furnace]] and made introductions.
 
-As a treat for saving [[Niko]] they promised some rewards to [[Our Party]]
+As a treat for saving [[Niko]] they promised some rewards to [[The Unforged Few]]
 
 * They'll help us make it look good when we "escape" our "hostage situation"
 * They'll make sure the various governments permanently forget that [[Rez]] was ever tied to [[Niko]]
@@ -29,4 +29,4 @@ As a treat for saving [[Niko]] they promised some rewards to [[Our Party]]
 * [[Hugh]] would like a pet. Preferably a nocturnal pet? And, again, info on [[Costi's Dad]]
 * [[Rez]] wants to meet the coolest wizard they've ever met. 
 
-Hired [[Our Party]] for [[Operation Incriminating Letters]] 
+Hired [[The Unforged Few]] for [[Operation Incriminating Letters]] 

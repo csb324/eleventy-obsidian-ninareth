@@ -26,5 +26,5 @@ Kel was [[Niko]]’s main POC when he wanted to smuggle someone out of [[Zalev]]
 Loves beans, likes breaking bones? Months-to-years in prison seems to have done a number on their social skills. Or maybe they were always like that.
 
 ### Who's he to us? 
-[[Our Party]] freed him in the [[Zalevi Embassy Break-in]]. He traveled with us to the [[Underground Safehouse]] and is currently helping bring [[Giary]] from the [[Jalantar Sewers]] to [[The Furnace]] 
+[[The Unforged Few]] freed him in the [[Zalevi Embassy Break-in]]. He traveled with us to the [[Underground Safehouse]] and is currently helping bring [[Giary]] from the [[Jalantar Sewers]] to [[The Furnace]] 
 

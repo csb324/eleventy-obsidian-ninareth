@@ -30,7 +30,7 @@ Notes of Favor from [[Willen Guruden]] to [[Rez]] and [[Hugh]]
 [[Dawenys]] (as Dawnfather Melfin) to [[Temple of Pelor in Jalantar]]
 "Look at the stone you dipshits"
 
-[[Julian Slater-Runehorn|Julian]] to [[Our Party]] (minus [[Adrienne Spout|Adrienne]])
+[[Julian Slater-Runehorn|Julian]] to [[The Unforged Few]] (minus [[Adrienne Spout|Adrienne]])
 "To my dear Adrienne’s new companions,
 
 It would bring me great joy if you would do me the honor of attending a small luncheon with me today. Adrienne unfortunately has business to attend to in the city, and while I am a poor substitute, I hope I can show you a pleasant afternoon. 

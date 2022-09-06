@@ -22,3 +22,5 @@ A red tiefling with curling horns. When he meets you he gives you a hug and tell
 
 He's not really into sex and drugs -- he's *all about* the rock and roll. 
 
+Was very disappointed that they didn't get the venue they wanted at the [[Bellisme Show]] 
+

@@ -24,4 +24,6 @@ Has traveled the entire Wayfinder route 6 times, got the fancy line tattoo to bo
 ### Who's he to us? 
 Someone [[Freya]] is supposed to talk to, per [[Rowley]]'s note. #mysteries 
 
-Gave her a book from [[Rowley]] 
+Gave [[Freya]] a book from [[Rowley]] 
+
+Knows wayfinder leaders in many cities and offerned to introduce [[Freya]] if she travels to [[Cerendian]], [[Kilfalgaard] [[Tinkate]]

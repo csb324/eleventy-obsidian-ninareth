@@ -26,7 +26,7 @@ After the explosion, our friends [[Innis]], [[Giary]], and [[Kara]] came in to j
 
 Downstairs, we came across a large prison cell. [[Niko]] and the [[Arazoak]] weren't in there, but [[Qik]] was! This seemed to be where they were keeping their low-risk prisoners. Anyway, [[Innis]] escorted them out. 
 
-Then, [[Kara]] and [[Giary]] went one way, while [[Our Party]] went another. More stairs led to more prison cells and more guards.
+Then, [[Kara]] and [[Giary]] went one way, while [[The Unforged Few]] went another. More stairs led to more prison cells and more guards.
 
 ## Combat 2: The Prison
 These prison cell locks would coat your hands in liquid metal if you tried to open them incorrectly. [[Costi]] learned this the hard way. The rooms were also heavily trapped with firearms. 

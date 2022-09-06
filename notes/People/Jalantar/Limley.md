@@ -32,11 +32,11 @@ Gave [[Rez]] (Amy) and [[Freya]] (Courtney) a tour of [[Pent Logging|Pent North]
 
 Lost their job at [[Pent Logging]] from the fall out of [[Operation Incriminating Letters]] and [[Rez]] being caught by guards. 
 
-Uh-oh, appears to have worked with the [[Dragon's Hide]] to corner [[Our Party]] for what can only be bad intent. Jumped us with "hello Amy". Wasn't her best choice, we killed her. 
+Uh-oh, appears to have worked with the [[Dragon's Hide]] to corner [[The Unforged Few]] for what can only be bad intent. Jumped us with "hello Amy". Wasn't her best choice, we killed her. 
 
 ### Items
 133 GP
-key to a storage room where [[Our Party]] was attacked
+key to a storage room where [[The Unforged Few]] was attacked
 greater hp
 pent logging patch
 [[Flame Tongue Longsword]]

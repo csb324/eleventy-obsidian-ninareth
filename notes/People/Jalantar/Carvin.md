@@ -22,6 +22,9 @@ Pronouns: " he/his"
 
 Priest at the temple, recently started wearing a holy symbol for [[TrueSilver]] as well.
 
+### Background
+Was in the same metallurgy appretinceship as [[Divitston Goldstone]], but struggled the most out of anyone in the class. Seems to have finally found more of his place with [[Hugh]]'s help. 
+
 ### Who're they to us? 
 Has been friendly to [[Hugh]], seems to have been partially converted by him, including:
 

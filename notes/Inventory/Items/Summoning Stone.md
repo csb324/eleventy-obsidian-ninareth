@@ -19,7 +19,7 @@ This stone, when active, summoned some very spooky spirits to the [[Temple of Pe
 
 [[session-14]] We tried to drop it off at the [[Temple of Pelor in Jalantar]]. They wouldn't take it, (specifically, a dragonborn receptionist named [[Ickthin]] but let us make an appointment.
 
-[[session-23]] Uh-oh, turns out this thing is still active? Brought an angry poltergiest and it's friend to the [[The Golden Gryffon]] and attacked [[Our Party]] during a long rest. 
+[[session-23]] Uh-oh, turns out this thing is still active? Brought an angry poltergiest and it's friend to the [[The Golden Gryffon]] and attacked [[The Unforged Few]] during a long rest. 
 
 [[session-24]] [[Adrienne Spout|Adrienne]] tried to dispel the stone, but it only seemed to temporarly bring a ghostly hand into existence. 
 

@@ -24,6 +24,6 @@ Human middle-aged, goatee, short braid, wearing finery of Zalevi gov
 Used to be part of the dragons hide
 
 ### Who're they to us? 
-Met [[Our Party]] at the [[Zalevi Embassy Break-in]]
+Met [[The Unforged Few]] at the [[Zalevi Embassy Break-in]]
 Taking care of something for [[El'Haliand]]
 

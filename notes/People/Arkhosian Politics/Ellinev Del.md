@@ -43,5 +43,6 @@ Sent us a note in [[session-27]]
 
 [[session-29]] Costi told her that he was searching for [[Costi's Dad|Vladdy Daddy]]. She said she'd make some inquiries on his behalf. 
 
-Invited [[Our Party]] to some [[The Providers]] meeting in the lead up to [[Arkhosian Elections]]. It won't be as lit as [[session-7|the last one]].
+Invited [[The Unforged Few]] to some [[The Providers]] meeting in the lead up to [[Arkhosian Elections]]. It won't be as lit as [[session-7|the last one]].
 
+Went to the [[Bellisme Show]] and connected with [[The Unforged Few]] and [[Victor]] - he's going to speak to the Committee (at least those that aren't arrested)

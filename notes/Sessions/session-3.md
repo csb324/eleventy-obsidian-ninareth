@@ -14,6 +14,6 @@ prev:
 
 [[Adrienne Spout]] plays a gig with [[Left Side Haircut]] and fucking *nails* it.
 
-[[Our Party]] plays Never Have I Ever.
+[[The Unforged Few]] plays Never Have I Ever.
 
 [[Adrienne Spout]] and [[Niko]] hit it off, as do [[Rez]] and [[Deeksta]]. Rez and Deeksta try [[Gruung]] poison.

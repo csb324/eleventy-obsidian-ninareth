@@ -22,8 +22,8 @@ Half-elf half-tiefling with a leather skirt apron with a red hair pixie cut, wit
 
 A craftwoman at [[The Gilded Instrument]], who specializes in the harp. Originally from an elven community in the [[Vrolbekk Forest]], very structured and strict eleven culture, she left home and started a new life in [[Zalev City]], where she fell in with a band of criminals -- the [[Arazoak]]. After a jewelry heist went wrong, she then fled [[Zalev]] for [[Jalantar]]. Claims to be reformed and wants a quiet life now.
 
-[[Adrienne Spout|Adrienne]] needed her to repair her old broken harp. In exchange, Zephra enlisted [[Our Party]] to help track down members of the [[Arazoak]] who have turned up in [[Jalantar]], so we could find out what their plan was and stop them.
+[[Adrienne Spout|Adrienne]] needed her to repair her old broken harp. In exchange, Zephra enlisted [[The Unforged Few]] to help track down members of the [[Arazoak]] who have turned up in [[Jalantar]], so we could find out what their plan was and stop them.
 
 She (and some of the [[Arazoak]]) were captured by the [[Zalevi Military]] --  our friends [[Captain Fretze]] and co. 
 
-Escaped in the [[Zalevi Embassy Break-in]] and is with [[Our Party]] in the [[Jalantar Sewers]]. 
+Escaped in the [[Zalevi Embassy Break-in]] and is with [[The Unforged Few]] in the [[Jalantar Sewers]]. 

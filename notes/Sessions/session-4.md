@@ -16,7 +16,7 @@ prev:
 
 ([[Adrienne Spout|Adrienne]] also wakes up, we just did a whole bunch of morning-after stuff)
 
-[[Our Party]] catches up over breakfast. Freya talks to Hugh and Costi about her magic situation. Rez lets us know there are some things going on, and we agree to take on the Yak problem. 
+[[The Unforged Few]] catches up over breakfast. Freya talks to Hugh and Costi about her magic situation. Rez lets us know there are some things going on, and we agree to take on the Yak problem. 
 
 First we go to the clothing store and talk to... a [[Victor|fella costi talked to earlier]] and his armoring [[Bliken Hammerov|dwarf friend]]. [[Hugh]] buys some new clothes. Then we go to the [[Tack & Trade]], where [[Rez]] hears a cool story about a ring but does not buy it. 
 

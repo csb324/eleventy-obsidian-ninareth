@@ -37,13 +37,25 @@ Plans to visit [[Jalantar]] in a few weeks, according to Colonel Finn [[El'Halia
 Says according to him abour 7% of jalantarians can vote, but he invests in people not political causes. 
 
 ### Who's he to us? 
-Employs [[Adrienne Spout]], calls her his right hand
-Not on good terms with [[Niko]], [[Giary]], [[Jenson Davour]] 
-Friends with [[El'Haliand]] 
+Employs [[Adrienne Spout]], calls her his right hand. Also employs [[Henrik]], and works closely with [[Sienna Burbank]]
+
+Not on good terms with [[Niko]], [[Giary]], [[Srictha]]
+
+Friends with [[El'Haliand]] and colleagues with [[Jenson Davour]]
+
 Offered to have [[Freya]] sit with a historian about [[Polaris]] 
-Friends, no - colleagues with [[Jenson Davour]]
 
 Offered our party introductions, cooperation, and potentially citizenship if we look to stay in Jalantar. Offered [[Costi]] to loan him property so he could vote in the elections. 
 
-Invited us to visit his box at the [Bellisime] show, and added our names to the sponsor list. 
+Invited us to visit his box at the [[Bellisme Show]] and added our names to the sponsor list. 
 
+Told [[Adrienne Spout|Adrienne]] to: 
+* make sure [[Hugh]] doesn't cause a scene 
+* that [[Freya]] is not around dinners and events than she should be 
+* to nuture [[Costi]] as his political feelings could be useful 
+* don't be overly publicly associated with [[Rez]] becuase of her frivolous antics
+
+[[Costi]] offered a trade for information about [[Threthdia Scrivit]], he responded that he would ask his own question -- that Costi would have it soon. 
+	When he called this in, [[Costi]] had to tell him everything that [[Adrienne Spout|Adrienne]] was hiding about the [[Zalevi Embassy Break-in]]. Costi told most of it, but kept the [[Fire Raisers]] secret. 
+
+Staying at the [[Guspen Resort]] in [[Jalantar]]

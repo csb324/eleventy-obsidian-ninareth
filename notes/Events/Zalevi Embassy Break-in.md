@@ -10,7 +10,7 @@ Status: Ended
 [[Niko]], [[Qik]], [[Zephyra]], and others are being held at the zalevi embassy for extradition. We're going to break them out. 
 
 ## The team 
-- [[Our Party]]
+- [[The Unforged Few]]
 - [[Giary]]
 - [[Innis]]
 - [[Vrolbekk Pixies]] (Bel)
@@ -47,4 +47,6 @@ Still looking for a few high priority targets: [[Kel]] [[Niko]]
 
 City officials are looking to interview some people who were involved, and unknown other people are going to interview [[Professor Leonard Klipitz]], and other folks in [[Tinzelven]], especially regarding [[Niko]] 
 
-[[The Talon]] is running articles, including quotes from [[Our Party]]. [[Costi]] made a public claim that the [[Zalevi Military]] should pay for their crimes.
+[[The Talon]] is running articles, including quotes from [[The Unforged Few]]. [[Costi]] made a public claim that the [[Zalevi Military]] should pay for their crimes.
+
+Investing if the [[Jalantar]] government set them up to increase tension in the cities, by telling the [[Zalevi Military]] they can arrest people and then taking it back and causing a scandal

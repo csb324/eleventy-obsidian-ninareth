@@ -46,7 +46,7 @@ Friends with [[Deeksta]]
 Slept with [[Adrienne Spout|Adrienne]]
 Manipluating/mentoring [[Costi]]
 
-Traveled to [[Jalantar]] with [[Our Party]], to get our gems appraised for Klipitz. Staying with friend and miscreant [[Giary]] 
+Traveled to [[Jalantar]] with [[The Unforged Few]], to get our gems appraised for Klipitz. Staying with friend and miscreant [[Giary]] 
 
 Has a working knowledge of [[Julian Slater-Runehorn|Julian]]'s efforts, but claims he wouldn't be known by him - mistrusts [[Adrienne Spout|Adrienne]] becuase of it. 
 

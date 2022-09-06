@@ -8,7 +8,7 @@ Home: Vrolbekk Forest
 
 Status: seeking veeennnnngaaance 
 
-Purple ones, red ones, and blue ones. They hate [[Our Party]]. And they live in the <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Vrolbekk Forest]]</span></span> outside [[Tinzelven]]. Specifically, in the trees.
+Purple ones, red ones, and blue ones. They hate [[The Unforged Few]]. And they live in the <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Vrolbekk Forest]]</span></span> outside [[Tinzelven]]. Specifically, in the trees.
 
 Their hopping venom is sort of a fun drug -- [[Rez]] and [[Deeksta]] have tried it.
 

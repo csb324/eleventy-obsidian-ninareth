@@ -41,7 +41,7 @@ For fifty gold, which we gave him, he's going to ask around about [[Costi's Dad]
 
 Worked with [[The Stagehands]] to help "misplace" [[Rez]]'s [[Jalantar]] visa that was sponsored by [[Niko]]
 
-Took a contract from [[Our Party]] for [[Operation Incriminating Letters]] and seems to be playing the middle line between [[The Stagehands]] and the [[Fire Raisers]].
+Took a contract from [[The Unforged Few]] for [[Operation Incriminating Letters]] and seems to be playing the middle line between [[The Stagehands]] and the [[Fire Raisers]].
 
 - Information on when [[Norathar Pent]] and [[Vigo Underswell]] would be out of their respective offices
 - Possibly *moving* when they would be out of their offices to a time that is more convenient for us

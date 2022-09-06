@@ -6,7 +6,9 @@ tags:
 Status: alive
 Race: Warforged
 Home: Eberron
-Affiliation: Our Party
+Affiliation:
+  - The Unforged Few
+  - The Self Made Men
 Pronouns: " he/they"
 Class: Cleric
 ---
@@ -15,7 +17,8 @@ Class: Cleric
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Warforged</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Eberron]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Our Party]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Self Made Men]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> he/they</span></span>
 
 ![](/assets/obsidian/Hugh.jpg)
