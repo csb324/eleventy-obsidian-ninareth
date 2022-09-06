@@ -24,7 +24,7 @@ Halfling
 ### Who's he to us? 
 Has people that were delivering him dragon scales. People who hunt them or sell them, he doesn't know. Squwank and some of the [[Wayfinders]] would bring them back. Called themselves the Unscaled. 
 
-Got weirder in the last few weeks. Started to get some powers from it. Jorus worked at the [[Temple of  Platinum Dragon in Jalantar]], his notebook has all the research of what happened to [[Azir DarAxia|Saint Goldborn]] and trying to replicate it. 
+Got weirder in the last few weeks. Started to get some powers from it. [[Jorus]] worked at the [[Temple of  Platinum Dragon in Jalantar]], his notebook has all the research of what happened to [[Azir DarAxia|Saint Goldborn]] and trying to replicate it. 
 
 Pleetos Alentas (from [[Thelran Asari]] via airship, and left after getting scales grafted. Got one brass scale added) is the only member of the Unscaled who isn't here. Think he works at the Academy and works in rune crafting. 
 
