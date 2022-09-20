@@ -32,17 +32,6 @@ Says he read a story when he was five, about a dragon who was persecuted long be
 
 He has a couple of friends who also say the same thing. [[Father Thronestone]] gave him more scales, and Burru supplied some extra himself -- he thinks he might try to do this on other.
 
-### Ilp Estate
-
-Lives in a nice estate in the [[The Fallsides]].  His house is themed in five chromatic colors: Ruby, Emerald, White Crystal, Onxy, and Sapphire. The gate is a dragon heads. The house is filled with rotting food, and is totally trashed. 
-
-We look around, most of the walls have tapestries of major moments of dragon history: the battle of the fork from the first sundering, the battle of [[Gu’athrithen]] from the second sundering, [[Galaphanel]]'s flight from [[Durmask]] (behind which is a door), one depciting where [[Tiamat]] is being held, [[Bahamat]]'s asecension, one titled "boulder making" (two paneled a silver dragon surrounded by dwarves, and then those dwarves cheering around a boulder). Has a four volume titled "the second sundering", by the foremost expert on the second sundering -- [[Caleb DarAxia]]. Another small one depicting Kaycee riding a dragon.
-
-On the ceiling is a major fresco, 60 ft panel 40t ft up, of [[Tiamat]] fighting [[Bahamat]].  Anything of value aside from the art is gone. All the metal and shiny things are gone. There are some gouged marks from what might be claws in the wood, like large wyrmling or very young adult but only seems one sided (on the right).
-
-A hidden basement inside, a very large half-orc named Squawnk, around 8.5" tall with a left arm swollen and wrapped in a bandage. A club is on their back, modulated with glass and nails through it. A workshop is in the center of the space, it seems to be a forge (a silver dragonborn is inside).
-
-A statue of a small red and blue dragon, but seems to be made of real scales -- patches have been torn off. A halfling, named Cortis, is strapped to a table who's been a long time member of their cult but now is begging not to have the procedure. 
 
 ### Who're They to Us?
  [[Father Thronestone]] asked [[The Unforged Few|Our-Party]] if [[Rez]] still feels okay. Tells us he's in a tough spot - he bragged about the dragon scales, and one of his friends wanted it done too. Said he has dragon blood in his veins, and Thronestone grafted a significant number of blue and red scales onto his forearm, some directly into the bone. He's been acting strange since the procedure, almost seems taller, and showed a black eye he gave him. Said he can't bring this to the elders, and would pay us in kind if we would go take care of it. 
@@ -52,7 +41,7 @@ Promises he won't continue to do this, but seems so intrigued by it working with
 Originated the group that calls themselves the Unscaled. 
 
 ### Associated Items
-* Dragon Scales:
+* Dragon Scales: (notes say many were sourced from "S" #mysteries )
 	* Blue - 3
 	* Red - 4
 * pearl necklaces - 2

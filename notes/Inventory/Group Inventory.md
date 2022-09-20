@@ -101,7 +101,7 @@ Carried by [[Adrienne Spout|Adrienne]]
 Carried by [[Freya]]
 
 Shorthand notes 
-Carried by [[Adrienne Spout|Adrienne]]
+Carried by [[Freya]]
 
 Unscaled shorthand key
-Carried by [[Costi]] 
+Carried by [[Rez]]

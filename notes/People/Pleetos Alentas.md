@@ -16,7 +16,7 @@ Home: Thelran Asari
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">human</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Galaphanel]]</span></span>
-[Workplace::
+[Workplace::[[The Academy in Thelran Asari]]
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Unscaled]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Thelran Asari]]</span></span>
 
