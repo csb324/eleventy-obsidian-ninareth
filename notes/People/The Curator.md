@@ -20,13 +20,19 @@ Says they're a “collector” - but we can call them the Curator. Reassures us 
 
 Tells us they collect all sorts of things. Doesn’t like to cage things, but prefers to collect them. All they need is for us to keep being interesting. And if we need assistance, they’ll try to assist us. Claims to have many many people all across the continent that are in her collection. 
 
-Implied is that if one of their other ~collectibles~ needs help from us, we're expected to comply. Highly secretive.
+Implied is that if one of their other ~collectibles~ needs help from us, we're expected to comply. Highly secretive. Says she tries not to act for those in her collection, but wants them to learn to act for themselves -- with her help. 
 
 ### Background
 who tf knows
 
 ### Who're they to us? 
 Has been watching our group, and interested in meeting the three of us: [[Rez]], [[Adrienne Spout|Adrienne]], [[Freya]]. All three of us joined her collection in [[session-30]]. in [[session-30]].
+
+Appeared into [[Freya]]'s room, came specifically to learn secrets. Asks "what is she after? what would she like", says her role is to shepard those in her collectino to be the best they can be. To know their goals to help them become true.
+
+We've run afoul of someone she has a terse relationship with [[Threthdia Scrivit]]. Says her purposes are cross to hers, and would happy to lend us assistance.
+
+
 
 ### The Contract
 I, \_\_\_\_\_, am excited to join the Collection and do so willingly.

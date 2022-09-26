@@ -9,19 +9,11 @@ Owned-by: The Unforged Few
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
 ### Immediate
-* Group conversation with [[Father Thronestone]] on [[Burru Ilp]]
-	* decide how much help we're asking for: 
-		* stop sale of dragon scales?
-		* finding [[Pleetos Alentas]] 
-		* warning others?
-		* should he keep his job
-		* OOTPD heads up
-* Lunch with[[Julian Slater-Runehorn|Julian]], who mentioned a task for [[Adrienne Spout|Adrienne]] and [[Costi]] with the help with our party
+* Go retrieve the pipe [[Julian Slater-Runehorn|Julian]] wants from [[Damien]]
 
 
 ### Short-Term
 * [[Threthdia Scrivit]] invited us to dinner AKA a murder party
-* Talk to [[Temple of  Platinum Dragon in Jalantar]] leaders about [[Jorus]]
 * Help [[Ricci Scrucks]] with the investigation into the [[Fire Raisers]] attack at the [[Bellisme Show]]
 * [[Niko]] told [[Freya]] that [[Professor Leonard Klipitz]] recognized her [[Mysterious Circles]] - so we should ask about that
 * [[Adrienne Spout|Adrienne]] go back to the [[The Gilded Instrument]] 

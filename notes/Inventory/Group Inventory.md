@@ -2,11 +2,11 @@
 {}
 ---
 # Group Inventory
-Gold - 2,399
+Gold - 1,294
 
 ### Potions:
-Greater healing - 0 
-Regular healing - 0
+Greater healing - 
+Regular healing - 
 
 ### Magic Items:
 
@@ -14,7 +14,7 @@ Regular healing - 0
 Carried by [[Rez]]
 
 [[Summoning Stone]]
-Carried by [[Rez]]
+Carried by [[Rez]], given to [[Father Thronestone]] to power the [[Dragonsfire Forge]]
 
 [[Gust Fan]]
 Carried by [[Costi]]
@@ -76,6 +76,9 @@ Carried by [[Hugh]]
 A vial of red highly corrosive / flammable liquid
 Carried by [[Hugh]]
 
+Boots of Endless Walking
+Carried by [[Costi]]
+
 ### Mundane Items:
 Gems:
 	Pearl
@@ -101,7 +104,9 @@ Carried by [[Adrienne Spout|Adrienne]]
 Carried by [[Freya]]
 
 Shorthand notes 
-Carried by [[Freya]]
+Carried by [[Freya]], with [[Father Thronestone]]
 
 Unscaled shorthand key
-Carried by [[Rez]]
+Carried by [[Rez]], with [[Father Thronestone]]
+
+Lanterns - 5

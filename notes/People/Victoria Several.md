@@ -30,12 +30,18 @@ Needed to come to [[Jalantar]], found an interesting tome a few years back, but 
 
 Family from [[Taleem]] but grew up in [[Quaath]]'s Gold Circle. Mom does contract writing for business, Dad helps "procure things" -- gone a lot growing up. Her dad worked with [[Pik]] and [[Pak]]'s father.
 
+Her family is from [[Quaath]] but was from [[Taleem]] originally. They left generations ago and traveled all around [[Ninarith]]. Her grandfather also knew magic, but passed when she was quite young.
+
+Follows [[Arkhosia]] politics quite closely. Says her family, well her parents, well her mom is a merchant.
+
 ### Who're They to Us?
 Friends with [[Vask]], maybe has something more building with him?
 
 Says she can get us tickets to the [[Bellisime]]. Told [[Vask]] they would either be in [[Jalantar]] for a few weeks, or would have to leave as soon as the [[Bellisme Show]] ends. Uh-oh.
 
 Came to meet [[The Unforged Few]] at the [[The Miscasts]] show
+
+[[Costi]] wants to chat with her about [[The Providers]] and the [[Arkhosian Elections]]
 
 ### Party Members
 [[Vask]]

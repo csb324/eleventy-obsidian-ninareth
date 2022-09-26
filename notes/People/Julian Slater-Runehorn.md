@@ -59,3 +59,5 @@ Told [[Adrienne Spout|Adrienne]] to:
 	When he called this in, [[Costi]] had to tell him everything that [[Adrienne Spout|Adrienne]] was hiding about the [[Zalevi Embassy Break-in]]. Costi told most of it, but kept the [[Fire Raisers]] secret. 
 
 Staying at the [[Guspen Resort]] in [[Jalantar]]
+
+Exchanging a favor from our group to go collect a pipe from [[Damien]], for information on and help with [[Threthdia Scrivit]] 

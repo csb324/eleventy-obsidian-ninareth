@@ -33,6 +33,6 @@ Hired [[The Unforged Few]] for [[Operation Incriminating Letters]]
 
 [[Zephyra]] joined up with the [[Fire Raisers]], said there's been a split at [[The Furnace]] of one group who wants to prioritize innocents and another select few who disagree. And they've been trying to get rid of folks who are violent, [[Winifey]] and others who were close to [[Niko]].  
 
-Wants [[The Unforged Few|Our-Party]] to find the violent folks who haven't been rounded up, [[Srictha]] and [[Ulia Glorsbade]] and potentiallly [[Twigs]], to try and determine if they intentionally turned violent. [[Zephyra]] says it might be wise for them not to return. [[Cinder]] is leading this effort, though the real power is above him that are unknown, but [[Terrav]] seems sceptical. Keeps saying "that's what THEY say".
+Wants [[The Unforged Few|Our-Party]] to find the violent folks who haven't been rounded up, [[Niko]], [[Srictha]] and [[Ulia Glorsbade]] and potentiallly [[Twigs]], to try and determine if they intentionally turned violent. [[Zephyra]] says it might be wise for them not to return. [[Cinder]] is leading this effort, though the real power is above him that are unknown, but [[Terrav]] seems sceptical. Keeps saying "that's what THEY say".
 
 [[Terrav]] says most the people killed at the [[Bellisme Show]] were mostly not from the explosion or ash monsters, but from smoke inhalation or weapon damage. Warned us they're starting to gear up ahead of the [[Arkhosian Elections]]. 
