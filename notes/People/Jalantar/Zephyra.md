@@ -29,6 +29,6 @@ She (and some of the [[Arazoak]]) were captured by the [[Zalevi Military]] --  o
 Escaped in the [[Zalevi Embassy Break-in]] and is with [[The Unforged Few]] in the [[Jalantar Sewers]]. 
 
 ### Who're they to us?
-Has joined up with the [[Fire Raisers]], said there's been a split at [[The Furnace]] of one group who wants to prioritize innocents and another select few who disagree. Wants [[The Unforged Few|Our-Party]] to find the violent folks who haven't been rounded up, [[Srictha]] and [[Ulia Glorsbade]] and potentiallly [[Twigs]], to try and determine if they intentionally turned violent. [[Zephyra]] says it might be wise for them not to return. 
+Has joined up with the [[Fire Raisers]], said there's been a split at [[The Furnace]] of one group who wants to prioritize innocents and another select few who disagree. Wants [[The Unforged Few|Our-Party]] to find the violent folks who haven't been rounded up, [[Srictha]] and [[Ulia Glorsbade]] and [[Winifey]], potentiallly [[Twigs]], to try and determine if they intentionally turned violent. [[Zephyra]] says it might be wise for them not to return. 
 
 She thinks [[Niko]] wasn't in on this, and wants us to find him to disprove it. 

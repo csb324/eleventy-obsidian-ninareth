@@ -48,9 +48,9 @@ On the road, [[Rez]] answered a [[Hugh]] riddle all by herself without any help 
 
 We make it to [[Tinzelven]], but it seems mostly empty and quiet. [[Abaria]]'s store seems open, and she gave us the scoop. [[Victor]] is in [[Jalantar]], [[Bliken Hammerov]] is in [[Arkhosia (City)]], [[Willen Guruden]] took bunch of folks to [[Arkhosia (City)]]. Says [[Professor Leonard Klipitz]] didn't leave, and [[Deeksta]] is still keeping the town safe. 
 
-We visit [[Professor Leonard Klipitz]], he says [[Rez]]'s riddle machine is *almost* there. It has two buttons, always press the right button and never the left (he thinks). [[Rez]] decides to try it out, turns out it the left. The first "what goes up but never comes down" [[Costi]] answers his age - and gets a cookie. [[Professor Leonard Klipitz]] says he doesn't know how it works, but it does. 
+We visit [[Professor Leonard Klipitz]], he says [[Rez]]'s riddle machine is ready. It has two buttons, always press the right button and never the left (he thinks). [[Rez]] decides to try it out, turns out it the left. The first "what goes up but never comes down" [[Costi]] answers his age - and gets a cookie. [[Professor Leonard Klipitz]] says he doesn't know how it works, but it does. Seems to be connected to the feywild. 
 
-Came across [[Freya]]'s symbol while researching his rock bag, it's in the margins "The Unnatural Naturality: A history of the creation of the prime material plane and an examiniation of it's relationship with the elemtal, outer, and mirror planes by T.Y. Gurscock" in 1753 - got in a used bookstore in [[Arkhosia (City)]] at [[Kildee's Ink and Quill]] about 40 years ago. 
+Came across [[Freya]]'s symbol while researching his rock bag, it's in the margins "[[The Unnatural Naturality]]: A history of the creation of the prime material plane and an examiniation of it's relationship with the elemental, outer, and mirror planes by T.Y. Gurscock" in 1753 - got in a used bookstore in [[Arkhosia (City)]] at [[Kildee's Ink and Quill]] about 40 years ago. 
 
 Says [[Niko]] came through town after the [[Zalevi Embassy Break-in]], and that he needed to go handle a pressing family event. He reached out [[Winston]] for him. [[Niko]] introduced them, the two of them met during war, serving in [[korvez]] a border town of [[Zalev]] and [[Arkhosia]]. 
 

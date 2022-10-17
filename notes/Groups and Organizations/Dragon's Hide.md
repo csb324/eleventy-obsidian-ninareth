@@ -2,6 +2,8 @@
 type: org
 tags:
   - orgs/dragons-hide
+aliases:
+  - Hidesman
 Based-in: Jalantar
 ---
 

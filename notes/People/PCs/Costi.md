@@ -46,3 +46,4 @@ Costi has a raven named [[Samuel]]. Samuel won't talk to him. He has never heard
 * "Constantino Grossun"
 * Omlette (via [[Giary]])
 * Steve, Marius Bora - [[session-26]]
+* Barny - [[session-44]]

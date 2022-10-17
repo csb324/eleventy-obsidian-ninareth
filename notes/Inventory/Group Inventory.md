@@ -5,6 +5,7 @@
 Gold - 1,294
 
 ### Potions:
+
 Greater healing - 
 Regular healing - 
 
@@ -28,8 +29,75 @@ Carried by [[Costi]]
 [[Ivory Pistol]]
 Carried by [[Adrienne Spout|Adrienne]] 
 
-Bag of Mischief 
+[[Circlet of Sending]]
+Carried by [[Adrienne Spout|Adrienne]]
+
+[[Magically Resistant Chain]]
+Carried by [[Costi]]
+
+[[Shadowfell Shard]] 
 Carried by [[Rez]]
+
+[[Blue Dragonstaff]]
+Carried by [[Rez]]
+
+[[Boots of Endless Walking]]
+Carried by [[Costi]]
+
+[[Rez's Riddle Machine]]
+Carried by [[Rez]]
+
+[[Ring of Protection]]
+Carried by [[Rez]]
+
+[[Amulet of Blasting]]
+Carried by [[Costi]]
+
+### Monster Parts
+Gruung Poison Sacs: carried by [[Hugh]]
+	Orange - 1
+	Red - 1
+	Purple - 3
+	Green - 2
+
+Dragon Scales: Carried by [[Freya]]
+	Blue - 8
+	Red - 9
+
+### Mundane Items:
+Gems:
+	Pearl
+	Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
+	Small diamonds - 500gp worth
+	pearl necklaces - 2
+	a ruby brooch
+	diamond ring
+	many jeweled rings - 3
+	[[Julian Slater-Runehorn|Julian]]'s jewelry reward - unknown worth
+
+[[Vlad Grosu Patch]]
+
+Vial of strange orange moss
+Carried by [[Hugh]]
+
+[[Magically Resistant Chain]]
+Carried by [[Costi]]
+
+Disguise kit
+Carried by [[Adrienne Spout|Adrienne]]
+
+[[Sqwank]]'s [[Wayfinders]] dog tag
+Carried by [[Freya]]
+
+Shorthand notes 
+Carried by [[Freya]], with [[Father Thronestone]]
+
+Unscaled shorthand key
+Carried by [[Rez]], with [[Father Thronestone]]
+
+Lanterns - 5
+
+Bag of Mischief: carried by [[Rez]]
 Includes:
 	[[Immovable Rod]]
 	Nets - 10
@@ -48,65 +116,6 @@ Includes:
     Stakes, small metal
     hammer set (6 sizes, quite small to normal size)
 
-[[Circlet of Sending]]
-Carried by [[Adrienne Spout|Adrienne]]
-
-[[Magically Resistant Chain]]
-Carried by [[Costi]]
-
-Spell scroll from undead sewer man spell book in the [[Necromantic Underground Chapel]]
-Carried by [[Costi]]
-
-[[Shadowfell Shard]] 
-Carried by [[Rez]]
-
-Dragon Scales: Carried by [[Freya]]
-	Blue - 8
-	Red - 9
-
-[[Blue Dragonstaff]]
-Carried by [[Rez]]
-
-Jorus Holy Symbol of [[Bahamat]] and a notebook in shorthand
+Jorus Holy Symbol of [[Bahamat]]
 Carried by [[Rez]] 
 
-A vial of black liquid bone adehsive 
-Carried by [[Hugh]]
-
-A vial of red highly corrosive / flammable liquid
-Carried by [[Hugh]]
-
-Boots of Endless Walking
-Carried by [[Costi]]
-
-### Mundane Items:
-Gems:
-	Pearl
-	Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
-	Small diamonds - 500gp worth
-	pearl necklaces - 2
-	a ruby brooch
-	diamond ring
-	many jeweled rings - 3
-
-[[Vlad Grosu Patch]]
-
-Vial of strange orange moss
-Carried by [[Hugh]]
-
-[[Magically Resistant Chain]]
-Carried by [[Costi]]
-
-Disguise kit
-Carried by [[Adrienne Spout|Adrienne]]
-
-[[Sqwank]]'s  [[Wayfinders]] dog tag
-Carried by [[Freya]]
-
-Shorthand notes 
-Carried by [[Freya]], with [[Father Thronestone]]
-
-Unscaled shorthand key
-Carried by [[Rez]], with [[Father Thronestone]]
-
-Lanterns - 5

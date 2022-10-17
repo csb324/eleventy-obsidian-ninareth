@@ -27,6 +27,8 @@ Says he'd recongize a Grosu anywhere, in the army and deserted. Found some ELA f
 
 It's been a few months, but about four months ago he got a response to a letter. Ferried by the [[ELA]] confirmed his identity through a codename and said he was in [[Eberron]]
 
+ [[Terrav]], who says he knows [[Costi's Dad|Vladimir Grosu]] and has been corresponding with him regularly. They last he heard from [[Costi's Dad|Vladdy Daddy]] was four months ago, and [[Freya]] picked up that perhaps [[Terrav]] wasn't telling us everything. He didn't seem to be lying, but he did seem to be trying not to worry us, in a situation that may be indeed worrying. Point is, we have more evidence that [[Costi's Dad|Vladimir Grosu]] is alive.
+
 ### Who Is He to Us?
 Met through the [[Fire Raisers]] after [[Operation Incriminating Letters]]
 
