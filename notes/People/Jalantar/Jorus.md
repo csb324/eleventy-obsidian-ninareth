@@ -8,6 +8,7 @@ Relationship: neutral
 Affiliation:
   - Galaphanel
   - Unscaled
+  - Order of the Platinum Dragon
 Workplace: Temple of  Platinum Dragon in Jalantar
 ---
 
@@ -19,6 +20,7 @@ Workplace: Temple of  Platinum Dragon in Jalantar
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Galaphanel]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Workplace</span><span class="inline-field-value">[[Temple of  Platinum Dragon in Jalantar]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Unscaled]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Order of the Platinum Dragon]]</span></span>
 
 ### Background
 Jorus worked at the [[Temple of  Platinum Dragon in Jalantar]], 

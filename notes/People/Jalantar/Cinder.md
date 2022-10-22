@@ -31,3 +31,5 @@ Helping our party with the political unseating we're doing for the [[Fire Raiser
 Leading the effort to reward us for saving [[Niko]] in the [[Zalevi Embassy Break-in]]
 
 Hired us for [[Operation Incriminating Letters]] 
+
+Heard from [[Srictha]] that he's been unhappy in [[The Furnace]] lately. Oversaw lots of new recruits, and really counts [[Winifey]] as his right hand. Might also be working with the [[Dragon's Hide]]?

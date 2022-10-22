@@ -3,7 +3,6 @@ type: item
 tags:
   - item
 Owned-by: The Unforged Few
-Carried-by: Costi
 Origin: Necromantic Underground Chapel
 Status: " Active"
 ---
@@ -11,7 +10,7 @@ Status: " Active"
 #  Magically Resistant Chain
 
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Carried by</span><span class="inline-field-value">[[Costi]]</span></span>
+[Carried by::[[Magister]]
 <span class="dataview inline-field"><span class="inline-field-key">Origin</span><span class="inline-field-value">[[Necromantic Underground Chapel]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value"> Active</span></span>
 
@@ -21,6 +20,8 @@ Not currently a magical object but has some sort of magical connection to it. It
 
 A “M” carved on it... #mysteries 
 
-### notes
+### Notes
 
 Found at the [[Necromantic Underground Chapel]] near [[Niko]]'s [[Fire Raisers]] secret hideout [[The Furnace]]
+
+Gave it [[Magister]] for him to look into in [[session-45]]

@@ -47,6 +47,10 @@ Memory from [[Hugh]] upon killing [[Jecka]]
 
 [[Giary]] has [[The Stagehands]] looking for information.
 
+[[Terrav]], who says he knows [[Costi's Dad|Vladimir Grosu]] and has been corresponding with him regularly. The last he heard from [[Costi's Dad|Vladdy Daddy]] was four months ago, and [[Freya]] picked up that perhaps [[Terrav]] wasn't telling us everything. He didn't seem to be lying, but he did seem to be trying not to worry us, in a situation that may be indeed worrying. Point is, we have more evidence that [[Costi's Dad|Vladimir Grosu]] is alive, and that the [[Fire Raisers]] worked with [[ELA]] or at least had some overlap.
+
+[[Costi's mom]] says she last knew of him being on [[Breakers Bay]] coast of [[Eberron]] about 7  months ago
+
 ## Known Aliases
 Vladdy Daddy
 

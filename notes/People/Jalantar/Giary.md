@@ -27,6 +27,8 @@ He's a tickettaker in [[The Stagehands]].
 
 He and [[Innis]] have a troubled business history. Innis is still mad about it, Giary is not.
 
+Ran an old bar named Petunia's. 
+
 ### Who's he to us? 
 
 ##### General
@@ -50,3 +52,6 @@ Took a contract from [[The Unforged Few]] for [[Operation Incriminating Letters]
 Followed up to tell us two things:
 1. [[Vigo Underswell]] would be meeting with [[The Stagehands]] in five days. We asked if he could make that three. We're on a deadline.
 2. [[Norathar Pent]] would be in a public setting tomorrow, at 2pm, for a charity event with the [[Promenade Aid Society]]. 
+
+#### Fire Raisers
+Has been liaising with them since we introduced him after the [[Zalevi Embassy Break-in]]. 

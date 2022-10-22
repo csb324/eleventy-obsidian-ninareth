@@ -3,10 +3,12 @@ type: location
 locationType: place
 tags:
   - location/place/the-tiamat-house
+aliases:
+  - Vasks House
 Location: Jalantar
 ---
 
-# The Tiamat House
+# The Tiamat House (A.K.A. Vask's House)
 Place, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Jalantar]]</span></span>
 
 Former home of [[Burru Ilp]]

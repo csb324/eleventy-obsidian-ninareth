@@ -15,5 +15,4 @@ At the same time, [[Taleem]] (under King Tristane) went to war against [[Dilandi
 This is why we have the [[Ruins of Alvandrial]] and not the *city* of Alvandrial.
 
 ## Outcome
-
 [[Tiamat]]'s three heads were sundered and she was returned to hell-prison. [[Gu’athrithen]] seems to maybe have been resettled by the remains of her armies.

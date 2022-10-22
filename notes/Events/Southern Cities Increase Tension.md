@@ -11,3 +11,4 @@ Status: Ongoing
 Apparently there have been fires in [[Arkhosia (City)]], caravans have been attacked in [[Zalev]], [[Mulfara]] is also having increased discontent, and pretty much everyone in the conversation expects tension and trouble between the [[Southern Cities]] to increase.
 
 Are the [[Fire Raisers]] to blame or is something else going on?
+

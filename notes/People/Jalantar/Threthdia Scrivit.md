@@ -8,6 +8,7 @@ Relationship: neutral
 Location: Jalantar
 Title: " Secretary of Arts and Culture"
 Workplace: Central Administrative Cluster
+Affiliaation: The Beauties of Shadow
 ---
 
 # Threthdia Scrivit
@@ -17,6 +18,7 @@ Workplace: Central Administrative Cluster
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Jalantar]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Title</span><span class="inline-field-value"> Secretary of Arts and Culture</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Workplace</span><span class="inline-field-value">[[Central Administrative Cluster]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliaation</span><span class="inline-field-value">[[The Beauties of Shadow]]</span></span>
 
 Large broadshouldered woman, in the most outlandish outfit we've seen of the night. Near 6'3" and in her late 80's
 
@@ -35,6 +37,8 @@ MIGHT BE HAG MOTHER of [[The Beauties of Shadow]]
 	At the library, [[Costi]] and [[Freya]] look for information on [[Threthdia Scrivit]] in [[The Talon]]. Costi does an exceptional job, and learns that she's mentioned almost every single edition. Tracing the Scrivit lineage, he sees a pattern in behavior - essentially every other Scrivit acts in a similiar way, donating to the same sorts of organization, favoring the same types of artists, etc. Seems like an X, A, X, B, X, C type family pattern.
 
 [[Hugh]] looked for
+
+[[The Curator]] called her Grandmother Renthendi
 
 ### Notes
 [[Costi]] detects thoughts and find unmitigated rage, but not directed at [[Julian Slater-Runehorn|Julian]]

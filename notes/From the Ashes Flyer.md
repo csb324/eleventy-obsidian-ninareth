@@ -2,9 +2,14 @@
 type: item
 tags:
   - item
+Origin: Fire Raisers
+Found: Bellisme Show
+Author: Cinder
 ---
+<span class="dataview inline-field"><span class="inline-field-key">Origin</span><span class="inline-field-value">[[Fire Raisers]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Found</span><span class="inline-field-value">[[Bellisme Show]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Author</span><span class="inline-field-value">[[Cinder]]</span></span>
 
-# From the Ashes Flyer
 A flyer that fell from ash generated from a wild display of heatless fire that covered the roof of the Lillith Hall during the after party at the [[Bellisme Show]]
 
 From the [[Fire Raisers]], and maybe some help from [[The Unforged Few]] and potentially [[Rhend Triverswill]]

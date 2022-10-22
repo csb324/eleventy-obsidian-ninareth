@@ -29,6 +29,8 @@ He keeps building these robots that absolutely do not work and are 1000% more da
 He gave us gemstones! They may or may not be real, but he sent [[Niko]] with us to [[Jalantar]] to find out. Either way, we can keep them.
 ([[session-16]]: they're real)
 
+Has a new assitant [[Winston]]
+
 ### Inventions
 Dimensional anchor: 4 in long black metal spike covered in runes: use it to be sure that when you’re interacting with items changes dimensions or time, that things stay in place
 
@@ -36,4 +38,8 @@ Ionized Leather Sack: describes it as helpful in transplanar travel
 
 Plane of Earth Auto-mine
 
-Riddle-machine: in development for [[Rez]]
+### Who're They to Us?
+
+Gave [[Rez]] Riddle-machine
+
+Came across [[Freya]]'s symbol while researching his rock bag, it's in the margins "The Unnatural Naturality: A history of the creation of the prime material plane and an examiniation of it's relationship with the elemtal, outer, and mirror planes by T.Y. Gurscock" in 1753 - got in a used bookstore in [[Arkhosia (City)]] at [[Kildee's Ink and Quill]] about 40 years ago. 

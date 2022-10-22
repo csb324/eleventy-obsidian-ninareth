@@ -17,9 +17,10 @@ Affiliation: The Silver Halves
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Barbarian</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Silver Halves]]</span></span>
 
-Goblin, carries a very large sword. Believes to be [[Pak]]’s twin
+Goblin, carries a very large sword. Believes to be [[Pak]]’s twin. 
 
 ### Background
+Has been having his anger strengthen him his whole life.
 
 ### Who're They to Us?
 Friends with [[Vask]]

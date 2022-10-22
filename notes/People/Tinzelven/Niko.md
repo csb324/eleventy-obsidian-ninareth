@@ -52,6 +52,8 @@ Has a working knowledge of [[Julian Slater-Runehorn|Julian]]'s efforts, but clai
 
 Introduced us to his "associates" in the [[Fire Raisers]] at their secret headquartes [[The Furnace]]
 
+Told [[Deeksta]], he always claimed to hide in plain sight, thinks we should check [[Jalantar]]. Claims he has a good heart, but seemed excited - like things may be starting on up. She worries things are going to get much more dangerous around here. 
+
 
 ### Related Items
 [[Grounder]]

@@ -9,41 +9,55 @@ Owned-by: The Unforged Few
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
 ### Immediate
-* Group conversation with [[Father Thronestone]] on [[Burru Ilp]]
-	* decide how much help we're asking for: 
-		* stop sale of dragon scales?
-		* finding [[Pleetos Alentas]] 
-		* warning others?
-		* should he keep his job
-		* OOTPD heads up
-* Lunch with[[Julian Slater-Runehorn|Julian]], who mentioned a task for [[Adrienne Spout|Adrienne]] and [[Costi]] with the help with our party
+* [[Threthdia Scrivit]] invited us to dinner AKA a murder party (29)
+	* Tell [[Julian Slater-Runehorn|Julian]] go on alibi
+	* Update [[The Curator]] for help
+	* Research oni?
+* [[Rez]] check-in on [[Ghez Yhutl]] spy at [[Platinum Sanctuary of Jalantar]] (30)
+	* Show [[Jorus]]' holy symbol? 
+* [[Freya]] meet up with [[Akros]] (30)
+* Blow up the [[The Tiamat House]] (31)
+* [[the Mayor of Jalantar]] award ceremony for our work at the [[Bellisme Show]] (31)
+* Report in to [[Ricci Scrucks]] on the investigation into the [[Fire Raisers]] attack at the [[Bellisme Show]] (31)
+* Tell folks we're leaving town
+	* [[Ellinev Del]]
+	* [[The Miscasts]]
+* Identify the [[Fire Raiser Mystery Cylinder]]
+* [[Adrienne Spout|Adrienne]] logistics planning with [[Julian Slater-Runehorn|Julian]]
+	* He's taking airship
+	* Tells us to find our own way
+	* setting up a meeting with [[Sienna Burbank]] for [[Adrienne Spout|Adrienne]] tomorrow (30)
 
 
 ### Short-Term
-* [[Threthdia Scrivit]] invited us to dinner AKA a murder party
-* Talk to [[Temple of  Platinum Dragon in Jalantar]] leaders about [[Jorus]]
-* Help [[Ricci Scrucks]] with the investigation into the [[Fire Raisers]] attack at the [[Bellisme Show]]
-* [[Niko]] told [[Freya]] that [[Professor Leonard Klipitz]] recognized her [[Mysterious Circles]] - so we should ask about that
-* [[Adrienne Spout|Adrienne]] go back to the [[The Gilded Instrument]] 
-* Look for [[Niko]], [[Srictha]], and the other [[Fire Raisers]] [[Zephyra]] mentioned. Then try to figure out who planned the violence at the [[Bellisme Show]]
+* [[Adrienne Spout|Adrienne]] go back to the [[The Gilded Instrument]]
+* Meet up with folks in [[Arkhosia (City)]]
+	* [[Giary]]
+	* [[Srictha]]
+	* [[Winifey]]
+	* [[Ellinev Del]] and [[Victor]] 
+* [[Winifey]] asked us to check-in on an old [[Fire Raisers]] hideout on the road to [[Arkhosia (City)]]
 
 
 ### Middle-Term
-* [[Costi]] go to [[Holy Maker Stormswallow]] at [[Helm]]'s temple to discuss [[Hugh]] mental state
 * [[Costi]] return to [[Professor Vendorsmere]] for sword lessons "when he's ready"
-* [[the Mayor of Jalantar]] award ceremony for our work at the [[Bellisme Show]], in 11 days
-* Reconnect with the [[Fire Raisers]]?
 * [[Ellinev Del]] [[The Providers]] party leading up to the [[Arkhosian Elections]]
+* [[Srictha]] and [[Ulia Glorsbade]] and [[Winifey]], potentiallly [[Twigs]], to try and determine if they intentionally turned violent. [[Fire Raisers]] [[Zephyra]] mentioned. Then try to figure out who planned the violence at the [[Bellisme Show]]
+* Attend the [[Arkhosian Elections]]
 
 
 ### Long-Term
-* Attend the [[Arkhosian Elections]]
-* Go back to [[Professor Leonard Klipitz]] and get [[Rez]]'s riddlebox
-* Meet [[Neiragneg]] at the [[Slavaadi College]] for [[Rez]]'s appointment with the Archmagi
+* Meet [[Neiragneg]] at the [[Slavaadi College]] for [[Rez]]'s appointment with the Archmagi [[Rhend Triverswill]]
 * Track down [[Pleetos Alentas]]
 * Rescue [[Vrolbekk Pixies]] sister
 * [[Adrienne Spout|Adrienne]] return the harp to [[Temple of Corellon Outside Quaath]]
 * Who the heck is [[The Curator]], and what do they want with [[Rez]], [[Adrienne Spout|Adrienne]], and [[Freya]]? 
+
+
+### Threads? TBD?
+* Is someone following / watching us?
+* Buy scrolls / potions
+	* Silence (900 gp)
 
 
 ### Notes

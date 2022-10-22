@@ -25,7 +25,7 @@ Pronouns: " she/hers"
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Bard</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> she/hers</span></span>
 
-A prankster, the best in the world, actually. Loves riddles (so much that [[Hugh]] has promised to be a riddle-machine for her). 
+A prankster, the best in the world, actually. Loves riddles (so much that [[Hugh]] has promised to be a riddle-machine for her). A butthead.
 
 Super incredibly talented and beloved by all. 
 

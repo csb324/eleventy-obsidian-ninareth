@@ -1,11 +1,10 @@
 ---
 type: world-event
-Status: Ended
+Status: Complete
 ---
 
 # Zalevi embassy prison break
-
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Ended</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Complete</span></span>
 
 [[Niko]], [[Qik]], [[Zephyra]], and others are being held at the zalevi embassy for extradition. We're going to break them out. 
 

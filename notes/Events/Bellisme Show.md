@@ -1,11 +1,11 @@
 ---
 type: world-event
-Status: Ongoing
+Status: Complete
 Location: The Pirate Queen
 ---
 
 # Bellisme Show
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Ongoing</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Complete</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[The Pirate Queen]]</span></span>
 
 Famous vocalist, the [[Bellisime]] only performs every 3 years. This year she is playing the entire [[The Pirate Queen]]. No one's ever played the entire venue before.
