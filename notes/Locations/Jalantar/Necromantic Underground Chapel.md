@@ -19,7 +19,7 @@ Each window has soft blue light depicting a figure floating through spaces:
 
 *Left* (long raven hair and pale, bathed in a line of black light, looking up and clearly ascending. Below her are tips of fingers) -- the Raven Queen, the last mortal to ascend to godhood. One of the gods of death, a figure of heavy folklore and myth
 
-*Middle* (skeletal figure in right profile with sunken face, fluttery jet black robes with a staff in it’s right hand, looking up) some sort of powerful undead creature, infer also ascended. We’ve heard of a lich, seems to ring that bell 
+*Middle* (skeletal figure in right profile with sunken face, fluttery jet black robes with a staff in it’s right hand, looking up) some sort of powerful undead creature, infer also ascended. We’ve heard of a lich, seems to ring that bell. [[Magister]] tells us it's of Vecna.  
 
 *Right* pointed ear figure elven, lowered than the other figures but still elevated. Above a swirling mass of purples that seem to project the figure upwards, with a pronounced ring
 

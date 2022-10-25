@@ -37,6 +37,8 @@ They then followed us to [[Tinzelven]] and eventually [[Jalantar]]. We have prom
 
 Delivered some letters from [[Julian Slater-Runehorn|Julian]] for [[Adrienne Spout|Adrienne]] in exchange for an equivalent favor down the road
 
+Coming to [[Arkhosia (City)]] to see if they can feel thier sister. [[Vrolbekk Pixies|Klida]] will see if she can tell if her sister is near by.
+
 ### Notes 
 [[session-0]]
 

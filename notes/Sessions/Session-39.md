@@ -23,7 +23,7 @@ The plan is to investigate it and eventually demolish it.
 
 In the meantime, [[Rez]] gave [[Vask]] more details on what we found down there. They decided to have their sister handle [[Pleetos Alentas]], because apparently she's already in [[Thelran Asari]]. 
 
-Finally, [[Magister]] helped get the [[weird boulder]] up the stairs and onto a cart, so [[Victoria Several|Victoria]] can take it with her. Why? Because [[Vask]] is family and he says [[Victoria Several|Victoria]] is cool and anyway what could possibly go wrong? 
+Finally, [[Magister]] helped get the [[Weird Boulder]] up the stairs and onto a cart, so [[Victoria Several|Victoria]] can take it with her. Why? Because [[Vask]] is family and he says [[Victoria Several|Victoria]] is cool and anyway what could possibly go wrong? 
 
 ## The rest of the morning errands
 [[Freya]] and [[Costi]] went to the [[Burbank FIT]] and I don't remember if anything important happened.

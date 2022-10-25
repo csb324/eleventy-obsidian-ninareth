@@ -5,6 +5,7 @@ tags:
 Owned-by: The Unforged Few
 Carried-by: Adrienne Spout|Adrienne
 Origin: Jecka
+Attunement: " Yes"
 ---
 
 #  Circlet of Sending
@@ -12,10 +13,9 @@ Origin: Jecka
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Carried by</span><span class="inline-field-value">[[Adrienne Spout|Adrienne]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Origin</span><span class="inline-field-value">[[Jecka]] and [[The Beauties of Shadow</span></span>]]
+<span class="dataview inline-field"><span class="inline-field-key">Attunement</span><span class="inline-field-value"> Yes</span></span>
 
-Item, attunement 
-
-Appears to be a delicate golden diadem, was worn (and used) by [[Jecka]] at her death
+Item, appears to be a delicate golden diadem, was worn (and used) by [[Jecka]] at her death
  
 As an action, once per day, can cast the spell sending. While attuned, allows free communication between every twin circlet -- unknown number or location. #mysteries 
 

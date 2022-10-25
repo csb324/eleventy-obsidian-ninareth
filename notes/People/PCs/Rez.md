@@ -8,6 +8,7 @@ Home: Zalev
 Affiliation:
   - The Unforged Few
   - The Collection
+  - Rez's Family
 Class:
   - Sorcerer
   - Bard
@@ -21,6 +22,7 @@ Pronouns: " she/hers"
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Zalev]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Collection]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Rez's Family]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Sorcerer</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Bard</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> she/hers</span></span>

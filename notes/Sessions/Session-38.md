@@ -30,7 +30,7 @@ A fellow named [[Sqwank]] opened the door, and was initially a bit menacing, but
 > - [[Burru Ilp]]
 >
 
-There was a [[weird boulder]] in the basement, by the way.
+There was a [[Weird Boulder]] in the basement, by the way.
 
 Our plan to infiltrate was going pretty well, until he invited us to watch him work. His patient, [[Cortis]], was a halfling who did *not* want incredibly dangerous dragon-grafting surgery. He was begging for help. We tried to tell [[Burru Ilp]] that someone who does not *understand* the glory of their draconic heritage doesn't *deserve* to see its fruit, but [[Burru Ilp]] guy was committed to cutting this guy's arms open. We all get that feeling sometimes, I guess.
 
@@ -58,9 +58,9 @@ One more person knew about the grafting -- a man from [[Thelran Asari]]  named [
 
 ## One more thing.
 
-[[Cortis]] also told us a little more about the [[weird boulder]]. Apparently [[Burru Ilp]] spent a ton of money on it, and according to legend, it contains a part of a silver dragon that was turned into a stone. 
+[[Cortis]] also told us a little more about the [[Weird Boulder]]. Apparently [[Burru Ilp]] spent a ton of money on it, and according to legend, it contains a part of a silver dragon that was turned into a stone. 
 
-[[Costi]] kissed it. It felt warm. [[Rez]] also kissed it, IIRC. They agree that something is going on with this rock. This is not a normal rock. It's a [[weird boulder]].
+[[Costi]] kissed it. It felt warm. [[Rez]] also kissed it, IIRC. They agree that something is going on with this rock. This is not a normal rock. It's a [[Weird Boulder]].
 
 
 

@@ -6,6 +6,7 @@ Home: Kazan
 Affiliation:
   - The Silver Halves
   - Order of the Platinum Dragon
+  - Rez's Family
 Class: " Gunslinger"
 ---
 having---
@@ -21,6 +22,7 @@ tags:
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Kazan]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Silver Halves]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Order of the Platinum Dragon]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Rez's Family]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value"> Gunslinger</span></span>
 
 Copper hair, long blue overoat. Coppery scales on his face. 
@@ -33,7 +35,7 @@ Staying at the Goldhide resort while in [[Jalantar]]. Here for the [[Bellisme Sh
 Lives in [[Kazan]], might be in some trouble there
 
 ### Who's He to Us?
-[[Rez]]'s brother. 
+[[Rez]]'s brother, part of [[Rez's Family]]
 
 Seems to be starting some prank wars with [[Costi]]
 

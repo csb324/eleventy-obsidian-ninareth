@@ -4,12 +4,14 @@ tags:
   - item
 Owned-by: Damien
 Origin: " Unknown"
+Attunement: " Yes"
 ---
 
 #  Amulet of Blasting
 
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[Damien]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Origin</span><span class="inline-field-value"> Unknown</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Attunement</span><span class="inline-field-value"> Yes</span></span>
 
 item, a gold amulet with a large ruby in the center, that gives off a pleasant but intense heat.
 
