@@ -43,3 +43,5 @@ Saw him at the [[Bellisme Show]], he gave us a good background on the event. He 
 We connected him with [[Neiragneg|Neir]], who we think should work with [[Professor Leonard Klipitz]]. He's happy to help.
 
 Is helping [[Ellinev Del]] and [[Ricci Scrucks]] investigate the [[Fire Raisers]] attack at the [[Bellisme Show]]. Says he doesn't agree with Scrucks' politics but things he's dedicated and insightful.
+
+Sent a note to help to share that [[Adrienne Spout|Adrienne]] died and we were not attending the [[the Mayor of Jalantar]]'s awards ceremony

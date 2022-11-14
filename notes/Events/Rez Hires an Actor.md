@@ -17,4 +17,4 @@ Eventually we met [[Vask]], and he's definitely a Tanin.
 
 ## Who's Involved
 
-[[session-41|But later]], we finally saw this plan come to fruition: She hired someone to announce that [[Vask]] has chlamydia. He did an excellent (?) job. 
+[[Session-41|But later]], we finally saw this plan come to fruition: She hired someone to announce that [[Vask]] has chlamydia. He did an excellent (?) job. 

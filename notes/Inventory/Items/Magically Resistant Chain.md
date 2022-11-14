@@ -24,4 +24,4 @@ A “M” carved on it... #mysteries
 
 Found at the [[Necromantic Underground Chapel]] near [[Niko]]'s [[Fire Raisers]] secret hideout [[The Furnace]]
 
-Gave it [[Magister]] for him to look into in [[Sessions/session-45]]
+Gave it [[Magister]] for him to look into in [[session-45]]

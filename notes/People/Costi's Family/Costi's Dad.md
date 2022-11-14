@@ -11,7 +11,7 @@ Relationship: neutral
 Home: Glendan Glade
 Affiliation:
   - ELA
-  - Beating Heart Regiment
+  - Beating Heart Battalion
   - Eberronian Military
 ---
 
@@ -22,7 +22,7 @@ Affiliation:
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Glendan Glade]]</span></span>, [[Eberron]]
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[ELA]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Beating Heart Regiment]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Beating Heart Battalion]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Military]]</span></span>
 
 Father to [[Costi]] and [[Nadia]].
@@ -38,9 +38,9 @@ Is a member of [[ELA]], the Eberronian Liberation Association, a secret society 
 Also a member of the [[Eberronian Military]].
 
 ## Clues
-[[Hugh]] has a patch he believes is from Vlad’s outfit that reads “Vladimir Grosu, corporal, [[Beating Heart Regiment]]”. This battalion of the [[Eberronian Military]] was well-known historically for a distaste of non-living humans. Seems like they push back strongly against use of any “non-souled creatures”, like Vampires but also maybe war-forged in more modern cases.
+[[Hugh]] has a patch he believes is from Vlad’s outfit that reads “Vladimir Grosu, corporal, [[Beating Heart Battalion]]”. This battalion of the [[Eberronian Military]] was well-known historically for a distaste of non-living humans. Seems like they push back strongly against use of any “non-souled creatures”, like Vampires but also maybe war-forged in more modern cases.
 
-Memory from [[Hugh]] upon killing [[Jecka]]
+Memory from [[Hugh]] upon killing [[The Beauties of Shadow#Jecka|Jecka]]
 	Hugh finds himself on a bloody battlefield. Sees Vlad standing back looking aghast, as a large hulking man with pointed ears, monstrous teeth, and a two handed warhammer pushes him to the ground and say “we don’t retreat”
 
 [[Cinder]] mention that somone at [[The Furnace]] says he remembers a Grosu out in the [[Bihor Region]] region of [[Eberron]] about a year and a half ago. The [[Fire Raisers]] can give us more information. [[Niko]] has offered to help find more information as well. 

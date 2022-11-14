@@ -9,7 +9,7 @@ tags:
 The military of [[Eberron]]
 
 ### Organizations
-[[Beating Heart Regiment]]
+[[Beating Heart Battalion]]
 
 ## NPCs
 {% include 'list-references.html', reference_data: affiliations %}

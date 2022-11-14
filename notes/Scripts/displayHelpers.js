@@ -2,7 +2,6 @@ class DisplayHelpers {
   listAffiliations = (dv) => {
     let affiliated = dv.pages('"People"')
       .where(p => p.Affiliation )
-      .where(p => p.Affiliation.path )
       .where((p) => this.subsetMatch(p, 'Affiliation', dv));
     dv.list(affiliated
       .sort(p => p.file.name, 'asc')
@@ -13,7 +12,7 @@ class DisplayHelpers {
   listNPCs = (dv) => {
     dv.list(dv.pages('"People"')
     .where((p) => {
-      const isHome = (p.Home && p.Home.path == dv.current().file.name);
+      const isHome = this.subsetMatch(p, 'Home', dv);
       const isLocation = this.subsetMatch(p, 'Location', dv);
       const isWorkplace = this.subsetMatch(p, 'Workplace', dv);
       const isAlmaMater = this.subsetMatch(p, 'Alma Mater', dv);
@@ -34,14 +33,23 @@ class DisplayHelpers {
     )
   }
 
+
   subsetMatch = (p, property, dv) => {
     if(!p[property]) {
       return false;
     }
-    if(dv.isArray(p[property])) {
-      return p[property].path.includes(dv.current().file.name)	
+
+    let pageNames = [];
+    
+    if(Array.isArray(p[property])) {
+      pageNames = p[property].map((prop) => {
+        return prop.path.split(/\/|\.md/);
+      })
     } else {
-      return p[property].path == dv.current().file.name
+      pageNames = [p[property].path.split(/\/|\.md/)];
     }
+
+    const pathParts = pageNames.flat();
+    return pathParts.includes(dv.current().file.name)	   
   }
 }

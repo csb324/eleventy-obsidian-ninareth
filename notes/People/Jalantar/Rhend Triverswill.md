@@ -18,8 +18,6 @@ Title: " Magi"
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Slavaadi College]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Title</span><span class="inline-field-value"> Magi</span></span>
 
-Halfling? (i'm pretty sure yes)
-
 A famous illusionist Magi. A deputy under arch-magi at [[The Slavaadi College]], 
 
 Outgoing and seems a bit kooky. 

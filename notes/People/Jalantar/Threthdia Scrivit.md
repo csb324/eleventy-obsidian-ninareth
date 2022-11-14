@@ -2,25 +2,27 @@
 type: npc
 tags:
   - npc
-Status: alive
+Status: dead
 Race: " human?"
 Relationship: neutral
 Location: Jalantar
 Title: " Secretary of Arts and Culture"
 Workplace: Central Administrative Cluster
-Affiliaation: The Beauties of Shadow
+Affiliation: The Beauties of Shadow
+Home: the Feywild
 ---
 
 # Threthdia Scrivit
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">dead</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value"> human?</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Jalantar]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Title</span><span class="inline-field-value"> Secretary of Arts and Culture</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Workplace</span><span class="inline-field-value">[[Central Administrative Cluster]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Affiliaation</span><span class="inline-field-value">[[The Beauties of Shadow]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Beauties of Shadow]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[the Feywild]]</span></span>
 
-Large broadshouldered woman, in the most outlandish outfit we've seen of the night. Near 6'3" and in her late 80's
+Large broadshouldered woman, in the most outlandish outfit we've seen of the night. Near 6'3" and in her late 80's. Or is she?
 
 She's secretary of arts and cutlure in [[Jalantar]], for about 40 years. Her family is influential and her mother used to be the Secretary before her.
 
@@ -42,3 +44,5 @@ MIGHT BE HAG MOTHER of [[The Beauties of Shadow]]
 
 ### Notes
 [[Costi]] detects thoughts and find unmitigated rage, but not directed at [[Julian Slater-Runehorn|Julian]]
+
+Killed [[Adrienne Spout|Adrienne]] :( 

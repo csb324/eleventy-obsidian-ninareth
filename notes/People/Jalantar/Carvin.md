@@ -28,7 +28,7 @@ Was in the same metallurgy appretinceship as [[Divitston Goldstone]], but strugg
 ### Who're they to us? 
 Has been friendly to [[Hugh]], seems to have been partially converted by him, including:
 
-Hernolig Alebringer- potbellied dwarven man in a long white tunic
-Noralin Brickview- small and petite dwarven woman with very light stubble
+[[Hernolig Alebringer]]- potbellied dwarven man in a long white tunic
+[[Noralin Brickview]]- small and petite dwarven woman with very light stubble
 
 They are starting a proposal for how to expand the practice in [[Jalantar]]

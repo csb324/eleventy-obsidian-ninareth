@@ -19,5 +19,5 @@ Evil planes:
 
 Nice (?) planes:
 * [[Elysium]]
-* [[The Feywild]]
+* [[the Feywild]]
 

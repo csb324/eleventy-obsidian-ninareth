@@ -3,9 +3,9 @@ type: org
 tags:
   - orgs/the-unforged-few
 aliases:
-  - The-Unforged
-  - The-Few
-  - Our-Party
+  - The Unforged
+  - The Few
+  - Our Party
 ---
 
 # The Unforged Few (A.K.A. The Few) (A.K.A. The Unforged) (A.K.A. Our Party)
@@ -15,11 +15,14 @@ aliases:
 
 |Name| Class|
 |------|------|
-| [[Adrienne Spout]] | Bard |
+| [[Adrienne Spout]] | Bard / Paladin |
 | [[Costi]] Grosu | Wizard |
 | [[Freya]] Polaris | Barbarian / Druid |
-| Human [[Hugh]] Named Finn | Cleric |
+| Human "[[Hugh]]" Named Finn | Cleric |
+| [[Jade]] | Warlock |
 | [[Rez]] Tanin | Sorcerer / Bard |
+
+
 
 
 ## Shit we've got going on

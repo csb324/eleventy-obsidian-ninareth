@@ -11,6 +11,7 @@ Affiliation:
   - Order of the Platinum Dragon
 Location: Jalantar
 Title: " Silverscale"
+Events: Dragon Scales Ahhhh
 ---
 
 # Silverscale Ghez Yhutl
@@ -22,6 +23,7 @@ Title: " Silverscale"
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Order of the Platinum Dragon]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Jalantar]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Title</span><span class="inline-field-value"> Silverscale</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Events</span><span class="inline-field-value">[[Dragon Scales Ahhhh]]</span></span>
 
 Blue dragonborn in silver robes with a staff, let us into the [[Temple of  Platinum Dragon in Jalantar]] where he is a Silverscale, a low ranking member of his organization. 
 

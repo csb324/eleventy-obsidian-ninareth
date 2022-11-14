@@ -10,7 +10,7 @@ Class:
 Affiliation:
   - The Unforged Few
   - Wayfinders
-  - The Collection
+  - Groups and Organizations/The Collection
 Pronouns: " she/hers"
 ---
 
@@ -22,7 +22,7 @@ Pronouns: " she/hers"
 [Home::[[Polaris]]
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Wayfinders]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Collection]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Groups and Organizations/The Collection]]</span></span>
 
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> she/hers</span></span>
 

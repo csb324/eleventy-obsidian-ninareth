@@ -22,7 +22,7 @@ Alma-Mater: Redscale
 
 The drummer in [[The Miscasts]]. 
 
-Vulnerable to a pretty face. For example, [[Jecka]]. 
+Vulnerable to a pretty face. For example, [[The Beauties of Shadow#Jecka|Jecka]]. 
 
 Was one year older than [[Adrienne Spout|Adrienne]] at [[Redscale]].
 

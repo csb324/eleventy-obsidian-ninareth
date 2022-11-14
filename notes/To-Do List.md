@@ -9,38 +9,24 @@ Owned-by: The Unforged Few
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
 ### Immediate
-* [[Threthdia Assassination]] (29)
-	* Tell [[Julian Slater-Runehorn|Julian]] go on alibi
-	* Research oni?
-	* LOOK FOR OTHER TWIN CIRCLETS
-* [[Rez]] check-in on [[Ghez Yhutl]] spy at [[Platinum Sanctuary of Jalantar]] (30)
-	* Show [[Jorus]]' holy symbol? 
-* [[Freya]] meet up with [[Akros]] (30)
-* Blow up the [[The Tiamat House]] (31)
-* [[the Mayor of Jalantar]] award ceremony for our work at the [[Bellisme Show]] (31)
-* Report in to [[Ricci Scrucks]] on the investigation into the [[Fire Raisers]] attack at the [[Bellisme Show]] (31)
-* Tell folks we're leaving town
-	* [[Ellinev Del]]
-	* [[The Miscasts]]
-* Identify the [[Fire Raiser Mystery Cylinder]]
-* [[Adrienne Spout|Adrienne]] logistics planning with [[Julian Slater-Runehorn|Julian]]
-	* He's taking airship
-	* Tells us to find our own way
-	* setting up a meeting with [[Sienna Burbank]] for [[Adrienne Spout|Adrienne]] tomorrow (30)
+* Meet at [[The Sheath and Sickle]] around sunrise to leave
 
 
 ### Short-Term
-* [[Adrienne Spout|Adrienne]] go back to the [[The Gilded Instrument]]
 * Meet up with folks in [[Arkhosia (City)]]
 	* [[Giary]]
 	* [[Srictha]]
 	* [[Winifey]]
 	* [[Ellinev Del]] and [[Victor]] 
 * [[Winifey]] asked us to check-in on an old [[Fire Raisers]] hideout on the road to [[Arkhosia (City)]]
+*  What are the [[Fire Raisers]] planning in [[Arkhosia (City)]]
+	* Does [[Winifey]]'s mind-reading plan including burning down the [[Sill Dockhouse]], or potentially the harbor? 
+	* Do we stop niko and cinder
+		* do we turn them in to fretze or ricci and victor?
+	* who would we trust from the fire raisers
 
 
 ### Middle-Term
-* [[Costi]] return to [[Professor Vendorsmere]] for sword lessons "when he's ready"
 * [[Ellinev Del]] [[The Providers]] party leading up to the [[Arkhosian Elections]]
 * [[Srictha]] and [[Ulia Glorsbade]] and [[Winifey]], potentiallly [[Twigs]], to try and determine if they intentionally turned violent. [[Fire Raisers]] [[Zephyra]] mentioned. Then try to figure out who planned the violence at the [[Bellisme Show]]
 * Attend the [[Arkhosian Elections]]
@@ -52,12 +38,19 @@ Owned-by: The Unforged Few
 * Rescue [[Vrolbekk Pixies]] sister
 * [[Adrienne Spout|Adrienne]] return the harp to [[Temple of Corellon Outside Quaath]]
 * Who the heck is [[The Curator]], and what do they want with [[Rez]], [[Adrienne Spout|Adrienne]], and [[Freya]]? 
+* Take [[Adrienne Spout|Adrienne]]'s harp to [[Temple of Corellon Outside Quaath]]
+* [[Costi]] get [[Samuel]] aligned? Something [[Rhend Triverswill]] mentioned
+	* might get us more info on [[Our Fiend Samuel]]
+*  [[Costi]] return to [[Professor Vendorsmere]] for sword lessons "when he's ready"
+* Talk to [[Yhridex]] or learn more about his involvement with [[Dragon Scales Ahhhh]]
 
 
 ### Threads? TBD?
 * Is someone following / watching us?
 * Buy scrolls / potions
 	* Silence (900 gp)
+	* counterspell
+
 
 
 ### Notes

@@ -1,0 +1,187 @@
+---
+type: detailed-notes
+up:
+  - - Session Log
+prev:
+  - - notes-48
+---
+
+# Detailed Notes: Session 49
+
+For recap, see also: [[session-49]]
+
+We all take a beat to try and pull our shit together. [[Magister]] encourages us to keep everyone out of the [[The Tiamat House]]. We wouldn't anyone inside when the bombs go off. 
+
+[[Freya]] offers [[Costi]] the pseudo-out, and says he doesn't have to be involved in giving the planted drugs to [[Ricci Scrucks]]. [[Rez]] says she'll do it. 
+
+### Into the Party
+The street has been closed off, there are a number of bars and a large stage has been set up in front of the house. [[Giary]] and [[Vask]] are chatting, and folks are started to show up. [[Giary]] checks in with us, and shares that he's also struggling with the party facade. He confirmed [[Vrolbekk Pixies|Klida]] got [[Srictha]] and is bringing him to [[Arkhosia (City)]], and that he'll be traveling with [[The Unforged Few|Our-Party]] on the way there. He goes to find [[Magister]] for instructions on helping plant the bombs, [[Hugh]] goes with him. They head back to [[The Tiamat House]] to plant the bomsb, they work through command word. [[Magister]] says the bomb are his own design, he's been helping on some explosives designs with an engineer at [[Gorva's Observatory]].
+
+A [[Dragon's Hide]] member approaches [[Costi]], leans in and asks "Are they really gone?". [[Rez]] recognizes that he's got a similar look to [[Rian]] did, when [[The Beauties of Shadow]] were draining him. [[Costi]] confirms, and the guard (named Orval) shows immediate relief, and thanks [[The Unforged Few|Our-Party]] profusely. He says he's sorry for our loss, but that we're heroes. 
+
+[[Rez]] says that she has to go talk to people or she'll be too depressed, and beings to circulate. [[Freya]] stands on watch, with [[Costi]] beside her, looking through the crowd. The see a woman approaching, in an optical illusion dress that wraps around her -- she has green hair and pale skin with big round glasses. Seems like she's human. She approaches and says "Hello, I'm very sorry about what happened to your friend. We should speak, privately" she says her name is [[Jade]]. [[Freya]] tries to sess her out, and doesn't detect hostile vibes. She wants to talk to [[The Unforged Few|Our-Party]] as a whole, but [[Freya]] in particular. Glancing down at her hands, she pointendly says "we REALLY should speak".
+
+[[Hugh]] catches sight of [[Freya]], [[Costi]], and [[Jade]] entering the house, and walks over and grabs [[Rez]] for them to join. As she enters, she seems especially struck by the pro-[[Tiamat]] decor. [[Jade]] says she knows about [[Tiamat]], and [[Freya]] confirms everyone does. They ask what [[Jade]] wants, and she says we can exchange information. She opens with "Where are you keeping [[Niko]]" and when [[Freya]] and [[Costi]] say they don't know, she finds it extremely 'interesting'.
+
+[[Jade]] claims to be from Mulfara, and says she doesn't work for anyone, but is clearly fascinated by [[The Unforged Few|Our-Party]]. She says the fires that have happened in the city are connected to [[Elemental Plane of Fire]], but that we don't have to time to talk about that. [[Rez]] asks if [[Jade]] knows [[Professor Leonard Klipitz]], she doesn't but makes note of his name -- in a very strange way.
+
+She speaks in circles, and [[Costi]] (already emotionally frustrated today) asks WHAT does she WANT? She says she wants answers, but specifically "what do we know about who you're working with", and clearly references [[The Curator]]. She doesn't claim to know much about [[The Curator]], but claims to have a "loose relationship" with them. [[Costi]] picks up she seems to have met them. It's clear that [[Jade]] is looking for answers, and shares the same type of partnership that [[Freya]] does. 
+
+[[Hugh]] and [[Costi]] ponder why they haven't been involved with [[Groups and Organizations/The Collection]]. [[Jade]] says she will be going with us whereever we go. [[Rez]] says that we don't know about all of that, to which [[Jade]] replies that she will be coming either way, if we'd prefer not to know then we don't have to. [[Rez]] says wait, have you been following us thus far -- and [[Jade]] says yes, for about a month. 
+
+[[Freya]], very concerned about her relationship with [[The Curator]], messages to her and says we have another thing to talk to them about tonight. 
+
+[[The Miscasts]] enter, and [[Freya]] tries to see if [[Jenson Davour]] responds to [[Jade]]. [[Josh|Jinx]] immediately breaks down into tears, grieving for [[Adrienne Spout|Adrienne]]. He violently tries to pull himself together "for them", and then gives an emotional plea to [[The Miscasts]] that they are going to play the greatest show of their lives - FOR HER! He calls them all upstairs, as they go, [[Tames]] asks [[Costi]] if he needs a hit, seeing [[Hugh]] tells him no, but [[Rez]] says it may help him get through the party, to which [[Hugh]] replies - or make him talk. Hearing that, [[Jade]] super creepily whispers "doooo itttt" which of course makes [[Costi]] immediately refgure. [[Tames]] gives [[Costi]] a single baggie for "after the party". [[Lorian]] shares a quiet moment with [[Rez]], who tells him that it sounds like [[Corellon's Grove]] in the afterlife is acutally pretty nice, [[Lorian]] says he hopes [[Adrienne Spout|Adrienne]] is happy there. He asks for any information on a service for her, and might talk to [[Dawenys]] to stop by there. 
+
+[[Jade]], asking [[Hugh]] if [[Josh|Jinx]]'s emotional display is the norm, falls to her knees and laments to [[Lorian]]. They're both DEEPLY uncomfortable, which tracks. 
+
+[[Jenson Davour]] rightly says words fall short here, but that it's a shame that [[Adrienne Spout|Adrienne]] died before he could sign her. He tells [[Jade]] that she doesn't have to hug her. They have a hysterical conversation about [[The Miscasts]] lyrics, and [[Jenson Davour]] honestly seems concerned. WIth close eyes, [[Hugh]] noticed that despite [[Jenson Davour]]'s confusion, [[Jade]] was pointed in her conversation. He also noticed that her glasses seemed to darken when she looked at the new group, they darkened then lightened in an unususal way. 
+
+[[Jade]], attempted to explain a GREAT many conspiracies to us. Including, the lyrics of [[The Miscasts]], [[Fire Raisers]] attacks, [[Julian Slater-Runehorn|Julian]]'s midnight airships, and more. She tries to get answers from us, but we really just lean into the mess and don't give her anything. Dropping a bunch of wildly conflicting information at once, we head back out into the party.
+
+More folks have arrived, [[Victor]], [[The Silver Halves]], [[Callgrim Pogleliggle]], [[Julian Slater-Runehorn|Julian]], [[Henrik]], [[Sienna Burbank]], [[Captain Fretze|Fretze]], [[El'Haliand]], [[Doha]], and [[Dora]]. [[Rez]] goes back to circulating, [[Hugh]] leans on [[Magister]] for support, while [[Jade]] tells [[Freya]] and [[Costi]] about [[Mulfara]]. When [[Jade]] is asking [[Freya]] about the [[True North]], a familiar historian gets excited and tries to join in -- Wurtherford Oglestein. He understands that grief precludes a conversation tonight, but asks if [[Freya]] could find some time he would be honored to learn about her home. He shares that he's traveled all around the continent, including the isolated eastern islands off the coastline, and he would be honored to get share the information about [[Polaris]] and their important role in the [[True North]]. We learns that [[Jade]]'s first language is undercommon, but when [[Costi]] tries to ask more, [[Freya]] tries to tell him that we must hold off until after the party.
+
+As [[Rez]] is circulating, another [[Jalantar]] citizens comes up and asks if the [[The Beauties of Shadow]] are really gone. She thank us for saving them. 
+
+[[Henrik]] comes to pull [[Hugh]] and asks to speak to [[The Unforged Few|Our-Party]], flushed from the wine - the least controlled we've ever seen him. He pulls out a piece of paper, a draft of a eulogy from [[Adrienne Spout|Adrienne]]. 
+* Adrienne Spout was born in the Liveth Forest on the tenth Miirkikear of the year 3127.  She spent her formative years in a small settlement outside of Ru’Nilleth with her parents, brothers, and sister, helping to raise them and to set a good example for her younger siblings. At an early age, her incredible aptitude for the harp was discovered at a local temple to Corellan Larethian, where she brought joy to any and all who heard her share her gift.
+- At the age of ten, she received a scholarship, gathered from the many in her community who recognized her incredible talent, to pursue a musical education at the finest artistic enrichment establishment in all of Ninareth, Jalantar’s own Redscale Academy. There, she excelled. She proved more than worthy of her scholarship, consistently performing above-and-beyond the expectations of her peers and professors. Notably, she was the first fifth-year in Redscale’s history to perform, without fault, the third movement of Tintiny’s Eighth Concierto, for which she received the Duhln Award for Musical Excellence, Harp.
+- Upon her graduation, she took on an apprenticeship with noted philanthropist and musician Julian Slater-Runehorn. She spent years helping him work towards a better world for all those in the Southern Cities, most particularly here in Arkhosia, furthering his philanthropic efforts. Additionally, she continued to perfect her craft under Mr. Slater-Runehorn’s exacting tutelage.
+- In recent months, while still working to improve the lots of those worst off in our society, Adrienne Spout took on a life of adventure. While her time as a traveling hero was short, it–as was typical for her–was exceptional. She saved the town of Tinzlevon from certain doom, survived kidnapping by dangerous revolutionaries, and saved hundreds of lives when the Pirate Queen was attacked. An impressive and important resume, to be sure.
+- She is survived by many who loved her, valued her, and cared about her. Her two loving parents, Branton and Raina Spout. Her devoted siblings, Darek Pludthorn, and Branthen and Keebi Spout. And last but certainly not least, her traveling companions, The Unforged Few: Freya Polaris, Rez Tanin, Constantine Grossu, and Human Named Finn.
+- In lieu of flowers, please make a donation in her name to, well, wherever you all think is best. We will miss her music, but we will not forget it.
+
+We go back outside, for [[The Miscasts]] to begin their set. More folks have turned up, including [[Ricci Scrucks]], [[Relakas]], [[Ellinev Del]] and [[Qik]]. [[Costi]] takes her off to plant the last bomb with [[Magister]]. Meanwhile, [[Jade]] asks [[Rez]] if [[Qik]] knows that [[Costi]] is addicted to sex. [[Rez]], sensing an opportunity, says sadly, she does not. But encourages [[Jade]] to break the news.
+
+[[Costi]] and [[Qik]] share a sentimental but sad moment while [[Magister]] checks to confirm the house is fully empty ahead of it's destruction. [[The Miscasts]] play an excellent show. Midway through, they debut their new song - Blue Roses. During the main high point of the song, [[Magister]] pulls his 10 bomb-activators, including: [[Qik]], [[Giary]], [[Vask]], [[Pik]], [[Pak]], and [[Julian Slater-Runehorn|Julian]].  [[The Tiamat House]] implodes into itself, and then burst back out of the ground - sending massive plumes of fire and shrapnel out, turning out into colorful bursts of all the metallic dragons and then ending as a wave of blue, falling down like rose petals. 
+
+After the show, a small girl in a [[Redscale]] uniform finds [[Hugh]] and thanks him for stopping the nightmares. He invites her to the [[Dragonsfire Forge]] tomorrow, if she has time. The girl, Fris, asks that if we can still talk to [[Adrienne Spout|Adrienne]] to tell her thank you too -- she's going to learn the harp now. 
+
+[[Captain Fretze|Fretze]] approaches with [[Dora]] and [[Doha]], and talks about how hard it is to loose friends. [[Rez]] shares a secret, that really didn't want to come to the party. [[Captain Fretze|Fretze]] asks for a favor - for us to stay home for whatever funeral he has one day. [[Jade]] learns about the [[Fire Raisers]], the [[Zalevi Embassy Break-in]], and [[Captain Fretze|Fretze]] says [[Niko]] is trying to overthrough the government. [[Captain Fretze|Fretze]], and a smaller group of troops are heading to [[Arkhosia (City)]] too. They plan to be learn "as long as  necessary to lend assistance to stop these violent criminals" and of course, to catch [[Niko]]. [[Captain Fretze|Fretze]] infers that [[Jade]] from [[Mulfara]], and is clearly disdainful of that - tells [[Rez]] "interesting company you keep". [[Costi]] shares that he put in a good word for [[Rhicka Surtev]]'s daughter to get into AVAD. 
+
+[[Jade]] makes her way and introduces herself to [[Julian Slater-Runehorn|Julian]], tells him that she met [[The Unforged Few|Our-Party]] today. She mentioned she will be going to [[Arkhosia (City)]] and he perks up at this, and tells her he looks forward to working together. Upon talking about he goals to get to know us, and discussing [[Adrienne Spout|Adrienne]]'s euology, and [[Costi]]'s spiritedness, [[Julian Slater-Runehorn|Julian]] states more directly that perhaps they should work together. [[Jade]] maintains that she works for herself, but seems to confuse and yet intrigue both [[Julian Slater-Runehorn|Julian]] and [[El'Haliand]]. 
+
+[[Ricci Scrucks]], [[Ellinev Del]], [[Relakas]], and [[Victor]] come to chat with us. They say that we need to talk, and [[Ellinev Del]] offers the [[Gorva's Observatory]]. [[Jade]] spots [[Ellinev Del]], and it is seems like they've both already met, and that [[Ellinev Del]] is NOT excited to see [[Jade]]. [[Hugh]] goes to talk to [[Magister]] to ask where we're staying tonight, and they have rooms at the [[Goldhide Resort]]. They make it clear that we will be escorted on our way there, followed by 15 hidesman. We're clearly under suspicion. 
+
+We make it to [[Gorva's Observatory]], and instead of the same trip up we took last time, we make our way down instead. Uh-oh. [[Victor]] starts us off, apologizing for pulling us from the memorial. fire raiser story, bomb, julian sends us on favor, ort, find vigor, most dangersous, we stopped by threthdias and sensed all this anger and hates us and hates julian and attacked us -- she ws a hag, so we killed her but there have already been thanked by 4 people who were being terrified by them. gave them dog tags, fey face, and say there's more with adrienne, we can bring that to them tomorrow. We also share about the hidesman that were involved, and describe tobias and zendra. 
+
+Ricci says he doesn't want to lock us up wants us to bring the evidence to gorvas, we should leave through the southern gate, and if we check in in arkhosia city they'll know we're not on the run. They said they'd like us to continue looking into the fire raiser things. We also explain that threthdia has been the only scrivit serving, we give the info of the research books we looked at. costi also shared that there's feywild portal, but rez says there was no time jump. 
+
+rez asks if they're still going to arkhosia city, and victor and ricci will, but ellinev will stay on investigatory duty. We should check in with them when we get there. They say we are free to go. we thank them for trusting us, and freya breaks the tension by showing off her grung coat. Victor asks for a second if we end up getting enough skins. As relakas escorts us out, he makes some veiled threats that make it clear he's still suspicous of us. 
+
+While jade is wating for us, a younger woman also with her face sunken, asks for her to thank our party. She says we did her a service, and when Jade questions her (dervi, a washwoman at Redscale), she says we helped and that most people aren't willing to sacrifices for the good of others. 
+
+Our party talks with jade for a moment, and then heads back to the resort. Luckily, she's staying nearby at the Whale. She says it makes sense we wouldn't have a room for her, but she will see us at breakfast. We all settle in. Costi gets up, and then wargs through his eyes as Samuel seraches around our cabin. Samuel makes the sound of uru, niko's elk. A dark head raises up from a push and goes down, signaling where he's hiding. Niko says: Costi, I talk to you not the bird. Come out. 
+
+Costi crawls through the window, and tells Samuel to keep watch and come get him if anyone knocks on the bathroom door. 
+
+Niko says he feel like Costi deserves to hear things from him, since he pulled costi into everything. Costi asks about the [[Bellisme Show]] and [[Niko]]'s role in it. He apologizes for [[The Unforged Few|Our-Party]] getting caught up there, and when [[Costi]] says he saw a lot of innocent people die -- to which [[Niko]] says "are they really innocent?". He says the goal was to scare people there, and that a bloodless fright is not that effective. Yup, turns out he WAS in on it.
+
+They debate whether or not those deaths were warranted, and [[Costi]] says that [[Niko]] is reminding him of [[Julian Slater-Runehorn|Julian]] and turning the situation around to excuse the deaths of innocents. Their deaths are on the [[Fire Raisers]]. [[Niko]] says their response is the fault of those in power who created the situation. 
+
+He says that all of the past revolutionaries in arkohsia are erased from the history books becuase they were not willing to do what has to be done to make a difference in war - and that we are at war. [[Costi]] isn't persudaded (hey, growth!) He agrees that things must change but can't support endangering the innocents. [[Niko]] says his morals are right, but they can't fight with a hand tied behind their back if they want to win. He asks for [[Costi]]'s help. He says they have big plans for [[Arkhosia (City)]], BIG plans. 
+
+Costi wants to know how, that he's sick of being in the dark. He gets his information from [[Cinder]], but that they don't know Niko is talking to Costi. He says we should find him in [[Arkhosia (City)]], at [[Marvin's Corner]] and let the bartender know that we're "there for the apple cider". 
+
+Costi shares that we're helping [[Srictha]], and [[Niko]] says we should not trust him and that he might be trying to stop the movement. He warns us off of [[Terrav]] and [[Winifey]] too. He gives Costi a little wooden charm of a harp, to leave with Adrienne.  
+
+freya goes to bed, expecting the curator, and rez tries to stay up to see what happnes. but it's been a long day and she goes to sleep instead. The curator appears, and says they like freya's arm. Freya says she was expecting her to protect her collection, and the curator says they're not infallible, that they're just one creature. Freya asks how to bring adrienne back. The Curator says there's their way, which would make her different. Only a little though, not in the ways that matter. The Curator says that all they've done is to help. If we're looking at another way to bring them back, we need to find a mortal creature with just about more power than just about any being can have, collect a huge amount of diamonds, and ask them to do it for us. Freya asks if they know of someone, and the curator says they don't, and not in their collection. Freya asks how long we have, and the curator says "not forever, about 200 years"
+
+They mention that they saw we met [[Jade]], that freya was good but it was clear jade was not. freya asks if we can talk to her about the collection, and the curator says they have a fascinating mind -- and a knack for seeing things that others don't. They say that freya's arm will stay like that forever, and they're in for an interesting ride together. They also threaten freya that if their identity were to be at risk, they don't know what that would do -- and makes it very clear that we should be more careful in our communications. 
+
+When hugh wakes up, he leaves a riddle under the door for us in the morning. 
+
+Freya tells us about the curator, says rez seemed paused, and that she offered to help bring back adrienne but probably not in a good way. When costi asked what that meant, she said lots of debt, which we believe. She also said the curator made it clear it was near impossible to find someone that could do this, and she didn't know anyone that could, but that we had time.
+
+costi tells us that he saw niko. He shares most of their discussion, and we talk about whether or not niko is lying to costi. we chat about if we should help change who is in control of the fire raisers, and if we should help stop what niko wants to do in arkohsia city. We all agree that we want to improve the fire raisers, and probably stop Niko and Cinder. We plan to go to arkoshia city and learn more, and think about which group of people we bring in for help. 
+
+jade arrives, and we talk about the curator. She wants to know how freya met them, and jade is frustrated that despite all of ther efforts the curator is not interested in the research she's attempting to do. Costi cast detect magic, and can see that Jade glasses are magic, they have a light amount of several schools of magic: divination energy, evocation energy, abjuration, and necromantic. Hugh asks what her glasses do, Jade says they're from the curator, gifted by someone else in the collection. They help her see when things are important, she says [[Relakas]] caused them to flash, and while the glasses can mean many things she's interpretting them to mean that he's a threat. 
+
+We shared some of freya's interactions with the curator and jade is saying the reason she is researching is to find why the curator is interested in her and in everyone generally. Now learning that adrienne could sense that the curator has a strong desecration energy, she thought about what she knew of desecration: that it is irrevorably changed with a direct tie to the undead, pulled from the negative plane. We talk a bit more about the overlap between jade and freya's interactions with the curator.
+
+The silver halves show up, minus Vask who had to take care of somethings. magister is happy for the chance to practice, and they have a pleasant chat. Victoria says that she could tell we needed a conversation, we learn that she works on recovering magical artifacts, her parents had a store in quaath. They have a lead on "a couple things" in eberron. We ask for her help learning about true resurrection, a very very powerful spell, and it doesn't always work -- you basically get one shot, and your chances are done. Only the most powerful people, she doesn't know anyone personally but she can guess a few -- platinum sanctuary in quaath, yondala in thelrin asari, durmask for tier, torm, and pelor. Maybe someone from Corellan, HQed in [[Ru'Nileth]]. It's also about the most expensive thing that you can do, requires 25,000 GP. Even with that much money, trying to get that many diamonds is a challenge. 
+
+Potentially we could work with [[Professor Leonard Klipitz]] do pull some from the [[Elemental Plane of Earth]]. Costi asks if we should legends lore adriennes harp. Victoria says they can help us acquire diamonds, and we can work out a way to compensate them back, it sounds like they might need some help. 
+
+We ask about [[blood magic]] for "reasons", and after a tense pause victoria asks magister to secure the room. Victoria tells us to generally not talk about it. She confirms that it's something she does. A few years back, Magister and Victoria were out working on things and came across a very interesting book. It had some instructions on how to increase your power, and it turns out her lineage's blood works well. Magister and Victoria's associate made the gun that Vask uses, it's not the same thing. She says using someone ELSE's blood is fucked up, blood carries power and life and magic. Rez asks how someone can protect yourself, if someone has your blood. They say that if a powerful uses them, they have a great degree of control over you. 
+
+There hasn't been a powerful blood mage in about hundreds of years, and so it might not be as big of a risk. The last known was about 200 years ago. People debate if there were multiple blood mages, or if it was the same person, but there are some names associated: Amelia Swiftward, Maevin Wyrmwood, Mathis, or some tomes signed by "H". Some believe that its an old wives tale, but Victora thinks it's probably true.
+
+We also ask about Julian and what they know. They said his got a far reach, especially throughout all of the southern cities - but in places like Taleem not as much. Victoria says she's never worked with him but her family and his have worked together before. Rez tries to warn them about the "statue" julian was giving to surtev, and victoria updates us that sienna took that contract and the statue is going to the burbank estate. We offer help for them if they need, and they say the same. Rez teases victoria about her feelings for vask, and she gets touchy about it. Rez is undeterred. 
+
+Costi asks magister where he could potentiall learn counterspell, and he says to check Xixitahns in [[Arkhosia (City)]].  We tell her we plan to go to Quaath once we are going, and that we should stop by her family store - it's unmarked in the gold circle, but she can tell us the password and how to find. If we just say we have an appointment at [[Several's Antiquities]], and they'll let us in. 
+
+Magister tells us thanks for the tips on the [[Necromantic Underground Chapel]], that it was fascinating and he has some theroies, but he doesn't want to share until he knows more. Jade gives a compelling monologue ending in "no there are no bones here", and Magister agrees. He believes it was a temple of Morthos. A few centuries ago, there was an organization by the name of [[The Silver Hand]], remnants still exist today in some cities, that are largely cut off from the prinicpal body that use to exist. A front group. One of the founders, a woman named Opal (a talented warriror and scholar), were some of the first creators of dunamancy. Details are scarce, but a key player, only known by M, or [[Morthos]], believed to be a high-elf and one of the few survivors of [[Gu’athrithen]] was rumored to be trying to unseat [[Vecna]] as the god of death. It appears he failed, at least [[Vecna]] still exists. [[Magister]] thinks that area could be slightly older than it appears, due to the infestation of undeath. It seems like people could be expirmenting in dunamncy in new and exciting ways, and [[Magister]] wants to learn more. He asks us to keep an eye out for information on dunamancy, vecna, morthos, or high-elevan. And Victoria about blood magic. 
+
+[[Hugh]], thinking about [[Adrienne Spout|Adrienne]], pulled [[Magister]] aside and asked if he thinks that they have a soul. [[Hugh]] worried that perhaps him not having a soul is what caused it to fail. [[Magister]] tells him that many of the most powerful clerics and paladins and holy people fail. He tells him that is good to try and save as many as he can, but if [[Hugh]] tries to save them all he will break. He should do his best, and his best is enough. 
+
+As soon as they leave, [[Jade]] confronts costi about how much he likes sex - citing the list of the times he visited the [[The Fiddlers Respite]]. It is a beautiful misconception. [[Rez]] cackles while an embarrased [[Costi]] clears his name. He asks if she has told anyone else, and [[Rez]] admits. Costi agrees it's a good prank but that perhaps she shouldn't talk to anyone else about this. 
+
+Our conversation changes to what our next steps are. But we get sidetracked learning about Jade, who says she has a family but not a family that is traditional in the way of [[Jalantar]]. She has a mother and three fathers, and that is normal where she's from. She reveals she's a Yuan-Ti and  so is her family. She shows us the green scales on her scalp and where her ears should be. She talks about the prejudice and seems to hit it off with Rez even more. Freya shares how she can alter self to blend in, and then Costi says he's lost his ability to alter self. 
+
+Costi and Jade go to buy potions, and end up talking about how each of us use our abilities. We learn that jade is mostly snakey magic-focused, but comes by her abilites naturally. They capitalize on the pity from losing [[Adrienne Spout|Adrienne]] and clean up. 
+
+Freya goes to talk with [[Akros]] at the [[Wayfinders]]. She tells him that we lost [[Adrienne Spout|Adrienne]], and they talk a bit about grief. A sad "her job is walking" was made. He warns her to watch the skies, especially near the cliffs, wyverns in particular are a danger. He warns not to let either pick you up. The road itself should have nothing more dangerous really than hill giants. [[Freya]] asks for any tips, he says it's pretty straightforward. It's mostly open plains, a few rocky outcroppings. He asked her how the book was, and she said she's working on it. He was in the same initation class with Rawley, and a few others. She says she might get her trans-continental tattoo there, and she should check in with the wafinder post there. "Always watch the trail you leave, always watch the trail ahead". 
+
+[[Hugh]] goes to say his goodbyes at the [[Dragonsfire Forge]] and to meet the small girl who had been haunted by the hags, if she shows. [[Noralin Brickview]], [[Hernolig Alebringer]], and [[Carvin]] are all there. The hearth still has the echoing harp playing through it. They make [[Hugh]] a small jar of fire from the hearth for him to take on his journeys. [[Carvin]] thanks [[Hugh]] for bringing [[Moradin]] into the Forge - that this door would still be closed, and he'd still be bad at pouring metal if [[Hugh]] hadn't come through. [[Hugh]] also lets [[Divitston Goldstone]] know we'll all be gone. He gives [[Hugh]] a box for [[Rez]], and says [[Father Thronestone]] will be back in a week. 
+
+##### Our baby boy
+[[Rez]] goes to the [[Temple of  Platinum Dragon in Jalantar]], and luckily [[Ghez Yhutl]] is already in the room. He does a triple check as she comes in, and very unsubtly leads her "as it is his entire job" to the art room. Ghez is thrilled to be doing his fact-finding, he thinks he was born for this, claiming its more of an art than a science. He gave his update --
+
+So [[Jorus]] is "missing", (becuase we killed him (Rez knew this)). Jorus was a member of the goldborn order, same as Ghez, but high-ish up. Apparently he was like obsessed about the story of the [[Azir DarAxia|Saint Goldborn]], and talked a whole whole lot about wanting to recreate it. No one liked him. He pulls out a letter, he broke into his quarters (oaky sure he got caught, but he thought quickly on his feet and said he was looking for misifled paperwork and they said how'd you get in, and he said I found the key here, and they said we'd have to do an investigation), they're launching an investigation but he seems to be believed. He found a letter though! About dragon scale grafting!!!  
+
+*reminder to add letter text from joe*
+
+Seems like he was acting indepently, aside from this priest of the order in durmask, named Yhridex (also Saint Goldborn Order). Rez gave him jorus holy symbol, and said do your best. They discussed staying in communication, which ghez wasn't worried about, saying they're soul connected. Rez said she'd try to cast sending to check in with him as often as posisble. He wants to gain strength to do the same, he offered to hire a wayfinder to go the vrollbekk to get stronger, Rez said maybe pray instead? They settled on him joining the martial order to get a few more skills along with praying more. Rez encouraged Ghez with all of her might, but also said if things get too bad he could go to father thronestone. They both agreed to keep looking until they get to the bottom of this.  (see also: [[Dragon Scales Ahhhh]])
+
+##### Freya and the Historian
+
+freya went to the historian to share some background, he shared that there's more than one reclusive tribe, which is news for freya. After some conversation and learning how genuinely respectful wutherford seems, freya opens up. She share some of their nomeclature, and life style, and talks about how isolated they were. Seeing how much they had to talk about, he offers to come to [[Arkhosia (City)]] for them to talk more. He's inbetween projects and looking for inspiration. They seem to connect some, though Freya still struggles with her suspicions due to his [[Julian Slater-Runehorn|Julian]] ties. 
+
+##### Adrienne's Burial
+
+We all meet up at [[Corellon's Grove]] to deal with [[Adrienne Spout|Adrienne]], just as [[Lorian]] arrives. He goes to get [[Dawenys]], she shows us the area that they normally inter bodies and feed them back to the grove. She says [[Henrik]] came and asked if they have [[Adrienne Spout|Adrienne]]'s body. The Grove told him no, and he didn't ask anymore questions. It sounds like the process of releasing her souls to the trees would take about 6 months, so we talked about if this timeline would work. [[Costi]] brought up how much we have to do, and travel alone will take several months. [[Rez]] asks [[Costi]] to make an image of the root system to see if she recognizes the roots. She hasn't seen it, she says it could be in Quaath, or it could be a metaphor, she doesn't know. We agree to go get her ready. [[Dawenys]] agrees to write a note, so we can leave the blue rose with her. 
+
+Hugh gives her the small hearth from the [[Dragonsfire Forge]]. [[Lorian]] leaves a harp string and says he's going to start practicing, there's a lot less talent in the world. [[Freya]] says a private goodbye. [[Costi]] touches the tree, and says in sylvan "protect her while she is here, and enjoy her wonderful company, but we will be back for her".  [[Rez]] tells her that [[The Unforged Few|Our-Party]] is different now, and it's because of her. She'll get the chance to see it when we bring her back. [[Jade]] also has her turn, trying to interrogate her. She also says going with us, and hopes she gets the chance to meet her. The roots start to grow towards her, and pulsing blue light growing with them, as she's entombed.
+
+We bring the rest of the evidence to [[Gorva's Observatory]], and give it to someone named Ardee. The rest of us go back to [[Goldhide Resort]] for the night. We discuss how to bring along [[Adrienne Spout|Adrienne]]'s harp. [[Hugh]] gives [[Rez]] the coin from [[Divitston Goldstone]], it has seven rows of copper scales on one side going from two to five and back down, and the other side has a pretty good likeness of her face. Before bed, [[Costi]] tries a new spell and [[Rez]] cast a sending.
+
+We wake up in the morning and pack up, the carriage is waiting for us. We ask if [[Jade]] has any plans beside following us around, and she says the glasses flashed to say that we were important. We begin making our way across the city. As we go, [[Costi]] uses a new ability of his to try and look into the [[The Furnace]] as we travel overtop of it, as we all try to remember a room [[Cinder]] used. [[Cinder]] and [[Winifey]] walk in, "so is he on his way already?" w: "I think so, we'll get work here in a couple of days once he gets to one of the waypoints, sounds like he got held up for some reason" C: "That boy's always had too many loose ends". Talking about what this could mean, Costi decides to cast it again.
+
+He hear it's an update about food supplies, between [[Winifey]], [[Cinder]], and some random member of the [[Fire Raisers]]. About 3.5 months of food supplies as is. On the table are a series of coded letters. While we standing outside [[The Sheath and Sickle]], 5 people random decide to jump us. Hugh throws off his coat and uses thamaturgy to tell them to leave, and [[Jade]] summons a swarm of flies to back him up. Unknowingly, [[Costi]] dictates the code he sees outloud to [[Jade]]. He also sees a letter S, V, and M on a tangle of lines. Right before the spell ends, we get an update on numbers - between the two cities, they've got about 300 people. 
+
+When we try to get [[Giary]], he is strangely no where to be found. We split up to try and find him. Half of us go upstairs, half of us go down to the basement. We hear a muffled yelling, and [[Rez]] remembering the spot that unlocks the safe room, picks the keyhole and free giary.
+
+[[Giary]] lied, and turns out he was keeping [[Niko]] and lied to us. He thought he could get through to him, and thought it was working, but then he tried to stop him from going to [[Arkhosia (City)]]. [[Niko]] got mad, so did [[Giary]], they got into a big blowout and then locked him in the basement, knowing we'd be coming to get him. We scold him for a minute, and he says he'll tell us everything on the way there. He seems to think he can still talk him off a cliff. 
+
+We finally get the gate, and see the ostenatious carriage from [[Julian Slater-Runehorn]]. We sign the letter from [[Ricci Scrucks]] saying we're leacing for [[Arkhosia (City)]] and take the one that will announce our arrival. 
+
+And we leave [[Jalantar]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

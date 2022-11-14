@@ -30,4 +30,4 @@ A [[The Providers|Provider]] [[Arkhosian Delegates|Delegate]] representing the n
 
 ### Who's he to us?
 
-First seen: [[Session-26]] as a judge of the pie eating contest at the [[Promenade Aid Society]] Puppies and Pies event
+First seen: [[session-26]] as a judge of the pie eating contest at the [[Promenade Aid Society]] Puppies and Pies event

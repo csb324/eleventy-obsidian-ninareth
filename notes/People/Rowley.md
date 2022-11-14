@@ -2,8 +2,6 @@
 type: npc
 tags:
   - npc
-aliases:
-  - R
 Status: alive
 Affiliation: Wayfinders
 ---

@@ -2,28 +2,22 @@
 {}
 ---
 # Group Inventory
-Gold - 2,894
+
+Gold - 614
+
+## Potions:
+
+Greater healing (800)- 2
+Regular healing (200) - 7
 
 
-### Potions:
-
-Greater healing - 1 [[Rez]]
-Regular healing - 2 [[Rez]]
-
-
-### Magic Items:
+## Magic Items:
 
 [[Cloak of Elvenkind]] (A)
-Carried by [[Rez]]
-
-[[Bag of Screams]]
-Carried by [[Freya]]
+Carried by [[Rez]], worn by [[Hugh]]
 
 [[Victor's Gloves]] (A)
 Carried by [[Costi]]
-
-[[Ivory Pistol]]
-Carried by [[Adrienne Spout|Adrienne]] 
 
 [[Circlet of Sending]] (A)
 Carried by [[Rez]]
@@ -46,9 +40,6 @@ Carried by [[Costi]]
 [[Concoction of Conflagration]]
 Carried by [[Rez]]
 
-Counterspell Scroll
-Carried by [[Costi]]
-
 [[Curator Quills]]
 Carried by [[Freya]]
 
@@ -58,55 +49,45 @@ Carried by [[Hugh]]
 [[Blow Em]]
 Carried by [[Costi]]
 
-Fire Resistant Breastplate 
-Carried by [[Adrienne Spout|Adrienne]]
-
-Flametongue Longsword
-Carried by [[Adrienne Spout|Adrienne]]
-
-a harp string 
-Carried by [[Adrienne Spout|Adrienne]]
-
-+1 Ice Pick
+[[+1 Ice Pick]]
 Carried by [[Freya]]
 
-Elemental Shield (A)
+[[Elemental Shield]] (A)
 Carried by [[Freya]]
 
-Claw Tattoos (A)
+[[Claw Tattoos]] (A)
 Carried by [[Freya]]
 
-### Monster Parts
+Bag of Adrienne Belongings
+[[Ivory Pistol]]
+[[Fire Resistant Breastplate]] 
+[[Flametongue Longsword]]
+[[Reverberating String]]
+[[Bag of Screams]]
 
-Dragon Scales
+
+## Monster Parts
+
+### Dragon Scales
 Carried by [[Freya]]
 	Blue - 8
 	Red - 9
 
+Summer Eladrin hair
 
-### Mundane Items:
+Mysterious armed fish
 
-Gems:
+## Mundane Items:
+
+### Gems:
+Includes:
 	Pearl
 	Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
-	Small diamonds - 500gp worth
-	diamond ring
+	Small diamonds - 300gp worth
+	diamond ring - 3's worth
 
-[[Vlad Grosu Patch]]
-
-Vial of strange orange moss
-Carried by [[Hugh]]
-
-Disguise kit
-Carried by [[Adrienne Spout|Adrienne]]
-
-[[Sqwank]]'s [[Wayfinders]] dog tag
-Carried by [[Freya]]
-
-Lanterns - 5
-
-Bag of Mischief: carried by [[Rez]]
-Includes:
+### Bag of Mischief:
+carried by [[Rez]]
 	[[Immovable Rod]]
 	Nets - 10
 	Ball bearings - I
@@ -124,11 +105,24 @@ Includes:
     Stakes, small metal
     hammer set (6 sizes, quite small to normal size)
 
-Jorus Holy Symbol of [[Bahamat]]
-Carried by [[Rez]] 
+[[Vlad Grosu Patch]]
 
+Vial of strange orange moss
+Carried by [[Hugh]]
 
-### Given to Others
+Disguise kit
+Carried by [[Adrienne Spout|Adrienne]]
+
+[[Sqwank]]'s [[Wayfinders]] dog tag
+Carried by [[Freya]]
+
+Lanterns - 5
+
+Metals to each member of [[The Unforged Few|Our-Party]] as "Heroes of [[Jalantar]]"
+
+One formal outfit each
+
+## Given to Others
 
 [[Summoning Stone]]
 Given to [[Father Thronestone]] to power the [[Dragonsfire Forge]]
@@ -144,3 +138,7 @@ Given to [[Father Thronestone]]
 
 Unscaled shorthand key
 Given to [[Father Thronestone]]
+
+[[Jorus]] Holy Symbol of [[Bahamat]]
+Given to [[Ghez Yhutl]]
+

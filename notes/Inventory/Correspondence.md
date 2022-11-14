@@ -42,3 +42,13 @@ Julian Slater-Runehorn"
 [[Rez]] to [[Adrienne Spout|Adrienne]] and back
 "fuck. Lunch with Julian, today. Where you? You told us not to talk, but ... help us"
 "fuck. be there when I can, reveal little -- be friendly. Good if he underestimates you. He has me busy, I suspect distracted. Just be careful"
+
+The [[From the Ashes Flyer]]
+
+[[Adrienne Spout|Adrienne]]'s Eulogy
+-   Adrienne Spout was born in the Liveth Forest on the tenth Miirkikear of the year 3127.  She spent her formative years in a small settlement outside of Ru’Nilleth with her parents, brothers, and sister, helping to raise them and to set a good example for her younger siblings. At an early age, her incredible aptitude for the harp was discovered at a local temple to Corellan Larethian, where she brought joy to any and all who heard her share her gift.
+-   At the age of ten, she received a scholarship, gathered from the many in her community who recognized her incredible talent, to pursue a musical education at the finest artistic enrichment establishment in all of Ninareth, Jalantar’s own Redscale Academy. There, she excelled. She proved more than worthy of her scholarship, consistently performing above-and-beyond the expectations of her peers and professors. Notably, she was the first fifth-year in Redscale’s history to perform, without fault, the third movement of Tintiny’s Eighth Concierto, for which she received the Duhln Award for Musical Excellence, Harp.
+-   Upon her graduation, she took on an apprenticeship with noted philanthropist and musician Julian Slater-Runehorn. She spent years helping him work towards a better world for all those in the Southern Cities, most particularly here in Arkhosia, furthering his philanthropic efforts. Additionally, she continued to perfect her craft under Mr. Slater-Runehorn’s exacting tutelage.
+-   In recent months, while still working to improve the lots of those worst off in our society, Adrienne Spout took on a life of adventure. While her time as a traveling hero was short, it–as was typical for her–was exceptional. She saved the town of Tinzlevon from certain doom, survived kidnapping by dangerous revolutionaries, and saved hundreds of lives when the Pirate Queen was attacked. An impressive and important resume, to be sure.
+-   She is survived by many who loved her, valued her, and cared about her. Her two loving parents, Branton and Raina Spout. Her devoted siblings, Darek Pludthorn, and Branthen and Keebi Spout. And last but certainly not least, her traveling companions, The Unforged Few: Freya Polaris, Rez Tanin, Constantine Grossu, and Human Named Finn.
+-   In lieu of flowers, please make a donation in her name to, well, wherever you all think is best. We will miss her music, but we will not forget it.

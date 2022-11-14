@@ -14,6 +14,8 @@ Status: Ongoing
 
 We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Party]] goes to his house, which we decide to call [[The Tiamat House]]. It's covered in pro-[[Tiamat]] and pro-[[Galaphanel]] art, as well as other dragon decor. 
 
+
+
 ## Who's Involved
 
 #### Baddies
@@ -25,6 +27,8 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* Killed a whole bunch of people trying to graft scales onto them
 * [[Jorus]]
 	* Paladin of [[Order of the Platinum Dragon]] at the [[Temple of  Platinum Dragon in Jalantar]] 
+	* Was apparently obsessed with [[Azir DarAxia|Saint Goldborn]]
+	* More detail: [[notes-49#Our baby boy]]
 * [[Sqwank]]
 	* Was healing from grafting onto his arm
 * [[Cortis]]
@@ -49,6 +53,8 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* [[Rez]] convinced him to root out corruption in the [[Temple of  Platinum Dragon in Jalantar]] 
 		* "can I interest you in a curious folio?" 
 	* Told us the [[Order of the Platinum Dragon]] already had people watching [[Burru Ilp]]
+	* Broke into [[Jorus]] room and found an incriminating letter to another priest of the [[Order of the Platinum Dragon]] in [[Durmask]], named [[Yhridex]] (also Saint Goldborn Order)
+		* [[Rez]] gave him [[Jorus]]'s holy symbol, seeing if he could pull any information from it
 * [[Vask]]
 	* [[Rez]] immediately told [[Vask]] all the info
 	* Got [[Victoria Several]] to buy [[The Tiamat House]]

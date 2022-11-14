@@ -39,5 +39,5 @@ Seemingly believed us to be innocent during the [[Zalevi Embassy Break-in]], lef
 
 Sat at [[Julian Slater-Runehorn|Julian]]'s box at the [[Bellisme Show]] with [[El'Haliand]] and an [[Eberronian Military]] officer
 
-Investing if the [[Jalantar]] government set them up to increase tension in the cities, by telling the [[Zalevi Military]] they can arrest people and then taking it back and causing a scandal
+Investigating if the [[Jalantar]] government set them up to increase tension in the cities, by telling the [[Zalevi Military]] they can arrest people and then taking it back and causing a scandal
 
