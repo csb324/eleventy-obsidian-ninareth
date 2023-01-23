@@ -9,6 +9,7 @@ Location: Arkhosia
 # Arkhosia (City)
 City, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Arkhosia]]</span></span>
 
+![](/assets/obsidian/AC%20map.jpg)
 
 ## NPCs
 {% include 'list-references.html', reference_data: npcs %}

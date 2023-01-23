@@ -22,8 +22,8 @@ Came back late and had an expedition sent to check on his route. He was injured 
 Has traveled the entire Wayfinder route 6 times, got the fancy line tattoo to boot for each trip. Recommends traveling to the Bridges
 
 ### Who's he to us? 
-Someone [[Freya]] is supposed to talk to, per [[Rowley]]'s note. #mysteries 
+Someone [[Freya]] is supposed to talk to, per [[Rawley]]'s note. #mysteries 
 
-Gave [[Freya]] a book from [[Rowley]] 
+Gave [[Freya]] a book from [[Rawley]] 
 
 Knows wayfinder leaders in many cities and offerned to introduce [[Freya]] if she travels to [[Cerendian]], [[Kilfalgaard] [[Tinkate]]

@@ -6,7 +6,7 @@ Status: alive
 Affiliation: Wayfinders
 ---
 
-# Rowley (A.K.A. "R") 
+# Rawley (A.K.A. "R") 
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Wayfinders]]</span></span>
 

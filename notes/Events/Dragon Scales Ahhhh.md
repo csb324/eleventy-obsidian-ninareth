@@ -41,6 +41,9 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* Potentially supplied dragon scales to [[Burru Ilp]]
 	* In [[Thelran Asari]]
 	* Had brass scales grafted onto him
+* [[Yhridex]]
+	* In the [[Order of the Platinum Dragon]] in  [[Durmask]], in the Saint Goldborn Order
+	* Communicated with [[Jorus]] about 
 
 #### Helpers
 * [[Father Thronestone]]
@@ -49,6 +52,7 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* Realized he fucked up, asked [[The Unforged Few|Our-Party]] to investigate
 	* Trying to fix things, asked elders at [[Dragonsfire Forge]] to help
 	* Gave us some money, the [[Blow Em]] whistle and the claw tattoos for [[Freya]]
+	* Breaking the code on their notes to figure out how far along their work was
 * [[Ghez Yhutl]]
 	* [[Rez]] convinced him to root out corruption in the [[Temple of  Platinum Dragon in Jalantar]] 
 		* "can I interest you in a curious folio?" 

@@ -40,14 +40,19 @@ class DisplayHelpers {
     }
 
     let pageNames = [];
+    let properties = p[property];
+
+    console.log(p[property]);
     
-    if(Array.isArray(p[property])) {
-      pageNames = p[property].map((prop) => {
-        return prop.path.split(/\/|\.md/);
-      })
-    } else {
-      pageNames = [p[property].path.split(/\/|\.md/)];
+    if(!Array.isArray(p[property])) {
+      properties = [p[property]];
     }
+
+    pageNames = properties.map((prop) => {
+      if(prop.path) {
+        return prop.path.split(/\/|\.md/);
+      }
+    })
 
     const pathParts = pageNames.flat();
     return pathParts.includes(dv.current().file.name)	   

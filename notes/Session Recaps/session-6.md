@@ -27,4 +27,4 @@ Then we made signs, and [[Rez]] (with freyas help) devised a plan for where to p
 
 Finally, [[Flick]] found [[Freya]] and gave her a message from... a [[Wayfinders|Wayfinder]]? Something like that. 
 
-> "freya, excellent work. i've heard great things. in jalantar, check in with [[Akros]]. he has something for you. - [[Rowley]]" 
+> "freya, excellent work. i've heard great things. in jalantar, check in with [[Akros]]. he has something for you. - [[Rawley]]" 

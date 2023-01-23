@@ -42,4 +42,4 @@ Once the threat of ghosts had proven to be a genuine one, [[Adrienne Spout|Adrie
 
 [[Hugh]], as always, is the reason any of us are alive. 
 
-Eventually we beat them back. [[Costi]] recognized these as the same type of creatures we saw in the [[Temple of Pelor outside Jalantar]], in [[Father Gryuu]]'s crypt. They probably came from the [[Summoning Stone]], not the [[Bag of Screams]]. So, getting that sorted out just moved up on our to-do list. 
+Eventually we beat them back. [[Costi]] recognized these as the same type of creatures we saw in the [[Jalantar Sunspot]], in [[Father Gryuu]]'s crypt. They probably came from the [[Summoning Stone]], not the [[Bag of Screams]]. So, getting that sorted out just moved up on our to-do list. 

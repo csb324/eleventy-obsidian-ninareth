@@ -2,6 +2,8 @@
 type: PC
 tags:
   - PC
+aliases:
+  - Cost-ape
 Race: Human
 Status: alive
 Home: Eberron
@@ -19,6 +21,7 @@ Pronouns: " he/his"
 <span class="dataview inline-field"><span class="inline-field-key">Alma Mater</span><span class="inline-field-value">[[AVAD]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value">Wizard</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> he/his</span></span>
+#unforged-few 
 
 ![](/assets/obsidian/Costi.jpg)
 
@@ -47,3 +50,4 @@ Costi has a raven named [[Samuel]]. Samuel won't talk to him. He has never heard
 * Omlette (via [[Giary]])
 * Steve, Marius Bora - [[session-26]]
 * Barny - [[session-44]]
+* Cost-ape - [[notes-52]]

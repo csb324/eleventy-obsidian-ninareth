@@ -32,7 +32,7 @@ When [[Costi]] opens his eyes, and draws the cloth across his sword, for just a 
 
 As we turn the corner to the [[The Tiamat House]], [[Henrik]] and [[Vask]] are standing at the door way clearly arguging. [[Vask]] comes to meet us and tells us [[Henrik]] came to get them mentioning our message to [[Julian Slater-Runehorn|Julian]]. Trading insults, it's clear that [[Julian Slater-Runehorn|Julian]] means to speak to  [[The Unforged Few|Our-Party]]. Noticing how bad we look, he asks if we're okay. [[Rez]] says for fine, but clarifies if he *knows*... he asks if it's true. He pulls us into a group hug, and [[Freya]] picks the two Tanin's up. 
 
-We tearfully break, and [[Freya]] and [[Rez]] make it painfully clear we do NOT care to talk to [[Henrik]] right now, and he can't wait until later. [[Henrik]] asks if he can at least wait inside, bringing a small box with him. Inside are the medals [[The Unforged Few|Our-Party]] should've been awarded at the [[the Mayor of Jalantar]]'s ceremony. Grabbing [[Rez]]'s wrist, he asks if the news we sent [[Julian Slater-Runehorn|Julian]] is true. She confirms it, and he seems to take the news hard. 
+We tearfully break, and [[Freya]] and [[Rez]] make it painfully clear we do NOT care to talk to [[Henrik]] right now, and he can wait until later. [[Henrik]] asks if he can at least wait inside, bringing a small box with him. Inside are the medals [[The Unforged Few|Our-Party]] should've been awarded at the [[the Mayor of Jalantar]]'s ceremony. Grabbing [[Rez]]'s wrist, he asks if the news we sent [[Julian Slater-Runehorn|Julian]] is true. She confirms it, and he seems to take the news hard. 
 
 [[Vask]] offers some space to [[Freya]], who rage rooms her feelings out. [[Rez]] and [[Vask]] talk about what happened. She shares that they were taken to [[the Feywild]]. After some mutual exclamations -- [[Rez]] opens up. She's shocked at how quick and senseless it was. That she wasn't worried and then [[Adrienne Spout|Adrienne]] was just taken from her. She was so young, and it didn't feel like the kind of deaths that make sense. That these are her people, and no one can else can have them, but she's going to bring her back. [[The Silver Halves]] might be able to help, [[Victoria Several|Victoria]] has a lot of money. [[Rez]] says she's going to reach out to their aunt, [[Vask]] asks if she knows how to get in touch with her, and [[Rez]] says she'll figure it out. She asks [[Vask]] how she can know if she should've done more, he tells her it gets better with time. 
 
@@ -56,7 +56,7 @@ As soon as we're alone, [[Hugh]] asks [[Costi]] to tell us about his vision. We 
 
 [[Freya]] says she's made a deal, and [[Rez]] owns up too. We discuss where [[The Curator]] has helped [[The Unforged Few|Our-Party]], and what our two EQUALLY VALID motivations were for making a deal -- [[Freya]] to try and find a way home, and [[Rez]] because it sounded interesting. [[Costi]] makes the probably fair point that we shouldn't be making independent deals now that we're a party. [[Hugh]] asks why we're bringing it up now? We say it's because we think they can maybe help bring [[Adrienne Spout|Adrienne]] back. [[Costi]] says she didn't want debts, and [[Rez]] AGREES. 
 
-[[Freya]] reminds us that [[Adrienne Spout|Adrienne]] didn't know that people could fight for those they care about and she wouldn't know to ask, [[Costi]] says we'll do the hard things but he's worried [[The Curator]] will be like [[Julian Slater-Runehorn|Julian]] and ask for longterm costs for their help. What has [[The Curator]] has from [[Freya]]? She owns up that it was just a teeny tiny vial of blood for each of her forms. 
+[[Freya]] reminds us that [[Adrienne Spout|Adrienne]] didn't know that people could fight for those they care about and she wouldn't know to ask, [[Costi]] says we'll do the hard things but he's worried [[The Curator]] will be like [[Julian Slater-Runehorn|Julian]] and ask for longterm costs for their help. What has [[The Curator]] wanted from [[Freya]]? She owns up that it was just a teeny tiny vial of blood for each of her forms. 
 
 A panicked [[Costi]] warns her of all the horrors of blood magic. [[Freya]] asks if we think we could've made it through the [[Threthdia Scrivit]] fight without her help? [[Costi]] doesn't know, but asks at what cost? [[Freya]] says big costs are sometimes needed to do the things we care about. And besides, the deals she makes only have affected her. [[Rez]] corrects her, that we care about what happen to [[Freya]] for her sake too. 
 
@@ -78,16 +78,16 @@ Surprised, [[Julian Slater-Runehorn|Julian]] says he expected more of a fight --
 
 [[Julian Slater-Runehorn|Julian]] pretends to have a conversation with [[Henrik]] - "Do you think they'll get to [[Dilandil]] before you do?" "Do you think it would be quicker to take a letter to [[Adrienne Spout|Adrienne]]'s parents and have it delivered to them?"
 
-He then turns to us "you know it's the funniest thing to control someone with debt. a few years back i purchased some debt to [[Branton Spout]]. He could very easily refinance it, it's very overdue. He tells [[Costi]] that he knows [[Costi]] doesn't care, but directly says that he can put [[Adrienne Spout|Adrienne]]'s parents out of their homes if we displease him. 
+He then turns to us "you know it's the funniest thing to control someone with debt. a few years back i purchased some debt to [[Branton Spout]]. He could very easily refinance it, it's very overdue." He tells [[Costi]] that he knows [[Costi]] doesn't care, but directly says that he can put [[Adrienne Spout|Adrienne]]'s parents out of their homes if we displease him. 
 
 He makes it clear that there are several immediate consequences if we don't go forward with this:
 * We become fugutives from  [[Zalev]] with documented proof that we did the [[Zalevi Embassy Break-in]]
 * [[Adrienne Spout|Adrienne]]'s parents will have their debt called in
-* Veiled threats on the rest of our family
+* Veiled threats on the rest of our families
 
 [[Costi]] has an outburst, fearing for the damage we might do and at what point our plan is not worth it. We argue about how far we should go, and how bad this will get. 
 
 ### A Reality Check
 
-[[Victoria Several|Victoria]] comes out and warns us that [[The Unforged Few|Our-Party]] is in a very dangerous situtation and that we need to hide our turmoil and pull it together for everyone's sakes tonight. We tell her we have a lot of to ask her about, and can't keep stepping in it as we try to reign it in: [[Costi]] asking what she did with the [[Weird Boulder]], [[Freya]] revealing that we want to bring [[Adrienne Spout|Adrienne]] back, and overhearing our whole argument about [[Julian Slater-Runehorn|Julian]]. 
+[[Victoria Several|Victoria]] comes out and warns us that [[The Unforged Few|Our-Party]] is in a very dangerous situtation and that we need to hide our turmoil and pull it together for everyone's sakes tonight. We tell her we have a lot of to ask her about, and can't keep from stepping in it as we try to reign it in: [[Costi]] asking what she did with the [[Weird Boulder]], [[Freya]] revealing that we want to bring [[Adrienne Spout|Adrienne]] back, and overhearing our whole argument about [[Julian Slater-Runehorn|Julian]]. 
 

@@ -41,3 +41,4 @@ Our [[To-Do List]]
 
 ![](/assets/obsidian/our%20party%20group%203.jpeg)
 
+#unforged-few

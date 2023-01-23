@@ -3,22 +3,25 @@ type: world-event
 Status: Ongoing
 ---
 
-# Fire Raiser Baddie Audit: Looking for Niko
+# Fire Raiser Baddie Audit
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Ongoing</span></span>
 
 ### The Ask
 A few [[Fire Raisers]] including [[Zephyra]], [[Terrav]], and [[Lance]] want is to find who's responsible for  the rising violence within the organziation. The suspect list: [[Niko]], [[Srictha]],  [[Ulia Glorsbade]],  [[Winifey]], and potentiallly [[Twigs]].
 
-For ourselves: who's responsible for the [[Bellisme Show]] attack, and are the [[Fire Raisers]] led by people we can support? Who's really in charge?
+For ourselves: how can we prevent the attack in [[Arkhosia (City)]]? Who can we trust to help?
 
 ## Who's Involved
-* [[Niko]]
-	* The man of the hour, seems to be laying low and potentially avoiding [[The Unforged Few|Our-Party]].
-	* Can't receive sendings
-	* Probably on the way to [[Arkhosia (City)]]
-	* Potentially pulled [[Ulia Glorsbade]] and is traveling with her
 
 #### Fire raisers involved 
+* [[Niko]]
+	* Seems to be laying low and potentially avoiding [[The Unforged Few|Our-Party]], 
+	* Can't receive sendings
+	* On the way to [[Arkhosia (City)]]
+	* Potentially pulled [[Ulia Glorsbade]]
+	* [[Niko]] gets his information from [[Cinder]], but that they don't know Niko is talking to Costi. 
+	* Told us we should find him in [[Arkhosia (City)]], at [[Marvin's Corner]] and let the bartender know that we're "there for the apple cider". 
+	* [[Niko]] warns us off of [[Terrav]] and [[Winifey]] too. 
 * [[Zephyra]]
 	* Asked for our help with [[Terrav]]
 	* Tasked with finding outliers
@@ -31,18 +34,21 @@ For ourselves: who's responsible for the [[Bellisme Show]] attack, and are the [
 	* Looking into political recruits from [[Jalantar]], and looking into action by [[Julian Slater-Runehorn|Julian]] concerning the [[Arkhosian Elections]]. 
 * [[Winifey]]
 	* Originally in the suspect group, due to her ties to [[Niko]]
-	* Right-hand to [[Cinder]], investigated by him, and ultimately cleared. 
+	* Right-hand to [[Cinder]], investigated by him, and ultimately 'cleared'. 
 	* Thinks the fact [[Niko]] is MIA has put suspicion on him for not being able to answer questions.
 		* He worked the [[Bellisme Show]]
 		* Thinks [[Niko]] has crossed a bridge and potentially brought others along with him. Believes if he wasn't the one who planned the attack, that he was at least instrumental in it. 
+		* Does she know that [[Cinder]] is feeding info to [[Niko]]??
 	* The [[Fire Raisers]] want to delay their "programming" until they know their house is in order, to be sure things are good. 
 	* Gave us the [[Fire Raiser Mystery Cylinder]], a map location, a cover story, and some red herring clues to tell [[Ricci Scrucks]] on the [[Bellisme Show]] investigation.
 	* [[Adrienne Spout|Adrienne]] and [[Freya]] seems to get vibes she's not being entirely truthful.
 	* [[Ulia Glorsbade]] is also gone, she thinks [[Niko]] helped her get out of the city. 
 		* Thinks they're heading to [[Arkhosia (City)]]. 
+		* Told [[The Unforged Few|Our Party]] to find her, why? Maybe for us to learn about the bombs? 
 	* [[Costi]] detects her thoughts, sees a red undullating wave when we mention what plans might be coming up in [[Arkhosia (City)]].
-		* Tells us to stay away from the docks, thinks it's Sill Dockhouse (might be Kayson's) on the 15th.
-	* [[Adrienne Spout|Adrienne]] asks about other radicals within the [[Fire Raisers]] who could be problems: in her thoughts [[Costi]] sees [[Niko]], a tiefling, and a flash of [[Cinder]]. 
+		* Tells us to stay away from the docks, thinks it's [[Sill Dockhouse]] (might be Kayson's) on the 15th.
+		* [[Ulia Glorsbade]] clarified the [[Cloud's Lament]]
+	* [[Adrienne Spout|Adrienne]] asks about other radicals within the [[Fire Raisers]] who could be a problem: in her thoughts [[Costi]] sees [[Niko]], a tiefling, and a flash of [[Cinder]]. 
 * [[Srictha]]
 	* Officially MIA for the [[Fire Raisers]]
 	* Hid at [[The Sheath and Sickle]] thanks to [[Giary]]
@@ -53,6 +59,7 @@ For ourselves: who's responsible for the [[Bellisme Show]] attack, and are the [
 	* Thinks he saw a [[Dragon's Hide]] helm in [[Cinder]]'s office with [[Winifey]]. 
 	* Asked us if there was a way to help him get to [[Arkhosia (City)]], that he still believes in the [[Fire Raisers]] mission - and wants to be sure it happens in the right way. 
 		* We sent him there with [[Vrolbekk Pixies|Klida]]
+	* [[Niko]] says we should not trust him and that he might be trying to stop the movement.
 * [[Cinder]]
 	* Leads [[The Furnace]] but clearly not the decision-maker for the [[Fire Raisers]] overall
 	* Seemed unhappy about some new recruits, according to [[Srictha]]

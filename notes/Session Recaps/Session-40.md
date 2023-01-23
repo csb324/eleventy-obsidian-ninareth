@@ -24,7 +24,7 @@ We go to talk to [[Father Thronestone]] at the [[Dragonsfire Forge]]. We gave hi
 
 [[Rez]] [[Adrienne Spout|Adrienne]] and [[Freya]] talked to [[Ghez Yhutl]] at the [[Temple of  Platinum Dragon in Jalantar]] about [[Jorus]]. Says the OOTPD has people watching, convinved him this was a secret mission from [[Bahamat]]. Last Krokkiear of every month they have a dinner open to all for OOTPD interest. Code phrase it's okay to talk "can I interest you in a curious folio?" 
 
-[[Freya]] spoke to the [[Wayfinders]], told them about the upcoming work for Julian. They said [[Akros]] wanted to talk to her but she should come back. She also wanted to send a letter to [[Rowley]], but they mentioned the letter would take months to deliver. That's how the mail works. [[Freya]] was disappointed. 
+[[Freya]] spoke to the [[Wayfinders]], told them about the upcoming work for Julian. They said [[Akros]] wanted to talk to her but she should come back. She also wanted to send a letter to [[Rawley]], but they mentioned the letter would take months to deliver. That's how the mail works. [[Freya]] was disappointed. 
 
 We all get back and have a chat about boundaries and who learns what, who tells them, and how. 
 

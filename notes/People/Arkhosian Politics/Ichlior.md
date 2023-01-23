@@ -22,3 +22,5 @@ Confiscated the former fishing village of [[Kazdi]] to turn it into a resort. Me
 ### Who's he to us?  
 Don't know much about him - but has in enemy in [[Cinder]] and is probably on the [[Fire Raisers]]'s hit list
 
+
+

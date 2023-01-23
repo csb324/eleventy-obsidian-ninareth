@@ -34,7 +34,7 @@ She wakes up to tell us about it -- [[Adrienne Spout|Adrienne]] senses that the 
 
 We also talked about our plan to stay safe on the road in the [[Vrolbekk Forest]], and [[Hugh]] remembered his spell that makes a hut to keep us safe. We went shopping for some provisions, namely lanterns and health potions.
 
-We discussed stopping by [[Father Gryuu]] at the [[Temple of Pelor outside Jalantar]], but decided against it since we don't know where that stone came from. 
+We discussed stopping by [[Father Gryuu]] at the [[Jalantar Sunspot]], but decided against it since we don't know where that stone came from. 
 
 Boots walking in a circle in a random glade - we all investiage and [[Costi]] puts them on. Turns out they're [[Boots of Endless Walking]]. Useful! 
 

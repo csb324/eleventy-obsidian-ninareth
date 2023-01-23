@@ -6,7 +6,7 @@ tags:
 Location: Jalantar
 ---
 
-# Temple of [[Pelor]] outside Jalantar
+# Jalantar Sunspot
 Place, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Jalantar]]</span></span>
 
 A small temple to Pelor, and a common place for people to stay on their way into [[Jalantar]]. Pelor is the patron god of the [[Wayfinders]], and seventeen Wayfinders are buried in this crypt. 

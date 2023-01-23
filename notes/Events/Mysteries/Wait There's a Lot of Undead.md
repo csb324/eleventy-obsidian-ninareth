@@ -14,7 +14,7 @@ Status: Ongoing
 	* The [[Beating Heart Battalion]], which [[Hugh]] was in (and presumably [[Costi's Dad|Vladdy Daddy]] was also in) was a specifically non-undead military unit
 * [[Southern Cities Increase Tension]]
 	* #helpmechelsea remind me why this is relevant to undead!
-* [[Temple of Pelor outside Jalantar]]: There was a stone summoning ghosts to the basement.
+* [[Jalantar Sunspot]]: There was a stone summoning ghosts to the basement.
 * [[Mysterious Circles]] 
 	* OOC
 * [[Victoria Several]] 1/2 OOC

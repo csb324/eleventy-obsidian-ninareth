@@ -20,6 +20,7 @@ Class: Cleric
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Self Made Men]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> he/they</span></span>
+#unforged-few 
 
 ![](/assets/obsidian/Hugh.jpg)
 
