@@ -12,17 +12,20 @@ Owned-by: The Unforged Few
 * What do we tell the [[Fire Raisers]] we found [[Ulia Glorsbade]]
 * Check-in with our letter for [[Jalantar]] when we arrive in [[Arkhosia (City)]] 
 * [[Costi]] talking to Vorhmen about [[Arkhosian Elections]]
+* Sending
+	* [[Costi's mom]] on where [[Pruvki Forgaveat]] can meet us where we're staying tomorrow
+	* [[Ghez Yhutl]] for his cliffhanger on [[Dragon Scales Ahhhh]]
 
 ### Short-Term
 * Meet up with folks in [[Arkhosia (City)]]
-	* [[Srictha]] and [[Vrolbekk Pixies|Klida]] (3) - ping tomorrow for meeting location
+	* [[Srictha]] and [[Vrolbekk Pixies|Klida]] (3) - meet "Welcome to town, tonight? Dinner? [[Puzzler's]]. Lower [[Oceantouched]], 8:30. Don't dress too nice." 
 	* [[Winifey]] (4)
 	* [[Ellinev Del]] and [[Victor]] (6) at the [[Terrorist Activity Investigation  Committee]] in Sun Crest
-		* meeting with in 2 days to "come clean"
+		* meeting with in 1 days to "come clean"
 	* [[Julian Slater-Runehorn|Julian]] 
-		* Get the large mirror and handheld mirror from the crypt of Shiske Eeping in the [[Halls of the Dead]]
+		* Get the large mirror and handheld mirror from the crypt of [[Shiske Eeping]] in the [[Halls of the Dead]]
 	* [[Niko]] at [[Marvin's Corner]] - there for the apple cider (7)
-	* [[Pruvki Forgaveat]] with the [[ELA]] (2)
+	* [[Pruvki Forgaveat]] with the [[ELA]] (2) meet at [[Puzzler's]], [[Oceantouched]], after 10 or 8 tomorrow morning. 
 	* [[Khequii]] for bomb (1)
 *  What are the [[Fire Raisers]] planning in [[Arkhosia (City)]]
 	* What does [[Winifey]]'s mind-reading plan mean re: burning down the [[Sill Dockhouse]], or potentially the harbor? 
@@ -30,7 +33,7 @@ Owned-by: The Unforged Few
 		* What's the deal at the docks?
 		* Update from [[Giary]] on his works on [[Fishermen]]
 	* Meet up with [[Khequii]] at [[Kindess Kiln]] in [[Driftrock]]
-		* [[Flyte]] is revolutionary friendly bar
+		* [[Flyte]] in the [[Irralsil Spire]] is revolutionary friendly bar
 	* Do we stop [[Niko]] and [[Cinder]]
 		* do we turn them in to [[Captain Fretze|Fretze]] or [[Ricci Scrucks]] and [[Victor]]
 	* who would we trust from the [[Fire Raisers]]
@@ -41,7 +44,6 @@ Owned-by: The Unforged Few
 * Get as much money as we can
 * Go to [[Weavers Worn Wears]] and look at the tapestry scroll
 * Give [[Vorhmen]]'s note to [[Uhndoor Aleeli]] in [[Sciorca Clutch]] and [[Zhuvermin]] with the [[Arkhosia Guards]]
-* 
 
 
 ### Middle-Term
