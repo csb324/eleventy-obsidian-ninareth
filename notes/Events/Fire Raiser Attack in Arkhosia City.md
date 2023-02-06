@@ -13,25 +13,27 @@ Status: " suspected"
 The suspected attack by the [[Fire Raisers]] in [[Arkhosia (City)]]
 
 ### What We Know
-
 * Potential targets:
 	* [[Delegates Day]]
-	* [[Cloud's Lament]]
 	* [[Sill Dockhouse]]
 * Method:
 	* 8 bombs? 
 		* Fuses from [[Ulia Glorsbade]]
 		* barrels of "3434"
 
-### Clues to Investigate
 
-*  [[Flyte]] in the [[Irralsil Spire]]
+### Clues to Investigate
+* [[Flyte]] in the [[Irralsil Spire]]
+* The [[Goodbarrel Secret Codes]]
+* [[Cloud's Lament]]
+* The [[Starving Stars]] - and "see if they're looking for 3398"
+* Whole bunch of [[The Guardians]] uniforms are involved?
 
 
 ### What We Owe and What We Need
-
 * [[Ellinev Del]]
 	* Report our work, with most details, on our efforts to stop the attack
+		* Tell her about the expected involvement of [[The Guardians]] uniforms
 	* Need update on [[Cloud's Lament]] roster and details
 * [[Willum]]
 	* Meet for dinner at [[Flounder's]]
@@ -47,10 +49,3 @@ The suspected attack by the [[Fire Raisers]] in [[Arkhosia (City)]]
 * [[Giary]]
 	* Get report on the work the [[Fishermen]] are doing
 
-
-
-
-	* who would we trust from the [[Fire Raisers]]
-	* Where are [[Ulia Glorsbade]]'s bombs and the other bombs going?
-	* Meet [[Willum]], [[Cinder]], and the [[Fire Raisers]] at [[Flounder's]] for dinner
-	* Crack the [[Goodbarrel Secret Codes]]

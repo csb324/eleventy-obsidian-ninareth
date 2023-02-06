@@ -32,7 +32,7 @@ He introduces us to the tiefling "Cut", this is [[Willum]], he asked how we knew
 
 [[Rez]] asks where we should meet with [[Cinder]]? He says we should meet at [[Flounder's]] tommorrow, evening, dinner. He says he's honored to have met us, as peope who have spilled [[Zalev]] blood. [[Willum]] shares that [[Hennurra]] is one of their best agents, that she's a real chameleon. They leave through the fire, in some sort of magical ability we've never seen before, to leave [[Laughing Hill]] "for the manager". 
 
-We come back out and give the low-down to [[The Unforged Few|Our Party]], as we head to [[Xixitahns]]. We buy a scroll of counterspell and silence. We ask where we could buy magical items, he recommends [[Curio's]], he said he'll pass the message along that we want to puruse his wares. We debate where the scrolls with go for a minute, and then [[Freya]] asks where to sell some armor, and he recommends [[The Claw]] as that's where most of the military is. 
+We come back out and give the low-down to [[The Unforged Few|Our Party]], as we head to [[Xixitahn's]]. We buy a scroll of counterspell and silence. We ask where we could buy magical items, he recommends [[Curio's]], he said he'll pass the message along that we want to puruse his wares. We debate where the scrolls with go for a minute, and then [[Freya]] asks where to sell some armor, and he recommends [[The Claw]] as that's where most of the military is. 
 
 We split to shop, [[Rez]] and [[Hugh]] go to [[the Scalded]] for potion while [[Freya]] and [[Jade]] and [[Costi]] go to  [[Kildee's Ink and Quill]] for the book [[Freya]] was given by [[Professor Leonard Klipitz]] with the [[Freya's Mysterious Circles]] in the [[The Unnatural Naturality]]. 
 
