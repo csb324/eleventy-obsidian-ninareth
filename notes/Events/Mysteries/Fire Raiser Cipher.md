@@ -1,16 +1,20 @@
 ---
 type: world-event
-Status: " Unsolved"
+Status: " Solved"
 Affiliation: Fire Raisers
-Source: Khequii
+Source: Khequi
 ---
 
 # Fire Raiser Cipher
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value"> Unsolved</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value"> Solved</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Fire Raisers]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Source</span><span class="inline-field-value">[[Khequii]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Source</span><span class="inline-field-value">[[Khequi]]</span></span>
 
-## YD1BGC2B GCYY ECBG4 5DZZEY6 FAFA
+## Laughing Hill Eight Barrels 3434
+
+### Scratch Paper
+ 
+YD1BGC2B GCYY ECBG4 5DZZEY6 FAFA
 
 ee, ll, ss,  ff
 

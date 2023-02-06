@@ -15,7 +15,7 @@ Status: Ongoing
 * [[Southern Cities Increase Tension]]
 	* #helpmechelsea remind me why this is relevant to undead!
 * [[Jalantar Sunspot]]: There was a stone summoning ghosts to the basement.
-* [[Mysterious Circles]] 
+* [[Freya's Mysterious Circles]] 
 	* OOC
 * [[Victoria Several]] 1/2 OOC
 	* She's got some secret necklace

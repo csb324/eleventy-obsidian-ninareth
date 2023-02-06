@@ -45,4 +45,10 @@ Sent us a note in [[session-27]]
 
 Invited [[The Unforged Few]] to some [[The Providers]] meeting in the lead up to [[Arkhosian Elections]]. It won't be as lit as [[session-7|the last one]].
 
-Went to the [[Bellisme Show]] and connected with [[The Unforged Few]] and [[Victor]] - he's going to speak to the Committee (at least those that aren't arrested)
+Went to the [[Bellisme Show]] and connected with [[The Unforged Few]] and [[Victor]] 
+
+Asked [[The Unforged Few|Our Party]] to look into the [[Bellisme Show]] attack and the [[Fire Raisers]]. We gave her the fake information provided by [[Winifey|Winnie]] as 'progress'
+
+Brought us in for questioning about [[Threthdia Scrivit]] and the [[Threthdia Assassination]], we tried to play it cool with [[Julian Slater-Runehorn|Julian]]'s coverstory at first, but when she seemed skeptical we folded and told her most of the real truth. They trusted us enough to let us head off to [[Arkhosia (City)]] but required us to check-in once we reach the city, and gave us a timeline. 
+
+[[notes-57]] Interviewed us when we arrived to [[Arkhosia (City)]], went from friendly at first to very untrusting once we covered the [[Fort Chyvasti]] timeline and didn't provide any information on [[Ulia Glorsbade]]. Realizing we were getting ourselves in trouble, we sent her a letter saying there was more to the story - she wasn't buying it, but said we can meet again to tell her 'the truth'.

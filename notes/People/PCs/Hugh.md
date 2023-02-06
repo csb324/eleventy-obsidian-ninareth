@@ -36,6 +36,10 @@ Knew [[Costi's Dad]] in the war, but his memory loss stops him from recalling th
 
 His spiritual weapon is a flaming bird, or knitting needles, or perhaps a big bowl of soup.
 
+### Memories
+* Journal from a romantic partner named "E"
+* the Sword on the wall
+
 #### Known Aliases
 * "The Rebel and the Robot" (with [[Costi]])
 * Shinyman ([[session-7]])
