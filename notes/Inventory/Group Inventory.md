@@ -3,9 +3,9 @@
 ---
 # Group Inventory
 
-### Currency - 1,014
-90 PP
-606 GP
+### Currency - 2,426
+91 PP
+1,526 GP
 1,112 SP 
 
 ## Potions:
@@ -69,16 +69,14 @@ Carried by [[Rez]]
 
 three magical scrolls: 
 	alter self
-	Silence ([[Rez]])
-	Counterspell ([[Costi]])
+	earth bind
+	invisibility
 
 [[Deck of Illusions]]
 Carried by [[Rez]]
 
 [[Cube of Force]]
 Carried by [[Costi]]
-
-Spell Parchment - 400 GP worth
 
 ### Bag of Adrienne Belongings
 [[Ivory Pistol]]
@@ -94,7 +92,17 @@ Carried by [[Freya]]
 	Blue - 8
 	Red - 9
 
+Summer Eladrin hair
+
+Mysterious armed fish
+
 Vials of Dragon Blood - 10
+
+Roper Teeth - 54
+
+Roper Eye
+
+Wyverns stingers - 2
 
 ## Mundane Items:
 

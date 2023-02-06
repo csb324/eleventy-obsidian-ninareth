@@ -30,7 +30,7 @@ As the other half of the party enters the bar, everyone must answer a riddle on 
 
 He gave us some updates, that the [[Arkhosia (City)]] group of [[Fire Raisers]] is smaller, but he thinks they're all here. He expects that they all know us. The leader of the cell here is [[Willum]], apparently he was one of the founders. [[Varras]] was in the guard with him. He says the two different cities act independently, but [[Willum]] and [[Cinder]] seem to co-lead together. He says [[Varras]] was loathe to the violence, it was one fo the reasons he left the guard. He would connect [[The Unforged Few|Our Party]] to him, and he seems to agree on the tactic we want to see. He says we can all meet together. He's also talked to [[Terrav]] and [[Zephyra]]. [[Varras]] works at [[Flyte]]. 
 
-[[Varras]] told him about the [[Cloud's Lament]], he thinks something is going to happen on the pier or in the quay. Every year a celebration takes place there before the [[Arkhosian Elections]], this year it's supposed to be on the 4th works day of the month, it's informally called [[Delegates Day]]
+[[Varras]] told him about the [[Cloud's Lament]], he thinks something is going to happen on the pier or in the quay. Every year a celebration takes place their before the [[Arkhosian Elections]], this year it's supposed to be on the 4th works day on the month. 
 
 He says the all the other freedom fighter groups are supporting each other, but the [[ELA]] is not helping the [[Fire Raisers]] currently. The divide within the group is new enough though that their allies haven't weighed in. 
 

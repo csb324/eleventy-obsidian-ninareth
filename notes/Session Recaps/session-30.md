@@ -20,7 +20,7 @@ Back at the hotel, we identified [[Vigo Underswell]]'s vial. It's [[Sovereign Gl
 
 [[Rez]] and [[Hugh]] went out to do some kind of errand but your correspondent doesn't know what. [[Costi]] was busy practicing how to pick locks, [[Adrienne Spout|Adrienne]] had practicing to do, and [[Freya]] seemed distracted -- so no one went with them.
 
-On the way to dinner, [[Adrienne Spout|Adrienne]] asked [[Freya]] why she was so distracted. It turns out, she heard from [[Niko]] about the [[Freya's Mysterious Circles]]! [[Niko]] told her (via self-destructing letter) that [[Professor Leonard Klipitz]] recognized the symbol from his studies. So [[Freya]] had a lot on her mind.
+On the way to dinner, [[Adrienne Spout|Adrienne]] asked [[Freya]] why she was so distracted. It turns out, she heard from [[Niko]] about the [[Mysterious Circles]]! [[Niko]] told her (via self-destructing letter) that [[Professor Leonard Klipitz]] recognized the symbol from his studies. So [[Freya]] had a lot on her mind.
 
 We met [[The Miscasts]] at [[Kalikar's Bistro]]! A very fancy place, with very tasty food. [[Costi]] tried drugs for the first time, and seemed to enjoy it. [[Hugh]] remains very worried about [[Rian]] - specifically whether he has any injuries. [[Rian]] seemed to want to catch up with [[Adrienne Spout|Adrienne]] but maybe he's just friendly. Or maybe it's a scheme! You never know, thinks Adrienne.
 

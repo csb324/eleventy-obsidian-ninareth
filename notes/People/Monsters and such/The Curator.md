@@ -34,7 +34,7 @@ We've run afoul of someone they have a terse relationship with [[Threthdia Scriv
 
 Gave [[Freya]] the [[Curator Quills]], in exchange for her blood while in their various rage-shapes. 
 
-Looking into [[Freya]]'s [[Freya's Mysterious Circles]] symbol
+Looking into [[Freya]]'s [[Mysterious Circles]] symbol
 
 ## The Contract
 I, \_\_\_\_\_, am excited to join the Collection and do so willingly.
