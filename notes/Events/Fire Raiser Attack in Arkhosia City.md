@@ -27,7 +27,10 @@ The suspected attack by the [[Fire Raisers]] in [[Arkhosia (City)]]
 * The [[Goodbarrel Secret Codes]]
 * [[Cloud's Lament]]
 * The [[Starving Stars]] - and "see if they're looking for 3398"
+	* joke, but still something they'd understand
 * Whole bunch of [[The Guardians]] uniforms are involved?
+* Letters from [[Winifey]] to give to [[Ellinev Del]]
+	* we found them at a dead drop in [[Sciorca's Clutch]] tailing a red and orange aarakocra we think is involved in the [[Fire Raisers]]. 
 
 
 ### What We Owe and What We Need

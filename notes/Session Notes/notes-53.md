@@ -14,7 +14,7 @@ We wake up and discuss [[Freya]]'s book [[Kith and Kin]] more and also plans to 
 
 As we round up to a rocky outcropping, a wild wyvern appears! Two in fact, and one with a green scaled creature riding it. Several more lizardfolk come out from the rocks. We fight, [[Costi]] turns [[Samuel]] into an ape, which may or may not have repercussions. When the spell is finally dropped, we all see [[Samuel]] shake and disappears -- [[Costi]] can't bring him back, the page in his spell book is mysteriouly blank...
 
-[[Jade]] interrogates the spectre she made of one of the dead lizardfolk, but he doesn't have much brains either before or after life so he's not very helpful. [[Hugh]] and [[Freya]] carve up the wyverns, [[Costi]] looks through the dead lizardfolks stuff. We find some nice scalemail and and a sword of [[Pelor]], which when [[Costi]] tries to detect magic finds he can no longer cast that either. We discuss what might be happening to him, and if [[Samuel]] was unhappy or effected by the polymorph.
+[[Jade]] interrogates the spectre she made of one of the dead lizardfolk, but he doesn't have much brains either before or after life so he's not very helpful. [[Hugh]] and [[Freya]] carve up the wyverns, [[Costi]] looks through the dead lizardfolks stuff. We find some nice scalemail and and a sword of [[Pelor]], which when [[Costi]] tries to detect magic finds he can no longer cast that either. We discuss what might be happening to him, and if [[Samuel]] was unhappy or affected by the polymorph.
 
 On the road we talk a bit further about [[Whats up with Jade's Glasses]], and she says we should keep an eye on [[Relakas]] and also [[Josh|Jinx]]. She doesn't know what it means 
 

@@ -63,14 +63,16 @@ Opened the door for [[The Unforged Few]] to keep working with them.
 
 Knows that a few members are being actively monitored. 
 
-[[Ricci Scrucks]] has stepped in to fill the [[The Guardians]] seat on the [[Zalevi Embassy Break-in]] after [[Vigo Underswell]] was arrested. 
+[[Faharice Mulphestel]] has stepped in to fill the [[The Guardians]] seat on the [[Zalevi Embassy Break-in]] after [[Vigo Underswell]] was arrested. 
 
 [[Relakas]] rejoined the [[Dragon's Hide]] and is playing like he didn't know [[Norathar Pent]]'s crimes
+
+[[Victor]] took [[Norathar Pent]]'s seat. 
 
 ### Rewards
 [[Adrienne Spout|Adrienne]] had trouble finding some to teach armor, pulls out a lightly red tinted +1 breastplate. Will help her once she learns how to use it, and also gave a book to help her learn. Still working on it
 
-[[Freya]] gave her the ax. Gives her new shield, looks like a small red brass buckler, an [[Elemental Shield (fire)]]. Once per SR, half damage from melee ranged or spell attack. If used with fire damage, use reaction to deal the damage you take to a creature within 30 feet of you. 
+[[Freya]] gave her the ax. Gives her new shield, looks like a small red brass buckler, an [[Elemental Shield]]. Once per SR, half damage from melee ranged or spell attack. If used with fire damage, use reaction to deal the damage you take to a creature within 30 feet of you. 
 
 [[Rez]] hard to do subtly, either after or before the [[Bellisime]] show. Will connect us there. 
 

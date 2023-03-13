@@ -9,25 +9,27 @@ Owned-by: The Unforged Few
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
 ### Immediate
-* What do we tell the [[Fire Raisers]] we found [[Ulia Glorsbade]]
-* Check-in with our letter for [[Jalantar]] when we arrive in [[Arkhosia (City)]] 
-* [[Costi]] talking to Vorhmen about [[Arkhosian Elections]]
 * Sending
-	* [[Costi's mom]] on where [[Pruvki Forgaveat]] can meet us where we're staying tomorrow
 	* [[Ghez Yhutl]] for his cliffhanger on [[Dragon Scales Ahhhh]]
+	* [[Giary]] and his work with the [[Fishermen]]
+	* [[Professor Leonard Klipitz]] on working for diamongs to [[Resurrect Adrienne]]
+	* [[Winifey]] for drinks and work, [[Silver Pike]] 8
+	* [[Ellinev Del]] to report in
+		* tell the people meeting with [[Julian Slater-Runehorn|Julian]]:  [[Del Scrucks]], [[Tevkosh Adelka]], and today [[Gheston Oppe]].
+	* [[Willum]] to report in
 
 ### Short-Term
 * Meet up with folks in [[Arkhosia (City)]]
-	* [[Srictha]] and [[Vrolbekk Pixies|Klida]] (3) - meet "Welcome to town, tonight? Dinner? [[Puzzler's]]. Lower [[Oceantouched]], 8:30. Don't dress too nice." 
 	* [[Winifey]] (4)
 		*  [[Flyte]] in the [[Irralsil Spire]] is revolutionary friendly bar
 	* [[Ellinev Del]] and [[Victor]] (6) at the [[Terrorist Activity Investigation  Committee]] in Sun Crest
-		* meeting with in 1 days to "come clean"
+		* give report on the [[Fire Raiser Attack in Arkhosia City]]
 	* [[Julian Slater-Runehorn|Julian]] 
 		* Get the large mirror and handheld mirror from the crypt of [[Shiske Eeping]] in the [[Halls of the Dead]]
 	* [[Niko]] at [[Marvin's Corner]] - there for the apple cider (7)
-	* [[Pruvki Forgaveat]] with the [[ELA]] (2) meet at [[Puzzler's]], [[Oceantouched]], after 10 or 8 tomorrow morning. 
+	* [[Pruvki Forgaveat]] with the [[ELA]] - finding us
 	* [[Khequi]] for bomb (1)
+* Meet [[Giary]] at [[Fug Luggers]] to fight in the [[Fishermen]] pits tomorrow night.
 *  What are the [[Fire Raisers]] planning in [[Arkhosia (City)]]
 	* What does [[Winifey]]'s mind-reading plan mean re: burning down the [[Sill Dockhouse]], or potentially the harbor? 
 		* When does the [[Cloud's Lament]] arrive? 
@@ -55,7 +57,6 @@ Owned-by: The Unforged Few
 * Meet [[Neiragneg]] at the [[Slavaadi College]] for [[Rez]]'s appointment with the Archmagi [[Rhend Triverswill]]
 * Track down [[Pleetos Alentas]]
 * Rescue [[Vrolbekk Pixies]] sister
-* [[Adrienne Spout|Adrienne]] return the harp to [[Temple of Corellon Outside Quaath]]
 * Who the heck is [[The Curator]], and what do they want with [[Rez]], [[Adrienne Spout|Adrienne]], [[Freya]], and [[Jade]]? 
 * Take [[Adrienne Spout|Adrienne]]'s harp to [[Temple of Corellon Outside Quaath]]
 * [[Costi]] get [[Samuel]] aligned? Something [[Rhend Triverswill]] mentioned

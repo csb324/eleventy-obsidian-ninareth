@@ -39,6 +39,8 @@ Status: Ongoing
 * [[Our Fiend Samuel]]
 * [[Freya]]'s desecrated spot from [[The Curator]]
 	* [[Jade]] has the same thing
+* [[Ichlior]]
+	* A few hundred years ago, [[Ichlior]] family purchased this building and turned it into a hotel. 
 
 
 ### Who's Doing This?

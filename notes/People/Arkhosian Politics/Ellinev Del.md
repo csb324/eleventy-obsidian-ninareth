@@ -8,6 +8,7 @@ Home: Jalantar
 Affiliation:
   - The Providers
   - Arkhosian Delegates
+  - Terrorist Activity Investigation  Committee
 Pronouns: she/her
 Location: Gorva's Observatory
 ---
@@ -18,6 +19,7 @@ Location: Gorva's Observatory
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Jalantar]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Providers]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Arkhosian Delegates]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Terrorist Activity Investigation  Committee]]</span></span> 
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value">she/her</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Gorva's Observatory]]</span></span>
 

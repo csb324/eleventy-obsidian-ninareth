@@ -15,6 +15,11 @@ We know her glasses almost always give a clue card most closely related to that 
 * When Jade saw [[Josh|Jinx]] for the first time
 * When Jade saw [[Relakas]] for the first time
 * When Jade saw [[The Unforged Few]] for the first time
+* When Jade saw [[Winifey]] at [[Flounder's]].
+* When Jade looked in the direction of [[Willow|our invisible pursuer]].
+* When Jade saw the [[Mysterious Circles]] in the margin of [[The Unnatural Naturality]]. 
+
+[[The Curator]] has said that they can see through [[Jade]]'s eyes. 
 
 ## Questions
 

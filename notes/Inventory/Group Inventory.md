@@ -3,15 +3,14 @@
 ---
 # Group Inventory
 
-### Currency - 2,426
-91 PP
-1,526 GP
-1,112 SP 
+### Currency - 5,131
+130 PP
+3,831 GP
 
 ## Potions:
 
-Greater healing (800)- 4
-Regular healing (200) - 7
+Greater healing (800)- 10
+Regular healing (200) - 13
 
 ## Magic Items:
 
@@ -45,7 +44,7 @@ Carried by [[Rez]]
 [[Curator Quills]]
 Carried by [[Freya]]
 
-[[Inventory/Items/Hat of Concentration]] (A)
+[[Tophat of the Sharp Mind]] (A)
 Carried by [[Hugh]]
 
 [[Blow Em]] (AKA Blowie)
@@ -67,16 +66,17 @@ Carried by [[Freya]]
 [[Skeleton Key]]
 Carried by [[Rez]]
 
-three magical scrolls: 
-	alter self
-	earth bind
-	invisibility
+Magical scrolls: 
+	Silence
 
 [[Deck of Illusions]]
 Carried by [[Rez]]
 
 [[Cube of Force]]
 Carried by [[Costi]]
+
+[[Lightning Javelin]]
+Carried by [[Hugh]]
 
 ### Bag of Adrienne Belongings
 [[Ivory Pistol]]
@@ -92,18 +92,6 @@ Carried by [[Freya]]
 	Blue - 8
 	Red - 9
 
-Summer Eladrin hair
-
-Mysterious armed fish
-
-Vials of Dragon Blood - 10
-
-Roper Teeth - 54
-
-Roper Eye
-
-Wyverns stingers - 2
-
 ## Mundane Items:
 
 ### Gems:
@@ -112,6 +100,28 @@ Includes:
 	Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
 	Small diamonds - 300gp worth
 	diamond ring - 3's worth
+
+### Books:
+[[The Unnatural Naturality]] - read by [[Jade]]
+[[Kith and Kin]] - read by [[Freya]], [[Rez]]
+[[Viardel Brensaschi]] - read by [[Costi]]
+[[Arkhosian Architecture: A Journey Through the Ages]]  - read by [[Jade]]
+[[Arkhosia (City)]] records - read by [[Jade]]
+[[Children's Field Guide]] - read by [[Hugh]]
+[[Shields of the Seven]] - read by [[Hugh]]
+[[The Quaath and Zalev Conflict Explain]] - read by [[Hugh]]
+[[The Horse Lords and Dragon Walls]] - read by [[Hugh]]
+[[Strategic Blunders of Noradan Oakshare]] - read by [[Hugh]]
+[[Built for Love]] - read by [[Hugh]], from [[Professor Leonard Klipitz]]
+[[On the Anatomy of a Dragon]] - read by [[Hugh]]
+[[The Second Sundering]] - read by [[Hugh]]
+[[The Changer]] - read by [[Hugh]]
+[[The Stones of the Forest]] - read by [[Hugh]]
+[[Pelican's Pixie]]  - read by [[Hugh]]
+[[The Tails of Trivolo]] - read by [[Hugh]]
+[[The Ascended]] - read by [[Costi]]
+[[Book on Preparing Dead Bodies]] - read by [[Hugh]]
+[[The Thrice Broken Trocaire]] - read by [[Costi]] and [[Rez]]
 
 ### Bag of Mischief:
 carried by [[Rez]]
@@ -153,14 +163,12 @@ Metals to each member of [[The Unforged Few|Our-Party]] as "Heroes of [[Jalantar
 
 One formal outfit each
 
-Platemail from wyern  fight
-
 [[Kith and Kin]] 
 Carried by [[Freya]] 
 
-plate mail from the bandit second
-
 gorgeous longbow
+
+[[Xcanthaka]] coins of favor - 6 (one per person in [[The Unforged Few|Our Party]])
 
 ## Given to Others
 

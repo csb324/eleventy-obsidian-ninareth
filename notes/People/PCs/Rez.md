@@ -1,7 +1,4 @@
 ---
-type: PC
-tags:
-  - PC
 Race: Human
 Status: alive
 Home: Zalev
@@ -13,6 +10,11 @@ Class:
   - Sorcerer
   - Bard
 Pronouns: " she/hers"
+---
+te---
+type: PC
+tags:
+- PC
 ---
 
 ![](/assets/obsidian/rez-portrait.jpg)

@@ -24,3 +24,5 @@ Additionally, it functions as a +1 quarterstaff. When you hit a creature with a 
 
 ### Notes
 Won by killing [[Burru Ilp]] in [[Session-38]]
+
+Used once in [[notes-65]]

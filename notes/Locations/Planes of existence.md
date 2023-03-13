@@ -21,3 +21,8 @@ Nice (?) planes:
 * [[Elysium]]
 * [[the Feywild]]
 
+Also:
+* [[Mechanis]]
+* [[The Astral Sea]]
+
+**Mirror planes:** [[The Shadowfell]] and [[the Feywild]].

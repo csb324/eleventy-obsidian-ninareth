@@ -1,0 +1,52 @@
+---
+type: detailed-notes
+up:
+  - - Session Log
+prev:
+  - - notes-62
+---
+
+# Detailed Notes: Session 63
+
+[[Hugh]] endings to [[Costi's mom]], "[[Nadia]] says hello, please keep [[Costi]] safe. Nothing from [[Pruvki Forgaveat]], he'll contact you directly. Beholder? Okay". 
+
+As we wake, [[Jade]] gets a visit from [[The Curator]]. They mentioned she expected information from [[Jade]], and asked what she's learned. She brings up [[Freya's Mysterious Circles]], and asks what they know. They say they saw them when [[Freya]] showed them, and [[Jade]] references [[The Unnatural Naturality]]. They says it's nice to "see the world through her eyes", [[Whats up with Jade's Glasses]]?? [[Jade]] asked about the invisible person tied to [[Adrienne Spout|Adrienne]]. They saw him, and only got a brief glimpse, but he wasn't very interesting looking, older elf, with a "spicy center", and that they were breifly able to look into him. [[Jade]] asks if [[The Curator]] will tell them more about themselves, who dodges it entirely. 
+
+[[Jade]] tells [[The Unforged Few|Our Party]], we try to remember if when [[Julian Slater-Runehorn|Julian]] shared info it described [[Branton Spout]]? He said he would call the bet in [[Dilandil]], so it's potential but uncertain. We talk about our plan for the day, and decide to wait on [[Vask]]'s info from [[Victoria Several|Victoria]] on the [[Halls of the Dead]]. We plan some individual tasks while we wait. [[Jade]] reads more of [[The Unnatural Naturality]]. [[Hugh]] reads one of those picture books [[Costi]] brought. [[Costi]] goes to talk to [[Welcome]], He's DEFINITELY cool when she flirts, and asks if she knows anyone hiring who pay a lot of money. She says most guests don't work, and it's strange that [[Julian Slater-Runehorn|Julian]] is paying for us to be here. She offers to try find something, and can show [[Costi]] how to put in the work over drinks, and suggests maybe [[Jade]] or [[Rez]] come. [[Costi]] is throw - but tries to play it cool. She gets off at 8, and [[Costi]] says we'll be there. 
+
+[[Rez]] and [[Freya]] go to the [[Arkohsia City Wayfinder Outpost]] in the [[Gilded Way]]. [[Freya]] is recognized by a guard, thanks to [[Akros]] telling them to look out for her. [[Freya]] tells of her journeys, and gets paid 28 gp for her share of escorting [[The Unforged Few|Our Party]] from [[Jalantar]] to [[Arkhosia (City)]]. We meet [[Hildehinn]] who hasn't traveled much but timed into her role, she's been in the [[Wayfinders]] for 16 years. She goes to escort us to the head of the [[Arkohsia City Wayfinder Outpost]]. [[Naya]] ([[Nayaulahd]]) a very tall dark skinned human woman with long locs down to her back, she wears [[Arkhosia (City)]] colors. She makes a grand show on the importance of approving [[Freya]]'s path. Nervously rambling, [[Freya]] asks if there's any escorting jobs she should do. When asked about her favorite place, she says we should go to the [[bridges]], and to visit in the Autumn. She shares she grew up with [[Akros]] and [[Rawley]]. She's been in [[Arkhosia (City)]] 15 years, but lead for the last 4. [[Naya]] explains their symbol, with the mountain, the river, the road, and the sun. [[Freya]] asks if she's read [[Kith and Kin]], and she says [[Rawley]] thought he could improve it but didn't succeed, then asks if she took anything away from it. She says if [[Freya]] gets fully approved, they'd like her to speak at the [[Ninarithian Convention of Wayfinders]]. She tattoos a symbol on the back of [[Freya]]'s neck with steel, and tells her that "the effects amplify, so keep walking". She says less than 5% of [[Wayfinders]] have these tattoos, and thinks there's something like 10,000 total. She warns that [[Thelran Asari]] is not as "good" of [[Wayfinders]]. 
+
+[[Rez]] asked if hypothetically there were a lot of people in [[Arkhosia (City)]] that need to be sheparded to safety out of the city, would they help? She says if the right contract came across her desk, she would consider it, hypothetically. 
+
+She says she has friends in [[Cerandan]] ask for [[Oyin Ifernell]], in [[K'falgaard|Kfalgaard]] [[F'rocidi]], in [[Tinkate]] [[Schelva]]. They came up with her an [[Akros]] and we can trust them. When [[Freya]] asks if [[Naya]] has ever met another firbolg she says once, but that [[Freya]] should ask [[Akros]] that question.
+
+[[Freya]] asks [[The Unforged Few|Our Party]] if we have met any Firbolgs, and [[Rez]] shares that she has. She remembers that they were red... or orange? And a boy named Fred, or maybe a girl with something like Fred in their name? She was young okay and her dad did a lot of business. [[Freya]] tries to ask for more details but [[Rez]] doesn't remember much. The group also spends some time asking questions about [[Rez's Family]], namely [[Rez's Dad]].
+
+[[Freya]] asks [[Welcome]] for someone to get us a book on firbolgs, and one is delivered - [[Costi]] reads it, it has a lot info on many other races, but not in good language. It's very problematic in the page and a half on firbolgs they have. They're fiercly loyal and outsiders are not welcomed, it's believed that eat the meat of other humanoids and grass, they did to have a deep connection to the natural world. It unclear if they've mastered language but they've made surprising progress on tools. Jade asks about the yuan-ti part, it's 15 pages of vile language. The author is [[F. Arybar]]
+
+[[Rez]] and [[Hugh]] go to talk to [[Henrik]]. She messages him to ask if [[Adrienne Spout|Adrienne]]'s dad is an elf, and while he can't outright confirm it, he mostly does anyway. Changing topics, he asks where we've been, and [[Rez]] blows him off, but it doesn't seem like he was going to rat us out. He's dressed like he has somewhere fancy to go and after some good natured ribbing we all part. 
+
+As he goes, [[Henrik]] warns us that [[Julian Slater-Runehorn|Julian]] wants to talk to us in 4/5 days, not about our task for the [[Halls of the Dead]] but something new, [[Rez]] says she thought this was our last thing but he's going to have several more things on our way out of our "agreement". 
+
+[[Hugh]] sendings to [[Victoria Several|Victoria]], "Hello, not sure if [[Vask]] remembered. We need into [[Halls of the Dead]] for business. Do you have an in? " She responds: "Shockingly he did, yes - couple avenues, great great grandfather interred, [[La Monte Rafaldrick]]. Also might have some friends, Gimme 3 days."
+
+This spurs [[Jade]] and [[Hugh]] to go to the [[Halls of the Dead]] to ask how much you must donate to go visit someone. They case the area but don't see much more than our last trip. The go talk to one of the worshippers, a goblin named [[Gaarth]] who tells us about going into the crypts. [[Jade]] panics and ends up saying she's thinking of interring her future family here, but doesn't know how much it would cost to see them. He gives her some general information.
+
+They honor death at the [[Halls of the Dead]], for about 1,000 they've been interring individuals here honoring their memories, it goes about 1,300 feet down into the cliff. It costs more the deeper you go. Some areas are full, burials start at about 340ft down, costs vary. It's roughly 20% of cost of burying to visit. Burial officers who are in the administrative portion of the chapel would help, believes it's around 750 GP to bury at the top most level. To visit someone you don't know, it's equal to the cost of burial. Information on costs or names or locations are all private. He thinks the upper limit is 17,000 GP. [[Jade]] gives him [[Professor Leonard Klipitz]] name and says he's doing graounbreaking work, not to open any mail from him (it will set fire), he ushers them out as soon as he can.
+
+They get back to [[The Unforged Few|Our Party]] and tell us the new info, we decide to hold off until we hear back from [[Victoria Several|Victoria]]. We talk about what to do with the next 3 days, and [[Hugh]] says he'll ask [[Winifey]] when she wants to meet up if [[Rez]] will use the [[Circlet of Sending]] to ask [[Rez's Dad]] about the orange firbolg. She doesn't get a response.
+
+[[Hugh]] sends "[[Hugh]] from [[Rez]]. Hello wink. When are you free for an alcoholic beverage? [[Rez]] has a free few days. Wink" she replies, "Well, if [[Rez]] has a few free days, [[Rez]] can ask me her damn self"
+
+We all head down to drinks with [[Welcome]] and decide to go to the hotel bar. On the way down [[Costi]] borrows knowledge from a SUPER COOL halfling, who mostly counsels him to fake it and control the eyebrows. It's hysterical. [[Welcome]] is from [[Thalfar]] actually, in the 9. She traveled her particularly to work at the hotel, she says they pay well and it lets her live the life she wants. She tells us that lots of people have been visiting [[Julian Slater-Runehorn|Julian]], including lots of delegates, [[Del Scrucks]], [[Tevkosh Adelka]], and today [[Gheston Oppe]].  She says the [[Chapel of the Lost]] used to be a place of worship for [[Kelemvor]], and the [[Halls of the Dead]] was just the burial site. But a few hundred years ago, [[Ichlior]] family purchased this building and turned it into a hotel. She's heard the other pyramid is an ancient relic from when the city was not a city. 
+
+[[Giary]] comes and sits down beside [[Hugh]] and [[Freya]]. He also brought his friend [[Figs]], a big muscular half-orc. He says he's been in the fighting pits for the [[Fishermen]], and LOVES it. [[Giary]] makes a plan to fuck with us. He comes over and we introduce him to [[Welcome]], and [[Jade]] plays off calling him our criminal friend. He starts to make a move on [[Welcome]] and [[Costi]] tries to turn him back into a dog, he starts to resist but [[Rez]] pings him in the head with a coin and he turns. 
+
+Meanwhile, while talking about [[Figs]] work with the [[Fishermen]], who learns that swimming can be hard and some folks can breath underwater. Naturally, they go up to the room to hold him underwater to see if the stress unlocks his ability to breath. The naturally, knock him unconscious. But boy it took a long time.
+
+Downstairs, [[Costi]] loses his mental help, and panics - he alters himself to look like [[Freya]], then drops [[Giary]]'s polymorph and he plops right onto [[Welcome]]'s lap. [[Rez]] leads him up to sleep it off, but conjures a flower for [[Welcome]] first. [[Jade]] just blatantly asks her up, and she agrees.
+
+In the room, [[Costi]] finds [[Freya]], [[Hugh]], and the unconscious [[Figs]]. We all go to bed
+
+
+

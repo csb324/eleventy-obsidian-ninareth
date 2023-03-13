@@ -43,7 +43,7 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* Had brass scales grafted onto him
 * [[Yhridex]]
 	* In the [[Order of the Platinum Dragon]] in  [[Durmask]], in the Saint Goldborn Order
-	* Communicated with [[Jorus]] about 
+	* Communicated with [[Jorus]] about ?
 
 #### Helpers
 * [[Father Thronestone]]
