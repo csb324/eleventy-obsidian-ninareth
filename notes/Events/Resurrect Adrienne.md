@@ -30,6 +30,8 @@ It's also about the most expensive thing that you can do, requires 25,000 GP. Ev
 	* He believes the answer is in [[Quaath]].
 	* He says every time he looks at a calendar it flashes to the month Hulfni (which is three months way) and the Miirkikear (Day of the Songs) in that month. 
 	* So if we go to [[Quaath]] on a Miirkikear in Hulfni and play a song on the harp, he thinks he'll have an epileptic fit, and that's... a *good* thing, I guess.
+* [[Rez's Family]]
+	* [[Rez]] is going to ask. Can't hurt, right? 
 
 ### Next Steps
 * Find 25,000GP worth of diamonds (have 6,200gp worth - need 18,000gp worth)

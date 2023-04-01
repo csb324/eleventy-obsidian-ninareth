@@ -40,10 +40,14 @@ Status: Ongoing
 * [[Freya]]'s desecrated spot from [[The Curator]]
 	* [[Jade]] has the same thing
 * [[Ichlior]]
-	* A few hundred years ago, [[Ichlior]] family purchased this building and turned it into a hotel. 
+	* A few hundred years ago, [[Ichlior]] family purchased the [[Chapel of the Lost]] and turned it into a hotel. 
+* We don't know this but Tim's arc
 
 
 ### Who's Doing This?
 * [[Fire Raisers]] seem to dislike that in general
 	* But who actually runs them?
 * Are [[The Silver Hand]] still around? Looks like it!
+
+### Notes of Potential Concern
+* Try not to piss off [[The Raven Queen]] in our [[Death Halls Heist]] - maybe if we kill enough undead down there she won't mind us impersonating her flock to desecrate a grave??? 

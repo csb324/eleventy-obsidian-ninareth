@@ -16,10 +16,12 @@ The suspected attack by the [[Fire Raisers]] in [[Arkhosia (City)]]
 * Potential targets:
 	* [[Delegates Day]]
 	* [[Sill Dockhouse]]
+	* [[Ichlior]] and [[Guruden Estate]] fundraiser for [[The Providers]]
 * Method:
 	* 8 bombs? 
 		* Fuses from [[Ulia Glorsbade]]
 		* barrels of "3434"
+	* Illusions?
 
 
 ### Clues to Investigate
@@ -31,24 +33,36 @@ The suspected attack by the [[Fire Raisers]] in [[Arkhosia (City)]]
 * Whole bunch of [[The Guardians]] uniforms are involved?
 * Letters from [[Winifey]] to give to [[Ellinev Del]]
 	* we found them at a dead drop in [[Sciorca's Clutch]] tailing a red and orange aarakocra we think is involved in the [[Fire Raisers]]. 
+* [[Terrav]] slipped us a note that said "Re-established trust in operation, many disappeared [[Zephyra]] included - she's fine, it was a plot. I'm closer to leadership now, will update soon"
+* Seems the [[Fire Raisers]] have axed 20% of their operatives, some dead, some imprisioned, a few seem to have fled - the party line is that they were the cause of any violence
+	* Do some folks like [[Niko]] and [[Winifey]] believe this? Or are they giving [[The Unforged Few|Our Party]] lies so that they can still use us? 
+* Attend the [[Ichlior]] and [[Guruden Estate]] fundraiser for [[The Providers]], let in [[Fire Raisers]]
+	* They want to take a few items and over hear a few conversations - planning a similar style sting to [[Norathar Pent]] and [[Vigo Underswell]]?
+* "Yes, 6 containers fit aboard the ship" - Captain [[Demeril]] of the [[Chasing Daylight]] note to [[Dharbeed Tzaavi]] of the [[Fishermen]].
 
 
 ### What We Owe and What We Need
 * [[Ellinev Del]]
 	* Report our work, with most details, on our efforts to stop the attack
-		* Tell her about the expected involvement of [[The Guardians]] uniforms
+		* Tell the people meeting with [[Julian Slater-Runehorn|Julian]]:  [[Del Scrucks]], [[Tevkosh Adelka]], and [[Gheston Oppe]].
+		* Attend the [[Ichlior]] and [[Guruden Estate]] fundraiser, let in [[Fire Raisers]]
+		* Are we still attending the [[The Providers]] party leading up to the [[Arkhosian Elections]]?
+		* there ideally will be no creatures of fire at [[Delegates Day]].
+		* They've hired illusionists in addition to the bombs
+		* Seems the [[Fire Raisers]] have axed 20% of their operatives, some dead, some imprisioned, a few seem to have fled - the party line is that they were the cause of any violence
+			* Do some folks like [[Niko]] and [[Winifey]] believe this? Or are they giving [[The Unforged Few|Our Party]] lies so that they can still use us? 
 	* Need update on [[Cloud's Lament]] roster and details
 * [[Willum]]
-	* Meet for dinner at [[Flounder's]]
+	* 
 * [[Cinder]]
-	* Report what we've done since [[Jalantar]]
+	* 
 * [[Winifey]]
-	* Our conversation with [[Ulia Glorsbade]]
-	* Our work on the [[Fire Raiser Baddie Audit]]: [[Srictha]], [[Niko]], [[Ulia Glorsbade]], etc.
+	* 
 * [[Srictha]]
 	* Meet up with [[Varras]]
 * [[Niko]] 
-	* Meet at [[Marvin's Corner]] - "there for the apple cider"
+	* 
 * [[Giary]]
-	* Get report on the work the [[Fishermen]] are doing
+	* Info on [[Cloud's Lament]] from [[Fishermen]]
+	* Info on [[Dharbeed Tzaavi]] for [[First Officer Ghent]]
 

@@ -11,6 +11,12 @@ A few [[Fire Raisers]] including [[Zephyra]], [[Terrav]], and [[Lance]] want is 
 
 For ourselves: how can we prevent the attack in [[Arkhosia (City)]]? Who can we trust to help?
 
+## Current Status Quo
+* [[Niko]] seems to have been brought back into the fold, after a short stint in solitary confinement, and some serious questioning. He's now telling us they 'solved' the violence, and only the right "heads will roll"
+* [[Winifey]] seemed prepped against [[Costi]] reading her mind. How? 
+	* She's also telling us the same story that they've rooted out their violent faction. Must've been [[Ulia Glorsbade]]
+* Does [[Niko]] and [[Winifey]] believe this? Or are they giving [[The Unforged Few|Our Party]] lies so that they can still use us? 
+
 ## Who's Involved
 
 #### Fire raisers involved 

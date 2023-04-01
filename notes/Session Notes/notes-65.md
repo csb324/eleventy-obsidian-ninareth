@@ -52,17 +52,5 @@ We all disguise ourselves some, [[Hugh]] covers his insignia and adds blood spla
 
 
 
-10 days:
-* 20 - fighting pit, victoria
-* 21 - death hall heist
-* 22 - julian next task
-* 23 - 
-* 24 -
-* 25 - mirror delivery due 
-* 26 - 
-* 27 -
-* 28 - evening - working for FR
-* 29 - delegates day
-
 
 
