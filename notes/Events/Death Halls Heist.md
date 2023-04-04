@@ -21,12 +21,20 @@ There's a bigger one and a smaller one. They were buried with [[Sheske Eeping]],
 * We should expect protections from grave robbers
 * We learn [[Heestal Eeping]] was buried on the 36th floor
 
+### About the Raven Queen
+* [[Hugh]] reads the [[Book on Preparing Dead Bodies]], [[The Raven Queen]] focuses on burial, and believe that the dead body is a vessel to be protected. There's mostly crypts, some mausoleums too. They don't normally bury people with things, it's unnecessary. They treat bodies with respect, guarding them between one day and a week. Bodies are cleaned, gentle reposed, and dressed in black with a ravens feather somewhere, so they can be watched as part of the flock. 
+* Death workers usually start by joining the [[Death Watchers]] and taking posts, proving their committment by staying awake. After a year or two they take a pilgrimage to move up. [[Hugh]] heard them discussing "under her wing" as common language. "The moment of passage" is another key phrase as a central tenant to the religion. The pilgrimage is called -----
+* [[Costi]] learns that [[Viardel Brensaschi]] was the most recent former [[Matron of Ravens]] who is the official cult leader of [[The Raven Queen]]. There's not really a home base, they're nomadic and relatively unpopular, but they all almost have martial training as one of their two primary goals is the destruction of all undead. She lived most of her life in [[Eberron]] were she was highly hunted by the state. She was succeeded by her first disciple, [[Kan Gluknan]], a hobgoblin. She was from [[The Tendrils]], ravens followed her, she was kicked out of her town as a child and eventually was taken in by the cult. She was a prolific vampire hunter, and the book takes credit for the murder of [[Count Hisir Rorsik]] which was infamous in [[Eberron]]. 
+
+[[Costi]] reads more of [[The Ascended]] and learns that the Eastern Tinkante Raven was the breed that [[The Raven Queen]] had as a familiar, but he learns that the now-extinct Western Tinkante Raven (like [[Samuel]]) which has distinct head tufting and the beak shape was an almond instead of circle. He knows she's the last of the Ascended gods, she traveled into [[The Abyss]] where she battled with [[Orcus]] for about 1,000 years to earn her immortality. She's now mortal enemies with [[Vecna]] and [[Orcus]]. 
+
 ### Things to Figure Out
 * Problem:  It costs money to visit a tomb in the [[Halls of the Dead]]. Potentially up to 3500 gold, and that's if we can convincingly say that we're all loved ones of whoever we're visiting. 
 	* We're gonna fight in the [[Fishermen]] Fighting pits!
 * Problem: Visitors are usually escorted by a member of staff
 * Problem: How do we get to the right level?
 * Problem: How do we find the right tomb?
+	* find object? 
 * Problem: How do we break into the vault?
 * Problem: How do we get out, once we complete the mission?
 * Problem: Know that [[Sheske Eeping]] was the target?
