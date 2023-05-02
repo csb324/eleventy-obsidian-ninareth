@@ -3,9 +3,9 @@
 ---
 # Group Inventory
 
-### Currency - 8,836
-130 PP
-7,536 GP
+### Currency - 3,604
+150 PP
+1,679 GP
 
 ## Potions:
 
@@ -78,12 +78,17 @@ Carried by [[Costi]]
 [[Lightning Javelin]]
 Carried by [[Hugh]]
 
+[[Potential]]
+Carried by [[Costi]]
+
 ### Bag of Adrienne Belongings
 [[Ivory Pistol]]
 [[Fire Resistant Breastplate]] 
 [[Flametongue Longsword]]
 [[Reverberating String]]
 [[Bag of Screams]]
+[[Dagger with Holy Symbol]]
+[[Harp]] 
 
 ## Monster Parts
 
@@ -91,6 +96,10 @@ Carried by [[Hugh]]
 Carried by [[Freya]]
 	Blue - 8
 	Red - 9
+
+Umberhulk mandibles - 2
+Umberhulk eyes - 2
+Umberhulk blood - 3 vials
 
 ## Mundane Items:
 
@@ -100,6 +109,7 @@ Includes:
 	Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
 	Small diamonds - 300gp worth
 	diamond ring - 3's worth
+	diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~1,000gp
 
 ### Books:
 [[The Unnatural Naturality]] - read by [[Jade]]

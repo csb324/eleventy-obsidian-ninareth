@@ -34,11 +34,12 @@ It's also about the most expensive thing that you can do, requires 25,000 GP. Ev
 	* [[Rez]] is going to ask. Can't hurt, right? 
 
 ### Next Steps
-* Find 25,000GP worth of diamonds (have 6,200gp worth - need 18,000gp worth)
+* Find 25,000GP worth of diamonds (have 7,200gp worth - need 17,000gp worth)
 	* We have:
 		* Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
 		* Small diamonds - 300gp worth
 		* diamond ring - 3's revivify's worth (900gp worth)
+		* diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~1,000gp
 * Talk to [[Professor Leonard Klipitz]]
 	* He agreed, we just need to find the money
 * Find someone to legends lore [[Adrienne Spout|Adrienne]]'s harp we're returning to the [[Temple of Corellon Outside Quaath]]

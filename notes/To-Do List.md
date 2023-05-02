@@ -10,27 +10,15 @@ Owned-by: The Unforged Few
 
 ### Immediate
 * Sending
-	* [[Ellinev Del]] to report in
-		* tell the people meeting with [[Julian Slater-Runehorn|Julian]]:  [[Del Scrucks]], [[Tevkosh Adelka]], and [[Gheston Oppe]].
-		* Attend the [[Ichlior]] and [[Guruden Estate]] fundraiser for [[The Providers]], let in [[Fire Raisers]]
-			* They want to take a few items and over hear a few conversations - planning a similar style sting to [[Norathar Pent]] and [[Vigo Underswell]]?
-			* They also have a bunch of [[The Guardians]] uniforms - for this or [[Delegates Day]]?
-		* there ideally will be no creatures of fire at [[Delegates Day]].
-		* They've hired illusionists in addition to the bombs
-		* Seems the [[Fire Raisers]] have axed 20% of their operatives, some dead, some imprisioned, a few seem to have fled - the party line is that they were the cause of any violence
-			* Do some folks like [[Niko]] and [[Winifey]] believe this? Or are they giving [[The Unforged Few|Our Party]] lies so that they can still use us? 
-		*  Give her the letters from [[Winifey]] (planted to give to [[Ellinev Del]])
-			* we found them at a dead drop in [[Sciorca's Clutch]] tailing a red and orange aarakocra we think is involved in the [[Fire Raisers]]. 
-	* [[Zephyra]] for the truth on her escape?
+	* [[Ellinev Del]] to report in 50 hours before [[Delegates Day]]
 	* [[Terrav]] to tell us if they really believe they've solved the violence or this is a cover story
-* Complete the [[Death Halls Heist]] for [[Julian Slater-Runehorn|Julian]]
+* Report the [[Death Halls Heist]] for [[Julian Slater-Runehorn|Julian]]
+* Look into the pirates we killed in the [[Bloody Waters]], how are they tied into the [[Halls of the Dead]]
 
 ### Short-Term
 * Meet up with folks in [[Arkhosia (City)]]
 	* [[Flyte]] in the [[Irralsil Spire]] is revolutionary friendly bar
 	* [[Ellinev Del]] and [[Victor]] (6) at the [[Terrorist Activity Investigation  Committee]] in Sun Crest
-	* [[Julian Slater-Runehorn|Julian]] 
-		* Get the large mirror and handheld mirror from the crypt of [[Shiske Eeping]] in the [[Halls of the Dead]]
 	* [[Pruvki Forgaveat]] with the [[ELA]] - finding us
 * Meet up with [[Srictha]] and [[Varras]]?
 * What are the [[Fire Raisers]] planning in [[Arkhosia (City)]]
@@ -44,7 +32,6 @@ Owned-by: The Unforged Few
 * Ask potion store for info on [[diamond cream]]
 * Get as much money as we can
 * Go to [[Weavers Worn Wears]] and look at the tapestry scroll
-* Ask [[Giary]] for more info about [[Dharbeed Tzaavi]]
 
 
 ### Middle-Term
@@ -55,6 +42,7 @@ Owned-by: The Unforged Few
 	* [[Rawley]] for [[Freya]] about firbolgs
 	* Someone [[Rez]] knows is dead to see if it's like when she sent to [[Rez's Dad]]
 	* [[Father Thronestone]] for update on the [[Dragon Scales Ahhhh]] codebreaking
+* Check back in with [[Ravona Drakness]] at the [[Halls of the Dead]] in a few weeks
 
 
 ### Long-Term
