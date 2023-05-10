@@ -1,0 +1,60 @@
+---
+type: detailed-notes
+up:
+  - - Session Log
+prev:
+  - - notes-72
+---
+
+# Detailed Notes: Session 73
+
+We debrief on what our plan should be today, and decide we need to check in with as many of [[Fire Raisers]] as possible. We make [[Puzzler's]] our location for the day. [[Hugh]] sendings to [[Terrav]] to tell him we should meet today. "Hello, we need to meet. [[Zephyra]] said to trust you. We will be at [[Puzzler's]], [[Oceantouched]] all day", he responds, "Very good. I can make some time this evening." He also sendings to [[Giary]], "Hello, meet at [[Puzzler's]] as soon as possible (now). We miss you. How are the fishermen and you?" he responds, "[[Hugh]]!! I thought you might be dead, it's been so long. SO good! Oh my God! Wasn't counting, okay. I think I still..."
+
+We discuss how to best vet [[Terrav]] and decide [[Costi]] will try to detect his thoughts, but go deeper than he has before. We decide he needs to practice, and [[Jade]] volunteers. However, it doesn't go according to plan, and [[Jade]] feels a looming watchful presence, cracking through her mind and focring her to fall, deep in a dark hole underground, a bottomless pit with no answer to where it goes. As she panics, [[Costi]] is yanked through her mind until he is suspended over this hole as well. Frozen, he sees a black robbed figure in a porcelain mask looking cross, it's [[The Curator]]. They say "those eyes aren't for you little one. They're hers, and they're their's, and they're mine." She pokes him in the eye causing horrible pain to pulse through his body to his sword arm, and as he jerks aware he hears "ta-ta for now". As his eyes clear he sees a brief line of silver in his hand, that vanishes. He tries to cast detect magic and he gets the phantom of a ping, but no active magic. 
+
+He describes to the group that he thinks it was real, not a memory. That she affected him. [[Hugh]] nervously looks him over, but seems to almost think he saw a fleck of silver dust in his right eye that disappears. [[Jade]] looks too, and her glasses flash ([[Whats up with Jade's Glasses]]) but she can't learn more. [[Samuel]] comes to investigate, who seems in particular concerned about the fingernails on his right hand. [[Costi]] wants to head directly to the [[Halls of the Dead]] to ask about [[The Curator]], [[Rez]] points out to [[Jade]] it might be a loophole to let us learn more since we cannot talk about them. However, we've got plans and maybe shouldn't split the party. 
+
+[[Jade]] speaks internally to [[The Curator]] and asks if [[Costi]] is cursed. They chuckle, Jades vision goes gray, and behind her glasses thir "everyone dervees at least one warning... half a warning", winks. They promise to answer a question in exchange for information in return, but confirms [[Costi]] is fine and no deals were made. They say they'll return to talk to her tonight.
+
+[[Costi]] still feels alarmed, and says that now that he's officially a follower of [[The Raven Queen]] he is even more worried. He also theorizes that [[Costi's Dad|Vladimir Grosu]] is tied to [[The Raven Queen]] too, because [[Samuel]] seemed so receptive and was tied to him. [[Hugh]], hearing this for the first time, tries to remember if that's true, and recalls that a couple people, [[Costi's Dad|Vladdy Daddy]] included, we found having raven feathers.
+
+As we talk and make our way to the [[Oceantouched]], [[Hugh]] feels a set of eyes on [[The Unforged Few|Our Party]], and sees a [[Zephyra]] sulking in the corner. We pull her into [[Puzzler's]]. After solving the riddles, we catch [[Zephyra]] up. We ask her how she escaped, and she recounts a night when several [[Fire Raisers]] came down one night and blew up the cells, causing the rest of the inhabitants to fall to their death. She magically escaped. She's planning to lay low at [[Flyte]] which seems to be sympathetic to those trying to prevent the violence. [[Zephyra]] says there's a few others she's been working with - [[Srictha]], [[Varras]], and [[Terrav]]. She was also interrogated by [[Cut]],  but says she didn't give any information. We try to learn about what he asked, mostly about her intentions and her "betrayals". She didn't know any of the others being held, but remembered one person - an older heavyset dwarven guy with a big white beard, who [[Hugh]] remembers as [[Knawfur]]. 
+
+Before she was arrested, she said there was a large amount of mistrust that was clear even from the outside. We try to get her read on [[Niko]], [[Willum]], and [[Winifey|Winnie]] but she doesn't have much more information.  
+
+[[Giary]] walks in, after being quite stumped by the riddle. He starts to tell us about his h-e-i-s-t, and how much of a fan he is of the [[Fishermen]]. He was at the [[Pourfoot PIer]] and break into the [[Admirials Office]], and ended up with a date [[Manvil Kingstrike]] who killed a couple of people and is also in the [[Fishermen]]. [[Jade]] says he should go to [[Flyte]] with [[Zephyra]]. [[Giary]] tells us that he thinks [[Dharbeed Tzaavi]] is on vacation, or maybe his wife took him back (yes, they're fighting but no he WASN'T cheating, she just caught him in a compromising position massaging one of the fighters). The [[Cloud's Lament]], the Captain is an arrakocra named [[Gasvauk Raviga]], originially from [[Arkhosia (City)]], it's been registered for 12 years to use the port, it's a legit ship. It tends to operate around [[The Gilded Coast]]. The latest manifest is coming in from the [[Tropics]], bringing a lot of new armor and weapons from [[Zilvengrod]]. It also had a hidden thieves cant message, there's three cases of something else being snuck onboard. It is set to dock on the 28th, the day before [[Delegates Day]]. There was no further information he could see, but we think there might have been further information hidden beyond what they could read. 
+
+[[Rez]] confesses that [[The Unforged Few|Our Party]] has seen [[Niko]], and we tell [[Giary]] that he's still as inspired by the [[Fire Raisers]] as ever, and maybe more. We pitch [[Giary]] to [[Zephyra]] and she begrudingly agrees. We all decide to head to [[Flyte]] together.
+
+On our walk [[Giary]] and [[Zephyra]] have a chat - he is uncharacteristically serious for a moment, and shares that he wants to stop [[Niko]] from doing something unforgivable, but [[Zephyra]] remains steadfast that he'll need to face consequences, and [[Giary]] just hopes that doesn't mean death. 
+
+As we travel, [[Hugh]] notices someone else eyeing us. The stranger slips a note into his coat that reads: "Good tip, consider yourselves leewayed", we assume [[First Officer Ghent]]. Hooray! Sounds like [[Dharbeed Tzaavi]] got got. 
+
+We arrive at [[Flyte]] and [[Zephyra]] slips us into a back room. She rings a secret bell to let people know she's here, and we sit down to wait.  [[Terrav]] enters, dressed in clothing that have a small red dot on the inside of his shirt collar, by his collarbone. It's a secret way for [[Fire Raisers]] to recognize each other. We make a mental note. 
+
+He shares that [[Varras]] as the owner of [[Flyte]] who keeps up the appearances but is one of the 'good ones' trying to keep the [[Fire Raisers]] reasonable. He says that [[Srictha]] is already being hunted by the [[Fire Raisers]]. They had a few other informants but they've all vanished. It seems to be a very small counter-operation. [[Srictha]] arrives, and introduces himself to [[Zephyra]]. Then we introduce them to [[Giary]], who is exceedingly upfront about his loyalty to [[Niko]] and his past role semi-selling them out. 
+
+[[Srictha]] says they need every helpful hand they can get, they have about 15 eyes on the ground but it's not a lot. It seems like he's second in charge. [[Terrav]] tells us that a lot is being planned for [[Delegates Day]], he thinks there's going to be 4 attacks in [[Oceantouched]], [[Quay Elliptical]], [[Pourfoot PIer]], [[The Claw]] along the parade route escourting the delegates to the [[Suncrest Palace]]. He thinks they may be simultaneous, to kill as much of the governing body as possible. Attempting to do it in isolated areas, but they expect some casualties. He doesn't know where he'll be assigned, but knows everyone will be there. 
+
+[[Willum]] says the plan cannot commence without the materials on the [[Cloud's Lament]]. He may know where the bombs will be placed the night before [[Delegates Day]]. We bring up the [[Fundraiser]], and he hopes we can get important information there, potentially schematics or undergound tunnels. He thinks [[Niko]] and [[Cut]] are each overseeing an explosion. He's not sure who else will manage, potentially [[Willum]] or [[Cinder]], but he seems to be the major leader so may not be in the fray. 
+
+[[Terrav]] has not head from [[Costi's Dad|Vladimir Grosu]] but may of heard something from the [[ELA]] but he's not sure if it's true and wants to confirm it's true first. He says it's not outright bad but that it's "confusing" and he will tell him 'soon'. [[Hugh]] and [[Zephyra]] see genuine compassion in him, and think he's being truthful.  He says [[Pruvki Forgaveat]] was his contact - he was trying to find us but it might've been when were missing. He'll be at the [[Fundraiser]], he's in deep cover as a guard to a [[The Guardians]] delegate [[Tevkosh Adelka]] who we remember met with [[Julian Slater-Runehorn|Julian]]. He keeps his guards with him constantly. 
+
+They say they can potentially help us get in, though we'd have to sneak. We say we have a favor that would help us be guests. They're open to any plan that lets us fix the political situation but not hurt all of these people. They say there's only 40% of their previous numbers, around a couple hundred left. Most of those are either too scared or fully bought in to their tactics, it doesn't seem like toppling leadership would be enough. They don't want any interference, but if there's nothing else they're open to discussing working with [[Victor]]. They don't [[ELA]] can be helpful. 
+
+[[Srictha]] thinks there are two possible plays. On one hand, every single [[Fire Raisers]] will be out of  [[The Furnance in Arkoshia City]], which means they could aim for a clean sweep. On the other hand, stop them before it happens and risk folks getting away. 
+
+We talk about the possibility that we round them all to a single location. They also want us to try to get information from [[Niko]] at the [[Fundraiser]]. We think [[Giary]] might be the right option here, and we discuss if [[Giary]] can be polymorphed into something that doens't have to breath much and put him in [[my hole]]. 
+
+They saw [[The Guardians]] uniforms are probably going to be for guards along the parade route and certain patterns could be used to communicate when the bombs go off. One of them agrees to find us the night before [[Delegates Day]] to connect. He'll also try to chart out the location of [[The Furnance in Arkoshia City]]
+
+We get [[Giary]] working on his ''[[Niko]] stop this" speech. We make a deal, he'll try to convince him, if that doesn't work, then we try to kidnap him, if that doesn't work, we have to move forward with our big plan. 
+
+[[The Unforged Few|Our Party]] is welcome to come and go from [[Flyte]], no one fully trusts us but no one thinks we know enough to be a problem. They'll leave messages for us. [[Rez]] asks about how the [[Fire Raisers]] leadership feels about [[The Unforged Few|Our Party]], and they said their hubris is part of the problem, even if it's earned, but not that we're under suspicion in anyway. We're not part of them, but we're not a problem. 
+
+They think [[Willen Guruden]] is probably at the chateau's, potentially staying with [[Quillette Guruden]]. We decide to figure out how to reach him.
+
+As we leave, [[Jade]] makes a pitch to [[Terrav]] to share the information from [[ELA]] in case he dies. She convinces him to write down two words, and keep it from [[Costi]] because it wasn't true. He says [[Pruvki Forgaveat]] will tell us more. 
+
+
+
