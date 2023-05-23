@@ -11,7 +11,6 @@ Owned-by: The Unforged Few
 ### Immediate
 * Sending
 	* [[Ellinev Del]] to report in 50 hours before [[Delegates Day]]
-	* [[Terrav]] to tell us if they really believe they've solved the violence or this is a cover story
 * Report the [[Death Halls Heist]] for [[Julian Slater-Runehorn|Julian]]
 * Look into the pirates we killed in the [[Bloody Waters]], how are they tied into the [[Halls of the Dead]]
 * Talk to [[Ravona Drakness]] and see if we can protect the [[The Gaze Grafter]]
