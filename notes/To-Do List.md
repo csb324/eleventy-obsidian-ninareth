@@ -11,17 +11,12 @@ Owned-by: The Unforged Few
 ### Immediate
 * Sending
 	* [[Ellinev Del]] to report in 50 hours before [[Delegates Day]]
-* Report the [[Death Halls Heist]] for [[Julian Slater-Runehorn|Julian]]
+	* [[Terrav]] morning of [[Delegates Day]]
 * Look into the pirates we killed in the [[Bloody Waters]], how are they tied into the [[Halls of the Dead]]
-* Talk to [[Ravona Drakness]] and see if we can protect the [[The Gaze Grafter]]
-* Hear back from [[First Officer Ghent]] on his strike on [[Dharbeed Tzaavi]]
 
 ### Short-Term
 * Meet up with folks in [[Arkhosia (City)]]
-	* [[Flyte]] in the [[Irralsil Spire]] is revolutionary friendly bar
-	* [[Ellinev Del]] and [[Victor]] (6) at the [[Terrorist Activity Investigation  Committee]] in Sun Crest
 	* [[Pruvki Forgaveat]] with the [[ELA]] - finding us
-* Meet up with [[Srictha]] and [[Varras]]?
 * What are the [[Fire Raisers]] planning in [[Arkhosia (City)]]
 	* What does [[Winifey]]'s mind-reading plan mean re: burning down the [[Sill Dockhouse]], or potentially the harbor? 
 		* When does the [[Cloud's Lament]] arrive? 
@@ -32,7 +27,6 @@ Owned-by: The Unforged Few
 	* Where are [[Ulia Glorsbade]]'s bombs and the other bombs going?
 * Ask potion store for info on [[diamond cream]]
 * Get as much money as we can
-* Go to [[Weavers Worn Wears]] and look at the tapestry scroll
 
 
 ### Middle-Term
@@ -40,7 +34,6 @@ Owned-by: The Unforged Few
 * Sendings:
 	* [[Ghez Yhutl]] for his cliffhanger on [[Dragon Scales Ahhhh]]
 	* [[Professor Leonard Klipitz]] on working for diamonds to [[Resurrect Adrienne]]
-	* [[Rawley]] for [[Freya]] about firbolgs
 	* [[Father Thronestone]] for update on the [[Dragon Scales Ahhhh]] codebreaking
 * Check back in with [[Ravona Drakness]] at the [[Halls of the Dead]] in a few weeks
 
@@ -51,7 +44,7 @@ Owned-by: The Unforged Few
 * Rescue [[Vrolbekk Pixies]] sister
 * Who the heck is [[The Curator]], and what do they want with [[Rez]], [[Adrienne Spout|Adrienne]], [[Freya]], and [[Jade]]? 
 * Take [[Adrienne Spout|Adrienne]]'s harp to [[Temple of Corellon Outside Quaath]]
-	* Meet up with [[Willow]] and orchestrate his 'vision'
+	* Meet up with [[Willow]] and orchestrate his 'vision' this Hulfni
 * [[Costi]] get [[Samuel]] aligned? Something [[Rhend Triverswill]] mentioned
 	* might get us more info on [[Our Fiend Samuel]]
 *  [[Costi]] return to [[Professor Vendorsmere]] for sword lessons "when he's ready"

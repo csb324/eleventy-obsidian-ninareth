@@ -3,9 +3,9 @@
 ---
 # Group Inventory
 
-### Currency - 3,584
+### Currency - 3,479
 150 PP
-1,659 GP
+1,979 GP
 
 ## Potions:
 
@@ -80,6 +80,9 @@ Carried by [[Hugh]]
 
 [[Potential]]
 Carried by [[Costi]]
+
+[[Horn of Blasting]]
+Carried by [[Rez]]
 
 ### Bag of Adrienne Belongings
 [[Ivory Pistol]]

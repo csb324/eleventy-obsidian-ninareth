@@ -22,7 +22,7 @@ He begins with the bearded dwarves figure “I don’t know your name, but I am 
 
 He tries the scarred human this time. His mind struggles with the task, but he manages the sending - “I don’t know your name. Saw a vision with you. I am warforged who has lost their memory. [[SVN529]]. Are you alive? Where are you?”
 
-This time, he feels the magic connect as a voice responds “29? *static*” as the rest of our party sees his go bright red. As he notices he is bound, he initiatives capture protocol. He rages. He rips through the binds and he attacks [[Freya]]. 
+This time, he feels the magic connect as a voice responds “2 9? *static*” as the rest of our party sees his go bright red. As he notices he is bound, he initiatives capture protocol. He rages. He rips through the binds and he attacks [[Freya]]. 
 
 His arm sharpens on one end to a sword, and he makes three attacks. He can also utilize battle master tactics, which he does to great effect against [[Freya]]. He’s stronger than before, and an extremely effect fighter. 
 
@@ -74,9 +74,9 @@ When the party wakes, they talk about their plan for the day. [[Jade]] starts to
 
 [[The Unforged Few|Our Party]] talks about how to get into [[The Providers]] [[Fundraiser]], and decide to have [[Hugh]] sending to [[Willen Guruden]]. There's some disagreements about what to say, and [[The Unforged Few|Our Party]] debates how we should talk to him. We decide to try the beguiling route first and use our favors if we need them. [[Hugh]] eventually sends, "Hello. Heard you are hosting important fundraiser. We would love to attend. [[Costi]] is interested and wants to learn from YOU. Can speak of GRUNGSLAYINGS." He responds, "[[Hugh]], are you feeling alright? Of course you can come. I'm rather busy up until the event, but come 2 hours early. Shooting. Scotch. Conversation".
 
-[[Freya]] and [[Jade]] goes to confirm that [[The Unforged Few|Our Party]] can talk to [[Caleb Schleuse]]. The staff at [[Kildee's Ink and Quill]] got his contact and confirmed he'd be happy to talk to others interested in the mysteries of the multiverse. We plan that conversation for later.
+They went to confirm that [[The Unforged Few|Our Party]] can talk to [[Caleb Schleuse]]. The staff at [[Kildee's Ink and Quill]] got his contact and confirmed he'd be happy to talk to others interested in the mysteries of the multiverse. We plan that conversation for later. They gave us his location [[Wyndla’s Wyvern]], we can head there whenever. 
 
-[[Costi]] and [[Hugh]] went to the [[Halls of the Dead]] to check in to warn them of a dangerous artifact. [[Costi]] said that he isn't who he says he is, and he can't reveal his true identity but is on an important mission, has knowledge of the future, and his vow to [[The Raven Queen]] was true. He was naturally persuasive. He says the artifact left in the tunnels should be safeguarded.
+[[Costi]] and [[Hugh]] went to the [[Halls of the Dead]] to check in to warn them of a dangerous artifact. [[Costi]] said that he isn't who he says he is, and he can't reveal his true identity but is on an important mission, has knowledge of the future, and his vow to [[The Raven Queen]] was true. He was naturally persuasive. He says the artifact left in the tunnels should be safeguarded. He also sent a prayer up to [[The Raven Queen]] that he believes was well-recieved. 
 
 [[Ravona Drakness]] said that they sent a group of [[Deaths Watchers]] into the [[Duvey]] crypt to check on what was there, and found the tunnel [[The Unforged Few|Our Party]] climbed down. They didn't know about it before, the masons they asked to inspect it think it is about six months old. They didn't find any artifact; the mirror is gone. Destroyed or taken, we're not sure.
 
