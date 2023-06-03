@@ -16,12 +16,12 @@ The suspected attack by the [[Fire Raisers]] in [[Arkhosia (City)]]
 * Potential targets:
 	* [[Delegates Day]]
 	* [[Sill Dockhouse]]
-	* [[Ichlior]] and [[Guruden Estate]] fundraiser for [[The Providers]]
+	* [[Ichlior-Guruden Fundraiser]]
 * Method:
 	* 8 bombs? 
 		* Fuses from [[Ulia Glorsbade]]
 		* barrels of "3434"
-	* Illusions?
+	* Illusions assisted by [[Rhend Triverswill]]
 
 
 ### Clues to Investigate
@@ -36,9 +36,8 @@ The suspected attack by the [[Fire Raisers]] in [[Arkhosia (City)]]
 * [[Terrav]] slipped us a note that said "Re-established trust in operation, many disappeared [[Zephyra]] included - she's fine, it was a plot. I'm closer to leadership now, will update soon"
 * Seems the [[Fire Raisers]] have axed 20% of their operatives, some dead, some imprisioned, a few seem to have fled - the party line is that they were the cause of any violence
 	* Do some folks like [[Niko]] and [[Winifey]] believe this? Or are they giving [[The Unforged Few|Our Party]] lies so that they can still use us? 
-* Attend the [[Ichlior]] and [[Guruden Estate]] fundraiser for [[The Providers]], let in [[Fire Raisers]]
+* Attend the [[Ichlior-Guruden Fundraiser]] for [[The Guardians]] let in [[Fire Raisers]]
 	* They want to take a few items and over hear a few conversations - planning a similar style sting to [[Norathar Pent]] and [[Vigo Underswell]]?
-* "Yes, 6 containers fit aboard the ship" - Captain [[Demeril]] of the [[Chasing Daylight]] note to [[Dharbeed Tzaavi]] of the [[Fishermen]].
 
 
 ### What We Owe and What We Need
@@ -50,8 +49,7 @@ The suspected attack by the [[Fire Raisers]] in [[Arkhosia (City)]]
 		* there ideally will be no creatures of fire at [[Delegates Day]].
 		* They've hired illusionists in addition to the bombs
 		* Seems the [[Fire Raisers]] have axed 20% of their operatives, some dead, some imprisioned, a few seem to have fled - the party line is that they were the cause of any violence
-			* Do some folks like [[Niko]] and [[Winifey]] believe this? Or are they giving [[The Unforged Few|Our Party]] lies so that they can still use us? 
-	* Need update on [[Cloud's Lament]] roster and details
+			* Do some folks like [[Niko]] and [[Winifey]] believe this? Or are they giving [[The Unforged Few|Our Party]] lies so that they can still use us?
 * [[Willum]]
 	* 
 * [[Cinder]]

@@ -1,5 +1,6 @@
 ---
 Owned-by: The Unforged Few
+Carried-by: Julian Slater-Runehorn
 Status: " Active"
 ---
 
@@ -13,7 +14,7 @@ tags:
 # Mirror of Life Trapping
 
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
-[Carried by::[[Freya]]
+<span class="dataview inline-field"><span class="inline-field-key">Carried by</span><span class="inline-field-value">[[Julian Slater-Runehorn]]</span></span>
 [Origin:: [[Halls of the Dead]]
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value"> Active</span></span>
 

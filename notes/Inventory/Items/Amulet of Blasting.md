@@ -24,3 +24,5 @@ While attuned, it's wearer is resistant to fire damage until you activate the se
 When activated, you can use an action to cast the spell Agnozars Scorcher, once per day. Once cast, you are no longer resistant to fire damage. 
 
 At dawn, it regains use. 
+
+Gave to [[Julian Slater-Runehorn|Julian]] 

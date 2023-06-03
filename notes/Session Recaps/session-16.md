@@ -36,7 +36,7 @@ We gave [[Hugh]] the sex talk (including what a brothel is, and why people are s
 
 [[Niko]] and [[Adrienne Spout|Adrienne]] also spent the night. Niko asked Adrienne if she was still loyal to [[Julian Slater-Runehorn|Julian]], or anyone. She said: no and no, but she understood how that sounded. [[Adrienne Spout|Adrienne]] asked what it would take for [[Niko]] to be open with us and he said it would take a disregard for our safety. so, something is AFOOT. 
 
-Next morning: [[Freya]] checked back in with the [[wayfinders]]. [[akros]] should either be back tomorrow or someone will go looking for him. She also met [[Veritude]], a friend of Eros's, who was grateful that she brought his things back. 
+Next morning: [[Freya]] checked back in with the [[wayfinders]]. [[Akros]] should either be back tomorrow or someone will go looking for him. She also met [[Veritude]], a friend of Eros's, who was grateful that she brought his things back. 
 
 [[Freya]] also asked if she has places she needs to go and they said she just needs more stamps, so, the destinations themselves are not that important. Once she's a full Wayfinder, she'll have more straightforward assignments.
 

@@ -3,14 +3,16 @@
 ---
 # Group Inventory
 
-### Currency - 3,479
-150 PP
-1,979 GP
+### Currency - 1,787
+178 PP
+70 GP 
 
 ## Potions:
 
-Greater healing (800)- 10
-Regular healing (200) - 13
+Superior healing - 1
+Greater healing (800)- 0
+Regular healing (200) - 2
+Potion of Rage - Carried by [[Freya]]
 
 ## Magic Items:
 
@@ -67,7 +69,8 @@ Carried by [[Freya]]
 Carried by [[Rez]]
 
 Magical scrolls: 
-	Silence
+	Silence [[Rez]]
+	detect thoughts [[Rez]]
 
 [[Deck of Illusions]]
 Carried by [[Rez]]
@@ -82,7 +85,11 @@ Carried by [[Hugh]]
 Carried by [[Costi]]
 
 [[Horn of Blasting]]
-Carried by [[Rez]]
+Carried by [[Freya]]
+
+[[Fire Raisers]] woodcutting axe
+
+[[Fire Raisers]] mace
 
 ### Bag of Adrienne Belongings
 [[Ivory Pistol]]
@@ -100,17 +107,16 @@ Carried by [[Freya]]
 	Blue - 8
 	Red - 9
 
-Umberhulk mandibles - 2
-Umberhulk eyes - 2
-Umberhulk blood - 3 vials
+## Mundane Items: 
 
-## Mundane Items:
+### Costi Spell Materials
+Parchment - 5 spell levels
 
 ### Gems:
 Includes:
 	Pearl
 	Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
-	Small diamonds - 300gp worth
+	Small diamonds - 800gp worth
 	diamond ring - 3's worth
 	diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~1,000gp
 
@@ -174,7 +180,10 @@ Lanterns - 5
 
 Metals to each member of [[The Unforged Few|Our-Party]] as "Heroes of [[Jalantar]]"
 
+### Clothes
 One formal outfit each
+A generic uniform each
+Plain clothes each
 
 [[Kith and Kin]] 
 Carried by [[Freya]] 

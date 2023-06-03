@@ -6,10 +6,16 @@ tags:
 
 # Freya's Mysterious Circles
 
-When [[Freya]] was framed for some kind of crime (unclear) and left [[True North]], she received a note. The note had two symbols on it -- the symbol of the [[Wayfinders]], and these circles. 
+When [[Freya]] was framed for some kind of crime (unclear) and left [[True North]], she received a note . The note had two symbols on it -- the symbol of the [[Wayfinders]], and these circles. 
 
 [[Freya]] asked [[Niko]] to look into it for her. He gave her a piece of paper that would allow one-way communication, and then incinerate itself, so that he could communicate securely.
 
+### Connections
+* [[Morthos]] and [[The Silver Hand]]
+* [[Wait There's a Lot of Undead]]
+* [[There's Plainly Something Wrong with the Planes]]
+
+### Clues
 [[session-30]]: [[Niko]] got back to her, and said [[Professor Leonard Klipitz]] recognized the symbol. He couldn't say exactly what it was, but it was something that probably existed in his research. So, that's something!
 
 Update: [[Professor Leonard Klipitz]] had seen the symbol in the margins of a book: [[The Unnatural Naturality]]. That book was purchased at [[Kildee's Ink and Quill]], in [[Arkhosia (City)]]. Klipitz gave [[Freya]] the book to keep.
@@ -19,3 +25,5 @@ Update: [[Professor Leonard Klipitz]] had seen the symbol in the margins of a bo
 [[Jade]] took a look at the symbol in the margins of [[The Unnatural Naturality]] (a book she is *very* interested in). Her glasses turned dark. So that's something.
 
 [[Kildee]] said he would find [[Caleb Schleuse]] for us -- apparently he's from the [[Driftrock]], so, hopefully he hasn't gone too far and we can talk to him soon.
+
+[[notes-75]] We spoke to [[Caleb Schleuse]], who didn't know what it was. He originally encountered it in an auto-biography by [[Drimbias Shaziros]]. She's said to be a high-elf born in the [[City of Brass]]. Maybe tied to [[Morthos]] or the [[The Silver Hand]]? 

@@ -11,6 +11,8 @@ Status: Ongoing
 
 We know her glasses almost always give a clue card most closely related to that exact moment. 
 
+It seems like [[The Curator]] can't see what [[Jade]] is doing the same way when the glasses are blocked or off. 
+
 ### Times this has happened:
 * When Jade saw [[Josh|Jinx]] for the first time
 * When Jade saw [[Relakas]] for the first time

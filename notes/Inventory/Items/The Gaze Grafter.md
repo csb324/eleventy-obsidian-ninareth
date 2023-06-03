@@ -1,8 +1,7 @@
 ---
 Owned-by: The Unforged Few
-Carried-by: Freya
 Origin: Halls of the Dead
-Status: " Active"
+Status: " Unknown"
 ---
 
 ---
@@ -14,9 +13,9 @@ tags:
 # The Gaze Grafter
 
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Carried by</span><span class="inline-field-value">[[Freya]]</span></span>
+[Carried by::[unknown]
 <span class="dataview inline-field"><span class="inline-field-key">Origin</span><span class="inline-field-value">[[Halls of the Dead]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value"> Active</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value"> Unknown</span></span>
 
  A small handheld mirror.
  

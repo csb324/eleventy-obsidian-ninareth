@@ -2,7 +2,7 @@
 type: npc
 tags:
   - npc
-Status: alive
+Status: dead
 Race: tiefling
 Relationship: neutral
 Affiliation: Fire Raisers
@@ -11,7 +11,7 @@ Pronouns: " he/his"
 ---
 
 # Cut
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">dead</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">tiefling</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Fire Raisers]]</span></span>

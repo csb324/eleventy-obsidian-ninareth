@@ -12,36 +12,38 @@ Status: Ongoing
 ### What's Happened? 
 [[Father Thronestone]] talked shop with [[Burru Ilp]], and grafted some blue and red scales onto his forearm - bad call since it turns out he's a cultist who loves [[Tiamat]] and [[Galaphanel]], in fact, he think's he's got [[Galaphanel]]'s blood. [[Burru Ilp]] starts acting strange and has a couple of friends who also say the same thing. Thronestone gave him scales, Burru supplied some more, and now they're forcing the procedure onto others. 
 
-We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Party]] goes to his house, which we decide to call [[The Tiamat House]]. It's covered in pro-[[Tiamat]] and pro-[[Galaphanel]] art, as well as other dragon decor. 
+We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Party]] goes to his house, which we decide to call [[The Tiamat House]]. It's covered in pro-[[Tiamat]] and pro-[[Galaphanel]] art, as well as other dragon decor. We kill them all, and steal there plans. Now to make sure this isn't spreading...
 
+### How Has this Spread?
+[[Ghez Yhutl]] got looped in by [[Rez]] and has been investigating the [[Platinum Sanctuary of Jalantar]], learning of [[Jorus]] exchanging letters with [[Yhridex]] from [[Platinum Sanctuary of Durmask]]. [[Pleetos Alentas]] fled to [[Thelran Asari]], where [[Ghez Yhutl]] is now headed believing he's uncovered a front. [[Rez]]'s sister [[Eirian]] is there on the hunt too. 
 
 
 ## Who's Involved
 
 #### Baddies
-* [[Burru Ilp]]
+* [[Burru Ilp]] - DEAD
 	* the main trouble maker 
 	* Got scales grafted onto him by [[Father Thronestone]]
 	* Believes he's the blood of [[Galaphanel]]
 		* Convinced his friends they are too
 	* Killed a whole bunch of people trying to graft scales onto them
-* [[Jorus]]
+* [[Jorus]] - DEAD
 	* Paladin of [[Order of the Platinum Dragon]] at the [[Temple of  Platinum Dragon in Jalantar]] 
 	* Was apparently obsessed with [[Azir DarAxia|Saint Goldborn]]
 	* More detail: [[notes-49#Our baby boy]]
-* [[Sqwank]]
+* [[Sqwank]] - DEAD
 	* Was healing from grafting onto his arm
-* [[Cortis]]
+* [[Cortis]] - HIDDEN/VETTED
 	* Seems to be a decent guy who made some bad friends
 	* Did NOT want the grafting
 	* Helped us, created a cover story with us, [[The Unforged Few|Our-Party]] let him go
 	* Showed us where the notes, code, and bodies were
 	* Told us about the [[Weird Boulder]]
-* [[Pleetos Alentas]]
+* [[Pleetos Alentas]] - ?
 	* Potentially supplied dragon scales to [[Burru Ilp]]
 	* In [[Thelran Asari]]
 	* Had brass scales grafted onto him
-* [[Yhridex]]
+* [[Yhridex]] - ?
 	* In the [[Order of the Platinum Dragon]] in  [[Durmask]], in the Saint Goldborn Order
 	* Communicated with [[Jorus]] about ?
 
@@ -59,16 +61,22 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* Told us the [[Order of the Platinum Dragon]] already had people watching [[Burru Ilp]]
 	* Broke into [[Jorus]] room and found an incriminating letter to another priest of the [[Order of the Platinum Dragon]] in [[Durmask]], named [[Yhridex]] (also Saint Goldborn Order)
 		* [[Rez]] gave him [[Jorus]]'s holy symbol, seeing if he could pull any information from it
+	* Has discovered a potential ring within the [[Platinum Sanctuary of Quaath]]? 
+		* in [[Thelran Asari]] with [[Eirian]] to report and update
+	* Somehow is wanted. Not sure why or by whom
 * [[Vask]]
 	* [[Rez]] immediately told [[Vask]] all the info
 	* Got [[Victoria Several]] to buy [[The Tiamat House]]
 	* Took the [[Weird Boulder]] 
 * [[Eirian]]
 	* Looking for [[Pleetos Alentas]] in [[Thelran Asari]], trying to capture him alive to question him
+	* Meeting up to manage [[Ghez Yhutl]], thank god.
 * [[Dragonsfire Forge]]
 	* Leadership censored [[Father Thronestone]]
 	* Contacting other followers of [[Moradin]] in [[Thelran Asari]] and [[The Academy in Thelran Asari]] to look for [[Pleetos Alentas]]
 	* Trying to reduce the sale of dragon scales
+* [[Divitston Goldstone]]
+	* Apparently helped [[Ghez Yhutl]] smuggle out of [[Jalantar]] to [[Thelran Asari]]
 
 ### Things to Note
 * [[Hugh]] and [[Costi]] wrote a note on [[Father Thronestone]]'s behalf for his confession
@@ -76,7 +84,7 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* [[Costi]] and [[Rez]] found at least 11 sets of initials, connecting to people who were involved in either his research or his sourcing.
 * [[Pleetos Alentas]] is still at large, with brass scales grafted onto him
 	* [[Eirian]], the [[Dragonsfire Forge]], and [[The Academy in Thelran Asari]] are looking for him, unbeknowst to each other
-* The [[Weird Boulder]] is with [[Victoria Several|Victoria]] and [[Vask]] on her airship
+* The [[Weird Boulder]] is with [[Victoria Several|Victoria]] and [[Vask]] on her airship, headed to [[Quaath]]
 	* [[Costi]] kissed it, but it didn't seem like the rock from [[Costi's Dad|Vladdy Daddy]]'s cryptic request
 * What is the [[Order of the Platinum Dragon]]'s knowledge or involvement with [[Burru Ilp]]? 
 * [[Victoria Several]] now has a house in  [[The Fallsides]], and gets a vote

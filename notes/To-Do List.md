@@ -10,32 +10,21 @@ Owned-by: The Unforged Few
 
 ### Immediate
 * Sending
-	* [[Ellinev Del]] to report in 50 hours before [[Delegates Day]]
-	* [[Terrav]] morning of [[Delegates Day]]
+	* [[Professor Leonard Klipitz]] asked us to reach out 
 * Look into the pirates we killed in the [[Bloody Waters]], how are they tied into the [[Halls of the Dead]]
+* What happened to [[Winifey]] on [[Delegates Day]]
+	* [[Rhene Blackstone]]?
+* 
 
 ### Short-Term
-* Meet up with folks in [[Arkhosia (City)]]
-	* [[Pruvki Forgaveat]] with the [[ELA]] - finding us
-* What are the [[Fire Raisers]] planning in [[Arkhosia (City)]]
-	* What does [[Winifey]]'s mind-reading plan mean re: burning down the [[Sill Dockhouse]], or potentially the harbor? 
-		* When does the [[Cloud's Lament]] arrive? 
-		* What's the deal at the docks?
-	* Do we stop [[Niko]] and [[Cinder]]
-		* do we turn them in to [[Captain Fretze|Fretze]] or [[Ricci Scrucks]] and [[Victor]]
-	* who would we trust from the [[Fire Raisers]]
-	* Where are [[Ulia Glorsbade]]'s bombs and the other bombs going?
-* Ask potion store for info on [[diamond cream]]
 * Get as much money as we can
 
 
 ### Middle-Term
 * Attend the [[Arkhosian Elections]]
-* Sendings:
-	* [[Ghez Yhutl]] for his cliffhanger on [[Dragon Scales Ahhhh]]
-	* [[Professor Leonard Klipitz]] on working for diamonds to [[Resurrect Adrienne]]
-	* [[Father Thronestone]] for update on the [[Dragon Scales Ahhhh]] codebreaking
 * Check back in with [[Ravona Drakness]] at the [[Halls of the Dead]] in a few weeks
+* Look into the [[Ioun Stone]] / the rocks that the fighters are using to counterspell
+* Read the autobiography from [[Drimbias Shaziros]]
 
 
 ### Long-Term
@@ -50,6 +39,7 @@ Owned-by: The Unforged Few
 *  [[Costi]] return to [[Professor Vendorsmere]] for sword lessons "when he's ready"
 * Talk to [[Yhridex]] or learn more about his involvement with [[Dragon Scales Ahhhh]]
 * What's going on with [[The Ascended]] and why are they're getting involved with [[Hugh]]?
+* Check in with [[Sienna Burbank]] about visiting [[Burbank Compoud]] in [[Eberron]] to help [[Hugh]]. Avoid [[AVAD]], and general travel in the area.
 
 ### To Buy
 * holy water

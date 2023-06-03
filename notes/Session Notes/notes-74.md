@@ -8,7 +8,7 @@ prev:
 
 # Detailed Notes: Session 74
 
-[[Hugh]] is concerned [[Julian Slater-Runehorn|Julian]] will hold it against us if we go to  [[The Guardians]] [[Fundraiser]]. He suggests sending to [[Willen Guruden]] about it, but before they can discuss more [[Freya]] comes out of her sick room.
+[[Hugh]] is concerned [[Julian Slater-Runehorn|Julian]] will hold it against us if we go to  [[The Guardians]] [[Ichlior-Guruden Fundraiser]]. He suggests sending to [[Willen Guruden]] about it, but before they can discuss more [[Freya]] comes out of her sick room.
 
 She’s concerned [[The Unforged Few|Our Party]] will have to leave [[Arkhosia (City)]] quickly and the party talks about what they need to do before we go: [[Freya]] wants to talk to [[Caleb Schleuse]], and get [[my hole]] back. [[Costi]] wants to go to the [[Halls of the Dead]] again. [[Hugh]] says he’d like to try contacting someone from the visions he’s had. 
 
@@ -54,7 +54,7 @@ She states earlier that she was hoping for an apology, but we’re unsure if it 
 
 [[Jade]] introspects about the yawning pit of answers that she simultaneously wanted and feared - it seems like it’s internal to her rather than [[The Curator]]. They agree to give them a heads up if [[Jade]] can control it - and then they can be sure they are shown what is right. 
 
-[[The Curator ]]asks if [[Jade]] can show them something. At [[The Guardians]] [[Fundraiser]], a dwarven [[Gaundon Skullmall]], a general of moderate renown. She wants to see him [[eating cheese]], it would be beneficial if [[Jade]] can ensure it is a white cheese. They are not familiar if it will be an easy or difficult ask. They agree to leave [[Costi]]’s mind alone unless [[Costi]] asks to speak to them. They pull out a pin with a porcelain end, saying if [[Costi]] is interested, he can use it.  They set the [[Curator porcelain pin]] aside. 
+[[The Curator ]]asks if [[Jade]] can show them something. At [[The Guardians]] [[Ichlior-Guruden Fundraiser]], a dwarven [[Gaundon Skullmall]], a general of moderate renown. She wants to see him [[eating cheese]], it would be beneficial if [[Jade]] can ensure it is a white cheese. They are not familiar if it will be an easy or difficult ask. They agree to leave [[Costi]]’s mind alone unless [[Costi]] asks to speak to them. They pull out a pin with a porcelain end, saying if [[Costi]] is interested, he can use it.  They set the [[Curator porcelain pin]] aside. 
 
 [[The Curator]] says the skeletons in the [[Halls of the Dead]] answered some questions she’s been pondering. When [[Jade]] asks for those answers, she's rebuffed. Though [[The Curator]] teases she might share more if [[Jade]] succeeds in coordinating [[eating cheese]]. It must be clearly visible and eaten with his right hand. 
 
@@ -72,7 +72,7 @@ Before falling asleep, [[Freya]] tries talking to [[The Curator]] through the ma
 
 When the party wakes, they talk about their plan for the day. [[Jade]] starts to tease [[Costi]] that he now has to give her all his blood for [[The Curator]], and gives him the [[Curator porcelain pin]] [[Hugh]] sees through it, but it seems to please them, and they give [[Jade]] a little boost. [[Hugh]]'s feeling sharp, and prays extra well this morning. His holy symbol is flickering black now. He can choose to heal slightly, or hurt others whenever he casts a spell through it. 
 
-[[The Unforged Few|Our Party]] talks about how to get into [[The Providers]] [[Fundraiser]], and decide to have [[Hugh]] sending to [[Willen Guruden]]. There's some disagreements about what to say, and [[The Unforged Few|Our Party]] debates how we should talk to him. We decide to try the beguiling route first and use our favors if we need them. [[Hugh]] eventually sends, "Hello. Heard you are hosting important fundraiser. We would love to attend. [[Costi]] is interested and wants to learn from YOU. Can speak of GRUNGSLAYINGS." He responds, "[[Hugh]], are you feeling alright? Of course you can come. I'm rather busy up until the event, but come 2 hours early. Shooting. Scotch. Conversation".
+[[The Unforged Few|Our Party]] talks about how to get into [[The Providers]] [[Ichlior-Guruden Fundraiser]], and decide to have [[Hugh]] sending to [[Willen Guruden]]. There's some disagreements about what to say, and [[The Unforged Few|Our Party]] debates how we should talk to him. We decide to try the beguiling route first and use our favors if we need them. [[Hugh]] eventually sends, "Hello. Heard you are hosting important fundraiser. We would love to attend. [[Costi]] is interested and wants to learn from YOU. Can speak of GRUNGSLAYINGS." He responds, "[[Hugh]], are you feeling alright? Of course you can come. I'm rather busy up until the event, but come 2 hours early. Shooting. Scotch. Conversation".
 
 They went to confirm that [[The Unforged Few|Our Party]] can talk to [[Caleb Schleuse]]. The staff at [[Kildee's Ink and Quill]] got his contact and confirmed he'd be happy to talk to others interested in the mysteries of the multiverse. We plan that conversation for later. They gave us his location [[Wyndla’s Wyvern]], we can head there whenever. 
 
