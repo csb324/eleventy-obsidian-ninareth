@@ -9,7 +9,6 @@ Owned-by: The Unforged Few
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
 ### What do we have to do?
-* 30 -
 * 1 - [[Freya]] conversation with [[Naya]]
 * 2 -
 * 3 - 

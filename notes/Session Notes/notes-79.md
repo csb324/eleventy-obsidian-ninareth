@@ -30,13 +30,11 @@ Eventually, she owns up to [[The Unforged Few|Our Party]] about the conversation
 
 [[Rez]] and [[Jade]] talk about the potential hidden messages of the metallic and chromatic dragons in the [[Suncrest Palace]], and [[Rez]] asks her to write down whatever questions she wants answered. She immediately sends to [[Ghez Yhutl]], "Ghez! GREAT JOB. Are you discovered? Need ALL THE INFO. How're you getting to [[Thelran Asari]]? You can meet my sister there. Copperscales is PERFECTION.", he responds "Another operative - great. Contact please. Discovered kind of, plan went sidewise. Little bit wanted. Stowed away on airship. Arrived yesterday. Totally fine, [[Divitston Goldstone]] says hi", she responds: "Norris Park, that satyr fountain, tomorrow morning. Her codename is Silverscales. Tell her everything, and listen to what she says. Letters to [[Wayfinders]] in [[Quaath]]"
 
-Sendings: [[Professor Leonard Klipitz]], [[Vask]], [[Father Thronestone]], 
-
 Are you safe? Heard you were arrested. If you need help use stone. Sounds like Ghent will break you out. If not, we will. Will send beer!", he responds: "Hey! great job, also to me. Stone confiscated. Talked to Gaunt, seems chill. Probably getting out soon. Where you at? I'll find you". [[Rez]] sends back: "Okay cool! We're at [[Suncrest Palace]], "Gotta tell Manville, by the way, things didn't work out. Also at the [[Suncrest Palace]], downstairs. Will tell Gaunt, think he'll let me out"
 
 She sends a similar message to [[Terrav]]. He says "managed to maintain facade, did have to stab a few cops. But you know. Currently in holding, but safe. Thank you"
 
-[[Costi]] uses the [[Circlet of Sending]] to send to [[Niko]] *Chelsea add notes once Tim decides*
+[[Costi]] uses the [[Circlet of Sending]] to send to [[Niko]], "Niko, I cannot believe I ever doubted you. Im sorry. Who do you suspect sabotaged your bomb? How are you? Have you talked to Gent?" He responds, "Of course I forgive you, brother. Those with me, while Giary and I evacuated. Trial pending soon. I accept what comes."
 
 [[Neiragneg|Neir]] tries to find [[Rhend Triverswill]], looks to see if he's arrested. He doesn't seem to be (though [[Borum Galdsman, the 4th]], who got drunk and said that [[Rhend Triverswill]] was taking credit for a lot of "his work") but isn't at the [[Wyndla’s Wyvern]]. Turns out everyone he worked with isn't sure where he's gone. 
 

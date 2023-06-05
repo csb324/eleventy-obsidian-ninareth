@@ -9,9 +9,9 @@
 
 ## Potions:
 
-Superior healing - 1
+Superior healing - 0
 Greater healing (800)- 0
-Regular healing (200) - 2
+Regular healing (200) - 0
 Potion of Rage - Carried by [[Freya]]
 
 ## Magic Items:
@@ -107,6 +107,8 @@ Carried by [[Freya]]
 	Blue - 8
 	Red - 9
 
+[[Winifey]] tattoo skin flap
+
 ## Mundane Items: 
 
 ### Costi Spell Materials
@@ -116,7 +118,7 @@ Parchment - 5 spell levels
 Includes:
 	Pearl
 	Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
-	Small diamonds - 800gp worth
+	Small diamonds - 500gp worth
 	diamond ring - 3's worth
 	diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~1,000gp
 
