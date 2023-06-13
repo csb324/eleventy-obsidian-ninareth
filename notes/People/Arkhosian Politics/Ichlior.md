@@ -6,7 +6,7 @@ Status: alive
 Relationship: neutral
 Race: ""
 Affiliation: The Circle
-Location: ""
+Location: Ichlior Estate
 ---
 
 # Circler Monte Ichlior
@@ -14,7 +14,7 @@ Location: ""
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value"></span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Circle]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value"></span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Ichlior Estate]]</span></span>
 
 ### Background 
 Confiscated the former fishing village of [[Kazdi]] to turn it into a resort. Member of [[The Circle]]

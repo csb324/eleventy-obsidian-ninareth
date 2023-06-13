@@ -11,8 +11,7 @@ Relationship: neutral
 [Race::elf
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 
-Wears all black, with very cool blue hair and multiple peircings
-
+Wears all black, with very cool blue hair and multiple peircings. He's a mercenary and he hates birds.
 
 ### Background
 

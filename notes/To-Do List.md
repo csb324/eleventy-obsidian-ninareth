@@ -12,7 +12,7 @@ Owned-by: The Unforged Few
 * Sending
 	* [[Professor Leonard Klipitz]] asked us to reach out 
 * Look into the pirates we killed in the [[Bloody Waters]], how are they tied into the [[Halls of the Dead]]
-* What happened to [[Winifey]] on [[Delegates Day]]
+* What happened to [[Winifey]] on [[Fire Raiser Attack in Arkhosia City]]
 	* [[Rhene Blackstone]]?
 * 
 
@@ -40,6 +40,7 @@ Owned-by: The Unforged Few
 * Talk to [[Yhridex]] or learn more about his involvement with [[Dragon Scales Ahhhh]]
 * What's going on with [[The Ascended]] and why are they're getting involved with [[Hugh]]?
 * Check in with [[Sienna Burbank]] about visiting [[Burbank Compoud]] in [[Eberron]] to help [[Hugh]]. Avoid [[AVAD]], and general travel in the area.
+	* talk to [[Victoria Several|Victoria]] about this?
 
 ### To Buy
 * holy water

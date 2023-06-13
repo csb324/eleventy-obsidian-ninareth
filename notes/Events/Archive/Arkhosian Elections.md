@@ -1,15 +1,15 @@
 ---
 type: world-event
-Status: Upcoming
+Status: Ended
 ---
 
 # Arkhosian Elections
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Upcoming</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Ended</span></span>
 
 ## Background
 Large election in [[Arkhosia]] held in [[Arkhosia (City)]]. Everybody who's anybody will be there -- including [[The Unforged Few|Our-Party]]
 
-Main parties: [[The Guardians]] and [[The Providers]]
+Main parties: [[The Guardians]] and [[The Providers]]. Or so we thought.
 
 ## Who's Involved
 Seems like the [[Fire Raisers]] are planning some political drama. We're not sure what, but our clues so far:
@@ -24,3 +24,5 @@ Seems like the [[Fire Raisers]] are planning some political drama. We're not sur
 ### Events
 * [[The Providers]] party that [[Ellinev Del]] invited [[The Unforged Few|Our-Party]] to
 * [[Fire Raisers]] are planning *something* at the Docks on the 15th
+
+See also: [[Election Day Attack]] and [[Fire Raiser Attack in Arkhosia City]]

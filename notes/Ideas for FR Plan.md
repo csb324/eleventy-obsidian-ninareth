@@ -13,7 +13,7 @@
 * Split up and stop the attacks where they're planned
 	* pros: easier to follow the plan they already have in place
 	* con: folks might run, if we get the locations wrong we're screwed
-* Stop the [[Delegates Day]] parade? Or diminsh parade route? 
+* Stop the [[Fire Raiser Attack in Arkhosia City]] parade? Or diminsh parade route? 
 	* increase guard presence regardless
 	* pros: can't blow up what's not there
 	* cons: tip off could cause the [[Fire Raisers]] to change to something we don't know about
@@ -25,6 +25,7 @@
 	* [[Rez]] would struggle to get her appointment (but is he really going to do it anyway?)
 	* He's big fan of [[Mulfara]] independence 
 * Day after tomorrow, 6 AM, [[Museum of Arkhosian History]]. We start there - from [[Srictha]]
+
 
 ### How to find info:
 * gotta tail or eavesdrop the folks at the [[Ichlior-Guruden Fundraiser]]
@@ -43,9 +44,9 @@
 * Meet up with [[Rhene Blackstone]]
 
 ### Timelines:
-* [[First Officer Ghent]] report in 50 hours before [[Delegates Day]]
+* [[First Officer Ghent]] report in 50 hours before [[Fire Raiser Attack in Arkhosia City]]
 	* look out for clothing that have a small red dot on the inside of his shirt collar, such as by the collarbone. It's a [[Fire Raisers]] indicator 
-* [[Terrav]] morning of [[Delegates Day]]? (need to confirm timing)
+* [[Terrav]] morning of [[Fire Raiser Attack in Arkhosia City]]? (need to confirm timing)
 * Meet [[Willen Guruden]] 2 hours before the [[Ichlior-Guruden Fundraiser]]
 
 ### The Fire Raiser Plan (as we know it)

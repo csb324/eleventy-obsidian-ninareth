@@ -20,8 +20,10 @@ Pronouns: " he/his"
 
 A deeply blue tiefling with an eye patch over his right eye. Seems menacing and not that bright, fucks us up every idiom he says. Loves to toss daggers around. 
 
+Did not give a shit if anyone died in the [[Fire Raiser Attack in Arkhosia City]] bombing. 
+
 ### Background
 A member of the  [[Arkhosia (City)]] [[Fire Raisers]]. Seems to be close to their leader, [[Willum]]. 
 
 ### Who're They to Us?
-Met our party at [[Laughing Hill]] with [[Willum]]. Works with [[Hennurra]]
+Met our party at [[Laughing Hill]] with [[Willum]]. Works with [[Hennurra]].

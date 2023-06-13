@@ -6,7 +6,7 @@ tags:
 
 # Freya's Mysterious Circles
 
-When [[Freya]] was framed for some kind of crime (unclear) and left [[True North]], she received a note . The note had two symbols on it -- the symbol of the [[Wayfinders]], and these circles. 
+When [[Freya]] was framed for some kind of crime (unclear) and left [[True North]], she received a note. The note had two symbols on it -- the symbol of the [[Wayfinders]], and these circles. 
 
 [[Freya]] asked [[Niko]] to look into it for her. He gave her a piece of paper that would allow one-way communication, and then incinerate itself, so that he could communicate securely.
 

@@ -31,7 +31,10 @@ He's married. He likes horses and he also eats horses and in [[Zalev]] this is n
 He's a Slavecatcher in the [[Zalevi Military]], and [[Niko]] was specifically wanted for *freeing* slaves in [[Zalev]]. [[Niko]] said to avoid him, and if we *must* interact, definitely do not mention [[Niko]]. He's significantly more dangerous and more powerful than we originally believed. He's under the command of [[El'Haliand]]. 
 
 ### Who's he to us? 
-He's unerringly friendly to [[The Unforged Few]], and regards us as fun little curiosities. He's an extrovert. And he loves his (fucked up, violent, human-rights-violating) country. 
+
+He can't prove that we were behind the [[Zalevi Embassy Break-in]], but he knows it was us and he looks forward to having our heads.
+
+Nonetheless, he's unerringly friendly to [[The Unforged Few]], and publically regards us as fun little curiosities. He's an extrovert. And he loves his (fucked up, violent, human-rights-violating) country. 
 
 Offered to give [[The Unforged Few]] VIP tickets to big “demonstration festival” and insisted we travel back to [[Zalev]] with their caravan. Timing was dependent on when they get back (probably derailed now...) We assume this festival was intended to be a public execution of the slaves the gathered, primarily [[Niko]].  Volun-told us that he would help hurry along the progress of the [[Adrienne Spout|Adrienne]]'s harp repairs.
 
@@ -40,4 +43,3 @@ Seemingly believed us to be innocent during the [[Zalevi Embassy Break-in]], lef
 Sat at [[Julian Slater-Runehorn|Julian]]'s box at the [[Bellisme Show]] with [[El'Haliand]] and an [[Eberronian Military]] officer
 
 Investigating if the [[Jalantar]] government set them up to increase tension in the cities, by telling the [[Zalevi Military]] they can arrest people and then taking it back and causing a scandal
-

@@ -22,6 +22,8 @@ Good friend of [[Julian Slater-Runehorn|Julian]] and is a regular guest at his m
 
 Her husband, [[Cliff Burbank]], is now an [[Eberronian Military]] colonel. 
 
+She and her husband have invited [[The Unforged Few]] to their compound in [[Eberron]]. She told us she felt compelled to help [[Hugh]], and only an Eberronian artificer will be able to do that.
+
 ### Background
 Something about [[Burbank FIT]]? Married to [[Cliff Burbank]], who's about to head to the "front" for work.
 

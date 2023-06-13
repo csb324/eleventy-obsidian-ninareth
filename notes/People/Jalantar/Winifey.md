@@ -4,17 +4,17 @@ tags:
   - npc
 aliases:
   - Winnie
-Status: alive
+Status: dead
 Race: Human
-Relationship: neutral
+Relationship: enemy
 Affiliation: Fire Raisers
 Location: The Furnace
 ---
 
 # Winifey A.K.A. "Winnie"
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">dead</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Human</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">enemy</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Fire Raisers]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[The Furnace]]</span></span>
 
@@ -22,7 +22,11 @@ Very lanky human woman, with poorly cut shaggy brown hair. Wears a steel breastp
 
 Very close with [[Cinder]]. Sort of his right hand. 
 
-Associate of [[Niko]], part of the [[Fire Raisers]]
+Associate of [[Niko]], part of the [[Fire Raisers]].
+
+Has [[Freya's Mysterious Circles]] tattooed on her body. Gave [[Willum]] some sort of time-reversing item that he used in our confrontation in the [[Election Day Attack]]. 
+
+Killed [[Srictha]].
 
 ### Who're they to us?
 At the [[Bellisme Show]] -- they asked us to help her get past a couple of guards to eavesdrop on a meeting. We made her invisible and helped her sneak through. 

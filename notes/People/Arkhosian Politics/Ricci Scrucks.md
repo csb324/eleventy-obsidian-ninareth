@@ -2,23 +2,25 @@
 type: npc
 tags:
   - npc
-Status: alive
+Status: dead
 Relationship: neutral
 Home: Jalantar
 Affiliation:
   - The Guardians
   - Arkhosian Delegates
   - Dragon's Hide
+  - Fire Raisers
 Location: the Mayor of Jalantar Office
 ---
 
 # Ricci Scrooks
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">dead</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Jalantar]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Guardians]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Arkhosian Delegates]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Dragon's Hide]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Fire Raisers]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[the Mayor of Jalantar Office]]</span></span>
 [Workplace: [[Central Administrative Cluster]]]
 
@@ -26,11 +28,13 @@ Blue dragonborn in fine hidesman armor, has a pendant to bahamant around his nec
 
 Head of the [[Dragon's Hide]] , [[The Guardians]] delegate. 
 
-Has been vocally leading the response to the recent [[Jalantar]] [[The Providers]] headquarters bombing. But has led authorities to think the [[Zalevi Embassy Break-in]] bombing was unrelated. 
+Had been vocally leading the response to the recent [[Jalantar]] [[The Providers]] headquarters bombing. But, led authorities to think the [[Zalevi Embassy Break-in]] bombing was unrelated.
 
-He has a cousin, Lev Scrooks who is a [[The Providers]] delegate. Their family is very connected.
+He has a cousin, [[Del Scrooks]] who is a [[The Providers]] delegate. Their family is very connected.
 
-Old friends with [[Relakas]]
+Old friends with [[Relakas]]. Or, was.
+
+Original co-founder (with [[Victor]]) of the [[Fire Raisers]]. They served together in the [[4th Regiment]], and wanted to make Arkhosia a better place. Assassinated in the [[Election Day Attack]].
 
 ### Who're they to us? 
 Introduced themselves to [[The Unforged Few]] at the [[Bellisme Show]]. Offered us work as consultants for the [[Dragon's Hide]] 

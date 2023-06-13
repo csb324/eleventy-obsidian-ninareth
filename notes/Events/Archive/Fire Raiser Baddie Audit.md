@@ -1,21 +1,21 @@
 ---
 type: world-event
-Status: Ongoing
+Status: Ended
 ---
 
 # Fire Raiser Baddie Audit
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Ongoing</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Ended</span></span> ? 
 
 ### The Ask
 A few [[Fire Raisers]] including [[Zephyra]], [[Terrav]], and [[Lance]] want is to find who's responsible for  the rising violence within the organziation. The suspect list: [[Niko]], [[Srictha]],  [[Ulia Glorsbade]],  [[Winifey]], and potentiallly [[Twigs]].
 
-For ourselves: how can we prevent the attack in [[Arkhosia (City)]]? Who can we trust to help?
+For ourselves: how can we prevent the [[Fire Raiser Attack in Arkhosia City|Delegates Day attack]] in [[Arkhosia (City)]]? Who can we trust to help?
 
-## Current Status Quo
-* [[Niko]] seems to have been brought back into the fold, after a short stint in solitary confinement, and some serious questioning. He's now telling us they 'solved' the violence, and only the right "heads will roll"
-* [[Winifey]] seemed prepped against [[Costi]] reading her mind. How? 
-	* She's also telling us the same story that they've rooted out their violent faction. Must've been [[Ulia Glorsbade]]
-* Does [[Niko]] and [[Winifey]] believe this? Or are they giving [[The Unforged Few|Our Party]] lies so that they can still use us? 
+## Outcome
+- [[Willum]], [[Cut]], [[Winifey|Winnie]], and [[Cinder]] were all team-unimaginable-violence
+- [[Niko]] was on the fence but we were able to persuade him to chill out 
+- [[Victor]] and [[Ricci Scrucks]] were original founders of the [[Fire Raisers]]
+- JFC.
 
 ## Who's Involved
 
@@ -98,8 +98,7 @@ For ourselves: how can we prevent the attack in [[Arkhosia (City)]]? Who can we 
 ## Steps to Take
 * Check-out the [[Fire Raiser Mystery Cylinder]] and be sure it's not STILL a bomb
 * Go investigate the fake [[Fire Raisers]] hideout location on a map, gather the red herrings there for "evidence" in the [[Bellisme Show]] investigation. Planned by [[Winifey]]
-* Give [[Ricci Scrucks]] the [[Fire Raiser Mystery Cylinder]] and other evidence as our update to the [[Bellisme Show]] attack investigation. Tell [[Winifey]]'s cover story of a "shadowy figure" leaving the sewers
-* Look for clues in the old [[Fire Raisers]] hideout on the road to [[Arkhosia (City)]], the [[Ruins of Fort Chyvensti]]. Tasked by [[Winifey]]
-* Contact [[Srictha]] when we get to [[Arkhosia (City)]] and meet up
-* Investigate the [[Fire Raisers]] plan the the Docks in [[Arkhosia (City)]] to figure out if we want to intervene
-	* Whole bunch of [[The Guardians]] uniforms are involved? 
+* [x] Give [[Ricci Scrucks]] the [[Fire Raiser Mystery Cylinder]] and other evidence as our update to the [[Bellisme Show]] attack investigation. Tell [[Winifey]]'s cover story of a "shadowy figure" leaving the sewers
+* [x] Look for clues in the old [[Fire Raisers]] hideout on the road to [[Arkhosia (City)]], the [[Ruins of Fort Chyvensti]]. Tasked by [[Winifey]]
+* [x] Contact [[Srictha]] when we get to [[Arkhosia (City)]] and meet up
+* [x] Investigate the [[Fire Raisers]] plan the the Docks in [[Arkhosia (City)]] to figure out if we want to intervene (Whole bunch of [[The Guardians]] uniforms are involved? )

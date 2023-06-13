@@ -1,12 +1,12 @@
 ---
 type: world-event
-Status: Ongoing
+Status: Ended
 ---
 
 # Ichlior-Guruden Fundraiser
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Ongoing</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Ended</span></span>
 
-A big political fundraiser for [[The Guardians]] co-hosted by [[Ichlior]] and the Guruden family, [[Quillette Guruden]] and [[Willen Guruden]]. Raising funds for [[Delegates Day]] and elections for [[The Circle]]. 
+A big political fundraiser for [[The Guardians]] co-hosted by [[Ichlior]] and the Guruden family, [[Quillette Guruden]] and [[Willen Guruden]]. Raising funds for [[Fire Raiser Attack in Arkhosia City]] and elections for [[The Circle]]. 
 
 ### Goals
 * [[Jade]] watch [[Gaundon Skullmall]] eat white cheese with his right hand through her glasses ([[Whats up with Jade's Glasses]]?)
@@ -22,3 +22,4 @@ A big political fundraiser for [[The Guardians]] co-hosted by [[Ichlior]] and th
 	* should we wait for our confrontation until afterwards? 
 		* Pro: time to fuck up bad people, get their info so we can get that info
 		* Cons: what if they sneak out and we lose the opportunity 
+
