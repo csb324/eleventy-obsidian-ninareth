@@ -2,7 +2,7 @@
 type: org
 tags:
   - orgs/Terrorist-Activity-Investigation-Committee
-  - ? aliases
+aliases:
   - TAIC
 Location: Arkhosia (City)
 Relationship: " neutral"

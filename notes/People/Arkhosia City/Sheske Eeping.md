@@ -15,3 +15,5 @@ Home: Halls of the Dead
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Halls of the Dead]]</span></span>
 
 We are going to steal their mirrors. See also: [[Death Halls Heist]]
+
+Eeping family unremarkable aside from being rich. Sheske was relatively close to [[Shorver Hoddlinston]]. When Sheske died, Shorver donated the big mirror to Sheske. Apparently Sheske  was very vain.

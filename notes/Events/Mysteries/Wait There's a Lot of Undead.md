@@ -42,6 +42,12 @@ Status: Ongoing
 * [[Ichlior]]
 	* A few hundred years ago, [[Ichlior]] family purchased the [[Chapel of the Lost]] and turned it into a hotel. 
 * We don't know this but Tim's arc
+* [[Duvey Crypt]]
+	* Seemed similar to the [[Necromantic Underground Chapel]]
+	* Found the [[Dunamantic Ruby Eye]] with [[Freya's Mysterious Circles]] carved on it
+	* Goblins were being kept half-alive in some sort of necromantic ritual
+* [[Winifey]]
+	* Had [[Freya's Mysterious Circles]] carved on her back 
 
 
 ### Who's Doing This?
@@ -51,3 +57,4 @@ Status: Ongoing
 
 ### Notes of Potential Concern
 * Try not to piss off [[The Raven Queen]] in our [[Death Halls Heist]] - maybe if we kill enough undead down there she won't mind us impersonating her flock to desecrate a grave??? 
+	* turns out to be the opposite - [[Costi]] is a devotee now! 

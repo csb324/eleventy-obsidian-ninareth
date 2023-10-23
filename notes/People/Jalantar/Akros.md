@@ -21,6 +21,8 @@ Came back late and had an expedition sent to check on his route. He was injured 
 
 Has traveled the entire Wayfinder route 6 times, got the fancy line tattoo to boot for each trip. Recommends traveling to the Bridges
 
+Dated [[Naya]]. Been jailed 3 times.  [[Akros]], [[Rawley]], and [[Naya]] all traveled together for a long time, known each other for 40 years. 
+
 ### Who's he to us? 
 Someone [[Freya]] is supposed to talk to, per [[Rawley]]'s note. #mysteries 
 

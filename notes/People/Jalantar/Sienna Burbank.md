@@ -6,6 +6,7 @@ Status: alive
 Race: " human"
 Relationship: neutral
 Location: Jalantar
+Home: Burbank Compound
 Affiliation: Julian Slater-Runehorn
 ---
 
@@ -14,6 +15,7 @@ Affiliation: Julian Slater-Runehorn
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value"> human</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Jalantar]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Burbank Compound]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Julian Slater-Runehorn]]</span></span>
 
 Older woman, but looks good for her age. Small woman, dark skin and black hair, lithe in her movements. Always wears her knife.

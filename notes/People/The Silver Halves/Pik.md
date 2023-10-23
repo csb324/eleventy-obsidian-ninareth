@@ -21,6 +21,7 @@ Goblin, carries a very large sword. Believes to be [[Pak]]’s twin.
 
 ### Background
 Has been having his anger strengthen him his whole life.
+Speaks abyssal
 
 ### Who're They to Us?
 Friends with [[Vask]]

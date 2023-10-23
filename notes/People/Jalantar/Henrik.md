@@ -27,6 +27,11 @@ Born in [[Mulfara]]. He told us, he's had nothing, and he's had everything, and 
 
 Henrik is *actually* doing what we always *think* we're doing -- playing both sides, to his advantage. We could learn a lot from him tbh. 
 
+[[Costi]] snooped around his room and found out the following:
+- He has a modest home in Arkhosia City, a nicer home Jalantar, and a new 70 acre country estate in the Vrolbekk that not many know about 
+- He has some "offshore" bank accounts in [[Thalfar]] that he quietly funnels money to
+- He has a shockingly large family who seem to suffer from pretty serious poverty
+- He really, really, really hates Julien.
 ### Who Is He to Us?
 Knows [[Adrienne Spout|Adrienne]] through her work with [[Julian Slater-Runehorn|Julian]]. Rude to her, who rightfully told us he sucked. But later, he seemed to actually have developed something of a soft spot for [[Adrienne Spout|Adrienne]]. Mostly after her death.
 

@@ -3,9 +3,9 @@
 ---
 # Group Inventory
 
-### Currency - 1,787
-178 PP
-70 GP 
+### Currency - 11,567
+1,128 PP
+400 GP 
 
 ## Potions:
 
@@ -22,8 +22,8 @@ Carried by [[Rez]], worn by [[Hugh]]
 [[Victor's Gloves]] (A)
 Carried by [[Costi]]
 
-[[Circlet of Sending]] (A)
-Carried by [[Rez]]
+[[Circlet of Sending]]
+Carried by [[Freya]] (A)
 
 [[Shadowfell Shard]] (A)
 Carried by [[Rez]]
@@ -91,6 +91,11 @@ Carried by [[Freya]]
 
 [[Fire Raisers]] mace
 
+[[Scales of Chaos]] (A)
+Carried by [[Rez]]
+
+Strand of True Silver
+Carried by [[Hugh]]
 ### Bag of Adrienne Belongings
 [[Ivory Pistol]]
 [[Fire Resistant Breastplate]] 

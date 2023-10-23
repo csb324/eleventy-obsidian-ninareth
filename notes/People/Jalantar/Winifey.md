@@ -4,18 +4,22 @@ tags:
   - npc
 aliases:
   - Winnie
+  - W. Duvey
 Status: dead
 Race: Human
 Relationship: enemy
-Affiliation: Fire Raisers
+Affiliation:
+  - Fire Raisers
+  - Duvey Family
 Location: The Furnace
 ---
 
-# Winifey A.K.A. "Winnie"
+# Winifey Duvey A.K.A. "Winnie"
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">dead</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Human</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">enemy</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Fire Raisers]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Duvey Family]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[The Furnace]]</span></span>
 
 Very lanky human woman, with poorly cut shaggy brown hair. Wears a steel breastplate and carries a rapier. Very smiley, seeems to be part of the welcoming committee at [[The Furnace]]. She's also a member of the Guard of [[Jalantar]]. Not the [[Dragon's Hide]], just regular guard. 
@@ -35,5 +39,6 @@ Knew [[Neiragneg|Neir]] on sight, asked if he had checked in with [[Rhend Triver
 
 Met up with us and says she's quite close to [[Niko]], who worked the [[Bellisme Show]]. She thinks [[Niko]] has crossed a bridge and potentially brought others along with him. Gives us the [[Fire Raiser Mystery Cylinder]] to look into it. [[Adrienne Spout|Adrienne]] and [[Freya]] seems to get vibes she's not being entirely truthful.  [[Costi]] detects her thoughts, sees a red undillating wave when we mention what plans might be coming up in [[Arkhosia (City)]]. [[Adrienne Spout|Adrienne]] asks about other radicals within the [[Fire Raisers]] who could be problems: in her thoughts [[Costi]] sees [[Niko]], a tiefling, and a flash of [[Cinder]]. Tells us about an old [[Fire Raisers]] hideout on the road to [[Arkhosia (City)]], asks for us to check-in. 
 
+[[The Curator]] told [[Jade]] she is part of the [[Duvey]] family, and we recall that in the [[Duvey Crypt]] there were three other plaques not put on anything yet, [[K. Duvey]], [[J. Duvey]], and [[W. Duvey]]" but no dates listed. We can assume now that W. is Winnie.
 ### Notes
 Knew that us killing the dust monster we fought would bring out the Efreet at the [[Bellisme Show]] 

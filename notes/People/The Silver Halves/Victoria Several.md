@@ -34,6 +34,11 @@ Her family is from [[Quaath]] but was from [[Taleem]] originally. They left gene
 
 Follows [[Arkhosia]] politics quite closely. Says her family, well her parents, well her mom is a merchant.
 
+Once involved with [[Baldred Duvey]]
+
+### Siblings
+
+
 ### Who're They to Us?
 Friends with [[Vask]], maybe has something more building with him?
 

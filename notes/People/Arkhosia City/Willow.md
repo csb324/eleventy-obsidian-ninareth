@@ -31,3 +31,5 @@ He's currently being pulled toward [[Quaath]]. He thinks we need to go there, an
 If something happens to him we're supposed to talk to [[No-Karo]] - another oracle he trusts: they change their appearance regularly, but last they were human middle-aged with a pink mohawk, living in [[Cerendon]], they're an oracle of [[Pelor]].
 
 He says people are after him, one has a face writhed in flames with horns, he's 14ft tall, [[Costi]] thinks it sounds like a pit fiend, he watches him from the ski. Another is a younger human man, with curly brown hair and dark skin, in his 20's, with feathery wings he doesn't use who watches from the same. The last is an un-dead looking creature with mostly bone, sunken eyes with something there in both who watches from below. #mysteries 
+
+Told us to meet at the [[Temple of Corellon Outside Quaath]], where he's staying on mission [[Resurrect Adrienne]]

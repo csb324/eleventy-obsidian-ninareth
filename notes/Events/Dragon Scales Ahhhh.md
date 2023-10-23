@@ -17,6 +17,8 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 ### How Has this Spread?
 [[Ghez Yhutl]] got looped in by [[Rez]] and has been investigating the [[Platinum Sanctuary of Jalantar]], learning of [[Jorus]] exchanging letters with [[Yhridex]] from [[Platinum Sanctuary of Durmask]]. [[Pleetos Alentas]] fled to [[Thelran Asari]], where [[Ghez Yhutl]] is now headed believing he's uncovered a front. [[Rez]]'s sister [[Eirian]] is there on the hunt too. 
 
+[[Ghez Yhutl]] found a turncoat named [[Nikander Vhegohl]] who was working with others in [[Jalantar]] to graft a strange [[Mithril Alloy]] onto a young blue dragon. They got their material sourced from a blacksmith named [[Clive]]. [[Divitston Goldstone]] and [[Ghez Yhutl]] killed [[Clive]], but it seems [[Nikander Vhegohl]] is still at large. 
+
 
 ## Who's Involved
 
@@ -46,6 +48,13 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 * [[Yhridex]] - ?
 	* In the [[Order of the Platinum Dragon]] in  [[Durmask]], in the Saint Goldborn Order
 	* Communicated with [[Jorus]] about ?
+* [[Nikander Vhegohl]]
+	* In the [[Order of the Platinum Dragon]] in [[Jalantar]]
+	* Working with others to graft the [[Mithril Alloy]] onto young dragons?
+	* Got materials from [[Clive]]
+* [[Clive]]
+	* Metal-worker in [[Jalantar]]
+	* Killed by [[Divitston Goldstone]] and [[Ghez Yhutl]]
 
 #### Helpers
 * [[Father Thronestone]]
@@ -55,6 +64,7 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* Trying to fix things, asked elders at [[Dragonsfire Forge]] to help
 	* Gave us some money, the [[Blow Em]] whistle and the claw tattoos for [[Freya]]
 	* Breaking the code on their notes to figure out how far along their work was
+	* Confiscated copper dragon scales being smuggled into [[Jalantar]] with the help of [[Jalantan Guard]]
 * [[Ghez Yhutl]]
 	* [[Rez]] convinced him to root out corruption in the [[Temple of  Platinum Dragon in Jalantar]] 
 		* "can I interest you in a curious folio?" 
@@ -63,7 +73,8 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 		* [[Rez]] gave him [[Jorus]]'s holy symbol, seeing if he could pull any information from it
 	* Has discovered a potential ring within the [[Platinum Sanctuary of Quaath]]? 
 		* in [[Thelran Asari]] with [[Eirian]] to report and update
-	* Somehow is wanted. Not sure why or by whom
+	* Took the wrap for the murder of [[Clive]] and is now wanted in [[Jalantar]]
+	* Made [[Rez]] the [[Scales of Chaos]] from confiscated copper dragon scales
 * [[Vask]]
 	* [[Rez]] immediately told [[Vask]] all the info
 	* Got [[Victoria Several]] to buy [[The Tiamat House]]
@@ -74,19 +85,22 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 * [[Dragonsfire Forge]]
 	* Leadership censored [[Father Thronestone]]
 	* Contacting other followers of [[Moradin]] in [[Thelran Asari]] and [[The Academy in Thelran Asari]] to look for [[Pleetos Alentas]]
-	* Trying to reduce the sale of dragon scales
+	* Trying to reduce the sale of dragon scales, working with the [[Jalantan Guard]] 
 * [[Divitston Goldstone]]
-	* Apparently helped [[Ghez Yhutl]] smuggle out of [[Jalantar]] to [[Thelran Asari]]
+	* Works with [[Father Thronestone]] and has helped sort out information from the beginning
+	* Helped [[Ghez Yhutl]] smuggle out of [[Jalantar]] to [[Thelran Asari]]
 
 ### Things to Note
 * [[Hugh]] and [[Costi]] wrote a note on [[Father Thronestone]]'s behalf for his confession
 * [[Father Thronestone]] is working through the coded notes that [[Burru Ilp]] kept
 	* [[Costi]] and [[Rez]] found at least 11 sets of initials, connecting to people who were involved in either his research or his sourcing.
 * [[Pleetos Alentas]] is still at large, with brass scales grafted onto him
-	* [[Eirian]], the [[Dragonsfire Forge]], and [[The Academy in Thelran Asari]] are looking for him, unbeknowst to each other
+	* [[Eirian]] and [[Ghez Yhutl]], the [[Dragonsfire Forge]], and [[The Academy in Thelran Asari]] are looking for him, unbeknowst to each other
 * The [[Weird Boulder]] is with [[Victoria Several|Victoria]] and [[Vask]] on her airship, headed to [[Quaath]]
 	* [[Costi]] kissed it, but it didn't seem like the rock from [[Costi's Dad|Vladdy Daddy]]'s cryptic request
+	* [[Rez]] also kissed it
 * What is the [[Order of the Platinum Dragon]]'s knowledge or involvement with [[Burru Ilp]]? 
 * [[Victoria Several]] now has a house in  [[The Fallsides]], and gets a vote
 * [[Rez]] and [[Vask]] talked about [[Rez's Family]] and their *natural* dragonscales
 	* Let's hope no one learns about this or gets them confused! 
+* No foul play was discovered in the [[Platinum Sanctuary of Arkhosia]] when [[Rez]] investigated
