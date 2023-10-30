@@ -105,6 +105,9 @@ Carried by [[Hugh]]
 [[Dagger with Holy Symbol]]
 [[Harp]] 
 
+Blue [[Corellon Larethian]] Rose
+Carried by [[Hugh]]
+
 ## Monster Parts
 
 ### Dragon Scales

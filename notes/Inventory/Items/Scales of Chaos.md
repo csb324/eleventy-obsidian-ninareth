@@ -27,4 +27,6 @@ You can use these points as if they were normal sorcery points. The Scales can h
 - Additionally, the Scales hum with a power that you don’t fully understand. While the Scales have at least three sorcery points in them, you may use an action to expend those sorcery points.
 
 ### Chaos Rolls
-* 7 - maybe attracted something that is screeching? 
+* 7 - 
+* 16 -
+* 4 - when I wake up, Rez is achy. The necklace is empty, and I have one fewer sorcery point for the day

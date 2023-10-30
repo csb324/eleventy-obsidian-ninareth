@@ -37,4 +37,11 @@ And whenever you can get away from the hustle and bustle of politics, you spend 
 - [[Victoria Several|Victoria]] has a place in the city that they're staying at. The Several family has homes in many cities.
 - Tulbar (dwarf) will take care of the hearth while Hugh is gone.
 - Throwing a goodbye party
-- 
+
+# 3452,Markante 6
+Willow said:
+- Below the depths roots of oldest anchor aching leaking empty bled for power
+- The world touches together,  patch mend tear and the set things right anew no worse for wear
+- When time is right worlds align veils are thin strings will sing and what will rise fight again
+
+Wanted to 
