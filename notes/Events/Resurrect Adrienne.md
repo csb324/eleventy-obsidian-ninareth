@@ -17,7 +17,7 @@ It's also about the most expensive thing that you can do, requires 25,000 GP. Ev
 		* [[Platinum Sanctuary of Quaath]]
 		* Temple of [[Yondala]] in [[Thelran Asari]]
 		* [[Church of Tyr]], [[Church or Torm]], and [[Church of Pelor]] in [[Durmask]]
-		* [[Church of Corellon Larethian]], in [[Ru'Nileth]]. 
+		* [[Church of Corellon Larethian]], in [[Locations/Cities and Towns/Ru'Nileth]]. 
 	* Will help us acquire diamonds with [[The Silver Halves]], and we can work out a way to compensate them back. It sounds like they might need some help in the near future. 
 		* Potentially we could work with [[Professor Leonard Klipitz]] to pull some from the [[Elemental Plane of Earth]]. 
 * [[Professor Leonard Klipitz]]
@@ -41,7 +41,7 @@ It's also about the most expensive thing that you can do, requires 25,000 GP. Ev
 * Find 25,000GP worth of diamonds (have 8,484gp worth - need 16,516gp worth)
 	* We have:
 		* Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
-		* Small diamonds - 300gp worth
+		* Small diamonds - 500gp worth
 		* 1,284 gold into diamonds from [[Professor Leonard Klipitz]]
 		* diamond ring - 3's revivify's worth (900gp worth)
 		* diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~1,000gp

@@ -8,7 +8,7 @@ Carried-by: Rez
 Attunement: " yes"
 ---
 
-#  Ring of Protection
+#  Lesser Ring of Protection 
 
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[Damien]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Origin</span><span class="inline-field-value"> Unknown</span></span>

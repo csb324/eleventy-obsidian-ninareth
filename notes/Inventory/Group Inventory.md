@@ -3,16 +3,24 @@
 ---
 # Group Inventory
 
-### Currency - 11,567
-1,128 PP
-400 GP 
+### Currency - 4,844
+
 
 ## Potions:
 
-Superior healing - 0
-Greater healing (800)- 0
-Regular healing (200) - 0
-Potion of Rage - Carried by [[Freya]]
+Superior healing (900) - 1, 1 Carried by [[Rez]]
+Greater healing (400) - 2
+Regular healing (200) - 1
+Potion of Rage - Carried by [[Freya]], [[Rhynilex Svenik|Rhyn]]
+Potion of Darkvision - 4
+Potion of Necrotic Resistance - 2
+
+## Scrolls:
+
+Silence [[Rez]]
+Detect Thoughts [[Rez]]
+Feather Fall [[Costi]]
+Clairvoyance
 
 ## Magic Items:
 
@@ -34,8 +42,8 @@ Carried by [[Rez]]
 [[Rez's Riddle Machine]]
 Carried by [[Rez]]
 
-[[Ring of Protection]] (A)
-Carried by [[Rez]]
+[[Lesser Ring of Protection]] (A)
+Carried by [[Costi]]
 
 [[Amulet of Blasting]] (A)
 Carried by [[Hugh]]
@@ -52,61 +60,74 @@ Carried by [[Hugh]]
 [[Blow Em]] (AKA Blowie)
 Carried by [[Freya]]
 
-[[+1 Ice Pick]]
-Carried by [[Freya]]
-
-[[Elemental Shield]] (A)
-Carried by [[Freya]]
-
 [[Claw Tattoos]] (A)
 Carried by [[Freya]]
-
-[[Arrows of Grasping]]
 
 [[Nourishing Loafs]]
 
 [[Skeleton Key]]
 Carried by [[Rez]]
 
-Magical scrolls: 
-	Silence [[Rez]]
-	detect thoughts [[Rez]]
-
 [[Deck of Illusions]]
 Carried by [[Rez]]
 
-[[Cube of Force]]
-Carried by [[Costi]]
-
-[[Lightning Javelin]]
-Carried by [[Hugh]]
-
 [[Potential]]
 Carried by [[Costi]]
-
-[[Horn of Blasting]]
-Carried by [[Freya]]
-
-[[Fire Raisers]] woodcutting axe
-
-[[Fire Raisers]] mace
 
 [[Scales of Chaos]] (A)
 Carried by [[Rez]]
 
 Strand of True Silver
 Carried by [[Hugh]]
-### Bag of Adrienne Belongings
-[[Ivory Pistol]]
-[[Fire Resistant Breastplate]] 
-[[Flametongue Longsword]]
-[[Reverberating String]]
-[[Bag of Screams]]
-[[Dagger with Holy Symbol]]
-[[Harp]] 
 
-Blue [[Corellon Larethian]] Rose
+[[Blue Rose]] from [[Corellon Larethian]] 
 Carried by [[Hugh]]
+
+Githyanki Stone Tablet
+
+[[Moradin's Touch]]
+
+[[Boots of Levitation]]: cast at will (A), [[Rhynilex Svenik|Rhyn]] 
+
+[[Greater Ring of Protection]]: +1 AC, +1 Saves (A)
+Carried by [[Hugh]]
+
+[[Ring of Telekinesis]]: Cast at will, only target object not worn or carried. When cast, move up to 1000 lbs, 30 ft in any direction not beyond 60. Can throw or exert fine control. (A)
+[[Costi]]
+
+[[Cloak of the Manta Ray]]: breathe underwater, swimming of 60ft (A)
+[[Hugh]]
+
+[[An Ice Brand]]: +1 long sword, d8 cold (A)
+[[Freya]]
+
+[[Fire Resistant Breastplate]]
+Carried by [[Adrienne Spout|Adrienne]]
+
+[[Flametongue Longsword]]
+Carried by [[Adrienne Spout|Adrienne]]
+
+[[Reverberating String]]
+Carried by [[Adrienne Spout|Adrienne]]
+
+[[Bag of Screams]]
+
+[[Dagger with Holy Symbol]]
+Carried by [[Adrienne Spout|Adrienne]]
+
+[[Harp]] - at the [[Temple of Corellon Outside Quaath]]
+
+[[Weirefesteria]] anchor tree bark with sigils 
+
+Magical red stone dust from [[Weirefesteria]] anchor tree
+
+[[G'zraad]] golden fingers
+
+Disco ball scrying focus
+Carried by [[Hugh]]
+
+[[Ring of Temporal Salvation]] (A)
+Carried by [[Rez]]
 
 ## Monster Parts
 
@@ -126,11 +147,10 @@ Parchment - 5 spell levels
 Includes:
 	Pearl
 	Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
-	Small diamonds - 500gp worth
-	diamond ring - 3's worth
+	diamond ring - 3's revivify's worth (900gp worth)
 	diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~1,000gp
 
-### Books:
+### Books and Correspondence:
 [[The Unnatural Naturality]] - read by [[Jade]]
 [[Kith and Kin]] - read by [[Freya]], [[Rez]]
 [[Viardel Brensaschi]] - read by [[Costi]]
@@ -151,6 +171,9 @@ Includes:
 [[The Ascended]] - read by [[Costi]]
 [[Book on Preparing Dead Bodies]] - read by [[Hugh]]
 [[The Thrice Broken Trocaire]] - read by [[Costi]] and [[Rez]]
+[[Kith and Kin]] - Carried by [[Freya]] 
+Letter of introduction from [[The Matron]] of [[Izdeke]]
+Letter to Hugh from [[Charky]]
 
 ### Bag of Mischief:
 carried by [[Rez]]
@@ -171,11 +194,9 @@ carried by [[Rez]]
     Stakes, small metal
     hammer set (6 sizes, quite small to normal size)
     box of rusty screw
+    a small heart pillow embroidered with "sorry"
 
 [[Vlad Grosu Patch]]
-
-Vial of strange orange moss
-Carried by [[Hugh]]
 
 Lead Box
 Carried by [[Hugh]]
@@ -195,12 +216,7 @@ One formal outfit each
 A generic uniform each
 Plain clothes each
 
-[[Kith and Kin]] 
-Carried by [[Freya]] 
-
-gorgeous longbow
-
-[[Xcanthaka]] coins of favor - 6 (one per person in [[The Unforged Few|Our Party]])
+[[Xcanthak]] coins of favor - 6 (one per person in [[The Unforged Few|Our Party]])
 
 ## Given to Others
 
@@ -233,3 +249,33 @@ Given to [[Defana]]
 
 Feywild twig from giants
 Given to [[Ellinev Del]]
+
+Chorud Gem Studded Greatclub
+Given to [[Gia Yola]]
+
+[[The Slip Knife]]: dagger, when you get sneak attack you can force them to make DC 16 Str SVT or be prone. BA to attack a prone creature within 5ft, use half of sneak (A)
+Given to [[The Burning Sons]]
+
+[[Doss Flute]]: Cast fly, invisibility, levitate, protection from good and evil, animal friendship, protection from energy (fire), protection from poison (A)
+Given to [[The Burning Sons]]
+
+[[Cube of Force]]
+Sold to [[Baldred Duvey]]
+
+[[The Healing Brand]]: magical longsword - 4 charges, creature in 30ft, regain HP, expend charge heal d4+Cha (A)]]
+Sold to [[Baldred Duvey]]
+
+Githyanki Silver Greatsword
+Sold to [[Baldred Duvey]]
+
+[[Ivory Pistol]]
+Sold to [[Baldred Duvey]]
+
+[[Fire Raisers]] mace
+Carried by [[Jade]]
+
+[[Ring of Expanded Necrotic Capacity]]
+Carried by [[Jade]]
+
+[[Horn of Blasting]]
+Given to [[Rhynilex Svenik|Rhyn]]

@@ -18,7 +18,7 @@ A crypt for the [[Duvey Family]], in the [[Halls of the Dead]].
 
 We were also searching for the [[Mirror of Life Trapping]] and the [[The Gaze Grafter]] for [[Julian Slater-Runehorn|Julian]]. Those were with [[Sheske Eeping]]'s crypt. 
 
-Had some lingering dumantic time-shift magic. We got caught in the process and looped through several timelines of the crypt. 
+Had some lingering dunamantic time-shift magic. We got caught in the process and looped through several timelines of the crypt. 
 
 It lead to the [[Halls of the Dead Necromantic Chapel]], which included the [[Dunamantic Ruby Eye]], [[Freya's Mysterious Circles]], and had several tortured goblins powering it's magic.
 

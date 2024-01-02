@@ -30,3 +30,14 @@ You can use these points as if they were normal sorcery points. The Scales can h
 * 7 - 
 * 16 -
 * 4 - when I wake up, Rez is achy. The necklace is empty, and I have one fewer sorcery point for the day
+* 6 - 
+* 8 -
+* 14 -
+* 17 - buzzing along the scales, more energy. One extra sorcery point!!
+* 9 -
+* 2 - empty necklace, missing 3 of my usual sorcery points
+* 13 -
+
+### Activation - I
+* 3 (with 4 points) - Flame Strike CENTERED ON ME "Oops"
+* 8 (with 4 points) - polymorph myself and people near me, I get wings with fly speed 40ft. get action anew, but I am that animal

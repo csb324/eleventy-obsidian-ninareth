@@ -4,6 +4,7 @@ tags:
   - npc
 aliases:
   - J. Duvey
+  - Jeni
 Status: alive
 Race: human
 Relationship: none

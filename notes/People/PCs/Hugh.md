@@ -1,6 +1,8 @@
 ---
 type: PC
-aliases: Human named Finn
+aliases:
+  - Human named Finn
+  - Mr. Finn
 tags:
   - PC
 Status: alive

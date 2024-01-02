@@ -2,6 +2,8 @@
 type: npc
 tags:
   - npc
+aliases:
+  - Davi
 Status: alive
 Race: elf
 Relationship: neutral

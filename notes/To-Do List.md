@@ -9,15 +9,14 @@ Owned-by: The Unforged Few
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
 ### Immediate
-* Make an appointment at the [[Duvey]] store
-* Make an appointment at [[Several's Antiquities]]
-* 
+* monster parts - yes tomorrow
+* duvey - yes tomorrow, sell items
+* go to the grove
 
 ### Short-Term
 
 
 ### Middle-Term
-* Look into the [[Ioun Stone]] / the rocks that the fighters are using to counterspell
 
 
 ### Long-Term

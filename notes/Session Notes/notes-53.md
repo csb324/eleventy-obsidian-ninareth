@@ -8,7 +8,7 @@ prev:
 
 # Detailed Notes: Session 53
 
-For recap, see also:
+For recap, see also: 
 
 We wake up and discuss [[Freya]]'s book [[Kith and Kin]] more and also plans to get more diamonds. [[Jade]] suggests looking more into the diamond dusk cream. [[Rez]] agrees. We talk more about we want to do in [[Arkhosia (City)]]: [[Hugh]] visited the temple, [[Freya]] get her transcontinental [[Wayfinders]] tattoo, [[Costi]] buy spell scrolls, [[Rez]] visit OOTPD, earn some group money, and look into the diamond cream, figure out [[Fire Raisers]], [[Freya]] look into the book from [[Professor Leonard Klipitz]], 
 

@@ -1,4 +1,7 @@
 ---
+type: npc
+tags:
+  - npc
 Status: alive
 Race: Human
 Relationship: neutral
@@ -8,11 +11,6 @@ Affiliation:
   - Order of the Platinum Dragon
   - Rez's Family
 Class: " Gunslinger"
----
-having---
-type: npc
-tags: 
-- npc
 ---
 
 # Vask

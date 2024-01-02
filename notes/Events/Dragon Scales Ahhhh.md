@@ -19,7 +19,7 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 
 [[Ghez Yhutl]] found a turncoat named [[Nikander Vhegohl]] who was working with others in [[Jalantar]] to graft a strange [[Mithril Alloy]] onto a young blue dragon. They got their material sourced from a blacksmith named [[Clive]]. [[Divitston Goldstone]] and [[Ghez Yhutl]] killed [[Clive]], but it seems [[Nikander Vhegohl]] is still at large. 
 
-
+[[Zmaj]] tells us that one of the grafted might have been operating in [[Ru'Nileth]]. The only found blood, and a few mutilated corpses, but no scales - just diagrams. He's also heard rumors, it seems like it's spread and is talk of "putting down" new draconic creations, they call themselves [[Boulder Makers]]. 
 ## Who's Involved
 
 #### Baddies
@@ -89,6 +89,8 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 * [[Divitston Goldstone]]
 	* Works with [[Father Thronestone]] and has helped sort out information from the beginning
 	* Helped [[Ghez Yhutl]] smuggle out of [[Jalantar]] to [[Thelran Asari]]
+* [[Silver Scale Jazat]]
+* [[Krarrhec]]
 
 ### Things to Note
 * [[Hugh]] and [[Costi]] wrote a note on [[Father Thronestone]]'s behalf for his confession

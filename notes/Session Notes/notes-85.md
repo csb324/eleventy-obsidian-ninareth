@@ -5,6 +5,7 @@ up:
 prev:
   - - notes-84
 ---
+
 # Detailed Notes: Session 85
 
 We begin by fighting - the leader wants to target [[Costi]] seemingly due to his connection to the [[The Raven Queen]]. [[Costi]] sees behind the veil and sees a skeletal figure that is interfering with our magic. 
@@ -29,7 +30,7 @@ Eventually, we start to hear other voices, and [[Jade]] hears them argue about w
 
 We spend a lot of time trying to recap with [[Willow]] uttered, and attempting to make out those words. We talk a bit about [[Lloth]], and lie to [[Freya]] that this is what drow hotels are like -- we're definitely NOT in jail.
 
-After a short rest, we hear screams outside before a large claw breaks through the wall and pulls [[Amalyn]] through the wall. She slides some keys our way, and we leave to try to help. After a smart polymorph by [[Costi]], we're able to subdue 2 chulls and an umberhulk who were growing extra arms, eyes, and strange coloration. We're thanked and agree to self-arrest again until our chance to talk to [[the Matron]]. 
+After a short rest, we hear screams outside before a large claw breaks through the wall and pulls [[Amalyn]] through the wall. She slides some keys our way, and we leave to try to help. After a smart polymorph by [[Costi]], we're able to subdue 2 chulls and an umberhulk who were have extra arms and eyes grafted onto them, and strange coloration. We're thanked and agree to self-arrest again until our chance to talk to [[the Matron]]. 
 
 [[Rhynilex Svenik]] comes to escort us to [[the Matron]], leading us to an 8 sided building towards the center of town. We're lead into a throne room, where sitting on an 8-legged throne there is an older drow woman with elaborate plaits, she wears multiple pieces of jewelry with a sword at her side. 7 male drow stand behind her.
 
@@ -37,11 +38,11 @@ We're introduced and asked why we trespass, then brings out the dead dragonborn 
 
 For the last few weeks, strange occurrences have happened in [[Izdeke]] - creatures that are altered or disfigured have made their way into town. Even when killed, their extra limbs continue to act and harm. They've also had patrols go missing, including [[The Matron]]'s favorite consort. They say they're underneath "one of the most powerful areas" called [[Weirefesteria]]. She believes something may be syphoning energy off of it for untoward means. [[Jade]] teases at some of our prophecy, which seems to spark a nod - they say the [[Order of the Platinum Dragon]] dragonborn had a similar message found on them: 
 
-"Below the depths, crews of oldest anchor, aching, peeking, empty bled for power. Core touches together, patch rend and tear, and set thing light for you but worse for wear. In black of night, wills align, veils are thin, scales will harden, sun will rise, fight again"
+"Below the depths, crews of oldest anchor, aching, peeking, empty bled for power. Core touches together, patch rend and tear, and set things right for you but worse for wear. In black of night, wills align, veils are thin, scales will harden, sun will rise, fight again"
 
-[[Rez]] asks if we can talk to them, and they agree for tomorrow. We say we can ask some questions on their behalf. [[The Matron]] says if we help them, they'll let us live and see us safely to the surface. Her daughter will help us, pointing to [[Rhynilex Svenik]]. She says they believe the roots go "down", and encourages us to attempt to solve our own issues without harming any of their people. 
+[[Rez]] asks if we can talk to them, and they agree for tomorrow. We say we can ask some questions on their behalf. [[The Matron]], anemd [[Jhelen Svenik]], says if we help them, they'll let us live and see us safely to the surface. Her daughter will help us, pointing to [[Rhynilex Svenik]]. She says they believe the roots go "down", and encourages us to attempt to solve our own issues without harming any of their people. She shows us a slightly overlarge platinum dragon scale found on the [[Bahamat]] bodies, [[The Unforged Few|Our Party]] looks at it, [[Freya]] detects a magical energy, or rather divine energy. SImilar to [[Hugh]]'s [[TrueSilver strand]], and the [[Blue Rose]] [[Hugh]] took from [[Corellon Larethian]].
 
-[[Jade]] asks about [[Thalfar]], but it is too far away. [[Costi]] asks about undead, and they share that some are altered, and some are also undead. She says it was nothing abnormal, but [[Bahgath]], her consort, went missing on 15 Hulfni. Some of the creatures bear strange marking, but none are anything specific, no symbols - just unnatural lines. They offer us quarters to stay in before we head below, and will return us our weapons. We can explore the city, if accompanied by [[Rhynilex Svenik]]. 
+[[Jade]] asks about [[Thalfar]], but it is too far away. [[Costi]] asks about undead, and they share that some are altered, and some are also undead. She says it was nothing abnormal, but [[Bagath Mizzragon]], her consort, went missing on 15 Hulfni. Some of the creatures bear strange marking, but none are anything specific, no symbols - just unnatural lines. They offer us quarters to stay in before we head below, and will return us our weapons. We can explore the city, if accompanied by [[Rhynilex Svenik]]. 
 
 We ask for maps of their patrols, and hotspots where people went missing - they'll provide information. They've also had pools of strange corrosive liquid appearing through town, but they'd vanish after a time. They have samples, and will arrange for us to talk to those scholars. 
 

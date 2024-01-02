@@ -2,6 +2,9 @@
 type: npc
 tags:
   - npc
+aliases:
+  - Rhyn
+  - Rhynilex
 Status: alive
 Race: drow
 Relationship: neutral

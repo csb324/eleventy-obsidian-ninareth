@@ -37,6 +37,6 @@ Status: Complete
 
 ## Consequences
 
-As payment  for our services, [[Julian Slater-Runehorn|Julian]] gave us the jewelry from [[Damien]]. The [[Amulet of Blasting]], and a [[ring of protection]], and some assorted jelwery.
+As payment  for our services, [[Julian Slater-Runehorn|Julian]] gave us the jewelry from [[Damien]]. The [[Amulet of Blasting]], and a [[Lesser Ring of Protection]], and some assorted jelwery.
 
 [[Damien]] left [[Julian Slater-Runehorn|Julian]]'s property and went off North
