@@ -51,9 +51,9 @@ We spend the next two days allowing [[Adrienne Spout|Adrienne]] to recover and e
 
 Almost immediately, [[Freya]] finds a [[Wayfinders]] path that moves us through. We move stealthily to get us through the forest. We find a marked cave to rest for the night. 
 
-As [[Adrienne Spout|Adrienne]] is on watch [[Jaelys]] sneaks up on her and tells her to wake our leader, "isn't it obvious? The scaled one"
+As [[Adrienne Spout|Adrienne]] is on watch someone sneaks up on her and tells her to wake our leader, "isn't it obvious? The scaled one" - it's [[Zmaj]]
 
-[[Belas Kinklan]], an elven fighter, [[Belatar Aeleth]] a burly human, [[Shalak Devaran]] an elf in robes, [[Ravona Silentreed]] the druid are all set off to secure the area and set up defenses, the rest of his [[Gia'Thoren]] team. He is very condescending and scolds us on letting our guard down, then reveals he weekly scrys on [[Rez]] and [[Vask]] to make sure we don't endanger the family. We end up talking about [[Victoria Several|Victoria]] and [[Vask]] and learn he's been working on poetry, doesn't seem like she's fully convinced on him. This is good intel. We go back to sleep and say we'll talk through the rest in the morning.
+His squadron, [[Belas Kinklan]], an elven fighter, [[Belatar Aeleth]] a burly human, [[Shalak Devaran]] an elf in robes, [[Ravona Silentreed]] the druid are all set off to secure the area and set up defenses, the rest of his [[Gia'Thoren]] team. He is very condescending and scolds us on letting our guard down, then reveals he weekly scrys on [[Rez]] and [[Vask]] to make sure we don't endanger the family. We end up talking about [[Victoria Several|Victoria]] and [[Vask]] and learn he's been working on poetry, doesn't seem like she's fully convinced on him. This is good intel. We go back to sleep and say we'll talk through the rest in the morning.
 
 [[Rez]] flaunts what we've done, and says that he'll give our introductory letter to his commanding officer. Asking about his party, we learn they're from the army. [[Rez]] tells him about the [[Bahamat]] party, their oracle, and [[Dragon Scales Ahhhh]]. He shares his own updates -
 
@@ -64,6 +64,8 @@ Kansi is working through [[Gia'Thoren]] entry level training. have a smuggling r
 We say we're trying to get back to [[Quaath]], [[Zmaj]] says he could help if we owe him a favor, [[Freya]] says she talked to the anchor tree. We agree to this request, after [[Rez]] says he'd only ask for something good for the fate of the world anyway. We talk briefly, and agree going to [[Ru'Nileth]] would be important - [[Freya]] wants to check on the [[Wayfinders]], and [[Adrienne Spout|Adrienne]] wants to potentially see her family. 
 
 We start to make our way to the next [[Gia'Thoren]] outpost, [[Zmaj]] is unwilling to to travel with us, he has to watch us to be sure we'll survive. 
+
+
 
 
 

@@ -2,6 +2,8 @@
 type: npc
 tags:
   - npc
+aliases:
+  - Sienna
 Status: alive
 Race: " human"
 Relationship: neutral

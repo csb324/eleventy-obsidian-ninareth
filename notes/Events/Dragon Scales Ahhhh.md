@@ -1,10 +1,12 @@
 ---
 type: world-event
 Status: Ongoing
+See-Also: Rez's Report
 ---
 
 # Dragon Scales Ahhhhh
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Ongoing</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">See Also</span><span class="inline-field-value">[[Rez's Report]]</span></span>
 
 ### The Problem
 [[Father Thronestone]] helped out [[Rez]] with an experimental treatment - melting down dragon scales and grafting them onto her cut patch of dragon scales on her face. To everyone's delight, it worked! However, this got [[Father Thronestone]] thinking -- could this be a new breakthrough?? Spoiler: it should not be. 
@@ -52,7 +54,7 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* In the [[Order of the Platinum Dragon]] in [[Jalantar]]
 	* Working with others to graft the [[Mithril Alloy]] onto young dragons?
 	* Got materials from [[Clive]]
-* [[Clive]]
+* [[Clive]] - DEAD
 	* Metal-worker in [[Jalantar]]
 	* Killed by [[Divitston Goldstone]] and [[Ghez Yhutl]]
 
@@ -89,8 +91,16 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 * [[Divitston Goldstone]]
 	* Works with [[Father Thronestone]] and has helped sort out information from the beginning
 	* Helped [[Ghez Yhutl]] smuggle out of [[Jalantar]] to [[Thelran Asari]]
+* [[Zmaj]]
+	* Investigating rumors in [[Dilandil]]
+		* There might have been one of the grafted might have been operating in [[Ru'Nileth]]. The only found blood, and a few mutilated corpses, but no scales - just diagrams. He's also heard rumors, it seems like it's spread and is talk of "putting down" new draconic creations, they call themselves [[Boulder Makers]]. 
+	* Now in [[Durmask]] to investigate [[Nehushta]]'s death
 * [[Silver Scale Jazat]]
+	* Guard who has helped us in the [[Gold Circle]] of [[Quaath]]
+	* Was threatened by [[Vask]] but doesn't take it personally 
 * [[Krarrhec]]
+	* Designated to speak to [[Vask]] and [[Rez]]
+	* Was given [[Rez's Report]] on all of this information
 
 ### Things to Note
 * [[Hugh]] and [[Costi]] wrote a note on [[Father Thronestone]]'s behalf for his confession

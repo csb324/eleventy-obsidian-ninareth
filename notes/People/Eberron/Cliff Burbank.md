@@ -2,6 +2,9 @@
 type: npc
 tags:
   - npc
+aliases:
+  - Cliff
+  - Colonel Burbank
 Status: alive
 Race: " human"
 Relationship: neutral
@@ -15,7 +18,7 @@ Affiliation:
   - Beating Heart Battalion
 ---
 
-# Cliff Burbank (AKA Cliff)
+# Cliff Burbank, the 4th (AKA Cliff)
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value"> human</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
