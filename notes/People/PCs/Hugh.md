@@ -1,6 +1,8 @@
 ---
 type: PC
-aliases: Human named Finn
+aliases:
+  - Human named Finn
+  - Mr. Finn
 tags:
   - PC
 Status: alive
@@ -20,6 +22,7 @@ Class: Cleric
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Self Made Men]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> he/they</span></span>
+#unforged-few 
 
 ![](/assets/obsidian/Hugh.jpg)
 
@@ -27,7 +30,7 @@ A <span class="dataview inline-field"><span class="inline-field-key">Class</span
 
 Insists he's [[Costi]]'s dad. But also, wants to help Costi *FIND* his dad.
 
-Has no memories beyond the last year or so (someone went in and scrambled his brain around or something). In that time in between, he was in the [[Acedian Mountains]] at a forge, where he connected with [[TrueSilver]] (spiritually). Has a brand on his bicep from the [[Beating Heart Regiment]] 
+Has no memories beyond the last year or so (someone went in and scrambled his brain around or something). In that time in between, he was in the [[Acedian Mountains]] at a forge, where he connected with [[TrueSilver]] (spiritually). Has a brand on his bicep from the [[Beating Heart Battalion]] 
 
 Likes to knit. Has knit many little hats for [[Nadia]]. Likes birds?
 

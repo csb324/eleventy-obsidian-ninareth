@@ -12,11 +12,9 @@ Location: Thelran Asari
 
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Thelran Asari]]</span></span>
 
-School that we hear [[Pleetos Alentas]] works out
+School that we hear [[Pleetos Alentas]] works out of. 
 
 ## NPCs
-
-
 {% include 'list-references.html', reference_data: npcs %}
 
 

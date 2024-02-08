@@ -9,7 +9,7 @@ Home: Jalantar
 Affiliation: Dragon's Hide
 ---
 
-# Relakas Freed
+# Relakas Freid
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Dragonborn</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>

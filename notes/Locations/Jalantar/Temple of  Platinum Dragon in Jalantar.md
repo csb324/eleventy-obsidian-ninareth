@@ -7,7 +7,7 @@ tags:
 Location: Praise District
 ---
 
-# Temple of  [[Order of the Platinum Dragon]] in [[Jalantar]]
+# Temple of [[Order of the Platinum Dragon]] in [[Jalantar]]
 Temple, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Praise District]]</span></span>
 
 Worships [[Bahamat]], part of the [[Order of the Platinum Dragon]]

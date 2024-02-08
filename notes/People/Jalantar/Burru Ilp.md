@@ -9,6 +9,7 @@ Home: The Fallsides
 Affiliation:
   - Galaphanel
   - Unscaled
+Events: Dragon Scales Ahhhh
 ---
 
 # Burru Ilp
@@ -18,6 +19,7 @@ Affiliation:
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[The Fallsides]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Galaphanel]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Unscaled]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Events</span><span class="inline-field-value">[[Dragon Scales Ahhhh]]</span></span>
 
 A half-orc who used to be a larger man, balding and in his late 30's. 
 

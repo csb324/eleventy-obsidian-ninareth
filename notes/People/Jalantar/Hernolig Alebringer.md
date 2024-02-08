@@ -19,10 +19,10 @@ Pronouns: " he/his"
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> he/his</span></span>
 
 Large potbellied dwarven man in a long white tunic
-- 
+
 Convert at the temple, recently started worshipping [[TrueSilver]] as well.
 
 ### Who're they to us? 
 Has been friendly to [[Hugh]], seems to have been partially converted by him, starting a proposal for how to expand the practice in [[Jalantar]]
 
-Noralin Brickview- small and petite dwarven woman with very light stubble
+[[Noralin Brickview]] - small and petite dwarven woman with very light stubble

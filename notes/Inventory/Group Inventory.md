@@ -2,110 +2,191 @@
 {}
 ---
 # Group Inventory
-Gold - 2,894
 
-### Potions:
+### Currency - 4,631
+-$1000 gp as collateral to [[Lance Corporal Jalvena Kharim]]
 
-Greater healing - 
-Regular healing - 
 
-### Magic Items:
+## Potions:
 
-[[Cloak of Elvenkind]]
-Carried by [[Rez]]
+Healing:
+	Superior healing (900) - 1, 1 Carried by [[Rez]]
+	Greater healing (400) - 2
+	Regular healing (200) - 1
+Potion of Rage - Carried by [[Freya]], [[Rhynilex Svenik|Rhyn]]
+Potion of Darkvision - 4
+Potion of Necrotic Resistance - 2
+Aid - 2
+Heroism - 2
 
-[[Summoning Stone]]
-Carried by [[Rez]], given to [[Father Thronestone]] to power the [[Dragonsfire Forge]]
+## Scrolls:
 
-[[Gust Fan]]
+Silence [[Rez]]
+Detect Thoughts [[Rez]]
+Feather Fall [[Costi]]
+Clairvoyance
+
+## Magic Items:
+
+[[Cloak of Elvenkind]] (A)
+Carried by [[Rez]], worn by [[Hugh]]
+
+[[Victor's Gloves]] (A)
 Carried by [[Costi]]
-
-[[Bag of Screams]]
-Carried by [[Freya]]
-
-[[Victor's Gloves]]
-Carried by [[Costi]]
-
-[[Ivory Pistol]]
-Carried by [[Adrienne Spout|Adrienne]] 
 
 [[Circlet of Sending]]
-Carried by [[Adrienne Spout|Adrienne]]
+Carried by [[Freya]] (A)
 
-[[Magically Resistant Chain]]
-Carried by [[Costi]]
-
-[[Shadowfell Shard]] 
+[[Shadowfell Shard]] (A)
 Carried by [[Rez]]
 
-[[Blue Dragonstaff]]
+[[Blue Dragonstaff]] (A)
 Carried by [[Rez]]
-
-[[Boots of Endless Walking]]
-Carried by [[Costi]]
 
 [[Rez's Riddle Machine]]
 Carried by [[Rez]]
 
-[[Ring of Protection]]
-Carried by [[Rez]]
-
-[[Amulet of Blasting]]
+[[Lesser Ring of Protection]] (A)
 Carried by [[Costi]]
+
+[[Amulet of Blasting]] (A)
+Carried by [[Hugh]]
 
 [[Concoction of Conflagration]]
 Carried by [[Rez]]
 
-### Monster Parts
+[[Curator Quills]]
+Carried by [[Freya]]
 
-Dragon Scales
+[[Tophat of the Sharp Mind]] (A)
+Carried by [[Hugh]]
+
+[[Blow Em]] (AKA Blowie)
+Carried by [[Freya]]
+
+[[Claw Tattoos]] (A)
+Carried by [[Freya]]
+
+[[Nourishing Loafs]]
+
+[[Skeleton Key]]
+Carried by [[Rez]]
+
+[[Deck of Illusions]]
+Carried by [[Rez]]
+
+[[Potential]]
+Carried by [[Costi]]
+
+[[Scales of Chaos]] (A)
+Carried by [[Rez]]
+
+Strand of True Silver
+Carried by [[Hugh]]
+
+[[Blue Rose]] from [[Corellon Larethian]] 
+Carried by [[Hugh]]
+
+Githyanki Stone Tablet
+
+[[Moradin's Touch]]
+
+[[Boots of Levitation]]: cast at will (A), [[Rhynilex Svenik|Rhyn]] 
+
+[[Greater Ring of Protection]]: +1 AC, +1 Saves (A)
+Carried by [[Hugh]]
+
+[[Ring of Telekinesis]]: Cast at will, only target object not worn or carried. When cast, move up to 1000 lbs, 30 ft in any direction not beyond 60. Can throw or exert fine control. (A)
+[[Costi]]
+
+[[Cloak of the Manta Ray]]: breathe underwater, swimming of 60ft (A)
+[[Hugh]]
+
+[[An Ice Brand]]: +1 long sword, d8 cold (A)
+[[Freya]]
+
+[[Fire Resistant Breastplate]]
+Carried by [[Adrienne Spout|Adrienne]]
+
+[[Flametongue Longsword]]
+Carried by [[Adrienne Spout|Adrienne]]
+
+[[Reverberating String]]
+Carried by [[Adrienne Spout|Adrienne]]
+
+[[Bag of Screams]]
+
+[[Dagger with Holy Symbol]]
+Carried by [[Adrienne Spout|Adrienne]]
+
+[[Harp]] - at the [[Temple of Corellon Outside Quaath]]
+
+[[Weirefesteria]] anchor tree bark with sigils 
+
+Magical red stone dust from [[Weirefesteria]] anchor tree
+
+[[G'zraad]] golden fingers
+
+Disco ball scrying focus
+Carried by [[Hugh]]
+
+[[Ring of Temporal Salvation]] (A)
+Carried by [[Rez]]
+
+## Monster Parts
+
+### Dragon Scales
 Carried by [[Freya]]
 	Blue - 8
 	Red - 9
 
-[[Curator Quills]]
-Carried by [[Freya]]
+[[Winifey]] tattoo skin flap
 
-Counterspell Scroll
-Carried by [[Costi]]
+## Mundane Items: 
 
-### Mundane Items:
-Gems:
+### Costi Spell Materials
+Parchment - 5 spell levels
+
+### Gems:
+Includes:
 	Pearl
 	Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
-	Small diamonds - 500gp worth
-	diamond ring
+	diamond ring - 3's revivify's worth (900gp worth)
+	diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~1,000gp
 
-[[Vlad Grosu Patch]]
+### Books and Correspondence:
+[[The Unnatural Naturality]] - read by [[Jade]]
+[[Kith and Kin]] - read by [[Freya]], [[Rez]]
+[[Viardel Brensaschi]] - read by [[Costi]]
+[[Arkhosian Architecture: A Journey Through the Ages]]  - read by [[Jade]]
+[[Arkhosia (City)]] records - read by [[Jade]]
+[[Children's Field Guide]] - read by [[Hugh]]
+[[Shields of the Seven]] - read by [[Hugh]]
+[[The Quaath and Zalev Conflict Explain]] - read by [[Hugh]]
+[[The Horse Lords and Dragon Walls]] - read by [[Hugh]]
+[[Strategic Blunders of Noradan Oakshare]] - read by [[Hugh]]
+[[Built for Love]] - read by [[Hugh]], from [[Professor Leonard Klipitz]]
+[[On the Anatomy of a Dragon]] - read by [[Hugh]]
+[[The Second Sundering]] - read by [[Hugh]]
+[[The Changer]] - read by [[Hugh]]
+[[The Stones of the Forest]] - read by [[Hugh]]
+[[Pelican's Pixie]]  - read by [[Hugh]]
+[[The Tails of Trivolo]] - read by [[Hugh]]
+[[The Ascended]] - read by [[Costi]]
+[[Book on Preparing Dead Bodies]] - read by [[Hugh]]
+[[The Thrice Broken Trocaire]] - read by [[Costi]] and [[Rez]]
+[[Kith and Kin]] - Carried by [[Freya]] 
+Letter of introduction from [[The Matron]] of [[Izdeke]]
+Letter to Hugh from [[Charky]]
 
-Vial of strange orange moss
-Carried by [[Hugh]]
-
-[[Magically Resistant Chain]]
-Carried by [[Costi]], now with [[Magister]]
-
-Disguise kit
-Carried by [[Adrienne Spout|Adrienne]]
-
-[[Sqwank]]'s [[Wayfinders]] dog tag
-Carried by [[Freya]]
-
-Shorthand notes 
-Carried by [[Freya]], with [[Father Thronestone]]
-
-Unscaled shorthand key
-Carried by [[Rez]], with [[Father Thronestone]]
-
-Lanterns - 5
-
-Bag of Mischief: carried by [[Rez]]
-Includes:
+### Bag of Mischief:
+carried by [[Rez]]
 	[[Immovable Rod]]
 	Nets - 10
 	Ball bearings - I
-	Tar
+	Tar - 0
 	Oil - I
-	[[Vrolbekk Pixies]] dust - 5 vials
+	[[Vrolbekk Pixies]] [[Pixie dust]] - 5 vials
 	Chain
     cheap locks
     Chalk
@@ -116,7 +197,91 @@ Includes:
     Bells
     Stakes, small metal
     hammer set (6 sizes, quite small to normal size)
+    box of rusty screw
+    a small heart pillow embroidered with "sorry"
 
-Jorus Holy Symbol of [[Bahamat]]
-Carried by [[Rez]] 
+[[Vlad Grosu Patch]]
 
+Lead Box
+Carried by [[Hugh]]
+
+Disguise kit
+Carried by [[Adrienne Spout|Adrienne]]
+
+[[Sqwank]]'s [[Wayfinders]] dog tag
+Carried by [[Freya]]
+
+Lanterns - 5
+
+Metals to each member of [[The Unforged Few|Our-Party]] as "Heroes of [[Jalantar]]"
+
+Writ of Authority for [[Viliki]] 
+
+### Clothes
+One formal outfit each
+A generic uniform each
+Plain clothes each
+
+[[Xcanthak]] coins of favor - 6 (one per person in [[The Unforged Few|Our Party]])
+
+## Given to Others
+
+[[Summoning Stone]]
+Given to [[Father Thronestone]] to power the [[Dragonsfire Forge]]
+
+[[Gust Fan]]
+Given to [[Qik]]
+
+[[Magically Resistant Chain]]
+Given to [[Magister]]
+
+Shorthand notes 
+Given to [[Father Thronestone]]
+
+Unscaled shorthand key
+Given to [[Father Thronestone]]
+
+[[Jorus]] Holy Symbol of [[Bahamat]]
+Given to [[Ghez Yhutl]]
+
+Gorgorn petrification sac
+Given to [[Ulia Glorsbade]]
+
+Sword with the holy symbol of [[Pelor]]
+Given to [[Mother Dendee]] at the [[Arkohsia City Sunspot]]
+
+fancy ledger written in cipher from the bandits
+Given to [[Defana]]
+
+Feywild twig from giants
+Given to [[Ellinev Del]]
+
+Chorud Gem Studded Greatclub
+Given to [[Gia Yola]]
+
+[[The Slip Knife]]: dagger, when you get sneak attack you can force them to make DC 16 Str SVT or be prone. BA to attack a prone creature within 5ft, use half of sneak (A)
+Given to [[The Burning Sons]]
+
+[[Doss Flute]]: Cast fly, invisibility, levitate, protection from good and evil, animal friendship, protection from energy (fire), protection from poison (A)
+Given to [[The Burning Sons]]
+
+[[Cube of Force]]
+Sold to [[Baldred Duvey]]
+
+[[The Healing Brand]]: magical longsword - 4 charges, creature in 30ft, regain HP, expend charge heal d4+Cha (A)]]
+Sold to [[Baldred Duvey]]
+
+Githyanki Silver Greatsword
+Sold to [[Baldred Duvey]]
+
+[[Ivory Pistol]]
+Sold to [[Baldred Duvey]]
+
+[[Fire Raisers]] mace
+Carried by [[Jade]]
+
+[[Ring of Expanded Necrotic Capacity]]
+Carried by [[Jade]]
+
+[[Horn of Blasting]]
+Given to [[Rhynilex Svenik|Rhyn]]

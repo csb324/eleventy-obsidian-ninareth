@@ -21,7 +21,7 @@ module.exports = function(eleventyConfig) {
     })
 
     eleventyConfig.addCollection("sessions", function(collection) {
-        return collection.getFilteredByGlob("notes/Sessions/*.md").sort((a, b) => {
+        return collection.getFilteredByGlob("notes/Session Recaps/*.md").sort((a, b) => {
             const aIndex = parseInt(a.fileSlug.split("-")[1]);
             const bIndex = parseInt(b.fileSlug.split("-")[1]);            
             return bIndex - aIndex;
@@ -81,6 +81,11 @@ module.exports = function(eleventyConfig) {
 
                 if(urlParts[1]) {
                     url = urlParts[0].trim();
+                }
+                
+                const urlFlat = url.split("\/");
+                if(urlFlat.length > 1) {
+                    url = urlFlat[urlFlat.length - 1];
                 }
 
                 if(knownFileNames[url.toLowerCase()]) {

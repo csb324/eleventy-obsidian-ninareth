@@ -13,7 +13,7 @@ Band of students from [[Redscale]].
 
 Singer / Tambourine: [[Juliette]]
 Drums: [[Gunner]]
-Lyre: [[Opal]]
+Lyre: [[Opal (student)]]
 
 ## NPCs
 {% include 'list-references.html', reference_data: affiliations %}

@@ -19,5 +19,10 @@ Evil planes:
 
 Nice (?) planes:
 * [[Elysium]]
-* [[The Feywild]]
+* [[the Feywild]]
 
+Also:
+* [[Mechanis]]
+* [[The Astral Sea]]
+
+**Mirror planes:** [[The Shadowfell]] and [[the Feywild]].

@@ -42,4 +42,6 @@ Plane of Earth Auto-mine
 
 Gave [[Rez]] Riddle-machine
 
-Came across [[Freya]]'s symbol while researching his rock bag, it's in the margins "The Unnatural Naturality: A history of the creation of the prime material plane and an examiniation of it's relationship with the elemtal, outer, and mirror planes by T.Y. Gurscock" in 1753 - got in a used bookstore in [[Arkhosia (City)]] at [[Kildee's Ink and Quill]] about 40 years ago. 
+Came across [[Freya]]'s symbol while researching his rock bag, it's in the margins "The Unnatural Naturality: A history of the creation of the prime material plane and an examiniation of it's relationship with the elemental, outer, and mirror planes by T.Y. Gurscock" in 1753 - got in a used bookstore in [[Arkhosia (City)]] at [[Kildee's Ink and Quill]] about 40 years ago. 
+
+Offered to help procure diamonds for us to [[Resurrect Adrienne]], if we can pay

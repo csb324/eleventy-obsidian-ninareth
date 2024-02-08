@@ -43,7 +43,7 @@ The focus of all life and teaching is on how to better Eberron’s future. Incre
 > Eberron is divided into three distinct duchies. Each is in theory as powerful as the other, but the Luthei region is for all intents and purposes the dominant one, and the Duke v'Luthei functionally rules the whole nation. There is a Duke of each, and while they exercise power over their duchy, they bow to the Duke v'Luthei. Typically, a titled noble is referred to by their title, not their birthname. For most, use of their birthname is an insult, and many keep it closely guarded.
 
 **[[Luthei Region]]**
-**[[Dharinov Region]]**
+**[[Dharinov Duchy]]**
 **[[Bihor Region]]**
 
 ## Political Opposition

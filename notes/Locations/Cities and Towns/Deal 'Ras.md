@@ -9,7 +9,7 @@ tags:
 # Deal 'Ras
 City, Eberron
 
-Cultural capitol of the [[Dharinov Region]]. 
+Cultural capitol of the [[Dharinov Duchy]]. 
 Home to [[AVAD]].
 Twin city with [[Jezeten]]
 

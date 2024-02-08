@@ -9,7 +9,7 @@ Location: Dilandil
 # 50 Mile Fire
 Region, <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Dilandil]]</span></span>
 
-Very spooky wasteland. The Taleemian army created this during [[The Great War]], using magic still not well understood.
+Very spooky wasteland in the [[Liveth forest]]. The Taleemian army created this during [[The Great War]], using magic still not well understood.
 
 ## NPCs
 {% include 'list-references.html', reference_data: npcs %}

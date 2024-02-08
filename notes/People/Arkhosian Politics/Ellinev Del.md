@@ -2,22 +2,24 @@
 type: npc
 tags:
   - npc
-Status: alive
+Status: dead
 Relationship: neutral
 Home: Jalantar
 Affiliation:
   - The Providers
   - Arkhosian Delegates
+  - Terrorist Activity Investigation  Committee
 Pronouns: she/her
 Location: Gorva's Observatory
 ---
 
 # Ellinev Del
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">dead</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Jalantar]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Providers]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Arkhosian Delegates]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Terrorist Activity Investigation  Committee]]</span></span> 
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value">she/her</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Gorva's Observatory]]</span></span>
 
@@ -27,7 +29,9 @@ Has been vocally leading the response to the recent [[Jalantar]] [[The Providers
 
 Appears to be an artificer, says that all of her work is funded by and done on the behest of the [[Jalantar]] government. 
 
-Knows about warforged, and seemed to guess the [[Hugh]] had memory problems when he mentioned that he was from [[Eberron]]. Said she's worked on reverse engineering experiments in the past. Says most warforged are only used as tools of violence, and that when their purpose is served they are often coming to consciousness (seen as a bad thing). Says fixing his memory would need to be done by an eberronian master artificer. Warns us to be careful on how we expose Hugh to [[Holy Maker Stormswallow]]
+Knows about warforged, and seemed to guess the [[Hugh]] had memory problems when he mentioned that he was from [[Eberron]]. Said she's worked on reverse engineering experiments in the past. Says most warforged are only used as tools of violence, and that when their purpose is served they are often coming to consciousness (seen as a bad thing). Says fixing his memory would need to be done by an eberronian master artificer. Warns us to be careful on how we expose Hugh to [[Holy Maker Stormswallow]].
+
+Assassinated in the [[Election Day Attack]]. [[Jade]] has as many of her notebooks as she could find.
 
 ### Background
 Served with [[Victor]] for some time in the [[Arkhosian Military]].  
@@ -45,4 +49,10 @@ Sent us a note in [[session-27]]
 
 Invited [[The Unforged Few]] to some [[The Providers]] meeting in the lead up to [[Arkhosian Elections]]. It won't be as lit as [[session-7|the last one]].
 
-Went to the [[Bellisme Show]] and connected with [[The Unforged Few]] and [[Victor]] - he's going to speak to the Committee (at least those that aren't arrested)
+Went to the [[Bellisme Show]] and connected with [[The Unforged Few]] and [[Victor]] 
+
+Asked [[The Unforged Few|Our Party]] to look into the [[Bellisme Show]] attack and the [[Fire Raisers]]. We gave her the fake information provided by [[Winifey|Winnie]] as 'progress'
+
+Brought us in for questioning about [[Threthdia Scrivit]] and the [[Threthdia Assassination]], we tried to play it cool with [[Julian Slater-Runehorn|Julian]]'s coverstory at first, but when she seemed skeptical we folded and told her most of the real truth. They trusted us enough to let us head off to [[Arkhosia (City)]] but required us to check-in once we reach the city, and gave us a timeline. 
+
+[[notes-57]] Interviewed us when we arrived to [[Arkhosia (City)]], went from friendly at first to very untrusting once we covered the [[Fort Chyvasti]] timeline and didn't provide any information on [[Ulia Glorsbade]]. Realizing we were getting ourselves in trouble, we sent her a letter saying there was more to the story - she wasn't buying it, but said we can meet again to tell her 'the truth'.

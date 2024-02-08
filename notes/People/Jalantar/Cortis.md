@@ -7,6 +7,7 @@ Race: halfling
 Relationship: neutral
 Home: The Fallsides
 Affiliation: Unscaled
+Events: Dragon Scales Ahhhh
 ---
 
 # Cortis
@@ -15,6 +16,7 @@ Affiliation: Unscaled
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[The Fallsides]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Unscaled]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Events</span><span class="inline-field-value">[[Dragon Scales Ahhhh]]</span></span>
 
 Halfling
 

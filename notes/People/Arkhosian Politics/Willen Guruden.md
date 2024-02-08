@@ -26,6 +26,8 @@ Location: Guruden Estate
 
 Pronounced *gu ru DEN*
 
+An older green dragonborn, very fancy. 
+
 ### Background 
 He owns most of [[Tinzelven]]. Or, at least half.  A known military fellow. 
 

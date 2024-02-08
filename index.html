@@ -6,7 +6,7 @@ layout: default
 
 <h3>Latest sessions:</h3>
 <ul>
-  {% for post in collections.sessions limit: 5 %}
+  {% for post in collections.sessions limit: 10 %}
   <li>
     <a href="{{post.url}}" title="{{post.title}}">
       {{post.data.sessionTitle | replace: '-', ' '}}

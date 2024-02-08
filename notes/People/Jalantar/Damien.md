@@ -16,7 +16,6 @@ Affiliation: Julian Slater-Runehorn
 
 Navy skinned elf, gray haired, stout man. He holds a crossbow on one hand and a white pipe in the other. 
 
-
 ### Background
 A former employee of [[Julian Slater-Runehorn|Julian]]'s has been living in one of his properties. years ago, his gambling debts transferred his property to [[Julian Slater-Runehorn|Julian]]. He's recently acquired an item that he wants -- if he parts with it Julian will forgive a significant portion of his debts and continue living in his house. If he doesn't he will need to leave, and pay Julian what he owes. The item is an instrument, a pipe -- fancy and magic, but doesn't want to tell us the details. 
 

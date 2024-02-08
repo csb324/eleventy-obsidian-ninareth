@@ -37,7 +37,7 @@ Has a good friend “Uru” , a large 12 point elk, and a good friend in [[Jalan
 
 ### Past Lives
 
-Born in [[Deregheir]], he and his family were taken to [[Zalev]] and enslaved when he was young. when he was old enough, he joined the [[Zalevi Military]] just long enough to get combat training, then killed his unit (with the other enslaved soldiers). 
+Born in [[Deregheir]], he and his family were taken to [[Zalev]] and enslaved when he was young. When he was old enough, he joined the [[Zalevi Military]] just long enough to get combat training, then killed his unit (with the other enslaved soldiers). 
 
 He became a notorious criminal - but the crime was freeing slaves. He was known as The Hunter. Then he moved to [[Tinzelven]] and started getting politically involved in [[Arkhosia]]. That's where he linked up with the [[Groups and Organizations/Fire Raisers]]. 
 
