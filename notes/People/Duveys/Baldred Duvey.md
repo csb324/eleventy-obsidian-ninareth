@@ -11,6 +11,7 @@ Race: human
 Relationship: none
 Home: Quaath
 pronouns: " she/her"
+Affiliations: Duvey Family
 ---
 
 # Baldred Duvey
@@ -19,6 +20,7 @@ pronouns: " she/her"
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">none</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Quaath]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">pronouns</span><span class="inline-field-value"> she/her</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliations</span><span class="inline-field-value">[[Duvey Family]]</span></span>
 
 Probably the [[Baldred Duvey|B. Duvey]] from the [[Locations/Arkhosia City/Duvey Crypt|Duvey Crypt]]
 

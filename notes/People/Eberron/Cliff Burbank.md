@@ -16,6 +16,7 @@ Affiliation:
   - Julian Slater-Runehorn
   - Duchess v'Dharinov
   - Beating Heart Battalion
+  - Burbanks
 ---
 
 # Cliff Burbank, the 4th (AKA Cliff)
@@ -29,6 +30,7 @@ Affiliation:
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Julian Slater-Runehorn]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Duchess v'Dharinov]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Beating Heart Battalion]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Burbanks]]</span></span>
 
 Husband of [[Sienna Burbank]],  an [[Eberronian Military]] colonel. 
 

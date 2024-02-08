@@ -1,5 +1,6 @@
 ---
 type: world-event
+status: ended
 Status: Ongoing
 ---
 

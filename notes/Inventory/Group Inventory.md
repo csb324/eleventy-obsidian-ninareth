@@ -3,17 +3,21 @@
 ---
 # Group Inventory
 
-### Currency - 4,844
+### Currency - 4,631
+-$1000 gp as collateral to [[Lance Corporal Jalvena Kharim]]
 
 
 ## Potions:
 
-Superior healing (900) - 1, 1 Carried by [[Rez]]
-Greater healing (400) - 2
-Regular healing (200) - 1
+Healing:
+	Superior healing (900) - 1, 1 Carried by [[Rez]]
+	Greater healing (400) - 2
+	Regular healing (200) - 1
 Potion of Rage - Carried by [[Freya]], [[Rhynilex Svenik|Rhyn]]
 Potion of Darkvision - 4
 Potion of Necrotic Resistance - 2
+Aid - 2
+Heroism - 2
 
 ## Scrolls:
 
@@ -210,6 +214,8 @@ Carried by [[Freya]]
 Lanterns - 5
 
 Metals to each member of [[The Unforged Few|Our-Party]] as "Heroes of [[Jalantar]]"
+
+Writ of Authority for [[Viliki]] 
 
 ### Clothes
 One formal outfit each
