@@ -12,7 +12,7 @@ We go to dinner at the [[The Tiamat House]], which is now covered in silver tarp
 
 [[Pik]] and [[Freya]] bonded over being angry and agreed to a firendly fight. [[Costi]] asked to learn some magic from [[Magister]],  and let him copy a page from his spellbook. [[Rez]] and [[Vask]] talked about [[Ghez Yhutl]] and [[Father Thronestone]]. [[Victoria Several]] and [[Adrienne Spout|Adrienne]] talked about the process of [[Vask]] convincing her to buy [[The Tiamat House]], and who she'll use her new vote in the [[Arkhosian Elections]] to support. [[Costi]] wants to chat with her about [[The Providers]] and the [[Arkhosian Elections]]. [[Adrienne Spout|Adrienne]] takled to [[Vask]] about his and [[Rez]]'s childhood and religious connection to the [[Order of the Platinum Dragon]]
 
-Suddenly, a gnome with glasses and very bushy beard, barges into the house with a very important message for [[Vask]], who has CHLAMYDIA. [[Hugh]] is worried, then sees for himself that nothing is wrong. 
+Suddenly, [[Rez Hires an Actor|a gnome with glasses and very bushy beard]] barges into the house with a very important message for [[Vask]], who has CHLAMYDIA. [[Hugh]] is worried, then sees for himself that nothing is wrong. 
 
 [[Freya]] and [[Pik]] fight. [[Pik]] wins, but [[Costi]] makes up for it with a pie to the face.
 
@@ -34,9 +34,9 @@ She wakes up to tell us about it -- [[Adrienne Spout|Adrienne]] senses that the 
 
 We also talked about our plan to stay safe on the road in the [[Vrolbekk Forest]], and [[Hugh]] remembered his spell that makes a hut to keep us safe. We went shopping for some provisions, namely lanterns and health potions.
 
-We discussed stopping by [[Father Gryuu]] at the [[Temple of Pelor outside Jalantar]], but decided against it since we don't know where that stone came from. 
+We discussed stopping by [[Father Gryuu]] at the [[Jalantar Sunspot]], but decided against it since we don't know where that stone came from. 
 
-Boots walking in a circle in a random glade - we all investiage and [[Costi]] puts them on. Turns out they're l[[Boots of Endless Walking]]. Useful! 
+Boots walking in a circle in a random glade - we all investiage and [[Costi]] puts them on. Turns out they're [[Boots of Endless Walking]]. Useful! 
 
 On the road, [[Rez]] answered a [[Hugh]] riddle all by herself without any help from [[Adrienne Spout|Adrienne]]. 
 
