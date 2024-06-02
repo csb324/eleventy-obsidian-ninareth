@@ -8,8 +8,13 @@ tags:
 
 The military of [[Eberron]]
 
-### Organizations
-[[Beating Heart Battalion]]
+### Hierarchy
+[[Eberronian First Division]]
+[[Eberronian Second Division]]
+- [[Beating Heart Battalion]]
+[[Eberronian Third Division]]
+... more divisions?
 
 ## NPCs
 {% include 'list-references.html', reference_data: affiliations %}
+

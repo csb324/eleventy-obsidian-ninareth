@@ -12,6 +12,9 @@ Based-in: Ninarith
 
 A group of adventurers, who became the heroes of [[The Three Dragons War]]. Their descendants are still running around, one assumes.
 
+## NPCs
+{% include 'list-references.html', reference_data: affiliations %}
+
 ## Members:
 * Aedara Aelinar
 * Lorarora Silentread

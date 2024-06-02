@@ -28,6 +28,7 @@ Scrap:
 
 [[Garida]] recognizes it as part of the manifest. She thinks the blood splattered side would've been the cover page with instructions of where to go and who to bring it to, etc. We remember that one of the registered necromancers was named [[Zesnel Ponner]], maybe she was the target for the delivery? [[Costi]] thinks that it's a bit strange how it was torn and hidden, maybe it was left on purpose? 
 
+Believing we've turned over the site, we head to 
 Believing we've turned over the site, we head to the place [[Adrienne Spout|Adrienne]] felt a undead ping. We all head that way, [[Costi]] pops out [[Samuel]] and they find a small amount of dust that is pulverized bone dust and bits of black fabric. It seems like it would take time to do, but maybe as though was someone was trying to hide it's existence. But it's a large amount. [[Garida]] says the fabric looks like what the attackers were wearing. [[Costi]] thinks it looks very similar to the shady figures he saw chasing us on the first night. We search the surrounding area for cave entrances, but don't seem to find any. 
 
 We bring the wagon back to [[Viliki]], but the [[Eberronian Military]] guards take it as evidence and say they'll return it to [[Garida]]. We go back to the [[Ratoucha]] and ask [[Lara Frozenwatcher]] to secure us the guard routes and any addresses affiliated with the registered necromancers list. 

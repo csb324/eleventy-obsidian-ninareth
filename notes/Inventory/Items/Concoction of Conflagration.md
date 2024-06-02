@@ -5,7 +5,7 @@ tags:
 Owned-by: The Unforged Few
 Carried-by: Rez
 Origin: Jalantar
-Status: " Active"
+Status: " Used"
 ---
 
 #  Concoction of Conflagration
@@ -13,7 +13,7 @@ Status: " Active"
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Carried by</span><span class="inline-field-value">[[Rez]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Origin</span><span class="inline-field-value">[[Jalantar]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value"> Active</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value"> Used</span></span>
 
 Item, potion bottle full of a bubbling red liquid that gives off a light heat
 

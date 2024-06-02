@@ -37,7 +37,12 @@ You can use these points as if they were normal sorcery points. The Scales can h
 * 9 -
 * 2 - empty necklace, missing 3 of my usual sorcery points
 * 13 -
+* 20 - (d10 : 9) 
 
 ### Activation - I
 * 3 (with 4 points) - Flame Strike CENTERED ON ME "Oops"
 * 8 (with 4 points) - polymorph myself and people near me, I get wings with fly speed 40ft. get action anew, but I am that animal
+* 2 (with 4 points) - me and one other creature of my choice are greater invisibility, concentrating
+* 1 (with 4 points) - everyone within 10 feet of me becomes invisible
+* 1 (with 4 points) - everyone within 10 feet of me becomes invisible
+* 9 (with 4 points) - *know in advance* I would get a huge burst of magical energy

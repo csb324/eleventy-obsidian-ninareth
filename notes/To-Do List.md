@@ -9,9 +9,9 @@ Owned-by: The Unforged Few
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
 ### Immediate
-* monster parts - yes tomorrow
-* duvey - yes tomorrow, sell items
-* go to the grove
+* tell [[Costi's mom]] that the passageway we found has been compromised
+* reply to [[Pruvki Forgaveat]] and stop his panicking re: experimental undead
+* Meet up with [[Willow]] or sending him?
 
 ### Short-Term
 
@@ -24,8 +24,6 @@ Owned-by: The Unforged Few
 * Track down [[Pleetos Alentas]]
 * Rescue [[Vrolbekk Pixies]] sister
 * Who the heck is [[The Curator]], and what do they want with [[Rez]], [[Adrienne Spout|Adrienne]], [[Freya]], and [[Jade]]? 
-* Take [[Adrienne Spout|Adrienne]]'s harp to [[Temple of Corellon Outside Quaath]]
-	* Meet up with [[Willow]] and orchestrate his 'vision' this Hulfni
 * [[Costi]] get [[Samuel]] aligned? Something [[Rhend Triverswill]] mentioned
 	* might get us more info on [[Our Fiend Samuel]]
 *  [[Costi]] return to [[Professor Vendorsmere]] for sword lessons "when he's ready"

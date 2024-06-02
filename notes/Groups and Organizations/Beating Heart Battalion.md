@@ -2,9 +2,16 @@
 type: org
 tags:
   - orgs/beating-heart
+aliases:
+  - Beating Hearts Battalion
+Affiliation:
+  - Eberronian Second Division
+  - Eberronian Military
 ---
 
 # Beating Hearts
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Second Division]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Military]]</span></span>
 
 A regiment within the [[Eberronian Military]]. 
 

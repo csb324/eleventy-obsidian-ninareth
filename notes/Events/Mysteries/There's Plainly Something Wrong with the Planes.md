@@ -13,3 +13,4 @@ Status: Ongoing
 * We don't know this but Tim's arc
 * The [[Fire Raisers]] seem to have opened up some kind of portal to the [[Elemental Plane of Fire]]
 * [[Freya's Mysterious Circles]] may represent overlapping planes
+* We've seen two augmented giants: sylvan with a twig inside it, and a half-undead with the green vial

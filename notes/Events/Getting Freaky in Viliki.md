@@ -23,6 +23,7 @@ There's a small wall around the town, with a break in the walls overlooking the 
 	* He reports directly to the [[Burbanks]]. 
 	* He issued the main reports that are leading us on this necromantic goose chase
 * [[Security Director Aldi]] leads the [[Viliki]] guard, and has an outpost in the western side of town that is more prone to crime. He says it's mostly a residential area except the [[Founding Flagon]], an inn. 
+	* Learn he's undercover and we should not talk to him or the guards
 * [[Pooka]] the Grave-tender of the [[Viliki Boneyard]], 
 	* we spoke about things have been going missing, and they'll know more. 
 	* The robbings have been correlated with official military exhumations, and nothing has been found other than things that could be in the graves.
@@ -35,12 +36,15 @@ There's a small wall around the town, with a break in the walls overlooking the 
 * [[Baron Pendaras Nushkev]] lives in [[Viliki]], but appoints power out to the mayor. 
 * [[Captain Kalorek Plunderov]] is in the [[Eberronian Second Division]] and oversees the military garrison there
 * [[Shay]] who suspiciously watched our friend leave before he was attacked - seems like it's a false identity. We tried to look into her house, there's a trapped area and she seems to have alarmed against intruders. She's hired guards and cleaned up any signs of paperwork or red liquid are all put away and hidden. Her house is also wildly booby-trapped in like a day.
+	* The secret tunnel leading from her house goes to an unsanctioned necromantic chamber
 * [[Lance Corporal Jalvena Kharim]] is leading the investigation, has a very tough stance on crime, and believes a group called [[Shari's Boys]] to be responsible. We're starting to wonder if her discontent with the [[People/Eberron/Burbanks|Burbanks]] might lead her to be involved. 
+* Archer we killed we find a cipher on the body of the archer, and he has magical boots.
 
 ### Registered Necromancers
 All four have left [[Viliki]] within the last two weeks. Coincidence? See if there's people who know them? 
 	[[Sinan]]
 	[[Zesnel Ponner]] (end of their name was listed on the caravan manifest)
+		* may have been a halfling or gnome, was small
 	[[Mim]] 
 	[[Seshum Cinen]]
 
@@ -49,3 +53,4 @@ All four have left [[Viliki]] within the last two weeks. Coincidence? See if the
 * The military guards went to investigate the cart attack, were semi-suspiciously close by, and there were signs of undead covered up there
 * [[Lance Corporal Jalvena Kharim|Jalvena]] expressed a lot of strong difference of opinion from the [[People/Eberron/Burbanks|Burbanks]]
 * The military was watching [[Security Director Aldi]], and he's been absent 
+* We spy a man in dark clothing like the mercenary men we saw in [[Building 17]] , and two women in [[Eberronian Military]] uniforms, guarding a coffin from the vampire we attacked. We recognize one of the women from the barracks, they're a private, and a corporal. They re-enter the necromancy chamber we found. 

@@ -50,7 +50,9 @@ I, \_\_\_\_\_, am excited to join the Collection and do so willingly.
 
 ## Clues to Who They Really Are
 * Gives off desecrated vibes
-* Has the ability to be multiple places simultaneousy?
+* Has the ability to be multiple places simultaneously?
+* [[The Raven Queen]] doesn't know who they are already
+* Knows the [[Alhoon]]s and where they are
 
 ## Important Conversations:
 

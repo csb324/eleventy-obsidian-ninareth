@@ -1,0 +1,14 @@
+---
+{}
+---
+- Learned to traverse between material and 
+- Said to have studied at slavaadi college but no records back that up. Her connections do though.
+- The book cites a number of her academic writings 
+- Fought for a number of military groups
+- went off the map for 15 years, lots of research and speculation on this
+- No record found until corpse was pulled from sewers in Taleem
+- Her last mercenary expedition was into the wastes
+- Worked to bring the silver hand to power to power
+- She used the hands resources to fund research that led her to understanding how to manipulate the power that binds the material plane: dunamancy
+- Many references to a person known as M. Many believe M is Morthos
+- Shortly after her body was found, it vanished and has not been seen since

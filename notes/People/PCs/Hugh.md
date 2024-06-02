@@ -3,6 +3,7 @@ type: PC
 aliases:
   - Human named Finn
   - Mr. Finn
+  - Finn
 tags:
   - PC
 Status: alive
