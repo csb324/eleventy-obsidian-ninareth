@@ -14,18 +14,18 @@ In the morning, [[Jade]] tells us to keep an eye out for blood sacrifices, we as
 
 We decide we need to go put healing potions, and are talking through our day when [[Rhynilex Svenik]] comes to get us. We say our list is that, to investigate the corrosive liquid that's been appearing (who also sells the potions), look at their patrol routes, and speak to the dead dragonborn. 
 
-Heading to the [[Bahamat]] carcasses, below the main citadel in [[Izdeke]]. She points to a blue dragonborn in blue plate who they think is the leader, she was carrying the prophecy and the scale. All four appear to be women, there's a silver dragonborn in fine robes, a copper dragonborn in a medium breastplate with sheaths on her side, and red dragonbonr in tattered red armor and a bandolier of knives. The silver is our first target, and [[Hugh]] asks:
+Heading to the [[Bahamut]] carcasses, below the main citadel in [[Izdeke]]. She points to a blue dragonborn in blue plate who they think is the leader, she was carrying the prophecy and the scale. All four appear to be women, there's a silver dragonborn in fine robes, a copper dragonborn in a medium breastplate with sheaths on her side, and red dragonbonr in tattered red armor and a bandolier of knives. The silver is our first target, and [[Hugh]] asks:
 
 What is your goal here at the anchor tree?
 	To right what is wrong
 and how can I help?
-	Reclaim [[Bahamat]] touch from drow
+	Reclaim [[Bahamut]] touch from drow
 What is the Platinum scale named [[Bahamat's Touch]] used for?
 	Only [[Lizbit]] knew
 How did you receive the prophecy on found on [[Lizbit]] body
 	It was given to [[Lizbit]]
 I can relay your passing to your superiors, where did you get sanctioned from?
-	I served [[Bahamat]] in [[Durmask]]
+	I served [[Bahamut]] in [[Durmask]]
 
 To the copper dragonborn:
 

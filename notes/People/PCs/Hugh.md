@@ -16,7 +16,7 @@ Pronouns: " he/they"
 Class: Cleric
 ---
 
-# Human "Hugh" Named Finn
+# Human "~~Hugh~~" "Finn" Named Finn
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Warforged</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Eberron]]</span></span>
@@ -31,7 +31,9 @@ A <span class="dataview inline-field"><span class="inline-field-key">Class</span
 
 Insists he's [[Costi]]'s dad. But also, wants to help Costi *FIND* his dad.
 
-Has no memories beyond the last year or so (someone went in and scrambled his brain around or something). In that time in between, he was in the [[Acedian Mountains]] at a forge, where he connected with [[TrueSilver]] (spiritually). Has a brand on his bicep from the [[Beating Heart Battalion]] 
+~~Has no memories beyond the last year or so~~ (someone went in and scrambled his brain around or something). In that time in between, he was in the [[Acedian Mountains]] at a forge, where he connected with [[TrueSilver]] (spiritually). Has a brand on his bicep from the [[Beating Heart Battalion]] 
+
+**Update**: He got his memories back and his name is Finn now.
 
 Likes to knit. Has knit many little hats for [[Nadia]]. Likes birds?
 
@@ -46,3 +48,5 @@ His spiritual weapon is a flaming bird, or knitting needles, or perhaps a big bo
 
 
 **[[Riddles GIF.gif]]**
+
+

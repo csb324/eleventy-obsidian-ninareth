@@ -12,6 +12,7 @@ Owned-by: The Unforged Few
 * tell [[Costi's mom]] that the passageway we found has been compromised
 * reply to [[Pruvki Forgaveat]] and stop his panicking re: experimental undead
 * Meet up with [[Willow]] or sending him?
+* write a report on what happened, for their records.
 
 ### Short-Term
 

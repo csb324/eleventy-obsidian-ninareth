@@ -7,7 +7,7 @@ Race: human
 Relationship: neutral
 Workplace: Temple of  Platinum Dragon in Jalantar
 Affiliation:
-  - Bahamat
+  - Bahamut
   - Order of the Platinum Dragon
 Location: Jalantar
 ---
@@ -17,7 +17,7 @@ Location: Jalantar
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">human</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Workplace</span><span class="inline-field-value">[[Temple of  Platinum Dragon in Jalantar]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Bahamat]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Bahamut]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Order of the Platinum Dragon]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Jalantar]]</span></span>
 

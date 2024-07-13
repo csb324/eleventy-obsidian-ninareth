@@ -53,7 +53,7 @@ Originated the group that calls themselves the Unscaled.
 * Shorthand notes 
 * [[Sqwank]]'s [[Wayfinders]] dogtags
 * [[Blue Dragonstaff]]
-* [[Jorus]] [[Bahamat]] holy symbol and notebook
+* [[Jorus]] [[Bahamut]] holy symbol and notebook
 * [[Hugh]] takes a vial of bone adehsive (black) and corrosive and flammable material (red).
 
 ### Threads

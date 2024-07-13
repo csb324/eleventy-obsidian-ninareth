@@ -16,7 +16,7 @@ For recap, see also: [[session-50]]
 -   Jade quizzes Giary in a getting to know you sort of way
 	-   Jade thinks we are rich
 	-   Giary lied to us about not knowing where Niko was
-	-   Costi unties his shoes and tries to trip Giary - and succeeds!
+	-   Costi unties his shoes and tries to trip [[Giary]] - and succeeds!
 	-   Things on Jade’s “Giary” card
 		-   he lies
 		-   he is insecure    
@@ -79,6 +79,7 @@ For recap, see also: [[session-50]]
     
 
 -   Freya gives Jade some background on her life (all the basic things that the party knows). I tell her about A-M-U-B-T-A-H
+		- Clara in 2024 says: *shut the fuck up, it was right here.* 
     
 -   Costi trains on his dagger. 
     
@@ -123,24 +124,10 @@ For recap, see also: [[session-50]]
 -   After the fight, Costi finds a box of rotting sheep corpses.
     
 -   Freya doesn’t find any things in their pockets. She does find a green vine embedded in its pec. Pull out a tendril of vine about 9 inches long. 
-    
-
 -   Costi does detect magic and it seems like it’s from the feywild
-    
-
 -   “Wiggle if you are alive” he asks in Sylvan (nat 20 on persuasion) - it wiggles meaning it is alive
-    
 -   Freya keeps it
-    
-
 -   We take 10 vials of giant blood (and Costi sucks on a giant toe - jk)
-    
 -   We put them under their box trap 
-    
-
 -   We end the session with Giary letting us know we are close to the Ruins of Ruins of Fort Chyvensti where Ulia is rumored to be. We short rest and Rez gives us a song of rest.
-    
-
-
-
-**
+   

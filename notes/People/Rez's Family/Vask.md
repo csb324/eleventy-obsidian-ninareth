@@ -8,7 +8,7 @@ Relationship: neutral
 Home: Kazan
 Affiliation:
   - The Silver Halves
-  - Order of the Platinum Dragon
+  - Bahamut
   - Rez's Family
 Class: " Gunslinger"
 ---
@@ -19,7 +19,7 @@ Class: " Gunslinger"
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Kazan]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Silver Halves]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Order of the Platinum Dragon]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Bahamut]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Rez's Family]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value"> Gunslinger</span></span>
 

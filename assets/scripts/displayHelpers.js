@@ -16,7 +16,9 @@ class DisplayHelpers {
       const isLocation = this.subsetMatch(p, 'Location', dv);
       const isWorkplace = this.subsetMatch(p, 'Workplace', dv);
       const isAlmaMater = this.subsetMatch(p, 'Alma Mater', dv);
-      return isHome || isLocation || isWorkplace || isAlmaMater;
+      const isAffiliated = this.subsetMatch(p, 'Affiliation', dv);
+
+      return isHome || isLocation || isWorkplace || isAlmaMater || isAffiliated;
     })
     .sort(p => p.file.name, 'asc')
     .map(k => `[[${k.file.name}]]`))

@@ -7,6 +7,7 @@ Affiliation:
   - Gia'Thoren
   - Dilandilian Army
   - Rez's Family
+  - Bahamut
 Class: " Druid"
 ---
 type: npc
@@ -22,6 +23,7 @@ tags:
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Gia'Thoren]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Dilandilian Army]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Rez's Family]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Bahamut]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Class</span><span class="inline-field-value"> Druid</span></span>
 
 A stern man with bronze scales on his face. A bit of a dick. Very watchful of his family. Likes to scry on his sister [[Rez]]. 

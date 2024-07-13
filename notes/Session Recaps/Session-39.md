@@ -38,7 +38,7 @@ Eventually, [[Hugh]] told [[Father Thronestone]] about [[Pleetos Alentas]] -- an
 
 [[Father Thronestone]] told us he intended to confess to his order, and he expected to be removed from his post. But he *really* wants to read the notes we retrieved, and says he's the only person who might be able to make sense of them -- and, importantly, see how sophisticated their research was. 
 
-[[Adrienne Spout|Adrienne]] asked him if he knew of anything untoward going on in any of the other religious orders. [[Father Thronestone]] assumed she meant [[Oghma]]'s followers, rather than [[Bahamat]]'s. She alluded to the [[Order of the Platinum Dragon]], but wouldn't say why.
+[[Adrienne Spout|Adrienne]] asked him if he knew of anything untoward going on in any of the other religious orders. [[Father Thronestone]] assumed she meant [[Oghma]]'s followers, rather than [[Bahamut]]'s. She alluded to the [[Order of the Platinum Dragon]], but wouldn't say why.
 
 Eventually he got real sick of [[Adrienne Spout|Adrienne]]'s shit in particular.
 

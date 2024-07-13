@@ -38,7 +38,7 @@ Anyway, [[Rez]] had finally had enough and cast Hold Person on Burru. [[Adrienne
 
 ## Combat ensued. 
 
-[[Hugh]] freed [[Cortis]], and asked for his help. [[Cortis]] said "sure whatever" and ran away, so [[Hugh]] knocked him out again. [[Adrienne Spout|Adrienne]] made a big deal about [[Freya]] having the true draconic powers, what with her claws and all. [[Costi]] disguised himself as [[Sqwank]] and managed to convince the Paladin of [[Bahamat]] (yes, a paladin of [[Bahamat]] was there; his name was [[Jorus]]) that he had the keys and everyone was leaving. 
+[[Hugh]] freed [[Cortis]], and asked for his help. [[Cortis]] said "sure whatever" and ran away, so [[Hugh]] knocked him out again. [[Adrienne Spout|Adrienne]] made a big deal about [[Freya]] having the true draconic powers, what with her claws and all. [[Costi]] disguised himself as [[Sqwank]] and managed to convince the Paladin of [[Bahamut]] (yes, a paladin of [[Bahamut]] was there; his name was [[Jorus]]) that he had the keys and everyone was leaving. 
 
 Point being, we killed everyone, except [[Cortis]] -- who was immediately willing to tell us everything.
 

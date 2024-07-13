@@ -55,7 +55,7 @@ As [[Adrienne Spout|Adrienne]] is on watch someone sneaks up on her and tells he
 
 His squadron, [[Belas Kinklan]], an elven fighter, [[Belatar Aeleth]] a burly human, [[Shalak Devaran]] an elf in robes, [[Ravona Silentreed]] the druid are all set off to secure the area and set up defenses, the rest of his [[Gia'Thoren]] team. He is very condescending and scolds us on letting our guard down, then reveals he weekly scrys on [[Rez]] and [[Vask]] to make sure we don't endanger the family. We end up talking about [[Victoria Several|Victoria]] and [[Vask]] and learn he's been working on poetry, doesn't seem like she's fully convinced on him. This is good intel. We go back to sleep and say we'll talk through the rest in the morning.
 
-[[Rez]] flaunts what we've done, and says that he'll give our introductory letter to his commanding officer. Asking about his party, we learn they're from the army. [[Rez]] tells him about the [[Bahamat]] party, their oracle, and [[Dragon Scales Ahhhh]]. He shares his own updates -
+[[Rez]] flaunts what we've done, and says that he'll give our introductory letter to his commanding officer. Asking about his party, we learn they're from the army. [[Rez]] tells him about the [[Bahamut]] party, their oracle, and [[Dragon Scales Ahhhh]]. He shares his own updates -
 
 [[Zmaj]] tells us that one of the grafted might have been operating in [[Ru'Nileth]]. The only found blood, and a few mutilated corpses, but no scales - just diagrams. He's also heard rumors, it seems like it's spread and is talk of "putting down" new draconic creations, they call themselves [[Boulder Makers]]. 
 

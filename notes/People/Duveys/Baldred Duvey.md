@@ -22,7 +22,7 @@ Affiliations: Duvey Family
 <span class="dataview inline-field"><span class="inline-field-key">pronouns</span><span class="inline-field-value"> she/her</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliations</span><span class="inline-field-value">[[Duvey Family]]</span></span>
 
-Probably the [[Baldred Duvey|B. Duvey]] from the [[Locations/Arkhosia City/Duvey Crypt|Duvey Crypt]]
+Probably the [[Baldred Duvey|B. Duvey]] from the [[Duvey Crypt|Duvey Crypt]]
 
 ### Relationships
 - Was romantically involved with [[Victoria Several]]

@@ -47,7 +47,7 @@ We all sort of triggered [[Hugh]] about murders.
 
 After [[Hugh]] and [[Costi]] went to bed, [[Rez]] and [[Adrienne Spout|Adrienne]] and [[freya]] discussed having a collective bag of secrets, metaphorically. It's a good idea, but that doesn't mean we trust each other enough to do it. 
 
-We all crashed at [[the sheath and sickle]] after a LONG night. 
+We all crashed at [[The Sheath and Sickle]] after a LONG night. 
 
 The next morning, [[Adrienne Spout|Adrienne]] had a conversation with [[Costi]] about how in touch she is with [[Julian Slater-Runehorn|Julian]] (not in touch at all), and sort of soft-launched the trusting-each-other conversations that we are all due for. [[Costi]] seemed open to it, but needs to keep certain secrets anyway. [[Adrienne Spout|Adrienne]] didn't disagree. 
 
@@ -79,6 +79,6 @@ We came over and Giary let us know that 1) odds are, the [[Zalevi Military|Zalev
 
 Then [[Innis]] came in and let us know 4) [[Qik]] was also taken by zalevis. So she's coming with us. [[Vrolbekk Pixies|Bel]] is with her! We love that for him. 
 
-We used the diadem again to contact [[Kara]] and tell her to come to [[the sheath and sickle]]. she doesn't trust us but is coming over anyway. 
+We used the diadem again to contact [[Kara]] and tell her to come to [[The Sheath and Sickle]]. she doesn't trust us but is coming over anyway. 
 
 So. We don't have a plan, but we do have a PLAN, and it's to [[Zalevi Embassy Break-in|go free everyone in the zalevi embassy dungeon]]. 

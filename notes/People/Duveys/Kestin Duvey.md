@@ -18,6 +18,6 @@ pronouns: " he/him"
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Quaath]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">pronouns</span><span class="inline-field-value"> he/him</span></span>
 
-Probably the [[Kestin Duvey|K. Duvey]] from the [[Locations/Arkhosia City/Duvey Crypt|Duvey Crypt]]
+Probably the [[Kestin Duvey|K. Duvey]] from the [[Duvey Crypt|Duvey Crypt]]
 ### Relationships
 - Father is [[Albus Duvey]]

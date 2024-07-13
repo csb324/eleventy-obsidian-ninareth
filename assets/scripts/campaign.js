@@ -89,20 +89,20 @@ class Campaign {
   }
 
   getCities = () => {
-    let cities = Object.keys(app.metadataCache.fileCache).filter((c) => { 
-      return c.startsWith('Locations/Cities\ and\ Towns')
-    });
-    cities = cities.map((c) => {
-      return c.split("Locations/Cities\ and\ Towns/")[1].split(".")[0]
+    let values = [];
+    app.plugins.plugins.dataview.withApi((dv) => {
+      values = dv.pages('"Locations"').filter((c) => c.locationType == 'city').file.name.array();
     })
-    return cities;
+    return values
   }
 
   getValues = (whichPages, key) => {
     let values;
     app.plugins.plugins.dataview.withApi((dv) => {
+      console.log(dv.pages(whichPages).values);
       values = dv.pages()[key].array();
       values = values.filter(this.onlyUnique);
+      console.log(values);
     });
     return values;
   }
@@ -110,7 +110,7 @@ class Campaign {
   getLatestSession = () => {
     let values;
     app.plugins.plugins.dataview.withApi((dv) => {
-      values = dv.pages('"Sessions"').file.name.map((n) => {
+      values = dv.pages('"Session Recaps"').file.name.map((n) => {
         let d = n.split("-")[1];
         return parseInt(d);
       }).filter((n) => {

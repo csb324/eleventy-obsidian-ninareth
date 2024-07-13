@@ -116,21 +116,21 @@ Kiss the kids, don't let Costi lose the blade."
 
 [[Hugh]] remembers this being told to him, but it was planted in some way. Not maliciously, but intentionally placed. He thinks back to when that happened, was when he was being burned by the followers of [[Moradin]]. We all try to decipher what it means, but don't get far.
 
-We ask [[Finn]] what he wants to do tonight, and he says he wants to experience something. He decides to go drink, and we pick a place where the soldiers go. 
+We ask [[Hugh]] what he wants to do tonight, and he says he wants to experience something. He decides to go drink, and we pick a place where the soldiers go. 
 
 Outside, beside [[Cliff Burbank|Cliff]] and [[Clifford Burbank, the 5th|Fivey]] two warforged are waiting out there, it's [[Marigold]] and [[Ligo]]. [[Adrienne Spout|Adrienne]] goes to tell the [[People/Eberron/Burbanks|Burbanks]] that [[Hugh]] doesn't want to see them. 
 
 As soon as they leave, [[Hugh|Finn]] goes out and immediately hugs [[Marigold]]. She's clearly super excited and rambunctious. After pleasantly interrogating him, invites him to a "welcome dinner" that's apparently warforged only, and we all decide to go get beers tonight. 
 
-[[Shishta's]] is the bar they recommend we go to, and as we get there [[Marigold]] shows us around. [[Finn]] immediately gets flirting with her, [[The Unforged Few|Our Party]] all watches in shock. She tells us that the [[People/Eberron/Burbanks|Burbanks]] sort out mean or nice people into different battalions and keep them separate. 
+[[Shishta's]] is the bar they recommend we go to, and as we get there [[Marigold]] shows us around. [[Hugh]] immediately gets flirting with her, [[The Unforged Few|Our Party]] all watches in shock. She tells us that the [[People/Eberron/Burbanks|Burbanks]] sort out mean or nice people into different battalions and keep them separate. 
 
 [[Rez]] tells [[Hugh|Finn]] he should sending [[Magister]], and it gets us diverted for a while asking if there's anyone we know that he knew from before. [[Ligo]] comes back with lots of drinks, and we'll shift to celebrating. 
 
 [[Marigold]] keeps trying to stereotype peg all of us, and [[Hugh]] asks if there's thing he should know - she says yes but doesn't elaborate. [[Hugh|Finn]] says he doesn't intend to stay, and pretty blatantly says he doesn't trust him. [[Marigold]] disagrees, and they talk about whether [[Cliff Burbank|Cliff]] fixing them is enough to make up for his role in their memory wipes. 
 
-We ask about [[Hugh|Finn]] and [[Marigold]] at the same time, learning they're about the same age. [[Finn]]'s first memory being sunlight, and all of their maturity is naturally in their mind upon creation. 
+We ask about [[Hugh|Finn]] and [[Marigold]] at the same time, learning they're about the same age. [[Hugh]]'s first memory being sunlight, and all of their maturity is naturally in their mind upon creation. 
 
-[[Ligo]] asks if [[Hugh|Finn]] can do anything more now, and he expresses reticence to try. [[Adrienne Spout|Adrienne]] reminds that he has a gift at the quartermaster, if he wants it. [[Freya]] offers to fight, but [[Finn]] emphasizes he know what he likes. 
+[[Ligo]] asks if [[Hugh|Finn]] can do anything more now, and he expresses reticence to try. [[Adrienne Spout|Adrienne]] reminds that he has a gift at the quartermaster, if he wants it. [[Freya]] offers to fight, but [[Hugh]] emphasizes he know what he likes. 
 
 We also learn that [[Ligo]] has died, and follows [[Tyr]] - his afterlife was short, but he had a sword in his hand. They leave to go to their jobs, but [[Marigold]] begs [[Hugh|Finn]] to let them through him a party, and invites the rest of us to the afterparty. When he agrees, they leave.
 

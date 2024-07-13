@@ -8,7 +8,7 @@
 ## Potions:
 
 Healing:
-	Superior healing (900) - 1 by [[Costi]] 2  by [[Rez]] 1 by [[Hugh]] 1 by [[Freya]] 1 by [[Adrienne Spout|Adrienne]]
+	Superior healing (900) - 2  by [[Rez]] 1 by [[Hugh]] 1 by [[Freya]] 1 by [[Adrienne Spout|Adrienne]]
 	Greater healing (400) - 1
 	Regular healing (200) - 
 Potion of Rage - Carried by [[Freya]], [[Rhynilex Svenik|Rhyn]]
@@ -143,6 +143,7 @@ Hats of Disguise (5) (A)
 Kuo-Toa staffs - 1
 
 Glowy-green sorta undead making cylinders - 3
+
 ## Monster Parts
 
 ### Dragon Scales
@@ -150,9 +151,15 @@ Carried by [[Freya]]
 	Blue - 8
 	Red - 9
 
-[[Winifey]] tattoo skin flap
+Medusa snakes -5
+
+Medusa eyes - 2
+
+Bullette plates - 3
 
 ## Mundane Items: 
+
+[[Winifey]] tattoo skin flap
 
 vials of black ooze - 6
 
@@ -255,7 +262,7 @@ Given to [[Father Thronestone]]
 Unscaled shorthand key
 Given to [[Father Thronestone]]
 
-[[Jorus]] Holy Symbol of [[Bahamat]]
+[[Jorus]] Holy Symbol of [[Bahamut]]
 Given to [[Ghez Yhutl]]
 
 Gorgorn petrification sac

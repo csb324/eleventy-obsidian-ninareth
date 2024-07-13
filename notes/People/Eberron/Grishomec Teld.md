@@ -3,7 +3,6 @@ type: npc
 tags:
   - npc
 aliases:
-  - Capt. Teld
   - Major Teld
   - Gray Fur
 Status: alive
@@ -11,7 +10,7 @@ Race: " minotaur"
 Relationship: neutral-to-enemy
 Location: Burbank Compound
 Home: Burbank Compound
-Title: " Captain"
+Title: Major
 Affiliation:
   - Eberronian Military
   - Eberronian Seventh Brigade
@@ -23,11 +22,11 @@ Affiliation:
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral-to-enemy</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Burbank Compound]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Burbank Compound]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Title</span><span class="inline-field-value"> Captain</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Title</span><span class="inline-field-value">Major</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Military]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Seventh Brigade]]</span></span>
 
-He's an older minotaur, with graying fur, lots of muscle but some weight on top of it. He has a broken horn and a number of facial piercings, with well-worn armor and a huge tower shield on his back. He carries a giant axe seemingly made of bones forged together. His left hand is horrifically mangled and appears unusable. 
+He's an older minotaur, with graying fur, lots of muscle but some weight on top of it. He has a broken horn and a number of facial piercings, with well-worn armor and a huge tower shield on his back. He carries a giant axe seemingly made of bones forged together. His left hand is horrifically mangled and appears unusable. Doesn't seem to slow him down much.
 
 ### Background
 He's a Captain in the [[Eberronian Military]] and leads the [[Eberronian Seventh Brigade]], but has been actively challenging [[Cliff Burbank|Cliff]] for control of the [[Eberronian Second Division]]. 

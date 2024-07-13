@@ -18,7 +18,7 @@ Anyway, Adrienne told the group about [[Wyn Elreal]], who would be coming over s
 
 He told us SUCH a sad story, in which everyone he loved died in front of him, and a bastard named [[Von]] got away. The main necromancer (who was killed) was a halfling with a gold finger. (See [[notes-93]] for full recap) The info was sad and horrifying but potentially useful! 
 
-He has stayed in [[Locations/Cities and Towns/Ru'Nileth|Ru'Nileth]] since then, but said he would help us put a stop to [[Freya's Mysterious Circles]] in some capacity. Adrienne asked him to keep an ear out for her family, and he said he would.
+He has stayed in [[Ru'Nileth|Ru'Nileth]] since then, but said he would help us put a stop to [[Freya's Mysterious Circles]] in some capacity. Adrienne asked him to keep an ear out for her family, and he said he would.
 
 in the morning [[Zmaj]] showed up and said “hey I investigated your family and I’m going to keep an eye out for them. Seems like they need it. By the way, your brother is in the army and might have been in the room yesterday.” 
 

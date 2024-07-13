@@ -1,15 +1,15 @@
 ---
 type: world-event
 status: ended
-Status: Ongoing
+Status: Ended
 ---
 
 # Heal the Anchor Tree
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Ongoing</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Ended</span></span>
 
 ## Prophecies and Touches
 
-#### [[The Burning Sons]] / [[The Burning Sons]]
+#### [[The Burning Sons]] 
 "below the depths, roots of oldest anchor, aching, leaking, empty, bled for power. Lores touches together, patch, mend the tear, and set sun's light anew no worse for wear. When time is right, worlds assigned, veils are thin, the sun shall shine, and those died fight again"
 
 [[Pelor's Touch]]

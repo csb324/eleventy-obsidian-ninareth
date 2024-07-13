@@ -16,7 +16,7 @@ We went to the [[The Fiddlers Respite]] to give [[Innis]] the money we owed her 
 
 Then we had to head across town. On the way, [[Rez]], [[Hugh]], and [[Costi]] stopped at the FIT to try to meet with [[Professor Vendorsmere]]. ([[Adrienne Spout|Adrienne]] popped her head in, and [[Becca]], the girl at the front desk, recognized her). The professor was actually able to see them right away, after hearing from [[Father Thronestone]] that they'd be coming. He looked at [[Costi's Sword]] and determined it had some unrealized magical potential, like it was missing something. He also gave costi a dagger to practice with. Good stuff. 
 
-[[Freya]] and [[Adrienne Spout|Adrienne]] walked to [[the sheath and sickle]] and talked about animal parts freya might try growing. 
+[[Freya]] and [[Adrienne Spout|Adrienne]] walked to [[The Sheath and Sickle]] and talked about animal parts freya might try growing. 
 
 They met [[Giary]], who seems like a friendly dude! [[Niko]] arrived around the same time as team-FIT. 
 

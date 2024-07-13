@@ -22,7 +22,7 @@ We all talked about [[Adrienne Spout|Adrienne]]'s potential retirement and the r
 
 We go to talk to [[Father Thronestone]] at the [[Dragonsfire Forge]]. We gave him [[Burru Ilp]]'s papers and the code. He rewarded us with the [[Blow Em]] and claws tattoo, and 300gp. He's going to confess and try to make right. [[Hugh]] and [[Costi]] write a testimonial on [[Father Thronestone]]'s behalf. He ended up with only a brief suspension from running his workshop for the next two weeks. 
 
-[[Rez]] [[Adrienne Spout|Adrienne]] and [[Freya]] talked to [[Ghez Yhutl]] at the [[Temple of  Platinum Dragon in Jalantar]] about [[Jorus]]. Says the OOTPD has people watching, convinved him this was a secret mission from [[Bahamat]]. Last Krokkiear of every month they have a dinner open to all for OOTPD interest. Code phrase it's okay to talk "can I interest you in a curious folio?" 
+[[Rez]] [[Adrienne Spout|Adrienne]] and [[Freya]] talked to [[Ghez Yhutl]] at the [[Temple of  Platinum Dragon in Jalantar]] about [[Jorus]]. Says the OOTPD has people watching, convinved him this was a secret mission from [[Bahamut]]. Last Krokkiear of every month they have a dinner open to all for OOTPD interest. Code phrase it's okay to talk "can I interest you in a curious folio?" 
 
 [[Freya]] spoke to the [[Wayfinders]], told them about the upcoming work for Julian. They said [[Akros]] wanted to talk to her but she should come back. She also wanted to send a letter to [[Rawley]], but they mentioned the letter would take months to deliver. That's how the mail works. [[Freya]] was disappointed. 
 

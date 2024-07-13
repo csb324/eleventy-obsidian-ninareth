@@ -54,7 +54,7 @@ The [[Fire Raisers]] staged an elaborate scene to share the [[From the Ashes Fly
 Killed in the attack:
 	[[Rhicka Surtev]] 
 	the Ncleans who are art collectors from [[Taleem]]
-	a priest of [[Bahamat]] from [[Tinkate]]
+	a priest of [[Bahamut]] from [[Tinkate]]
 	Rike's Rats 
 	Delegate Asverin Opa of the [[The Providers]]  
 	Delegate Jaque Cloveniver of the [[The Guardians]]

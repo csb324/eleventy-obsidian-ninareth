@@ -31,4 +31,4 @@ Wyn recently met [[Adrienne Spout|Adrienne]] in the [[The Boundless Grove|Boundl
 He recounted his history with [[The Boundless Grove|Boundless Grove]], aiding [[Dilandil]] ex-pats, and his involvement in a dangerous mission in [[New Fairhaven]] of the [[Bihor Region]] of [[Eberron]]. This mission involved a confrontation with a group led by a figure named [[Von]], a supposed bastard of [[Duke v'Bihor]], and a harrowing encounter in an underground temple filled with undead and a halfling with gold fingers.
 
 #### Current Status
-Wyn Elreal is currently at the [[Home Tree of Ru'Nileth]].
+Wyn Elreal is currently at the [[The Home Tree]].

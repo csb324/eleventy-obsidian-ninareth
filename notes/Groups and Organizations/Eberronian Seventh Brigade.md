@@ -12,7 +12,7 @@ Affiliation:
 
 Subset of the [[Eberronian Military]]. 
 
-Colonel [[Cliff Burbank]] leads the second division, [[Grishomec Teld|Capt. Teld]] leads the seventh brigade
+Colonel [[Cliff Burbank]] leads the second division, [[Grishomec Teld|Major Teld]] leads the seventh brigade
 
 ## NPCs
 {% include 'list-references.html', reference_data: affiliations %}

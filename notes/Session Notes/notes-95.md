@@ -49,7 +49,7 @@ He says he knows almost everything about [[Hugh]]. There are only 8 [[SVN models
 
 It seems like the [[SVN models]] is valuable enough that it's worth the continuous resetting. 
 
-[[Hugh]] was under [[Cliff Burbank|Cliff]]'s command 23 years ago, he had not been seen in that time. The last time was when [[Costi's Dad|Vladimir Grosu]] was court-martialed for disobeying a direct order. He disobeyed [[Capt. Teld]], who still serves, and it lead to an altercation. [[Hugh]] intervened, and [[Costi's Dad|Vladimir Grosu]] made enough of a distraction of himself that he could escape. No one knows how he evaded trackers for 22 years. He popped up briefly in the [[Tropics]] about a year and half to two years ago, before the protection of  [[Moradin]] temples. 
+[[Hugh]] was under [[Cliff Burbank|Cliff]]'s command 23 years ago, he had not been seen in that time. The last time was when [[Costi's Dad|Vladimir Grosu]] was court-martialed for disobeying a direct order. He disobeyed [[Major Teld]], who still serves, and it lead to an altercation. [[Hugh]] intervened, and [[Costi's Dad|Vladimir Grosu]] made enough of a distraction of himself that he could escape. No one knows how he evaded trackers for 22 years. He popped up briefly in the [[Tropics]] about a year and half to two years ago, before the protection of  [[Moradin]] temples. 
 
 [[Cliff Burbank|Cliff]] believes undead are a strategic miscalculation - soldiers should be loyal to him not to whoever raised them. It's why the [[Beating Heart Battalion]] was given it's name. He didn't have enough capital to fight that fight and to protect the warforged simultaneously. 
 
@@ -63,7 +63,7 @@ We ask if, they need contractors to help strategically track down organics from 
 
 With that, [[Hugh]] makes the choice to go forward with it. 
 
-We turn to discuss [[Costi's Dad|Vladimir Grosu]] - the most incompetent soldier that ever served under [[Cliff Burbank|Cliff]]. Drafted 25 years ago, served about 2 years, and in that time made a mess of a significant number of military operations. He was the only private he ever put in charge of a platoon, and excelled as a medic. [[Capt. Teld]] was in control of the larger unit, a big minotaur, and a jerk according to [[Hugh]]. [[Costi's Dad|Vladimir Grosu]] was instructed to kill a group of insurgents, he was whipped as punishment, and [[Hugh]] intervened before he could get through 11 of his 21. [[Costi's Dad|Vladimir Grosu]] was then imprisoned in [[Eberron]] for 3 years, then released early instead of serving 17 years, it's unclear why. 
+We turn to discuss [[Costi's Dad|Vladimir Grosu]] - the most incompetent soldier that ever served under [[Cliff Burbank|Cliff]]. Drafted 25 years ago, served about 2 years, and in that time made a mess of a significant number of military operations. He was the only private he ever put in charge of a platoon, and excelled as a medic. [[Major Teld]] was in control of the larger unit, a big minotaur, and a jerk according to [[Hugh]]. [[Costi's Dad|Vladimir Grosu]] was instructed to kill a group of insurgents, he was whipped as punishment, and [[Hugh]] intervened before he could get through 11 of his 21. [[Costi's Dad|Vladimir Grosu]] was then imprisoned in [[Eberron]] for 3 years, then released early instead of serving 17 years, it's unclear why. 
 
 He was re-drafted about 3 years ago, approximately two months after joining the ranks, he went missing and was presumed dead - as he is today.
 

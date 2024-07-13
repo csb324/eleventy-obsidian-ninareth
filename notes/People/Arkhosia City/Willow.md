@@ -19,7 +19,7 @@ Affiliation: Corellon Larethian
 An older elf, slightly beyond middle-age, balding with shorter dark brown hair, appears like quite a regular person but in leather armor. He's got the holy symbol of [[Corellon Larethian]] around his neck. 
 
 ### Background
-His name is [[Willow]], he's familiar with us. He thinks something is majorly wrong with the world, but he can't say anything about it without starting to choke on his tongue. Any way he's tried to get the memories out has almost killed him. He thinks there's something wrong with everything, and he thinks she might be part of stopping it.
+His name is [[Willow]], he's familiar with us. He thinks something is majorly wrong with the world, but he can't say anything about it without starting to choke on his tongue. Any way he's tried to get the memories out has almost killed him. He thinks there's something wrong with everything, and he thinks [[Adrienne Spout|Adrienne]] might be part of stopping it.
 
 Claims to be an Oracle, someone with a direct tie to a god, probably [[Corellon Larethian]]. He gets "visions" - some come to pass and some don't , but he had a vision about music - a particular song played a particular way - and shortly later he heard it, from [[Adrienne Spout|Adrienne]].
 
@@ -39,3 +39,4 @@ Told us to meet at the [[Temple of Corellon Outside Quaath]], where he's staying
 ### Resurrecting Adrienne
 
 [[Willow]] waits in the room and plucks at a lute. We give him the harp, and after a weighted pause he begins plucking strings. At first it was random, but eventually falls into the recognizable tune [[Adrienne Spout|Adrienne]] warmed up with every morning. It transitions into the first song we heard her play. As he progresses, he starts to worsen, gagging, then shaking. Eventually flying into a strangled seizure, body tense while his hands still play, before a vine bursts out of his mouth. It moves through the room like a snake, until it touches the far wall and connects - growing upwards. Tendrils of vine pull out of it, until a 10 square foot area is created, building over itself until a thick patch is generated. Suddenly, everything freezes, as a blade cuts through the vine, showing a tall bronze skinned short dark curly hair and shirtless humanoid, coming from a white pool of light. He recognizes [[Willow]], begins to speak, as four spear points pierce his chest, then a sword crashed through his skull, and he's yanked back towards a now purple portal and 5 shadowy creatures stand mid-attack. 
+

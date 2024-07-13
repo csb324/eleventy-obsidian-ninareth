@@ -45,7 +45,7 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* Told us about the [[Weird Boulder]]
 * [[Pleetos Alentas]] - ?
 	* Potentially supplied dragon scales to [[Burru Ilp]]
-	* In [[Thelran Asari]]
+	* Was in [[Thelran Asari]], seemingly skipped town to [[Durmask]]
 	* Had brass scales grafted onto him
 * [[Yhridex]] - ?
 	* In the [[Order of the Platinum Dragon]] in  [[Durmask]], in the Saint Goldborn Order
@@ -74,13 +74,15 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* Broke into [[Jorus]] room and found an incriminating letter to another priest of the [[Order of the Platinum Dragon]] in [[Durmask]], named [[Yhridex]] (also Saint Goldborn Order)
 		* [[Rez]] gave him [[Jorus]]'s holy symbol, seeing if he could pull any information from it
 	* Has discovered a potential ring within the [[Platinum Sanctuary of Quaath]]? 
-		* in [[Thelran Asari]] with [[Eirian]] to report and update
+	* In [[Thelran Asari]] with [[Eirian]] tracking [[Pleetos Alentas]] and his crew
+		* He's saved [[Eirian]]'s life a few times. Once he came up with a quick cover to distract a conversation and prevent trouble. 
+		* He's also been traveling with her group, as the've follow [[Pleetos Alentas]], their group almost walked into a trap. [[Ghez Yhutl]] found out that he'd skipped town, and went undercover to learn more - faked doing drugs to be on a bender with them, covered it up and prevented them from being attacked, even discredited [[Pleetos Alentas]] during the process! 
 	* Took the wrap for the murder of [[Clive]] and is now wanted in [[Jalantar]]
-	* Made [[Rez]] the [[Scales of Chaos]] from confiscated copper dragon scales
+	* Made [[Rez]] the [[Scales of Chaos]] with [[Divitston Goldstone]] from confiscated copper dragon scales
 * [[Vask]]
-	* [[Rez]] immediately told [[Vask]] all the info
 	* Got [[Victoria Several]] to buy [[The Tiamat House]]
 	* Took the [[Weird Boulder]] 
+	* Gave [[Rez's Report]] with her at the [[Platinum Sanctuary of Quaath]]
 * [[Eirian]]
 	* Looking for [[Pleetos Alentas]] in [[Thelran Asari]], trying to capture him alive to question him
 	* Meeting up to manage [[Ghez Yhutl]], thank god.
@@ -101,6 +103,9 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 * [[Krarrhec]]
 	* Designated to speak to [[Vask]] and [[Rez]]
 	* Was given [[Rez's Report]] on all of this information
+* [[Farybar]], (who is not [[F. Arybar]])
+	* [[Wayfinders]] contact, who's in the [[Towers]]
+	* Working with [[Eirian]]
 
 ### Things to Note
 * [[Hugh]] and [[Costi]] wrote a note on [[Father Thronestone]]'s behalf for his confession

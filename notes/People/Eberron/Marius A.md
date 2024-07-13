@@ -18,3 +18,4 @@ Affiliation: AVAD
 
 An old classmate of [[Costi]]'s. Costi did not like him because he did not want to overthrow the government.
 
+[[Marina Alduchev]]'s ex boyfriend.

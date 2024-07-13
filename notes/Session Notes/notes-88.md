@@ -16,7 +16,7 @@ When we arrive [[Rhynilex Svenik]] arranges for them to speak to [[The Matron]] 
 
 We rest for about two hour, [[Jade]], [[Costi]], and [[Freya]] look at [[Kith and Kin]]. [[Hugh]] begins knitting [[Costi]] a beret.
 
-[[Rhynilex Svenik]], [[Durembur]], and [[Rieltar]] come to speak to us. [[Nekto Brahnsen]] has to spend the night in prison for his assault on [[Rhynilex Svenik|Rhynilex]]. [[Durembur]] also speaks undercommon and has been to the [[underdark]] before. [[Durembur]] says she'll prepare to speak to the [[Bahamat]] dead paladins tomorrow. 
+[[Rhynilex Svenik]], [[Durembur]], and [[Rieltar]] come to speak to us. [[Nekto Brahnsen]] has to spend the night in prison for his assault on [[Rhynilex Svenik|Rhynilex]]. [[Durembur]] also speaks undercommon and has been to the [[underdark]] before. [[Durembur]] says she'll prepare to speak to the [[Bahamut]] dead paladins tomorrow. 
 
 We agree to swap prophecies, [[Rez]] dramatically reads our version "below the depths, roots of oldest anchor, aching, leaking, empty, bled for power" then later "the four touches together, patch, mend the tear, and set things right, anew no worse for wear" "when time is right, worlds align, veils are thin, strings will sing, and what will rise fights again".
 
@@ -32,7 +32,7 @@ We ask them about [[The Silver Hand]], and they know of it as a historical crime
 
 We wake up, decide on our plan today (breakfast, fixing [[Freya]]'s head, buying more darkvision potions, then searching for the Dwarven party). 
 
-[[The Burning Sons]] went to talk to the [[Bahamat]] paladins, they were also looking to bring someone back, a [[Golpherox]]. We decide to both look through the surrounding area of tunnels, them searching for followers of [[Yondala]] and us for [[Moradin]]. We'll overlap to cover the same area in our searches. We learn [[Felnyra Svenik]], [[Rhynilex Svenik|Rhyn]]'s younger sister.  
+[[The Burning Sons]] went to talk to the [[Bahamut]] paladins, they were also looking to bring someone back, a [[Golpherox]]. We decide to both look through the surrounding area of tunnels, them searching for followers of [[Yondala]] and us for [[Moradin]]. We'll overlap to cover the same area in our searches. We learn [[Felnyra Svenik]], [[Rhynilex Svenik|Rhyn]]'s younger sister.  
 
 We cover a bit of mutual background, and [[Freya]] talks about her work with the [[Wayfinders]] with [[Skiv]]. She knew [[Rawley]], who she thinks is a good man, [[Akros]], and [[Naya]] - she also went to the [[Wayfinder Annual Gathering]] but hated it because of how much internal politics there was. She recognizes [[Freya]] as from [[Polaris]], she went with [[Rawley]] about 15 years ago. [[Costi]] casts detect thoughts to try and learn more about what [[Skiv]] knows about [[Polaris]]. He sees a lot of the landscape and some scenes with [[Rawley]], but nothing of particular note. He then asks if she's still in contact, and [[Skiv]] says that it's been years - didn't take kindly to her leaving the [[Wayfinders]]. He sees a conversation with a halfling in a fine dining room looking out over a towering city, but he hears yelling. He feels her hit him, and as it fades a flicker of another memory - a piece of paper address to [[Skiv]]. The words are blurry, but he can read the last passage, "I'm sorry, don't contact me again. [[Rawley]]"
 

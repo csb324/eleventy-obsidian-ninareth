@@ -1,11 +1,11 @@
 ---
 type: world-event
 status: ended
-Status: Ongoing
+Status: Complete
 ---
 
 # Resurrect Adrienne
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Ongoing</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Complete</span></span>
 
 ### The Ritual
 Requires a very very powerful spell, and it doesn't always work. It basically gives you one shot, and your chances are done. Only the most powerful people on the material plane can cast it.
@@ -18,7 +18,7 @@ It's also about the most expensive thing that you can do, requires 25,000 GP. Ev
 		* [[Platinum Sanctuary of Quaath]]
 		* Temple of [[Yondala]] in [[Thelran Asari]]
 		* [[Church of Tyr]], [[Church or Torm]], and [[Church of Pelor]] in [[Durmask]]
-		* [[Church of Corellon Larethian]], in [[Locations/Cities and Towns/Ru'Nileth]]. 
+		* [[Church of Corellon Larethian]], in [[Ru'Nileth]]. 
 	* Will help us acquire diamonds with [[The Silver Halves]], and we can work out a way to compensate them back. It sounds like they might need some help in the near future. 
 		* Potentially we could work with [[Professor Leonard Klipitz]] to pull some from the [[Elemental Plane of Earth]]. 
 * [[Professor Leonard Klipitz]]
