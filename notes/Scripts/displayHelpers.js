@@ -40,11 +40,8 @@ class DisplayHelpers {
     if(!p[property]) {
       return false;
     }
-
     let pageNames = [];
     let properties = p[property];
-
-    console.log(p[property]);
     
     if(!Array.isArray(p[property])) {
       properties = [p[property]];

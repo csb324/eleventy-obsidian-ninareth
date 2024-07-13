@@ -1,5 +1,7 @@
 class Campaign {
   constructor() {
+    this._cities = {};
+    
     this._locationTypes = {
       "Country": {
         folder: "Locations/Countries",
@@ -35,8 +37,25 @@ class Campaign {
     ]
   }
 
-  getLocationFolder = (k) => {
+  getLocationFolderOld = (k) => {
     return this._locationTypes[k].folder;
+  }
+
+  getLocationFolder = (locationType, parent) => {
+
+    console.log("PARENT IS:");
+    console.log(parent);
+
+    console.log(this._cities[parent]);
+
+    let cityFolder = this._cities[parent].folder;
+    if(cityFolder) {
+      cityFolder = cityFolder + "/" + parent;
+      cityFolder = cityFolder.split(/\(|\)/).join("");
+      return cityFolder;
+    }
+
+    return this._locationTypes[locationType].folder;
   }
 
   getLocationParent = (k) => {
@@ -88,10 +107,21 @@ class Campaign {
     return countries.map((c) => c.basename);
   }
 
+  cacheCities = (citiesResponse) => {
+    this._cities = {};
+    citiesResponse.array().forEach(c => {
+      this._cities[c.file.name] = {
+        folder: c.file.folder
+      }
+    });
+  }
+
   getCities = () => {
     let values = [];
     app.plugins.plugins.dataview.withApi((dv) => {
-      values = dv.pages('"Locations"').filter((c) => c.locationType == 'city').file.name.array();
+      const cities = dv.pages('"Locations"').filter((c) => c.locationType == 'city');
+      this.cacheCities(cities);
+      values = cities.file.name.array()
     })
     return values
   }
@@ -99,8 +129,7 @@ class Campaign {
   getValues = (whichPages, key) => {
     let values;
     app.plugins.plugins.dataview.withApi((dv) => {
-      console.log(dv.pages(`"${whichPages}"`).values);
-      values = dv.pages()[key].array();
+      values = dv.pages(`"${whichPages}"`)[key].array();
       values = values.filter(this.onlyUnique);
       console.log(values);
     });
