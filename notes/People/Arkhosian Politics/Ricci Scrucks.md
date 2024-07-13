@@ -30,7 +30,7 @@ Head of the [[Dragon's Hide]] , [[The Guardians]] delegate.
 
 Had been vocally leading the response to the recent [[Jalantar]] [[The Providers]] headquarters bombing. But, led authorities to think the [[Zalevi Embassy Break-in]] bombing was unrelated.
 
-He has a cousin, [[Del Scrooks]] who is a [[The Providers]] delegate. Their family is very connected.
+He has a cousin, [[Del Scrucks]] who is a [[The Providers]] delegate. Their family is very connected.
 
 Old friends with [[Relakas]]. Or, was.
 

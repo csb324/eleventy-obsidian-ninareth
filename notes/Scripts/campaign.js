@@ -99,7 +99,7 @@ class Campaign {
   getValues = (whichPages, key) => {
     let values;
     app.plugins.plugins.dataview.withApi((dv) => {
-      console.log(dv.pages(whichPages).values);
+      console.log(dv.pages(`"${whichPages}"`).values);
       values = dv.pages()[key].array();
       values = values.filter(this.onlyUnique);
       console.log(values);
