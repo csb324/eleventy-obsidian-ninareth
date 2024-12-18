@@ -1,7 +1,7 @@
 ---
 {}
 ---
-- Learned to traverse between material and 
+- Learned to traverse between material and other planes
 - Said to have studied at slavaadi college but no records back that up. Her connections do though.
 - The book cites a number of her academic writings 
 - Fought for a number of military groups

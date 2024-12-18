@@ -12,7 +12,7 @@ Home: Burbank Compound
 Title: " Lieutenant"
 Affiliation:
   - Eberronian Military
-  - Eberronian Seventh Brigade
+  - Eberronian Seventh Battalion
   - Grishomec Teld
   - Thelran Asari Army
 ---
@@ -25,7 +25,7 @@ Affiliation:
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Burbank Compound]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Title</span><span class="inline-field-value"> Lieutenant</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Military]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Seventh Brigade]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Seventh Battalion]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Grishomec Teld]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Thelran Asari Army]]</span></span>
 

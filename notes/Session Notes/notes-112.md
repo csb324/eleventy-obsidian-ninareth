@@ -19,7 +19,7 @@ On watch, [[Adrienne Spout|Adrienne]] and [[Rez]] chat about a sending to [[Star
 
 We also talk about if Finn can scry on people he doesn't know, which he can but it's tough. [[Freya]] says she's interested in using it for [[Ronan]], and [[Rez]] asks about [[Pleetos Alentas]]. [[Costi]] reads [[Kith and Kin]]. 
 
-After our chats, we head back in the woods towards camp. On our way, about 3 hours from where we slept, we find several manticores hung in a tree. [[Hugh|Finn]] hears a slight rustling from the left. [[Samuel]] doesn't see anything, so [[Adrienne Spout|Adrienne]] drums the code signal of the [[Eberronian Seventh Brigade]] but gets no response. We keep on the road. Hearing the sound again, [[Freya]] makes a whole bit that reveals a laughing [[Jamzik Zodevzo]]. 
+After our chats, we head back in the woods towards camp. On our way, about 3 hours from where we slept, we find several manticores hung in a tree. [[Hugh|Finn]] hears a slight rustling from the left. [[Samuel]] doesn't see anything, so [[Adrienne Spout|Adrienne]] drums the code signal of the [[Eberronian Seventh Battalion]] but gets no response. We keep on the road. Hearing the sound again, [[Freya]] makes a whole bit that reveals a laughing [[Jamzik Zodevzo]]. 
 
 She was tailing us, but says we're close to camp now. We learn she's had her own form of tough discipline, had her foot skinned after stepping on a branch and giving away an ambush. Eventually, we arrive back and are escorted by [[Colvia Ghul]] and 20 other soldiers. It seems like she's legit very excited to get some details to help turn the tide, and keep her successful. 
 

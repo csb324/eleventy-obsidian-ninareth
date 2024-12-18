@@ -19,6 +19,6 @@ tags:
 
  A small handheld mirror.
  
- A creature that looks in the mirror within 5ft must succeed on a DC 16 saving throw or have it's featuers grafted, forever held by the mirror. A creature who has it's features grafted ccan speak a password to take the image of another creature's feature grafted. 
+ A creature that looks in the mirror within 5ft must succeed on a DC 16 saving throw or have it's features grafted, forever held by the mirror. A creature who has it's features grafted can speak a password to take the image of another creature's feature grafted. 
  
- This transformation is undetectable by magical or mundane means and last for 24 hours, or until the command word is spoken again by the creature that originially altered it's features while within 10 ft of the mirror. 
+ This transformation is undetectable by magical or mundane means and last for 24 hours, or until the command word is spoken again by the creature that originally altered it's features while within 10 ft of the mirror. 

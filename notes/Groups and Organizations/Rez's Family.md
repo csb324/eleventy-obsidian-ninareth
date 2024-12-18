@@ -1,7 +1,7 @@
 ---
 type: org
 tags:
-  - orgs/Rez's-Family
+  - orgs/Rez-Family
 ---
 
 # Rez's Family
@@ -18,10 +18,10 @@ A diplomat. No one has heard from him in a while.
 Rez's full brother. A hotheaded gunslinger who loves pranks and his sister. 
 
 ## [[Zmaj]]
-A member of the [[Gia'Thoren]] and the [[Dilandilian Army]]. A hardass.
+A member of the [[Gia'Thoren]] and the [[Dilandilian Army]]. A hardass. A paladin of [[Bahamut]]
 
 ## [[Eirian]]
-A paladin of [[Bahamut]], living in [[Thelran Asari]]. 
+Living in [[Thelran Asari]], trying to track down [[Pleetos Alentas]]
 
 ## [[Nehushta]]
 Recently murdered in [[Durmask]]. Zmaj is looking into it.

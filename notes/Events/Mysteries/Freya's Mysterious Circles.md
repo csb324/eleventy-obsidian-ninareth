@@ -2,6 +2,9 @@
 type: mystery
 tags:
   - mysteries
+aliases:
+  - Mysterious Circles
+  - Eye of the Everpresent
 ---
 
 # Freya's Mysterious Circles
@@ -10,6 +13,7 @@ When [[Freya]] was framed for some kind of crime (unclear) and left [[True North
 
 [[Freya]] asked [[Niko]] to look into it for her. He gave her a piece of paper that would allow one-way communication, and then incinerate itself, so that he could communicate securely.
 
+The incense takes on a purple tint, and [[Hugh|Finn]] hears a calm reassuring voice, "these infinite overlapping circles are the eye of the [[Everpresent]]. It is the symbol of [[Morthos]] and denotes an individual, object, or place that is under their influence. Where goes the eye, there goes their power. It observes the degradation of our most natural and fundamental lines and is a harbringer of the greatest doom"
 ### Connections
 * [[Morthos]] and [[The Silver Hand]]
 * [[Wait There's a Lot of Undead]]
@@ -17,6 +21,7 @@ When [[Freya]] was framed for some kind of crime (unclear) and left [[True North
 * [[Drimbias Shaziros]]
 * [[Winifey]], the [[Duvey Crypt]], and the [[Dunamantic Ruby Eye]]
 * [[Wayfinders]]: [[Naya]], [[Akros]], and [[Rawley]]
+* [[Samson]] knew about them from [[Home]] and told [[Eirian]] and [[Ghez Yhutl]] - they found a dead body with them
 
 ### Clues
 [[session-30]]: [[Niko]] got back to her, and said [[Professor Leonard Klipitz]] recognized the symbol. He couldn't say exactly what it was, but it was something that probably existed in his research. So, that's something!

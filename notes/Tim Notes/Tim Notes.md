@@ -1,6 +1,7 @@
 ---
 {}
 ---
+
 107
 - Finn and Marigold talk, and after Finn cries about it, Marigold calls Teld a cunt
 - Samuel tries to count the tents and counts between 15 and 60 tents with between 5 and 50 people in each. Bad job.
@@ -240,4 +241,64 @@ Costi goes looking for interesting stuff in the dead bodies. He does a great job
 Finn cooks poorly and freya does manual labor.
 
 Teld comes by, inspects our wounds for a long time, and gives us the OK to heal to half.
+
 # 114
+
+We fought the ELA
+
+# 115
+
+Professor! Please help me with my book. Need poison from common animal that would last and debilitate but not kill. Must persist in water.
+
+Finn / Magister talk:
+- [[Magister]] talked about it being good that Finn is making the society they built crumble. Unclear if he's talking about just Eberron or broader humanity.
+- [[Vask]] "took a tumble." Took a flying potion and jumped from the airship. Gone for 4 days. Said they shouldn't go to Zalev for a while.
+- They're Planning to be in New Fairhaven in a few weeks, maybe months, for a conference with some people. "Bultikan" (name approximation) has something she is interested in that could give her insight into how better utilize her abilities.
+- Finn says that [[Mhrhaal]] is there
+- Finn asks about the [[Cliff Burbank|Colonel Burbank]]. Magister doesn't know him well but has heard good things.
+- "I slept with Rez." Left a good review but not his type.
+
+# 118
+Chromatic orb
+Frost fingers
+Blur
+Hold person
+Lightning Bolt
+Stinking Cloud
+Banishment
+Stormsphere
+Cloud Kill
+
+
+- Leiutenant ambassador
+- Diplomatic core
+- 2nd division
+- 4 years, 3 outside of Ebberron under tutelage of another ambassador
+- In first 2 years, 9 months required in Ebberron
+- Commission of 50 gp a month, 20 set aside to purchase apartments in Jezeten upon completion of ambassadorship
+- Dated when arrived at chateaux
+
+131
+- Met Stradvarth Coldseeker, seems cool.
+	- Underlings
+		- Pvt Norwath - Human
+		- Pvt Hralk - Arakokra
+		- Cpl Kevgotin - Human
+- Take crazy police vehicle through Highground, into Dharinov district
+	- Dharinov is very spacious
+	- City guard 
+- Jehneim Bastienev - Duchess' Chaimberlain
+- Meeting with Duchess
+	- People on her level
+		- Unknown
+		- Colvia
+		- Duchess
+		- Teld
+		- Unknown
+		- Coldseeker
+	- People also down with us
+		- Sienna
+		- Trisha
+		- Dania
+		- Others from Cliff's
+	- 

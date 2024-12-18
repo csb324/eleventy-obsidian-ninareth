@@ -12,7 +12,7 @@ The military of [[Eberron]]
 [[Eberronian First Division]]
 [[Eberronian Second Division]]
 - [[Beating Heart Battalion]]
-- [[Eberronian Seventh Brigade]]
+- [[Eberronian Seventh Battalion]]
 [[Eberronian Third Division]]
 ... more divisions?
 

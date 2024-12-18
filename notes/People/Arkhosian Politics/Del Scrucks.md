@@ -19,4 +19,4 @@ Affiliation:
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Providers]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Listeners]]</span></span>
 
-Cousin to [[Ricci Scrucks]]. Founding member of [[The Listeners]] party. Was secretly working with [[Henrik]]!
+Cousin to [[Ricci Scrucks]]. Founding member of [[The Listeners]] party. Was secretly working with [[Henrik]]! 

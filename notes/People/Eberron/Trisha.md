@@ -15,4 +15,6 @@ Affiliation: Burbanks
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Burbank Compound]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Burbanks]]</span></span>
 
-Daughter of [[Cliff Burbank|Cliff]] and [[Sienna Burbank|Sienna]]. Sister of [[Clifford Burbank, the 5th|Fivey]]. She represents the Burbank family in the [[Eberronian Second Court]]. 
+Daughter of [[Cliff Burbank|Cliff]] and [[Sienna Burbank|Sienna]], bears a strong resemblance to [[Sienna Burbank|Sienna]]. Sister of [[Clifford Burbank, the 5th|Fivey]]. She represents the Burbank family in the [[Eberronian Second Court]]. 
+
+dark skin and black hair

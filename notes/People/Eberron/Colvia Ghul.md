@@ -10,8 +10,8 @@ Home: Burbank Compound
 Title: " Sergeant"
 Affiliation:
   - Eberronian Military
-  - Eberronian Seventh Brigade
-  - Grishomec Teld
+  - Eberronian Seventh Battalion
+  - Duchess v'Dharinov
   - Ioun
 ---
 
@@ -23,15 +23,15 @@ Affiliation:
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Burbank Compound]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Title</span><span class="inline-field-value"> Sergeant</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Military]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Seventh Brigade]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Grishomec Teld]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Seventh Battalion]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Duchess v'Dharinov]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Ioun]]</span></span>
 
 Human in robes. 
 ### Background
-Worshipper of [[Ioun]], has several close lieutenants:  [[Bouzad Rukhol]], [[Jamzik Zodevzo]], [[Bez]], [[Grizaf]], and [[Ignatz]]
+Worshipper of [[Ioun]], has several close lieutenants:  [[Bouzad Rukhol]], [[Jamzik Zodevzo]], [[Bez]], [[Grizaf]], and [[Ignatz]].
 
-She's leaning into counter-terrorism work for the [[Eberronian Seventh Brigade]]. 
+She's leaning into counter-terrorism work for the [[Eberronian Seventh Battalion]]. She is "on detail." According to [[Fingers]] ([[notes-115]]), she reports directly to the [[Duchess v'Dharinov]] in "special intelligence" and not actually a member of the battalion or even [[Eberronian Second Division]]. Her previous detail was with the [[Eberronian First Division]].
 ### Who're They To Us?
 One of [[Grishomec Teld|Major Teld]]'s inner circle, related to [[Don't Tell Teld]].
 

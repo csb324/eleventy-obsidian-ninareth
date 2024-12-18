@@ -8,7 +8,7 @@ Carried-by: Rez
 <span class="dataview inline-field"><span class="inline-field-key">Carried by</span><span class="inline-field-value">[[Rez]]</span></span>
 
 # Deck of Illusions
-A magical deck of cards with a small peice of paper attached to it that reads "For Isabelle".
+A magical deck of cards with a small piece of paper attached to it that reads "For Isabelle".
 
 Missing 10 cards
 	9 of diamonds
@@ -22,8 +22,8 @@ Missing 10 cards
 	6 of clubs
 	king of hearts
 
-Crads must be drawn at random, using  one action and range of 30ft. 
+Cards must be drawn at random, using  one action and range of 30ft. 
 
-The illusion appears and remains until dispelled. You can use an action within 120ft to magically  move withing 30ft of the card.
+The illusion appears and remains until dispelled. You can use an action within 120ft to magically  move within 30ft of the card.
 
 Any interaction reveals it as illusion, DC 15ft investigation check to see through.

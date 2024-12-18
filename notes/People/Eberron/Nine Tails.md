@@ -9,7 +9,7 @@ Location: Burbank Compound
 Home: Burbank Compound
 Affiliation:
   - Eberronian Military
-  - Eberronian Seventh Brigade
+  - Eberronian Seventh Battalion
   - Grishomec Teld
 ---
 # Nine Tails
@@ -19,7 +19,7 @@ Affiliation:
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Burbank Compound]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Burbank Compound]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Military]]</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Seventh Brigade]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Seventh Battalion]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Grishomec Teld]]</span></span>
 
 A goblin in ragtag leathers carrying a cat of nine-tails

@@ -30,9 +30,9 @@ Needed to come to [[Jalantar]], found an interesting tome a few years back, but 
 
 Family from [[Taleem]] but grew up in [[Quaath]]'s Gold Circle. Mom does contract writing for business, Dad helps "procure things" -- gone a lot growing up. Her dad worked with [[Pik]] and [[Pak]]'s father.
 
-Her family is from [[Quaath]] but was from [[Taleem]] originally. They left generations ago and traveled all around [[Ninarith]]. Her grandfather also knew magic, but passed when she was quite young.
+Her family is from [[Quaath]] but was from [[Taleem]] originally. They left generations ago and traveled all around [[Ninarith]]. Her grandfather also knew magic, but passed when she was quite young. Says her family, well her parents, well her mom is a merchant. Her mom is [[Senres Several]]. 
 
-Follows [[Arkhosia]] politics quite closely. Says her family, well her parents, well her mom is a merchant.
+Follows [[Arkhosia]] politics quite closely. 
 
 Once involved with [[Baldred Duvey]]
 

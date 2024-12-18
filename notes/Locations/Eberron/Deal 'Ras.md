@@ -7,6 +7,7 @@ tags:
   - location/city/deal-ras
 ---
 # Deal 'Ras
+![](/assets/obsidian/Map%20of%20Jezeten.png)
 City, Eberron
 
 Cultural capitol of the [[Dharinov Duchy]]. 

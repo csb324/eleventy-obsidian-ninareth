@@ -9,16 +9,42 @@ Owned-by: The Unforged Few
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
 ### Immediate
-* tell [[Costi's mom]] that the passageway we found has been compromised
-* reply to [[Pruvki Forgaveat]] and stop his panicking re: experimental undead
-* Meet up with [[Willow]] or sending him?
-* write a report on what happened, for their records.
+* Go to [[AVAD]] and talk to [[Costi's mom|Sonia Grosu]]
+	* warn her about bugs
+	* ask about the thieves cant in the message from [[Costi's Dad|Vladimir Grosu]] (except we only know OOC)
+* Dinner with [[Lieutenant Stradvarth Coldseeker]]
+* Drinks with [[Colvia Ghul]]
+* Prep for 
 
 ### Short-Term
-
+In [[New Fairhaven]]
+* Hail bloodseeker, [[fourteen rue promade]], after nine - [[Freya]]
+* Seek the [[Alhoon]] 
 
 ### Middle-Term
-
+* scries
+	* [[Alhoon]]
+	* [[Pleetos Alentas]]
+	* [[Von]]
+	* [[Ronan]]
+	* [[Sven]] with the [[Duke v'Luthei]]
+	* [[Starstool Daygrip]]
+	* [[The Burning Sons]] 
+	* [[Captain Fretze|Fretze]]
+	* [[Adrienne's Family]] 
+	* [[Rawley]] 
+	* [[Petra]] 
+	* [[Niko]] / [[Giary]]
+* legends lore
+	* [[Weirefesteria]] bark with [[Mysterious Circles]]
+	* gold fingers from the [[Alhoon]]
+* Meet ups in [[Jezeten]]
+	* [[Colvia Ghul]]
+	* sounds like maybe [[Grishomec Teld|Major Teld]]
+* Meet ups in [[New Fairhaven]]
+	* [[The Silver Halves]]
+	* [[Willow]] maybe?
+	* 
 
 ### Long-Term
 * Meet [[Neiragneg]] at the [[Slavaadi College]] for [[Rez]]'s appointment with the Archmagi [[Rhend Triverswill]]
@@ -32,6 +58,7 @@ Owned-by: The Unforged Few
 * What's going on with [[The Ascended]] and why are they're getting involved with [[Hugh]]?
 * Check in with [[Sienna Burbank]] about visiting [[Burbank Compound]] in [[Eberron]] to help [[Hugh]]. Avoid [[AVAD]], and general travel in the area.
 	* talk to [[Victoria Several|Victoria]] about this?
+*  [[Bahamut]], [[Moradin]], [[Corellon Larethian]], and [[Pelor]] need help from dragons??
 
 ### To Buy
 * holy water

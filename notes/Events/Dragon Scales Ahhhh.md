@@ -1,18 +1,21 @@
 ---
 type: world-event
+status: Ongoing
 Status: Ongoing
 See-Also: Rez's Report
+Affiliation: Rez's Family
 ---
 
 # Dragon Scales Ahhhhh
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">Ongoing</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">See Also</span><span class="inline-field-value">[[Rez's Report]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Rez's Family]]</span></span>
 
 ### The Problem
 [[Father Thronestone]] helped out [[Rez]] with an experimental treatment - melting down dragon scales and grafting them onto her cut patch of dragon scales on her face. To everyone's delight, it worked! However, this got [[Father Thronestone]] thinking -- could this be a new breakthrough?? Spoiler: it should not be. 
 
 ### What's Happened? 
-[[Father Thronestone]] talked shop with [[Burru Ilp]], and grafted some blue and red scales onto his forearm - bad call since it turns out he's a cultist who loves [[Tiamat]] and [[Galaphanel]], in fact, he think's he's got [[Galaphanel]]'s blood. [[Burru Ilp]] starts acting strange and has a couple of friends who also say the same thing. Thronestone gave him scales, Burru supplied some more, and now they're forcing the procedure onto others. 
+[[Father Thronestone]] talked shop with [[Burru Ilp]], and grafted some blue and red scales onto his forearm - bad call since it turns out he's a cultist who loves [[Tiamat]] and [[Galaphanel]], in fact, he thinks he's got [[Galaphanel]]'s blood. [[Burru Ilp]] starts acting strange and has a couple of friends who also say the same thing. Thronestone gave him scales, Burru supplied some more, and now they're forcing the procedure onto others. 
 
 We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Party]] goes to his house, which we decide to call [[The Tiamat House]]. It's covered in pro-[[Tiamat]] and pro-[[Galaphanel]] art, as well as other dragon decor. We kill them all, and steal there plans. Now to make sure this isn't spreading...
 
@@ -22,6 +25,8 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 [[Ghez Yhutl]] found a turncoat named [[Nikander Vhegohl]] who was working with others in [[Jalantar]] to graft a strange [[Mithril Alloy]] onto a young blue dragon. They got their material sourced from a blacksmith named [[Clive]]. [[Divitston Goldstone]] and [[Ghez Yhutl]] killed [[Clive]], but it seems [[Nikander Vhegohl]] is still at large. 
 
 [[Zmaj]] tells us that one of the grafted might have been operating in [[Ru'Nileth]]. The only found blood, and a few mutilated corpses, but no scales - just diagrams. He's also heard rumors, it seems like it's spread and is talk of "putting down" new draconic creations, they call themselves [[Boulder Makers]]. 
+
+[[Eirian]] and [[Ghez Yhutl]] report [[Pleetos Alentas]] escaped [[Thelran Asari]] and made it to [[Durmask]]. Suspicious, as [[Rez's Family]] gets word [[Nehushta]] is killed there. So [[Zmaj]], [[Zoheret|Zoha]], [[Zalvaris|Zalv]], [[Simin]], and [[Taji]] are all on the hunt in [[Durmask]]. [[Hugh|Finn]] scrying revealed [[Pleetos Alentas]] to be on a lake nearby, maybe [[Lake Delente]]? 
 ## Who's Involved
 
 #### Baddies
@@ -67,6 +72,7 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* Gave us some money, the [[Blow Em]] whistle and the claw tattoos for [[Freya]]
 	* Breaking the code on their notes to figure out how far along their work was
 	* Confiscated copper dragon scales being smuggled into [[Jalantar]] with the help of [[Jalantan Guard]]
+	* STILL working on notes
 * [[Ghez Yhutl]]
 	* [[Rez]] convinced him to root out corruption in the [[Temple of  Platinum Dragon in Jalantar]] 
 		* "can I interest you in a curious folio?" 
@@ -97,15 +103,25 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* Investigating rumors in [[Dilandil]]
 		* There might have been one of the grafted might have been operating in [[Ru'Nileth]]. The only found blood, and a few mutilated corpses, but no scales - just diagrams. He's also heard rumors, it seems like it's spread and is talk of "putting down" new draconic creations, they call themselves [[Boulder Makers]]. 
 	* Now in [[Durmask]] to investigate [[Nehushta]]'s death
+	* Told him we saw [[Pleetos Alentas]] on [[Lake Delente]]. 
 * [[Silver Scale Jazat]]
 	* Guard who has helped us in the [[Gold Circle]] of [[Quaath]]
 	* Was threatened by [[Vask]] but doesn't take it personally 
+	* In [[Durmask]]
 * [[Krarrhec]]
 	* Designated to speak to [[Vask]] and [[Rez]]
 	* Was given [[Rez's Report]] on all of this information
 * [[Farybar]], (who is not [[F. Arybar]])
 	* [[Wayfinders]] contact, who's in the [[Towers]]
 	* Working with [[Eirian]]
+* [[Zoheret]] (Zoha)
+	* In [[Durmask]]
+* [[Zalvaris]] (Zalv)
+	* In [[Durmask]]
+* [[Simin]]
+	* In [[Durmask]]
+* [[Taji]]
+	* In [[Durmask]]
 
 ### Things to Note
 * [[Hugh]] and [[Costi]] wrote a note on [[Father Thronestone]]'s behalf for his confession

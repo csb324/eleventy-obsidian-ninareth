@@ -10,7 +10,7 @@ Affiliation:
   - The Silver Halves
 ---
 
-f# Magister Drake Zedarian
+# Magister Drake Zedarian
 <span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">warforged</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
@@ -30,7 +30,7 @@ Testy about [[Adrienne Spout|Adrienne]]'s warning that [[Hugh]] has some memory 
 
 From [[Eberron]], says he's had other people help him. Can also cast sending. 
 
-Was part of [[Victoria Several]]'s family, for about 40 years, and was treated well. They found having a servant distatesful. As he gained sentience, the family enocurage his intellectual development, and gave him to option to stay as a partner. Now acts independently and travels with Victoria due to choice, and loyalty. Not obligation. 
+Was part of [[Victoria Several]]'s family, for about 40 years, and was treated well. They found having a servant distasteful. As he gained sentience, the family encourage his intellectual development, and gave him to option to stay as a partner. Now acts independently and travels with Victoria due to choice, and loyalty. Not obligation. 
 
 Did not have formal schooling in magic, [[Victoria Several|Victoria]]'s grandfather taught him. Dabbled in many forms, but specialized in dunamancy, especially gravity #mysteries 
 
@@ -43,7 +43,7 @@ Reserved the cigar deck on the roof to introduce [[Hugh]] to [[The Self Made Men
 
 Says he can help [[Hugh]] repair his memory, and that even if he has had harm done to his brain that he can have his own valid experiences. He is asking about Hugh's experience on his behalf. 
 
-[[Hugh]] wanted to go to [[Eberron]] with him and the [[The Silver Halves]], but was told we're not welcome becuase they're going on a personal and private mission for [[Victoria Several|Victoria]] 
+[[Hugh]] wanted to go to [[Eberron]] with him and the [[The Silver Halves]], but was told we're not welcome because they're going on a personal and private mission for [[Victoria Several|Victoria]] 
 
 [[Costi]] asked to learn some magic from him, and let him copy a page
 
