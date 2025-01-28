@@ -42,7 +42,7 @@ We swap stories of [[Adrienne Spout|Adrienne]] and [[Riveika]] - we learn she wa
 
 [[Costi]] goes to spare with [[Rhynilex Svenik|Rhynilex]]. He becomes her *student*, and turns out he does like a girl with a knife. He comes back to our quarters for us all to get our long rest.
 
-The next day, [[Costi]] thinks about any [[AVAD]] professors who knows anything about ilithid named [[Professor Rohed]]. "Professor, crazy question. Ever heard of [[Alhoon]]? What do you know? All information is useful. How do you kill? Hope you're well. [[Costi|Constantine]]. Thanks", he responds "Academic, I hope. [[Alhoon]] share phalectory. Unlikely to revive, but transfer memories and knowledge. They die like any other. Careful!"
+The next day, [[Costi]] thinks about any [[AVAD]] professors who knows anything about ilithid named [[People/Eberron/Professor Rohed]]. "Professor, crazy question. Ever heard of [[Alhoon]]? What do you know? All information is useful. How do you kill? Hope you're well. [[Costi|Constantine]]. Thanks", he responds "Academic, I hope. [[Alhoon]] share phalectory. Unlikely to revive, but transfer memories and knowledge. They die like any other. Careful!"
 
 We split up into three groups with [[The Burning Sons]]. [[Rhynilex Svenik|Rhyn]], [[Costi]], [[Rieltar]], and [[Durembur]] fight a hoard of undead creatures. [[Jade]], [[Freya]], [[Skiv]], and [[Felnyra Svenik]] fight several unusual umberhulk, they have different features. [[Hugh]], [[Rez]], [[Nekto]], and a beefy drow find an underground pool of water and a hydra.   
 

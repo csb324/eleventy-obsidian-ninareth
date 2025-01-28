@@ -4,6 +4,7 @@ up:
   - Session Log
 prev:
   - notes-130
+Name: Void Void Void
 ---
 
 # Detailed Notes: Session 131
@@ -20,7 +21,7 @@ We dismiss [[Sylvia]], giving her a gold. We'll plan to meet up with her at [[AV
 
 [[Lieutenant Stradvarth Coldseeker]] says that we're wanted in the [[Palace Dharinov]], to get an update on "what has happened while we've been in the woods" but isn't authorized to tell us more. He mentions a "joining" of the [[Eberronian First Division]] and [[Eberronian Second Division]]. 
 
-[[private Norwath]] a human [[private Hrlak]] an aaracockra [[Corporal Kevgotin]] a human who escorted us in.
+[[Costi]] got the names of several other soldiers: [[private Norwath]] a human [[private Hrlak]] an aaracockra [[Corporal Kevgotin]] a human who escorted us in.
 
 Eventually, we begin our journey through [[Jezeten]] in what seems to be a moving siege tower, which we learned is designed by [[Lieutenant Stradvarth Coldseeker]]. The city is nice, roads smooth with clean sidewalks. It's dense, with tall buildings, and surrounded by a stormwall to protect against [[Breakers Bay]]. 
 
@@ -64,7 +65,7 @@ We finally get a few minutes alone, and sweep the room again. [[Adrienne Spout|A
 
 [[The Unforged Few|Our Party]] talks about what we've heard - we should confirm it is not actually being done by the [[People/Eberron/Burbanks|Burbanks]], talk a bit about blue dragons, [[Rez]] brings us [[Vask]]'s warmongering 'accident' with the [[Turian Waste]], we better check up on that. Thankfully that's happened more recently than the start of this issue. 
 
-[[Costi]] gets our help to pick a gift for [[Nadia]] for missing her birthday. [[Hugh|Finn]] misses our conversation and sends a letter to the [[People/Eberron/Burbanks|Burbanks]] to schedule a time to meet. We say we need to defer to their schedule, so [[Adrienne Spout|Adrienne]] uses the circlet: "Hey Sienna, are you available for late drinks or breakfast somewhere secure. Would love to debrief more fully. Letter also coming. Don't worry about it", she replies: "Breakfast is better than drinks, tomorrow 7:45. Come to our house". 
+[[Costi]] gets our help to pick a gift for [[Nadia]] for missing her birthday. [[Hugh|Finn]] misses our conversation and sends a letter to the [[People/Eberron/Burbanks|Burbanks]] to schedule a time to meet. We say we need to defer to their schedule, so [[Adrienne Spout|Adrienne]] uses the circlet: "Hey [[Sienna Burbank|Sienna]], are you available for late drinks or breakfast somewhere secure. Would love to debrief more fully. Letter also coming. Don't worry about it", she replies: "Breakfast is better than drinks, tomorrow 7:45. Come to our house". 
 
 [[Rez]] sendings to a few siblings. [[Vask]] doesn't think he's to blame for any [[Turian Waste]] undead, they killed any they found while they were there. [[Lee]] tells [[Rez]] not to get involved in the [[Gu’athrithen]] / [[Deregheir]] conflict. [[Eirian]] hasn't heard of [[Rughork]] but will look into it. This causes [[The Unforged Few|Our Party]] then has LOTS of questions about [[Rez's Family]] and especially [[Rez's Dad]]'s sex life. [[Rez]] doesn't have a lot of answers there, but does try to explain the found family she grew up in and some of the inner-family relationships (spoiler: it's complicated).
 

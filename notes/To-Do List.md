@@ -8,13 +8,27 @@ Owned-by: The Unforged Few
 # To-Do List
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
+### Schedule
+* Drinks with [[Elena]] and [[Marius A]] tonight
+* Leave for [[Who's Undead is That?]] 
+
 ### Immediate
-* Go to [[AVAD]] and talk to [[Costi's mom|Sonia Grosu]]
-	* warn her about bugs
-	* ask about the thieves cant in the message from [[Costi's Dad|Vladimir Grosu]] (except we only know OOC)
-* Dinner with [[Lieutenant Stradvarth Coldseeker]]
-* Drinks with [[Colvia Ghul]]
-* Prep for 
+* Drinks with [[Colvia Ghul]], we sent a note
+* Drinks with [[Elena]] and [[Marius A]]
+* Prep for [[Who's Undead is That?]] 
+	* plan 
+* See if we can lock down info on [[Rughork]] from / with [[Sylvia]]
+* From the letter we found in [[Viliki]]: two names jump out [[Oola]], and [[Agatha Krunderstone]], from [[Garida]] group, and [[Mim]]. There are also a few letters, between someone [[Burston Courtev]], in [[Jezeten]] and [[Salid]], in [[New Fairhaven]], with their addresses. They talk about the flesh-stitched behemoth (FSB), and [[Lance Corporal Jalvena Kharim|Jalvena]]
+	* We should ask [[Sienna Burbank|Sienna]] if they took action here and if not look into it
+* [[Starstool Daygrip]] offered meeting for coffee with [[Adrienne Spout|Adrienne]], but maybe that was timed wrong? Have we heard [[Julian Slater-Runehorn|Julian]] would be in town??
+* We know to be on the lookout that "Soon, an official's secret family will be coming to light. After their fall from grace, we should be able to get an invitation to their replacement's coronation." 
+* From the letter we found in [[Viliki]]: two names jump out [[Oola]], and [[Agatha Krunderstone]], from [[Garida]] group, and [[Mim]]. There are also a few letters, between someone [[Burston Courtev]], in [[Jezeten]] and [[Salid]], in [[New Fairhaven]], with their addresses. They talk about the flesh-stitched behemoth (FSB), and Lance Corporal [[Lance Corporal Jalvena Kharim|Jalvena]]
+	* We should ask Sienna if they took action here and if not look into it
+* [[Starstool Daygrip]] offered meeting in [[Jezeten]] for coffee with [[Adrienne Spout|Adrienne]], but maybe that was timed wrong? Have we heard [[Julian Slater-Runehorn|Julian]] would be in town??
+* We know to be on the lookout that "Soon, an official in [[Jezeten]]'s secret family will be coming to light. After their fall from grace, we should be able to get an invitation to their replacement's coronation."
+
+In the [[Turian Waste]]
+* 
 
 ### Short-Term
 In [[New Fairhaven]]
@@ -24,27 +38,25 @@ In [[New Fairhaven]]
 ### Middle-Term
 * scries
 	* [[Alhoon]]
-	* [[Pleetos Alentas]]
+	* [[Pleetos Alentas]] - one success
 	* [[Von]]
-	* [[Ronan]]
+	* [[Ronan]] - one success
 	* [[Sven]] with the [[Duke v'Luthei]]
 	* [[Starstool Daygrip]]
 	* [[The Burning Sons]] 
 	* [[Captain Fretze|Fretze]]
 	* [[Adrienne's Family]] 
 	* [[Rawley]] 
-	* [[Petra]] 
+	* [[Petra]] - one success
 	* [[Niko]] / [[Giary]]
+	* [[Rughork]] - one fail
+	* [[Burston Courtev]] - two fails
 * legends lore
 	* [[Weirefesteria]] bark with [[Mysterious Circles]]
 	* gold fingers from the [[Alhoon]]
-* Meet ups in [[Jezeten]]
-	* [[Colvia Ghul]]
-	* sounds like maybe [[Grishomec Teld|Major Teld]]
 * Meet ups in [[New Fairhaven]]
 	* [[The Silver Halves]]
 	* [[Willow]] maybe?
-	* 
 
 ### Long-Term
 * Meet [[Neiragneg]] at the [[Slavaadi College]] for [[Rez]]'s appointment with the Archmagi [[Rhend Triverswill]]

@@ -53,3 +53,4 @@ You can use these points as if they were normal sorcery points. The Scales can h
 * 3 points
 	* 6 - Dimension door, designate one creature to come with me
 	* 8 - I turn into a beast of my choice no flying/speed and one other creature within 60 ft of DMs choice turns into something else WITH a flying/speed
+	* 9 - regain 3 spell slots

@@ -43,14 +43,29 @@ We are reading the book, what should we be factoring in to point towards the rem
 
 Have we identified the last family of clues or is it unknown?
 * We have, and it's one of the categories we've identified but not one we've solved
+
+half question for half a clue of ticks
+* you get the sense the [[The Scattered Bar]] thing might be helpful but could be for later, and isn't part of the two last clues that need to be solved
+* The map though, is pointing towards one of the clues. It has to do with something in the margin notes, that makes us think of the northern part of our continent.
+
+What do the maps that depict the mountains and jorren referring to and what is it's significance? 
+* In the back half of the book, in the margins, we saw somewhere referred to *
+* The mountains being referenced is intending to tie this clue north to the mountains 
+
+Is [[Polaris]] the reference?
+* Yes, 'The polar opposite is true' is written to showcase [[Polaris]] if you look to it. 
+* "There is a protective around her?" 
+
+What is the nature of the protective barrier relating to [[Polaris]]? 
+* We are fairly sure, it is not referring to a barrier around [[Polaris]] - [[Polaris]] is itself the protective barrier
 ### Other Clues
 * There are two more substantial clues, that are discrete and singular, after we figure out the dots above letters thing - and one more family of clues
 * We have hit all the large Families of clues 
 ### Questions
-0
+
 
 ### For Consideration
-* Map referencing the Mountains/Jorenn
+* Map referencing the Mountains/Jorenn - there's something in the margin 
 	* Undead are coming from the under dark 
 	* The source point for [[Morthos]] or undead stuff in under the [[Ragndaar Mountains]] 
 	* [[The Scattered Bar]] run by [[Evlyn]]
@@ -65,7 +80,7 @@ Have we identified the last family of clues or is it unknown?
 * [[Brask]] is were some thieves guild is centered? Maybe [[The Silver Hand]]?
 * Almost every "Stubby" are circled or underlined
 * Many mentions of copper are circled or underlined
-* Dreamweavers? "Find out what that reminded you of" - struckthrough 
+* Dreamweavers? "Find out what that reminded you of" - struck through 
 * Other major family of clues
 	* Dog ears - is there something in common on the pages? 
 	* [[Wayfinders]] symbols - is there something in common on the pages? 
@@ -73,3 +88,4 @@ Have we identified the last family of clues or is it unknown?
 
 
 
+218/219

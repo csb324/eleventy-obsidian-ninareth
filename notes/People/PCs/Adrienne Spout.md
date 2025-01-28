@@ -6,7 +6,7 @@ type: PC
 tags:
   - PC
 Race: Half-Elf
-Status: dead
+Status: alive
 Born: Ru'Nileth
 Alma-Mater: Redscale
 Affiliation:
@@ -21,8 +21,7 @@ Pronouns: " she/hers"
 # Adrienne
 
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">Half-Elf</span></span>
-<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">dead</span></span>
-
+<span class="dataview inline-field"><span class="inline-field-key">Status</span><span class="inline-field-value">alive</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Born</span><span class="inline-field-value">[[Ru'Nileth]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Alma Mater</span><span class="inline-field-value">[[Redscale]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[The Unforged Few]]</span></span>

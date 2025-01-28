@@ -17,6 +17,8 @@ We have the [[ELA Ebony Stake]] - a vestige of her coffin, said to prevent them 
 * [[Sienna Burbank]]
 * [[Trisha]]
 * [[ELA]]
+* [[TrueSilver]]
+	* [[Finn]] reaches out to [[TrueSilver]], asking for something to help us in [[Jezeten]] - the hearth goes out, and left in the center is a coal, veined through with silver. It hums with power, [[Adrienne Spout|Adrienne]] takes a closer look, it's consecrated it's a [[Coal of TrueSilver's Grace]] it can be smashed, destroying it, expending one use of destroy undead as though you were a 20th level cleric.
 
 ### Baddies
 * [[Duchess v'Dharinov]] - our target

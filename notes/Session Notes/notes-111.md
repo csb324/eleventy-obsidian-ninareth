@@ -39,13 +39,13 @@ He can't eat lambs on ravens day, associated with two gods: [[Pelor]] (alive) an
 
 He's seen other creatures with gold appendages and knows [[G'zraad]] is in his phylactery, he might know if that changes. There's been other blue roses in the past, who did important things for [[Corellon Larethian]]. He lists some songs about them.
 
-[[Freya]] asks [[The Curator]] if the [[Alhoon]] is still there. We have some time though. [[Costi]] secretly asks if he knows about [[The Curator]], and [[Willow]] doesn’t and doesn’t even seem particularly interested, but Costi tells him to ask correllon to look into it, that they touch everything. His eyes go bought blue, then says porcelain masks and he met them once about 56 years ago. They had tea and invited him to join the collection he declined. costi warns corellon its hard to know what they want and thinks they have thrir own aims.
+[[Freya]] asks [[The Curator]] if the [[Alhoon]] is still there. We have some time though. [[Costi]] secretly asks if he knows about [[The Curator]], and [[Willow]] doesn’t and doesn’t even seem particularly interested, but Costi tells him to ask correllon to look into it, that they touch everything. His eyes go bought blue, then says porcelain masks and he met them once about 56 years ago. They had tea and invited him to join the collection he declined. costi warns corellon its hard to know what they want and thinks they have their own aims.
 
-he says if anyone is intereseted in joining [[The Order of the Blue Rose]], he'll send them to her. They've been interested in her legend. Shes the third bearer of the [[Yew Sword]]. He can't induct them in, thats adriennes job. 
+he says if anyone is interested in joining [[The Order of the Blue Rose]], he'll send them to her. They've been interested in her legend. Shes the third bearer of the [[Yew Sword]]. He can't induct them in, thats [[Adrienne Spout|Adrienne]]'a job. 
 
 before he leaves he asks her for a song, and thanks her for her blessing.
 
-we talk about how adruenne feels, vshe says its werird. she connects with Finn on being chosen by a god, though he seems slow to admit it
+we talk about how [[Adrienne Spout|Adrienne]] feels, she says its weird. she connects with [[Hugh|Finn]] on being chosen by a god, though he seems slow to admit it
 
 [[Devkorus Kaa]] Lived in [[Deal 'Ras]] knew both Costi parents believe [[Costi's Dad|Vladimir Grosu]] is dead. 
 

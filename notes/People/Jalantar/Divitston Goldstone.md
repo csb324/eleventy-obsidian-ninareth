@@ -26,7 +26,7 @@ He's teaching [[Rez]] how to pour iron, as she works off her debt for her face-r
 
 He's also very interested in how the five-cup shuffle game at [[Seven Hooves]] works, so the two of them are also working on that puzzle.
 
-Made us a replica ring, for [[Operation Incriminating Letters]] and told him it was for [[Rez]]. Also gave us led for a magical-concealment box, and other soft metals
+Made us a replica ring, for [[Operation Incriminating Letters]] and told him it was for [[Rez]]. Also gave us lead for a magical-concealment box, and other soft metals
 
 Along with [[Ghez Yhutl]], looked into a metal containing some mithril that was attached to a dead blue dragon.
 

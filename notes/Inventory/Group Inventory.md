@@ -3,7 +3,7 @@
 ---
 # Group Inventory
 
-### Currency - 2,183
+### Currency - 2,298
 ##### Gems:
 Pearl
 Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
@@ -17,8 +17,8 @@ Bag? Need to open
 ## Potions:
 Healing:
 	Supreme (6000?) - 1, carried by [[Freya]]
-	Superior healing (900) - 1 per person
-	Greater healing (400) - 2 per person
+	Superior healing (900) - 1 per person, used: [[Freya]], [[Rez]] 8d4+8
+	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]]
 	Regular healing (200) - 
 	? - [[Adrienne Spout|Adrienne]]
 Potion of Rage - Carried by [[Freya]], [[Rhynilex Svenik|Rhyn]]
@@ -206,7 +206,7 @@ Metals to each member of [[The Unforged Few|Our-Party]] as "Heroes of [[Jalantar
 
 Writ of Authority for [[Viliki]] - negated by [[Mayor Galfeedz Drakurshire]]
 
-[[Xcanthak]] coins of favor - 6 (one per person in [[The Unforged Few|Our Party]])
+[[Xcanthak]] coins of favor - 5 (one per person in [[The Unforged Few|Our Party]], though [[Costi]] gave his to [[Rhynilex Svenik|Rhyn]])
 
 ### Books and Correspondence:
 [[The Unnatural Naturality]] - read by [[Jade]]

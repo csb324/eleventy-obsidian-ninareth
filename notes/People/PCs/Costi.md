@@ -5,6 +5,7 @@ tags:
 aliases:
   - Cost-ape
   - Constantine
+  - Sti Sti
 Race: Human
 Status: alive
 Home: Eberron
