@@ -84,21 +84,23 @@ function transform(string) {
 }
 
 const copyFilter = function(name) {
-    if (name.match('.git')  || name.match('Templates')) {
-      return false;
-    }
+  if (name.match('.git')  || name.match('Templates')) {
+    return false;
+  }
 
-    if(name.match('.obsidian')) {
-      return false;
-    }
+  if(name.match('.obsidian')) {
+    return false;
+  }
 
-    return true;
+  return true;
 }
 
 const copyTransformation = function(read, write, file) {
-  const fileName = write.path.replace(process.cwd(), '');
+  let fileName = write.path.replace(process.cwd(), '');
+  fileName = encodeURIComponent(fileName);
+
   const pieces = fileName.split("/");
-  let title = encodeURIComponent(pieces[pieces.length-1].split(".")[0]);
+  const title = encodeURIComponent(pieces[pieces.length-1].split(".")[0]);
 
   if(!fileName.match('.obsidian')) {
     knownFileNames[title] = fileName;
