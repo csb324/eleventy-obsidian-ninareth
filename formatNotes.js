@@ -98,7 +98,7 @@ const copyFilter = function(name) {
 const copyTransformation = function(read, write, file) {
   const fileName = write.path.replace(process.cwd(), '');
   const pieces = fileName.split("/");
-  const title = pieces[pieces.length-1].split(".")[0];
+  let title = encodeURIComponent(pieces[pieces.length-1].split(".")[0]);
 
   if(!fileName.match('.obsidian')) {
     knownFileNames[title] = fileName;
