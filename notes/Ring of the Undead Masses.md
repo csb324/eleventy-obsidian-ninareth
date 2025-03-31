@@ -2,14 +2,15 @@
 type: item
 tags:
   - item
-Owned-by: Freya
+Owned-by: Rez
+Origin: Burston Courtev
 Attunement: " yes"
 Cursed: " yes"
 ---
 # Ring of Undead Masses
 
-<span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[Freya]]</span></span>
-[Origin::[[Burston Courtev]]
+<span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[Rez]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Origin</span><span class="inline-field-value">[[Burston Courtev]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Attunement</span><span class="inline-field-value"> yes</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Cursed</span><span class="inline-field-value"> yes</span></span>
 

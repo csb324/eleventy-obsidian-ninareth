@@ -3,34 +3,37 @@
 ---
 # Group Inventory
 
-### Currency - 2,298
+### Currency - 
 ##### Gems:
 Pearl
-Near flawless diamond - worth 5000gp (Carried by [[Hugh]])
+Near flawless [[Elemental Plane of Earth]] diamond - worth 4000gp (Carried by [[Hugh]])
 diamond ring - 3's revivify's worth (900gp worth)
 diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~800gp
 diamonds - 500gp worth
 Topaz  ([[Rez]])
-
-Bag? Need to open
+Bag from [[Teld's Dogs]]: 3 shitty emeralds, a poorly cut diamond, a fine ruby
+4 large sapphires
+2 wings, each has about 40 sapphires
 
 ## Potions:
 Healing:
 	Supreme (6000?) - 1, carried by [[Freya]]
-	Superior healing (900) - 1 per person, used: [[Freya]], [[Rez]] 8d4+8
+	Superior healing (900) - 1, and 1 per person, used: [[Freya]], [[Rez]] 
 	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]]
 	Regular healing (200) - 
 	? - [[Adrienne Spout|Adrienne]]
 Potion of Rage - Carried by [[Freya]], [[Rhynilex Svenik|Rhyn]]
-Potion of Darkvision - 4
-Potion of Necrotic Resistance - 3
+Potion of Darkvision - 1
+Potion of Necrotic Resistance - 3 ([[Hugh|Finn]], [[Rez]])
 Aid - 1 ([[Hugh]])
+Lightning Resistance - 3
+Potion of Maximum Power - 1 when you cast a spell that does damage of 4 level or lower, you do max damage, carried by [[Rez]] 
 
 ## Scrolls:
 Silence [[Rez]]
 Detect Thoughts [[Rez]]
 Counterspell [[Adrienne Spout|Adrienne]]
-Feather Fall - 2, [[Costi]]
+Feather Fall - 1, [[Costi]]
 [[Clarence the Cleaner]]'s card "for a speedy consultation" - held by [[Adrienne Spout|Adrienne]]
 [[Clarence the Cleaner]]'s card "for a business opportunity" - held by [[Adrienne Spout|Adrienne]]
 
@@ -171,6 +174,8 @@ Carried by [[Hugh|Finn]]
 [[Curator porcelain pin]]
 Carried by [[Costi]]
 
+[[tuning fork to the elemental plane of water]]. 
+Carried by [[Hugh|Finn]] 
 ## Monster Parts
 
 ### Dragon Scales
@@ -208,6 +213,8 @@ Writ of Authority for [[Viliki]] - negated by [[Mayor Galfeedz Drakurshire]]
 
 [[Xcanthak]] coins of favor - 5 (one per person in [[The Unforged Few|Our Party]], though [[Costi]] gave his to [[Rhynilex Svenik|Rhyn]])
 
+Broken half of a ruby
+Carried by [[Rez]]
 ### Books and Correspondence:
 [[The Unnatural Naturality]] - read by [[Jade]]
 [[Kith and Kin]] - read by [[Freya]], [[Rez]]
@@ -232,7 +239,7 @@ Writ of Authority for [[Viliki]] - negated by [[Mayor Galfeedz Drakurshire]]
 [[Kith and Kin]] - Carried by [[Freya]] 
 Letter of introduction from [[The Matron]] of [[Izdeke]]
 Letter to Hugh from [[Charky]]
-
+Correspondence from [[Johviteo Bachekdem]] - carried by [[Adrienne Spout|Adrienne]]
 ### Rez
 
 ##### Bag of Mischief:

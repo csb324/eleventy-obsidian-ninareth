@@ -27,8 +27,14 @@ Our starting point would be going to where the last undead were found. If we can
 
 [[Jehneim Bastienev]], [[Sienna Burbank|Sienna]], and [[Colvia Ghul]] plan to make [[The Unforged Few|Our Party]] a dossier once the information is reviewed and approved. [[Trisha]] and [[Colvia Ghul]] will see to our supplies, as [[Colvia Ghul]] has spent a good deal of time in the [[Turian Waste]]. They'll get us to the border and supply us with horses too. 
 
+We're heading to the [[Gu’athrithen]] mine, [[Zhakastin Expedition]] about 35 miles north of the border, where the unexplained mass casualty event took place. 
+
+### What We Find Out
+A group of undead, believed to be fifty or sixty at least, were lead by a very chatty (constant chattering, maybe seemed nuts) skeleton creatures with a shiny staff - did big magic. Killed everyone inside the [[Zhakastin Expedition]]. 
+
 ### What's it mean to us?
 * Seems like it ties into [[Wait There's a Lot of Undead]] and the [[Freya's Mysterious Circles|Eye of the Everpresent]] 
+	* [[Hugh|Finn]] communes with [[TrueSilver]]: "Is the undead activity in the [[Turian Waste]]s tied to what's threatening the gods?" "Yes"
 * Part of our plan [[A Murder of Dukes]]
 * Strengthens our cover story from the [[Orzudan Prisoner Breakout]] 
 

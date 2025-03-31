@@ -8,55 +8,59 @@ Owned-by: The Unforged Few
 # To-Do List
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
-### Schedule
-* Drinks with [[Elena]] and [[Marius A]] tonight
-* Leave for [[Who's Undead is That?]] 
+### Scheduled Events
+
 
 ### Immediate
 * Drinks with [[Colvia Ghul]], we sent a note
-* Drinks with [[Elena]] and [[Marius A]]
-* Prep for [[Who's Undead is That?]] 
-	* plan 
-* See if we can lock down info on [[Rughork]] from / with [[Sylvia]]
-* From the letter we found in [[Viliki]]: two names jump out [[Oola]], and [[Agatha Krunderstone]], from [[Garida]] group, and [[Mim]]. There are also a few letters, between someone [[Burston Courtev]], in [[Jezeten]] and [[Salid]], in [[New Fairhaven]], with their addresses. They talk about the flesh-stitched behemoth (FSB), and [[Lance Corporal Jalvena Kharim|Jalvena]]
-	* We should ask [[Sienna Burbank|Sienna]] if they took action here and if not look into it
 * [[Starstool Daygrip]] offered meeting for coffee with [[Adrienne Spout|Adrienne]], but maybe that was timed wrong? Have we heard [[Julian Slater-Runehorn|Julian]] would be in town??
 * We know to be on the lookout that "Soon, an official's secret family will be coming to light. After their fall from grace, we should be able to get an invitation to their replacement's coronation." 
-* From the letter we found in [[Viliki]]: two names jump out [[Oola]], and [[Agatha Krunderstone]], from [[Garida]] group, and [[Mim]]. There are also a few letters, between someone [[Burston Courtev]], in [[Jezeten]] and [[Salid]], in [[New Fairhaven]], with their addresses. They talk about the flesh-stitched behemoth (FSB), and Lance Corporal [[Lance Corporal Jalvena Kharim|Jalvena]]
-	* We should ask Sienna if they took action here and if not look into it
-* [[Starstool Daygrip]] offered meeting in [[Jezeten]] for coffee with [[Adrienne Spout|Adrienne]], but maybe that was timed wrong? Have we heard [[Julian Slater-Runehorn|Julian]] would be in town??
-* We know to be on the lookout that "Soon, an official in [[Jezeten]]'s secret family will be coming to light. After their fall from grace, we should be able to get an invitation to their replacement's coronation."
 
 In the [[Turian Waste]]
-* 
+* Decide if we're trying out the [[Ring of the Undead Masses]]
 
 ### Short-Term
+* Investigate the [[Zhakastin Expedition]]
+* Find a way to get [[Burru Ilp]]'s notes from [[Father Thronestone]] at the end of the week
+	* [[Eirian]] dream?
+	* [[Hugh|Finn]] scry?
+	* [[Jalantar]] day trip?
+* Update from [[Eirian]] on [[Rez's Family]] counterattack 
+
 In [[New Fairhaven]]
 * Hail bloodseeker, [[fourteen rue promade]], after nine - [[Freya]]
+	* found on the silk square inside [[Lukan]]'s armor
 * Seek the [[Alhoon]] 
+* [[The Silver Halves]] are planning to be in [[New Fairhaven]] in a few weeks, maybe months, for a traders conference with [[Victoria Several|Victoria]] and "Bultikan" (name approximation), who has something she is interested in that could give her insight into how better utilize her abilities.
+	* Does [[Magister]] still have the [[Magically Resistant Chain]]? 
+	* They were looking into a note Finn had that was in thieves cant? Maybe tied to [[The Silver Hand]]? "[[Jade]] worries about the [[The Silver Hand]] in [[Hugh]]'s [[TrueSilver]] vision, and we ask the [[The Silver Halves]]. Looking at [[Hugh]]'s note, but [[Magister]] recognizes it's written in thieves cant. He has a discreet contact who can look at it further in [[Quaath]]."
+	* 
+*  [[Salid]], who worked with [[Burston Courtev]] and [[Lance Corporal Jalvena Kharim|Jalvena]] on the flesh-stitched behemoths
+* [[Wyn Elreal]] is traveling south, maybe to [[New Fairhaven]]? Unspecified thus far
+* [[Willow]] maybe? Seems like that's a thing that will happen
 
 ### Middle-Term
 * scries
 	* [[Alhoon]]
-	* [[Pleetos Alentas]] - one success
+	* [[Pleetos Alentas]] - two successes
 	* [[Von]]
 	* [[Ronan]] - one success
 	* [[Sven]] with the [[Duke v'Luthei]]
 	* [[Starstool Daygrip]]
 	* [[The Burning Sons]] 
-	* [[Captain Fretze|Fretze]]
-	* [[Adrienne's Family]] 
+	* [[Captain Fretze|Fretze]] - one success / one fail
+	* [[Adrienne's Family]] - one success
 	* [[Rawley]] 
 	* [[Petra]] - one success
 	* [[Niko]] / [[Giary]]
-	* [[Rughork]] - one fail
-	* [[Burston Courtev]] - two fails
+	* [[Willow]] 
+	* [[Wyn Elreal]] - one success - one success
+	* [[Bhula Orbnose]]
 * legends lore
 	* [[Weirefesteria]] bark with [[Mysterious Circles]]
 	* gold fingers from the [[Alhoon]]
-* Meet ups in [[New Fairhaven]]
-	* [[The Silver Halves]]
-	* [[Willow]] maybe?
+* sendings
+	* costis friend marius
 
 ### Long-Term
 * Meet [[Neiragneg]] at the [[Slavaadi College]] for [[Rez]]'s appointment with the Archmagi [[Rhend Triverswill]]
@@ -68,8 +72,6 @@ In [[New Fairhaven]]
 *  [[Costi]] return to [[Professor Vendorsmere]] for sword lessons "when he's ready"
 * Talk to [[Yhridex]] or learn more about his involvement with [[Dragon Scales Ahhhh]]
 * What's going on with [[The Ascended]] and why are they're getting involved with [[Hugh]]?
-* Check in with [[Sienna Burbank]] about visiting [[Burbank Compound]] in [[Eberron]] to help [[Hugh]]. Avoid [[AVAD]], and general travel in the area.
-	* talk to [[Victoria Several|Victoria]] about this?
 *  [[Bahamut]], [[Moradin]], [[Corellon Larethian]], and [[Pelor]] need help from dragons??
 
 ### To Buy
@@ -77,9 +79,13 @@ In [[New Fairhaven]]
 * potions
 * diamonds
 
+### Misc
+* Why is [[Captain Fretze|Fretze]] traveling alone in [[Eberron]], undercover? 
+
 Chelsea:
 * make list of mithril items? 
 	* [[Mithril Needle]]
 	* the alloy (add page)
 	* fuses
 	* potion to cut the fuses?
+

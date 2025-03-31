@@ -58,11 +58,21 @@ Is [[Polaris]] the reference?
 
 What is the nature of the protective barrier relating to [[Polaris]]? 
 * We are fairly sure, it is not referring to a barrier around [[Polaris]] - [[Polaris]] is itself the protective barrier
+
+What specific modification to the page and text should we be looking for for this final set of clues?
+* As you look through the book, one thing jumps out, on a few pages, there are very long stretches of underlined text. Those might be tied together, specifically when those stretches of text have a word in common and similar word in the annotation (two words)
+
+We've noticed the repeating pattern of references to 'mine/miners' in underlined sections and  'know/knowing' in nearby annotations on pages 120, 127, 163, 183, 245 -- what do we take that to mean?
+* We feel as though we've stumbled upon the last clue family, and that these five pages split between them, contain a clue. We don't feel like it's necessarily tied to mine/miner or know/knowing, although those might be seasoning to the clue. But the actual clue is contained within the words on the page that are underlined, and pulling something that is across all five will give us the clue 
+* We feel like 183 is different than the other 3 but still fits into the same pattern
+mahtgo oath mg (oath to M prompted this clarification)
+
 ### Other Clues
 * There are two more substantial clues, that are discrete and singular, after we figure out the dots above letters thing - and one more family of clues
 * We have hit all the large Families of clues 
-### Questions
 
+### Questions
+1
 
 ### For Consideration
 * Map referencing the Mountains/Jorenn - there's something in the margin 
@@ -86,6 +96,15 @@ What is the nature of the protective barrier relating to [[Polaris]]?
 	* [[Wayfinders]] symbols - is there something in common on the pages? 
 
 
+### Pages for Final Clue 120, 127, 163, 183, 245
 
+![](/assets/obsidian/76149627730__22667445-C3DE-4C07-BEE9-D7571E044759.jpeg)
+![](/assets/obsidian/76149628997__9E2C4269-4724-43AC-A2B1-118444652DF4.jpeg)
+![](/assets/obsidian/76149635308__FFE5A650-D55B-4332-8E2C-928930742C29.jpeg)
+![](/assets/obsidian/76149639678__99CCB4B8-EB2B-4AFF-9D9B-1A560E7813F9.jpeg)
+![](/assets/obsidian/76149654330__60EDF03C-72D0-4DFB-94FC-955662AF5DA2.jpeg)
 
 218/219
+
+
+

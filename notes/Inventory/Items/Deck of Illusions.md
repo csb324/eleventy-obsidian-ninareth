@@ -10,7 +10,7 @@ Carried-by: Rez
 # Deck of Illusions
 A magical deck of cards with a small piece of paper attached to it that reads "For Isabelle".
 
-Missing 10 cards
+Normally has 34 cards, this deck is missing 10:
 	9 of diamonds
 	ace of spades
 	2 of clubs
@@ -22,7 +22,7 @@ Missing 10 cards
 	6 of clubs
 	king of hearts
 
-Cards must be drawn at random, using  one action and range of 30ft. 
+Cards must be drawn at random, using one action and range of 30ft. 
 
 The illusion appears and remains until dispelled. You can use an action within 120ft to magically  move within 30ft of the card.
 

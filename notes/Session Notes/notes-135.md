@@ -32,19 +32,21 @@ We back a bag of his stuff so it looks like he's left for real. And mess up the 
 
 We head back to our hotel. 
 
-[[Costi]] talks to [[Rez]] about [[Rez's Family]].
+[[Costi]] talks to [[Rez]] about [[Rez's Family]], his theory is that maybe she and her siblings are the blood of the metallic dragons that [[Azir DarAxia|Saint Goldborn]] made a long time ago. [[Rez]] agrees it HAS to be true. 
 
 Then we talk about drinks with [[Marius A]] and [[Elena]] that night, and how he wants to impress [[Elena]]. And how [[Marius A]] needs to be mortified. [[Rez]] has the perfect idea - she and [[Adrienne Spout|Adrienne]] will make him think they're interested, and then act like he's the stupidest man alive for not realizing they're actually into each other. 
 
 [[Costi]] identifies the [[Ring of the Undead Masses]]. We agree to keep it for 83 days and the use the last week before the Clot revives to destroy it. 
 
-[[Rez]] sendings to [[Sienna Burbank|Sienna]], "Courtev dead. Necromancer of surprising skill - fought early design like flesh stitched behemoth. Found hidden letters, but Costi's breaking the code. First Division paying him!!", [[Sienna Burbank|Sienna]] "Excellent, good work Update when code is broken, will find a reason to investigate the house."
+[[Rez]] sendings to [[Sienna Burbank|Sienna]], "[[Burston Courtev]] dead. Necromancer of surprising skill - fought early design like flesh stitched behemoth. Found hidden letters, but [[Costi]]'s breaking the code. First Division paying him!!", [[Sienna Burbank|Sienna]] "Excellent, good work. Update when code is broken, will find a reason to investigate the house."
 
 [[Costi]] spends some time trying to break the code, with [[Rez]]'s help. They make pretty good progress on figuring out how it works, and think in another day or so they can figure it out. 
 
+[[Hugh|Finn]] helped [[Freya]] get a new haircut after she lost some hair in the fight. She no longer has dreads or a top knot. 
+
 [[Costi]] and [[Hugh|Finn]] spend some time at [[AVAD]]. 
 
-[[Adrienne Spout|Adrienne]] uses the [[Circlet of Sending]].
+[[Adrienne Spout|Adrienne]] uses the [[Circlet of Sending]], she talks to [[Wyn Elreal]]. He's heading south, unclear where. We discuss how lots of people seem to be heading to [[New Fairhaven]], 
 
 [[Hugh|Finn]] communes with [[TrueSilver]]:
 	"Is it safe to use the [[Ring of the Undead Masses]] for 83 days", he receives, "Safe? yes"
@@ -59,9 +61,9 @@ We debate if [[Freya]] should wear it or not. We decide to do it while we're sti
 
 Meanwhile, [[Freya]] decides what's easiest to defuse the party is just give the ring to [[Rez]] for now. [[Rez]] readily agrees. And for that measure, any time there's an item they don't want she'll happily take it. 
 
+[[Adrienne Spout|Adrienne]] practices the harp, and talks through some thoughts to [[Corellon Larethian]]. She hopes he's not sending backup because she's in over her head, but she's thankful either way. 
 
-
-
+After everyone goes to bed, [[Hugh|Finn]] sneaks outside. He finds a quiet spot where he can see the stars and does a private prayer moment to [[TrueSilver]] back where it all began. 
 
 
 

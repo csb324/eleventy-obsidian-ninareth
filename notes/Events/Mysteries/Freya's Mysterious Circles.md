@@ -22,6 +22,7 @@ The incense takes on a purple tint, and [[Hugh|Finn]] hears a calm reassuring vo
 * [[Winifey]], the [[Duvey Crypt]], and the [[Dunamantic Ruby Eye]]
 * [[Wayfinders]]: [[Naya]], [[Akros]], and [[Rawley]]
 * [[Samson]] knew about them from [[Home]] and told [[Eirian]] and [[Ghez Yhutl]] - they found a dead body with them
+* [[Freya's Mysterious Letter]]
 
 ### Clues
 [[session-30]]: [[Niko]] got back to her, and said [[Professor Leonard Klipitz]] recognized the symbol. He couldn't say exactly what it was, but it was something that probably existed in his research. So, that's something!
