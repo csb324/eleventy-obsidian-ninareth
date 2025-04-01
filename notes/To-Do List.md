@@ -20,21 +20,11 @@ In the [[Turian Waste]]
 * Decide if we're trying out the [[Ring of the Undead Masses]]
 
 ### Short-Term
-* Investigate the [[Zhakastin Expedition]]
-* Find a way to get [[Burru Ilp]]'s notes from [[Father Thronestone]] at the end of the week
-	* [[Eirian]] dream?
-	* [[Hugh|Finn]] scry?
-	* [[Jalantar]] day trip?
-* Update from [[Eirian]] on [[Rez's Family]] counterattack 
-
 In [[New Fairhaven]]
 * Hail bloodseeker, [[fourteen rue promade]], after nine - [[Freya]]
 	* found on the silk square inside [[Lukan]]'s armor
 * Seek the [[Alhoon]] 
 * [[The Silver Halves]] are planning to be in [[New Fairhaven]] in a few weeks, maybe months, for a traders conference with [[Victoria Several|Victoria]] and "Bultikan" (name approximation), who has something she is interested in that could give her insight into how better utilize her abilities.
-	* Does [[Magister]] still have the [[Magically Resistant Chain]]? 
-	* They were looking into a note Finn had that was in thieves cant? Maybe tied to [[The Silver Hand]]? "[[Jade]] worries about the [[The Silver Hand]] in [[Hugh]]'s [[TrueSilver]] vision, and we ask the [[The Silver Halves]]. Looking at [[Hugh]]'s note, but [[Magister]] recognizes it's written in thieves cant. He has a discreet contact who can look at it further in [[Quaath]]."
-	* 
 *  [[Salid]], who worked with [[Burston Courtev]] and [[Lance Corporal Jalvena Kharim|Jalvena]] on the flesh-stitched behemoths
 * [[Wyn Elreal]] is traveling south, maybe to [[New Fairhaven]]? Unspecified thus far
 * [[Willow]] maybe? Seems like that's a thing that will happen
@@ -42,7 +32,7 @@ In [[New Fairhaven]]
 ### Middle-Term
 * scries
 	* [[Alhoon]]
-	* [[Pleetos Alentas]] - two successes
+	* [[Pleetos Alentas]] - one success
 	* [[Von]]
 	* [[Ronan]] - one success
 	* [[Sven]] with the [[Duke v'Luthei]]
@@ -54,8 +44,7 @@ In [[New Fairhaven]]
 	* [[Petra]] - one success
 	* [[Niko]] / [[Giary]]
 	* [[Willow]] 
-	* [[Wyn Elreal]] - one success - one success
-	* [[Bhula Orbnose]]
+	* [[Wyn Elreal]] - one success
 * legends lore
 	* [[Weirefesteria]] bark with [[Mysterious Circles]]
 	* gold fingers from the [[Alhoon]]
@@ -81,6 +70,9 @@ In [[New Fairhaven]]
 
 ### Misc
 * Why is [[Captain Fretze|Fretze]] traveling alone in [[Eberron]], undercover? 
+* Next time Rez sends to Eirian, ask if she took the sending stone from Rughork
+* sendings for the trip
+* scryings 
 
 Chelsea:
 * make list of mithril items? 

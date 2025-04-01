@@ -11,7 +11,7 @@ aliases:
 A letter [[Freya]] found in her jail cell, wedged under her door, the morning she was exiled from [[Polaris]]. We don't know who it's from.
 
 **[[IMG_5177.heic]]**
-![](/assets/obsidian/Pasted%20image%2020250217210226.png)
+
 ### Text 
 
 [[Freya]] … 

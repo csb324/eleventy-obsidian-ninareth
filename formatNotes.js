@@ -66,7 +66,7 @@ function hoistTags(string) {
         fileContent.data[key] = value;
       }
 
-      fileContent.content = fileContent.content.replace(e[0], `<span class="dataview inline-field"><span class="inline-field-key">${e[1]}</span><span class="inline-field-value">${e[2]}</span></span>`)
+      fileContent.content = fileContent.content.replace(e[0], `<span class="dataview inline-field"><span class="inline-field-key">${e[1]}</span><span class="inline-field-value">${e[2]}</span></span>`);
 
     });
     string = `---\n${stringify(fileContent.data)}---\n${fileContent.content}`;
@@ -159,7 +159,7 @@ function copyFiles() {
     .then(copyNotes)
     .then(() => {
       return new Promise((resolve, reject) => {
-        glob('notes/**/*.md', function(err, matches) {      
+        glob('notes/**/*.md', function(err, matches) {
           if(err) {
             console.log("OH NO");
             reject(err);
@@ -182,7 +182,7 @@ function copyFiles() {
           console.log(err);
         }
       });
-  
+
       ncp('../Ninareth/Files', 'assets/obsidian', {
         transform: (r, w) => {
           const directories = r.path.split("/");

@@ -39,6 +39,25 @@ module.exports = function(eleventyConfig) {
     });
 
 
+    eleventyConfig.addCollection("detailedNotes", function(collection) {
+        return collection.getFilteredByGlob("notes/Session Notes/*.md").sort((a, b) => {
+            const aIndex = parseInt(a.fileSlug.split("-")[1]);
+            const bIndex = parseInt(b.fileSlug.split("-")[1]);            
+            return bIndex - aIndex;
+        }).filter((s) => s.data.type == "detailed-notes").map((sesh) => {
+            const markdown = sesh.template.inputContent;
+            const searchFor = /# session \d+.*$/gmi;
+            const result = markdown.match(searchFor);
+            if(result) {
+                sesh.data.sessionTitle = result[0].replace("# ", "");
+            } else {
+                sesh.data.sessionTitle = sesh.data.title;
+            }
+            return sesh;
+        });
+    });
+
+
     eleventyConfig.addCollection("notes", function (collection) {
         const c =  collection.getFilteredByGlob(["notes/**/*.md", "index.md"])
             .filter((item) => {
