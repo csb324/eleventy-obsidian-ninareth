@@ -4,7 +4,8 @@ layout: default
 
 <h1>Links</h1>
 
-<h2>Latest Session:</h2>
+<h2>Latest Sessions:</h2>
+<ul>
 {% for post in collections.detailedNotes limit: 5 %}
   <li>
     <a href="{{post.url}}" title="{{post.title}}">
@@ -12,17 +13,6 @@ layout: default
     </a>
   </li>
 {% endfor %}
-
-
-<h3>Latest sessions:</h3>
-<ul>
-  {% for post in collections.sessions limit: 10 %}
-  <li>
-    <a href="{{post.url}}" title="{{post.title}}">
-      {{post.data.sessionTitle | replace: '-', ' '}}
-    </a>
-  </li>
-  {% endfor %}
 </ul>
 
 <h3>Random post</h3>

@@ -29,10 +29,16 @@ module.exports = function(eleventyConfig) {
             const markdown = sesh.template.inputContent;
             const searchFor = /# session \d+.*$/gmi;
             const result = markdown.match(searchFor);
+            const cuteTitle = sesh.Name;
             if(result) {
                 sesh.data.sessionTitle = result[0].replace("# ", "");
             } else {
                 sesh.data.sessionTitle = sesh.data.title;
+            }
+
+            if(cuteTitle && cuteTitle.length > 0) {
+                sesh.data.sessionTitle += ": ";
+                sesh.data.sessionTitle += cuteTitle;                
             }
             return sesh;
         });
@@ -48,10 +54,17 @@ module.exports = function(eleventyConfig) {
             const markdown = sesh.template.inputContent;
             const searchFor = /# session \d+.*$/gmi;
             const result = markdown.match(searchFor);
+            const cuteTitle = sesh.data.Name;
+
             if(result) {
                 sesh.data.sessionTitle = result[0].replace("# ", "");
             } else {
                 sesh.data.sessionTitle = sesh.data.title;
+            }
+
+            if(cuteTitle && cuteTitle.length > 0) {
+                sesh.data.sessionTitle += ": ";
+                sesh.data.sessionTitle += cuteTitle;                
             }
             return sesh;
         });
