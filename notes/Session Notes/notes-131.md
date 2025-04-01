@@ -99,7 +99,7 @@ She believes the blue draconics from [[Gu’athrithen]] were able to get some pa
 
 [[Costi]] asks if he should tell [[Nadia]] to leave, [[Sienna Burbank|Sienna]] says not yet - but she should be ready to leave at a moments notice. 
 
-Before we can move on [[Duchess v'Dharinov]]: the conflict in the [[Turian Waste]], [[Who's Undead is That?]] needs to be resolved, [[Clifford Burbank, the 5th|Fivey]] needs to be back, more [[Eberronian First Division]] soldiers need to be in place, and a few more pieces need to fall in line. 
+Before we can move on [[Duchess v'Dharinov]]: the conflict in the [[Turian Waste]], [[Who's Undead is That]] needs to be resolved, [[Clifford Burbank, the 5th|Fivey]] needs to be back, more [[Eberronian First Division]] soldiers need to be in place, and a few more pieces need to fall in line. 
 
 [[Sienna Burbank|Sienna]] has spent the last month in [[Deregheir]] but doesn't seem to be genuinely trying to get them involved, which [[Rez]] encourages. She gives [[Costi]] a scroll of teleport circle and shows him their circle so we can get back quickly if needed. 
 
