@@ -42,7 +42,9 @@ A few hours later, we came across a weird light, and followed it to a spooky [[N
 
 And we fought them! [[Niko]] jumped out a window to pursue one. [[Rez]] learned that with a bit of copper she can fuck up someone's spellcasting - a skill that will probably keep coming in handy. [[Hugh]] asked [[TrueSilver]] for some help with the undead and she obliged. [[Freya]] grew a tail. And finally, after we all noticed that the torture-apparatus was the only object undamaged by [[Costi]]'s shattering spell, [[Adrienne Spout|Adrienne]] was able to disconnect it from its magical energy. The skeleton's eye exploded (there was a lot going on with hands and eyes in the [[Necromantic Underground Chapel]]) and the remaining undead creatures fell back into piles of bones.
 
-We looked around and found some things, including a moon shaped rock and a strange metal chain, and then kept moving.
+*Update: March 2025*. The eye explored with a white glimmer.
+
+We looked around and found some things, including a moon shaped rock the [[Shadowfell Shard]] and a strange metal chain [[Magically Resistant Chain]], and then kept moving.
 
 We  only had to walk about half an hour before we reached [[The Furnace]], where [[Niko]] was given a hero's welcome. The people there had heard of us - particularly [[Costi]]. We spoke to a lanky young woman named [[Winifey]] whose job was to keep us busy while they found someone qualified to explain what the hell is going on. 
 

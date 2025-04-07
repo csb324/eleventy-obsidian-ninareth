@@ -26,13 +26,18 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 
 [[Zmaj]] tells us that one of the grafted might have been operating in [[Ru'Nileth]]. The only found blood, and a few mutilated corpses, but no scales - just diagrams. He's also heard rumors, it seems like it's spread and is talk of "putting down" new draconic creations, they call themselves [[Boulder Makers]]. 
 
+[[Rez]] wrote [[Rez's Report]] to [[Krarrhec]] at the [[Order of the Platinum Dragon]] in [[Quaath]]. 
+
 [[Eirian]] and [[Ghez Yhutl]] report [[Pleetos Alentas]] escaped [[Thelran Asari]] and made it to [[Durmask]]. Suspicious, as [[Rez's Family]] gets word [[Nehushta]] is killed there. So [[Zmaj]], [[Zoheret|Zoha]], [[Zalvaris|Zalv]], [[Simin]], and [[Taji]] are all on the hunt in [[Durmask]]. [[Hugh|Finn]] scrying revealed [[Pleetos Alentas]] to be on a lake nearby, maybe [[Lake Delente]]? 
+
+[[The Unforged Few|Our Party]] scryed and saw [[Pleetos Alentas]] in [[Narathian Plains]] writing instructions to [[Bhula Orbnose]] in [[Durmask]]. [[Rez]] told her siblings, who went to investigate but it went wrong. [[Zoheret|Zoha]] was killed in an ambush [[Bhula Orbnose]] prepared - they have found a way to use dragonscales to increase their spell power, using scales from [[Nehushta|Neti]]. [[Zmaj]] killed the group, but [[Bhula Orbnose]] escaped. [[Eirian]] says they're planning a counterattack. 
+
 ## Who's Involved
 
 #### Baddies
 * [[Burru Ilp]] - DEAD
 	* the main trouble maker 
-	* Got scales grafted onto him by [[Father Thronestone]]
+	* Got  scales grafted onto him by [[Father Thronestone]]
 	* Believes he's the blood of [[Galaphanel]]
 		* Convinced his friends they are too
 	* Killed a whole bunch of people trying to graft scales onto them
@@ -50,8 +55,9 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* Told us about the [[Weird Boulder]]
 * [[Pleetos Alentas]] - ?
 	* Potentially supplied dragon scales to [[Burru Ilp]]
-	* Was in [[Thelran Asari]], seemingly skipped town to [[Durmask]]
+	* Was in [[Thelran Asari]], seemingly skipped town to [[Durmask]], now in [[Narathian Plains]]
 	* Had brass scales grafted onto him
+	* Seems to be leading this, delegated to [[Bhula Orbnose]]
 * [[Yhridex]] - ?
 	* In the [[Order of the Platinum Dragon]] in  [[Durmask]], in the Saint Goldborn Order
 	* Communicated with [[Jorus]] about ?
@@ -62,17 +68,21 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 * [[Clive]] - DEAD
 	* Metal-worker in [[Jalantar]]
 	* Killed by [[Divitston Goldstone]] and [[Ghez Yhutl]]
+* [[Bhula Orbnose]]
+	* Receiving instructions from [[Pleetos Alentas]]
+	* Was prepared with a group for [[Zoheret|Zoha]] and [[Zmaj]] in [[Durmask]]. 
+*  [[Driega Jolentia]] was the jewelers [[Starstool Daygrip]] used in [[Durmask]] where [[Julian Slater-Runehorn|Julian]] found brass dragon scales
 
 #### Helpers
 * [[Father Thronestone]]
-	* Originiated the procedure on [[Rez]]
-	* Duplicated it on [[Burru Ilp]] and shared notes with him
+	* Originated the procedure on [[Rez]]
+	* Duplicated it on [[Burru Ilp]] and shared notes with him - this was a very bad call
 	* Realized he fucked up, asked [[The Unforged Few|Our-Party]] to investigate
 	* Trying to fix things, asked elders at [[Dragonsfire Forge]] to help
 	* Gave us some money, the [[Blow Em]] whistle and the claw tattoos for [[Freya]]
 	* Breaking the code on their notes to figure out how far along their work was
 	* Confiscated copper dragon scales being smuggled into [[Jalantar]] with the help of [[Jalantan Guard]]
-	* STILL working on notes
+	* STILL working on notes - says they'll be done end of the week (the day before we go into the mines) - how can to transmit? Talk to group about a day trip after the mines? 
 * [[Ghez Yhutl]]
 	* [[Rez]] convinced him to root out corruption in the [[Temple of  Platinum Dragon in Jalantar]] 
 		* "can I interest you in a curious folio?" 
@@ -92,6 +102,7 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 * [[Eirian]]
 	* Looking for [[Pleetos Alentas]] in [[Thelran Asari]], trying to capture him alive to question him
 	* Meeting up to manage [[Ghez Yhutl]], thank god.
+	* Warned that [[Pleetos Alentas]] was back in the [[Narathian Plains]]
 * [[Dragonsfire Forge]]
 	* Leadership censored [[Father Thronestone]]
 	* Contacting other followers of [[Moradin]] in [[Thelran Asari]] and [[The Academy in Thelran Asari]] to look for [[Pleetos Alentas]]
@@ -100,10 +111,11 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* Works with [[Father Thronestone]] and has helped sort out information from the beginning
 	* Helped [[Ghez Yhutl]] smuggle out of [[Jalantar]] to [[Thelran Asari]]
 * [[Zmaj]]
-	* Investigating rumors in [[Dilandil]]
+	* Investigated rumors in [[Dilandil]]
 		* There might have been one of the grafted might have been operating in [[Ru'Nileth]]. The only found blood, and a few mutilated corpses, but no scales - just diagrams. He's also heard rumors, it seems like it's spread and is talk of "putting down" new draconic creations, they call themselves [[Boulder Makers]]. 
-	* Now in [[Durmask]] to investigate [[Nehushta]]'s death
+	* Went to [[Durmask]] to investigate [[Nehushta]]'s death
 	* Told him we saw [[Pleetos Alentas]] on [[Lake Delente]]. 
+	* In [[Durmask]], was with [[Zoheret|Zoha]] when they were attacked by [[Bhula Orbnose]]. Calling in help. 
 * [[Silver Scale Jazat]]
 	* Guard who has helped us in the [[Gold Circle]] of [[Quaath]]
 	* Was threatened by [[Vask]] but doesn't take it personally 
@@ -111,17 +123,20 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 * [[Krarrhec]]
 	* Designated to speak to [[Vask]] and [[Rez]]
 	* Was given [[Rez's Report]] on all of this information
+	* Investigating some of the moles in the order
+		* Monitoring [[Nikander Vhegohl]], seized him after attack. Interrogating now, awaiting info
+		* [[Yhridex]] was with [[Bhula Orbnose]], also escaped. 
 * [[Farybar]], (who is not [[F. Arybar]])
 	* [[Wayfinders]] contact, who's in the [[Towers]]
 	* Working with [[Eirian]]
-* [[Zoheret]] (Zoha)
-	* In [[Durmask]]
 * [[Zalvaris]] (Zalv)
 	* In [[Durmask]]
 * [[Simin]]
 	* In [[Durmask]]
 * [[Taji]]
 	* In [[Durmask]]
+* [[Trisha]]
+	* Digging into some information
 
 ### Things to Note
 * [[Hugh]] and [[Costi]] wrote a note on [[Father Thronestone]]'s behalf for his confession
@@ -137,3 +152,26 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 * [[Rez]] and [[Vask]] talked about [[Rez's Family]] and their *natural* dragonscales
 	* Let's hope no one learns about this or gets them confused! 
 * No foul play was discovered in the [[Platinum Sanctuary of Arkhosia]] when [[Rez]] investigated
+
+### RIP
+* [[Zoheret]] (Zoha)
+	* Killed by a group with [[Bhula Orbnose]] in [[Durmask]]
+* [[Nehushta]] ([[Nehushta|Neti]])
+	* Killed by unknowns in [[K'falgaard|Kfalgaard]]
+
+### Where is Everyone?
+* [[Durmask]]
+	* [[Zalvaris|Zalv]]
+	* [[Zmaj]]
+	* [[Vask]]
+	* Simin
+	* Taji
+* [[Thelran Asari]]
+	* [[Eirian]]
+* [[K'falgaard|Kfalgaard]]
+* [[Deregheir]]
+	* [[Lee]]
+* ?
+	* Cordelia
+	* Kansi
+	* Kulta - looking for [[Rez's Dad]] 

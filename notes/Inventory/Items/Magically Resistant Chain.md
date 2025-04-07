@@ -18,7 +18,7 @@ Item, interlocking chain of black and gray layered metal. Carries a nostalgic or
 
 Not currently a magical object but has some sort of magical connection to it. It has a natural resistance to spells cast on it, requiring extra effort to succeed and concentration to maintain (even for spells that concentration is not required). Furthermore, takes effort to cast through if worn.
 
-A “M” carved on it... #mysteries 
+A “M” carved on it... Maybe [[Morthos|M]]? #mysteries 
 
 ### Notes
 
