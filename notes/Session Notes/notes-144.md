@@ -18,6 +18,8 @@ Investigating the bodies, it does not look like they were struggling when they w
 
 [[Costi]] asks [[Samuel]] if he would be comfortable touching the ruby stake to find out what it's doing, but refuses to do it himself. 
 
+We discuss that the 5 bodies who have the stakes in them but no bones have stakes that are now inert, they do not have purple cores, and the runes on the side are all different. They seem like failed experts. ses to do it himself. 
+
 We discuss that the 5 bodies who have the stakes in them but no bones have stakes that are now inert, they do not have purple cores, and the runes on the side are all different. They seem like failed experts. 
 
 The silver alloy spike is a magical metal (like adamantine or mithril) as a portion capture within it, however seems mostly silver and there's another metal in it like copper, bronze, or gold. 
@@ -33,12 +35,14 @@ bronze - inert, no immediate effect
 Choosing not to leave the magical spikes in the wall, we have [[Freya]] grip the lead box to try and block magic to her while she pulls the active magic items out of the remaining three. 
 
 githyarti wood* - As she pulls the githyarti wood spike, we psychically hear a shrieking in our minds. [[Costi]] and [[Adrienne Spout|Adrienne]] are not effected, the rest of our brains hurt for a minute. As the spike leaves, the bone material rapidly shoots out from the center of it, it grows like dense foliage and vines, bursting quickly before shattering. We clearly ended a process.
+
 unclear silver alloy* - Another scream sounded, and a similar visual effect happened as calcified white hip bones burst out. 
+
 ruby* - There's both physical and magical resistance to removal, as the purple core starts to glow more, another shriek sounds. When removed, an intense light flares then fades. As the skeleton that last came from it gasps, rolling up to look at [[Freya]], in draconic says "kill me". We end his suffering. 
 
 [[Rez]] tries to sneak to pop into the larder, but is naturally bad at stealthing in this instance. Approaching the entrance there is a strong terrible smell. Inside, there is large amounts, hundred of pounds, of rotting food. A sound is right on the edge of [[Rez]]'s awareness, she creeps into the room. A humanoid form is kneeling over this pile of food, gorging itself on the rotted food. It's stretched overly long, moaning as it consumes. Trying to leave, a small creature, two legged mass of flesh with sharp teeth gets stepped on by [[Rez]] and squeaks. Fuck. 
 
-Weird to find the Hungry and the Wretched here and not on [[The Shadowfell]]. We remember [[Rez]] got her [[Shadowfell Shard]] in the [[Necromantic Underground Chapel]]. We wonder if it has to do with [[The Raven Queen]] being from that plane or some other tie-in. 
+Weird to find the [[Hungry]] and the [[Wretched]] here and not on [[The Shadowfell]]. We remember [[Rez]] got her [[Shadowfell Shard]] in the [[Necromantic Underground Chapel]]. We wonder if it has to do with [[The Raven Queen]] being from that plane or some other tie-in. 
 
 We don't find anything notable in the room. 
 

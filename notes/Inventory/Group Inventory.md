@@ -14,21 +14,20 @@ Topaz  ([[Rez]])
 Bag from [[Teld's Dogs]]: 3 shitty emeralds, a poorly cut diamond, a fine ruby
 4 large sapphires
 2 wings, each has about 40 sapphires
+Bag of gema from the [[Zhakastin Expedition]] and [[Bek]]
 
 ## Potions:
 Healing:
 	Supreme (6000?) - 1, carried by [[Freya]]
-	Superior healing (900) - 1 per person, used: [[Freya]], [[Rez]] 
+	Superior healing (900) - [[Costi]], [[Adrienne Spout|Adrienne]] 
 	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]], and 1 by [[Rez]]
 	Regular healing (200) - 
 	? - [[Adrienne Spout|Adrienne]]
-Potion of Rage - Carried by [[Freya]], [[Rhynilex Svenik|Rhyn]]
 Potion of Darkvision - 1
-Potion of Necrotic Resistance - 3 ([[Hugh|Finn]], [[Rez]])
+Potion of Necrotic Resistance - 2 ([[Hugh|Finn]])
 Aid - 1 ([[Hugh]])
-Lightning Resistance - 3
+Lightning Resistance - 2 ([[Hugh|Finn]], [[Rez]])
 Potion of Maximum Power - 1 when you cast a spell that does damage of 4 level or lower, you do max damage, carried by [[Rez]] 
-
 ## Scrolls:
 Silence [[Rez]]
 Detect Thoughts [[Rez]]
@@ -36,6 +35,7 @@ Counterspell [[Adrienne Spout|Adrienne]]
 Feather Fall - 1, [[Costi]]
 [[Clarence the Cleaner]]'s card "for a speedy consultation" - held by [[Adrienne Spout|Adrienne]]
 [[Clarence the Cleaner]]'s card "for a business opportunity" - held by [[Adrienne Spout|Adrienne]]
+Gravity Sinkhole [[Costi]]
 
 ### Spell Materials
 Parchment - 5 spell levels ([[Costi]])
@@ -180,6 +180,9 @@ Carried by [[Hugh|Finn]]
 [[necromantic spikes]] (inert) - 8
 oak, glass, coal, githyarti wood, sapphire, an unclear silver alloy, bronze, ruby
 Carried by [[Rez]]
+
+Wolfskull Ring 
+Carried by [[Costi]]
 ## Monster Parts
 
 ### Dragon Scales
@@ -219,6 +222,14 @@ Writ of Authority for [[Viliki]] - negated by [[Mayor Galfeedz Drakurshire]]
 
 Broken half of a ruby
 Carried by [[Rez]]
+
+[[Zormvrik]]'s
+A gold crown
+black metal helmet with a scar over the right eye
+gray silk shawl
+
+Ruby and Obsidian Spike ([[Zhakastin Expedition]])
+Carried by [[Relakas]]
 ### Books and Correspondence:
 [[The Unnatural Naturality]] - read by [[Jade]]
 [[Kith and Kin]] - read by [[Freya]], [[Rez]]

@@ -42,9 +42,20 @@ unclear silver alloy*
 ruby*
 	There's both physical and magical resistance to removal, as the purple core starts to glow more, another shriek sounds. When removed, an intense light flares then fades. As the skeleton that last came from it gasps, rolling up to look at [[Freya]], in draconic says "kill me". We end his suffering. 
 
+Birch - inert, no immediate effect
+Iron - inert, no immediate effect
+Silver - inert, no immediate effect
+
+Emerald*
+	One solid block of bone, a large disc, pulls out as it's removed, cracking into 6 pieces.
+
+Obsidian*
+	Blinding flash of purple light, as for a brief moment it forms a circle, singular, but along for a split second.
+
+
 ### What We've Learned About Them
 Looking at the stakes, they do have runes carved along them, reminding us of [[Professor Leonard Klipitz]] invention of [[dimensional anchor]] (4 in long black metal spike covered in runes: use it to be sure that when you’re interacting with items changes dimensions or time, that things stay in place). However, the rune patterns are not the same. These are primarily conjuration runes, though not typical ones, they have elements of chronurgy interwoven in an unknown-experimental-magic kind of way. 
 
 * Silver Alloy
 	* The silver alloy spike is a magical metal (like adamantine or mithril) as a portion capture within it, however seems mostly silver and there's another metal in it like copper, bronze, or gold. 
-* 
+

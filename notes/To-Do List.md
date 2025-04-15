@@ -20,12 +20,12 @@ In the [[Turian Waste]]
 * Decide if we're trying out the [[Ring of the Undead Masses]]
 
 ### Short-Term
-* Investigate the [[Zhakastin Expedition]]
 * Find a way to get [[Burru Ilp]]'s notes from [[Father Thronestone]] at the end of the week
 	* [[Eirian]] dream?
 	* [[Hugh|Finn]] scry?
 	* [[Jalantar]] day trip?
 * Update from [[Eirian]] on [[Rez's Family]] counterattack 
+* [[Rez]] dream chat with [[Kaycee Teapetal|Kaycee]]
 
 In [[New Fairhaven]]
 * Hail bloodseeker, [[fourteen rue promade]], after nine - [[Freya]]
@@ -34,11 +34,13 @@ In [[New Fairhaven]]
 * [[The Silver Halves]] are planning to be in [[New Fairhaven]] in a few weeks, maybe months, for a traders conference with [[Victoria Several|Victoria]] and "Bultikan" (name approximation), who has something she is interested in that could give her insight into how better utilize her abilities.
 	* Does [[Magister]] still have the [[Magically Resistant Chain]]? 
 	* They were looking into a note Finn had that was in thieves cant? Maybe tied to [[The Silver Hand]]? "[[Jade]] worries about the [[The Silver Hand]] in [[Hugh]]'s [[TrueSilver]] vision, and we ask the [[The Silver Halves]]. Looking at [[Hugh]]'s note, but [[Magister]] recognizes it's written in thieves cant. He has a discreet contact who can look at it further in [[Quaath]]."
-	* 
 *  [[Salid]], who worked with [[Burston Courtev]] and [[Lance Corporal Jalvena Kharim|Jalvena]] on the flesh-stitched behemoths
 * [[Wyn Elreal]] is traveling south, maybe to [[New Fairhaven]]? Unspecified thus far
 * [[Willow]] maybe? Seems like that's a thing that will happen
 
+In [[Thelran Asari]]
+* [[Eirian|E]] has a surprise for [[Rez]] about [[Samson]]
+* [[Wayfinder Annual Gathering]]
 ### Middle-Term
 * scries
 	* [[Alhoon]]

@@ -142,16 +142,19 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 * [[Hugh]] and [[Costi]] wrote a note on [[Father Thronestone]]'s behalf for his confession
 * [[Father Thronestone]] is working through the coded notes that [[Burru Ilp]] kept
 	* [[Costi]] and [[Rez]] found at least 11 sets of initials, connecting to people who were involved in either his research or his sourcing.
+		* They'll be ready at the end of the week 
 * [[Pleetos Alentas]] is still at large, with brass scales grafted onto him
 	* [[Eirian]] and [[Ghez Yhutl]], the [[Dragonsfire Forge]], and [[The Academy in Thelran Asari]] are looking for him, unbeknowst to each other
 * The [[Weird Boulder]] is with [[Victoria Several|Victoria]] and [[Vask]] on her airship, headed to [[Quaath]]
 	* [[Costi]] kissed it, but it didn't seem like the rock from [[Costi's Dad|Vladdy Daddy]]'s cryptic request
-	* [[Rez]] also kissed it
+	* [[Rez]] also kissed it - because it's her sister [[Gin]]
 * What is the [[Order of the Platinum Dragon]]'s knowledge or involvement with [[Burru Ilp]]? 
 * [[Victoria Several]] now has a house in  [[The Fallsides]], and gets a vote
 * [[Rez]] and [[Vask]] talked about [[Rez's Family]] and their *natural* dragonscales
 	* Let's hope no one learns about this or gets them confused! 
 * No foul play was discovered in the [[Platinum Sanctuary of Arkhosia]] when [[Rez]] investigated
+* [[Krarrhec]] seized [[Nikander Vhegohl]], and is interrogating him now. [[Yhridex]] was with [[Bhula Orbnose]], also escaped.
+* [[Li]] says it's been hard to communicate with [[Bahamut]]. Is that normal? 
 
 ### RIP
 * [[Zoheret]] (Zoha)

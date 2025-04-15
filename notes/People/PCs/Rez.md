@@ -34,6 +34,8 @@ A prankster, the best in the world, actually. Loves riddles (so much that [[Hugh
 
 Super incredibly talented and beloved by all. 
 
+Actually a secret adult copper dragon - she's 348! 
+
 Rez grew up in a small town in northern [[Taleem]], but moved with her brother to [[Zalev]] for the vibes and the climate. 
 
 She's a groupie (affectionate) for [[The Miscasts]] - as opposed to a groupie (derogatory). 

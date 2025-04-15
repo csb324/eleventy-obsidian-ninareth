@@ -16,13 +16,13 @@ A group of adventurers, who became the heroes of [[The Three Dragons War]]. Thei
 {% include 'list-references.html', reference_data: affiliations %}
 
 ## Members:
-* Aedara Aelinar
+* [[Aedara Alinar]]
 * Lorarora Silentread
-* Azir
+* [[Azir DarAxia]]
 * [[Stalwart Mudd]]
-* Kaycee Penelope Teapetal
-* Yllira, Arbiter of Torm
-* Gemma Steelbane
+* [[Kaycee Teapetal]]
+* Yllyra, Arbiter of [[Torm]]
+* [[Gemma]] Steelbane
 * Aemon
 * [[Lillith Redscale]]
 * Leah
