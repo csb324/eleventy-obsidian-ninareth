@@ -44,7 +44,7 @@ She'd been keeping tabs on [[Burston Courtev]], saying he had been involved in t
 
 shes not military shes from 
 
-it can stay buried, does it need to, it depends on what the [[People/Eberron/Burbanks|Burbanks]] asked us to do, she does believe that [[Cliff Burbank]] talks to us 
+[[Colvia Ghul]] tells us it can stay buried, to which we ask if it needs to. She says it depends on what the [[People/Eberron/Burbanks|Burbanks]] asked us to do. She buys part of our cover that we're following orders and that [[Cliff Burbank]] talks to us 
 
 if we believe that anyone in the [[Eberronian First Division]] would not be happy about this conversation and the [[Groups and Organizations/Burbanks|Burbanks]] or their people killed [[Burston Courtev]] then we should perhaps tell [[Colvia Ghul]] the full truth. 
 
@@ -82,7 +82,7 @@ We decide to at least learn what the curse on the [[Ring of the Undead Masses]] 
 
 Around the campfire that night, [[Costi]] apologizes to [[Hugh|Finn]] for talking to him as he did, he felt like it was the only way to help them. [[Hugh|Finn]] feels like 'the show' could be something different. He thinks it's a tired narrative to be dismissive of him. [[Costi]] is willing to try but warns it will suck no matter what. [[Hugh|Finn]] prefers [[Costi]] not be mean, however that must happen. 
 
-[[Adrienne Spout|Adrienne]] asks [[Rez]] if she's noticed that the whole group seems to be focusing on the two of them being together. [[Rez]] was oblivious but now that makes a lot of sense. [[Adrienne Spout|Adrienne]] says it's been happening, and [[Rez]] says it must be because they'd be good together - doesn't she agree? [[Adrienne Spout|Adrienne]] is noncommittal. [[Rez]] twists the group teasing her about not pulling off the fake dating prank to pulling it over on the group. [[Adrienne Spout|Adrienne]] is not amused.
+[[Adrienne Spout|Adrienne]] asks [[Rez]] if she's noticed that the whole group seems to be focusing on the two of them being together. [[Rez]] was oblivious but now that makes a lot of sense. [[Adrienne Spout|Adrienne]] says it's been happening, and [[Rez]] says it must be because they'd be good together - doesn't she agree? [[Adrienne Spout|Adrienne]] is noncommittal. [[Rez]] twists the group teasing her about not pulling off the fake dating prank to pitch we could try fake dating AGAIN to pull one over on the group. [[Adrienne Spout|Adrienne]] is not amused.
 
 [[Hugh|Finn]] admits to [[Costi]] and [[Freya]] that he threatened [[Elena]] after she tried to slip something into his pocket. He went outside to talk to her, but she was not helpful. [[Costi]] says he doesn't even know what the letter contained. [[Hugh|Finn]] was angry because [[Elena]] didn't seem to trust him, [[Costi]] say's that's warranted right now. 
 
