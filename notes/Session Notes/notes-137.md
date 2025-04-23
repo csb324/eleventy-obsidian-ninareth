@@ -22,11 +22,11 @@ We're in a weird place as a group by the time we load up into our caravan to go 
 
 As we're about to hit the road, [[Trisha]] comes to see us off. She gives us dark brown wooden box, and tells us not to open until we're out of the walls of the twin cities. When [[Hugh|Finn]] tries to take and shake it, [[Trisha]] is quick to say we should handle it carefully. 
 
-[[Costi]] goes to say goodbye to [[Costi's mom|Sonia Grosu]], and asks [[Hugh|Finn]] to come with (and help him speak better, magically). At their tea, she shares that the [[Eberronian First Division]] broke into an [[ELA]] safe house. [[Costi]] shares that [[Marius A]] stopped their lynching. The [[ELA]] is going to try to get them out, as the jails are packed and processes are moving slowly. She asks that [[Hugh|Finn]] save magical energy to let her know they are safe. [[Costi]] tries to ask his mom not to be part of the active front lines -- she QUICKLY puts him in his place. He makes a plea for the sake of [[Nadia]], saying that [[Costi's Dad|Vladimir Grosu]] took the only option for dying for the cause between his parents. She considers it, but tells him "I will, if you will. I won't fight a fight you are willing to." She says this has been her life, but she begged him not to join this fight. She's proud of him, and mad at him. But if he's in it, she's in it. She assures him that his dad and her have a plan in place for [[Nadia]]'s care if she were to also fall. 
+[[Costi]] goes to say goodbye to [[Costi's mom|Sonia Grosu]], and asks [[Hugh|Finn]] to come with (and help him speak better, magically). At their tea, she shares that the [[Eberronian First Division]] broke into an [[ELA]] safe house. [[Costi]] shares that [[Marius A]] stopped their lynching. The [[ELA]] is going to try to get them out, as the jails are packed and processes are moving slowly. She asks that [[Hugh|Finn]] save magical energy to let her know they are safe. [[Costi]] tries to ask his mom not to be part of the active front lines -- she QUICKLY puts him in his place. He makes a plea for the sake of [[Nadia]], saying that [[Costi's Dad|Vladimir Grosu]] took the only option for 'dying for the cause' between his parents. She considers it, but tells him "I will, if you will. I won't sit out a fight you aren't willing to." She says this has been her life, but she begged him not to join this fight. She's proud of him, and mad at him. But if he's in it, she's in it. She assures him that his dad and her have a plan in place for [[Nadia]]'s care if she were to also fall. 
 
 [[Rez]] pretends to be [[Sylvia]] checking in on [[Rughork]] to see if someone picked up the stone, saying "Rughork? Worried I haven't heard from you, missing -- er -- awaiting instructions. They don't suspect anything, and I can still be helpful! What should I do?", there's no response. 
 
-As we're leaving, we hear commotion outside of the carriage and people shouting [[Costi]]'s name. He notices it's people that [[Hugh|Finn]] recognized as being sort of shady, and as they get everyone's attention, [[Everlynd]], [[Mara]], [[Rulyania Bvok]], and [[Zukrad]] unroll a large sheet from a balcony saying "Heil [[Costi|Constantine Grosu]], hero of [[Golstrava]]" painted in blood."
+As we're leaving, we hear commotion outside of the carriage and people shouting [[Costi]]'s name. He notices it's people that [[Hugh|Finn]] recognized as being sort of shady, and as they get everyone's attention, [[Everlynd]], [[Mara]], [[Rulyania Bvok]], and [[Zukrad]] unroll a large sheet from a balcony saying "Hail [[Costi|Constantine Grosu]], hero of [[Golstrava]]" painted in blood.
 
 We debate what we can do and how seriously this might be taken in the current environment, and we worry treason isn't off the table. [[Hugh|Finn]] decides to send to [[Cliff Burbank|Cliff]] to see if he can maybe ensure their punishment is not death. 
 
@@ -38,47 +38,37 @@ The guard asks who planned this, and while they all try to claim ownership, [[Ev
 
 As we're right on the edge of town, [[Colvia Ghul]] stops the carriage and gets in. She tells us that messenger won't be working any more, and says the display at [[AVAD]] was disgraceful, after he saved all of those lives. She asks for a clarification, and casts zone of truth. 
 
-She'd been keeping tabs on [[Burston Courtev]], saying he had been involved in the unsavory business involved in [[Viliki]], she learned some of it with [[Grishomec Teld|Major Teld]]. hasn't attended usual activites, found note he was going underground. She asks if we know if he's dead. She asks if we killed him. 
+She'd been keeping tabs on [[Burston Courtev]], saying he had been involved in the unsavory business involved in [[Viliki]], she learned some of it with [[Grishomec Teld|Major Teld]]. hasn't attended usual activites, found note he was going underground. She asks if we know if he's dead. She asks if we killed him. She's been observing him for some time. 
 
-She's been observing him for some time. 
-
-rez asks adrienne what we shoud do they agree for a personal cave in from rez
+[[Rez]] asks [[Adrienne Spout|Adrienne]] what we should do, they agree for a fake personal giving-in from [[Rez]] - who says she's sometimes impulsive, if [[Colvia Ghul]] wasn't aware, and yes [[Burston Courtev]] is dead.
 
 shes not military shes from 
 
-rez acts impulsive and says yes hes dead
+it can stay buried, does it need to, it depends on what the [[People/Eberron/Burbanks|Burbanks]] asked us to do, she does believe that [[Cliff Burbank]] talks to us 
 
-it can stay buried, does it need to, it depends on what burbank asked us to do, she does believe that the burbank talks to us 
+if we believe that anyone in the [[Eberronian First Division]] would not be happy about this conversation and the [[Groups and Organizations/Burbanks|Burbanks]] or their people killed [[Burston Courtev]] then we should perhaps tell [[Colvia Ghul]] the full truth. 
 
-if we believe that anyone in the first divison would not bee happy about this conversation and burbank or his people killed courtev then we should perhaps 
+We ask if [[Colvia Ghul]] is offering to cover for us? She says yes. This conversation will decide if she will report it, or she will not - ensuring that the report says he left town. It all depends if we answer her questions. 
 
-are you offering to cover for us? yes. she is saying that she will report it, or she will not, and ensure that the report says he left town
+Reading her demeanor, she seems gleeful to have something over [[The Unforged Few|Our Party]]. 
 
-gleeful to have something over us
+Telling her more, [[Adrienne Spout|Adrienne]] confirms we know that [[Jezeten]] city guards are involved, she confirms she knew that already. [[Rez]] clarifies that unsanctioned necromancy is illegal so we didn't do anything illegal by stopping illegal activity. [[Colvia Ghul]] warns that other people with significant sway could be upset by our actions regardless, and it might be best for [[Jezeten]], the people we care about, and the problem with the [[Southern Cities Increase Tension]] broadly to not be increased by this getting out.  
 
-she will cover for us for the answer to another question
+We try to play off her behavior, but she leans in - confirming she is threatening us. She finally goes to her true intent:
 
-adrienne confirms we know that city guards are involved, she confrims she knew that already. 
+In the interdimensional space that we carry ([[My Hole]]), there was an object and piece of bark and on it was a symbol a serious of multiple overlapping [[Freya's Mysterious Circles|Mysterious Circles]], it struck her as interesting, she would like to know what we know of them, why they were in the bag, and anything else that can help her in her own personal study. In particular, she watches [[Freya]] as she asks. 
 
-rez clarifies that unsanctioned necromancy is illegal so we didn't do anything illegal to stop illegal activity and she warns that other people with signficant sway could be upset, and it might be best for jezeten, the people we care about, and the tensions broadly to not be increased. 
+As she asks, more than anything, we see that her intent it's not malicious, it's not angry, but it's ravenous hunger to know something that for once is totally unknown to her, she craves it.
 
-she confirms shes threatening us. 
+[[The Unforged Few|Our Party]] indicated that it's serious and lot of information, [[Adrienne Spout|Adrienne]] asks for a stay of execution, [[Colvia Ghul]] offers to delay our decision until we return to [[Jezeten]] to decide if this is something we're willing to share. Our reception could be colored one way or another based on how we answer
 
-finally she
+"knowledge shared is power given"
 
-in the interdimensional space that we carry, there was an object and piece of bark and on it was a symbol a serious of multiple overlapping cirlces, it struck her as interesting, she would like to know wathcing freya as she asks, what we know of them, why they were in the bag, and anything else that can help her in her own personal study. 
+As she teleports away, we remember we can teleport back into [[Sienna Burbank]]'s house, if we need to avoid a sticky entrance into [[Jezeten]] or further delay our answer.
 
-as she asks, more than anything it's not malicious it's not angry but it's ravenous hunger to know something that for once is totally unknown to her, she craves it
+We decide to open the box from the [[Groups and Organizations/Burbanks|Burbanks]], and only [[Costi]] is able to do it. It's lined in black felt, and inside is a very large black feather. [[Samuel]] recognizes it, implying it's from [[The Raven Queen]]. [[Costi]] decides to identify it, [[Adrienne Spout|Adrienne]] picks up it's extremely holy. It's a [[Raven Queen's Feather]].
 
-we indicated that it's serious and lot of information, adrienne asks for a stay of execution, colvia offers to delay our decision until we return to jezeten to decide if this is something we're willing to share. Our reception could be colored one way or another based on how we answer
-
-knowledge shared is power given
-
-as she teleports away we remember we can teleport back into sienna's house. 
-
-We decide to open the box from the burbaks, and only [[Costi]] is able to do it. It's lined in black felt, and inside is a very large black feather. [[Samuel]] recognizes it, implying it's from [[The Raven Queen]]. [[Costi]] decides to identify it, [[Adrienne Spout|Adrienne]] picks up it's extremely holy. It's a [[Raven Queen's Feather]].
-
-used to do a thing the raven queen would want done, in the way she wants to do it, but that's it. It's to really really fuck undead. 
+According to our read and some interpretations of [[Samuel]], it's used "to do a thing [[The Raven Queen]] would want done, in the way she wants to do it", but that's it. It's to really really fuck undead. 
 
 [[Hugh|Finn]] sendings to [[Cliff Burbank|Cliff]], "Student protest targeted [[Costi]]. He played his part well. Friend of [[Marina Alduchev]], [[Everlynd]], took responsibility. If there's any way to save her life, please do." He responded, "Understood, I'll do everything I can. Tell him we heard, and I'm sorry. That can't have been easy, but we're proud."
 

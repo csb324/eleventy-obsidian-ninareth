@@ -47,6 +47,7 @@
 		- Hahaha, love?! I mean, she’s definitely more interesting than any other mortal ever. Something unique about her, she’s really special and fascinating. But love?! Ha. *(DM: He sounds upbeat and like, super normal about it. But as you play it back in your head, there’s a tiny little measure of… forcedness. Very small, and maybe you’re just making it up because this has been weird exchange, you really aren’t sure.)*
 	- Vask... [[Zoheret|Zoha]]. I think we've been wrong, I think we've underestimated all of them. We don't need to be alone. Don't leave your group, okay? 
 		- [[The Silver Halves]] are making a detour to [[Durmask]]. I’ll put bullet in half the city if must. You keep on your mission, though, [[Zmaj]] is right. *(DM: He’s sincere sounding, not being an asshole)*.
+	- “From [[Vask]], where are you Rez this isn’t funny respond right now I’ll be there Rez, Rez, Rez, please, Rez?”
 - [[Professor Leonard Klipitz]] -
 	- deal for large quantities of diamonds?
 		- Said yes as long as we have money

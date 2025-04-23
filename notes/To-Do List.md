@@ -12,7 +12,7 @@ Owned-by: The Unforged Few
 
 
 ### Immediate
-* Drinks with [[Colvia Ghul]], we sent a note
+* Figure out how we answer [[Colvia Ghul]]
 * [[Starstool Daygrip]] offered meeting for coffee with [[Adrienne Spout|Adrienne]], but maybe that was timed wrong? Have we heard [[Julian Slater-Runehorn|Julian]] would be in town??
 * We know to be on the lookout that "Soon, an official's secret family will be coming to light. After their fall from grace, we should be able to get an invitation to their replacement's coronation." 
 
