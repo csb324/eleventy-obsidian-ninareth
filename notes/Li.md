@@ -20,4 +20,4 @@ Pronouns: " He/Him"
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Bahamut]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> He/Him</span></span>
 
-[[Rez]]'s brother. Gold Dragon. King of [[Deregheir]]
+[[Rez]]'s brother. Gold Dragon. King of [[Deregheir]] under the current alias of [[Li|Casimir]]
