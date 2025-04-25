@@ -9,7 +9,7 @@ prev:
 
 [[Costi]] looks at the spellbook from [[Olak]] with the [[Teld's Dogs]]: chromatic orb, frost fingers, blur, hold person, icingdeath's frost, lightning bolt, stinking cloud, banishment, wall of fire, storm sphere, cloudkill
 
-We argue about what to do legend's lore, and then decide to do this on [[Mysterious Circles]]. The incense takes on a purple tint, and [[Hugh|Finn]] hears a calm reassuring voice, "these infinite overlapping circles are the eye of the [[Everpresent]]. It is the symbol of [[Morthos]] and denotes and individual object or place that is under their influence. Where goes the eye, there goes their power. It observes the degradation of our most natural and fundamental lines and is a harbringer of the greatest doom"
+We argue about what to do legend's lore, and then decide to do this on [[Freya's Mysterious Circles]]. The incense takes on a purple tint, and [[Hugh|Finn]] hears a calm reassuring voice, "these infinite overlapping circles are the eye of the [[Everpresent]]. It is the symbol of [[Morthos]] and denotes and individual object or place that is under their influence. Where goes the eye, there goes their power. It observes the degradation of our most natural and fundamental lines and is a harbringer of the greatest doom"
 
 "Hi [[Rawley]], uhm crazy question. Did you send me letter? When I left [[Polaris]]. It had [[Wayfinders]] symbol so I assumed you, is it?", he responds, "No, [[Freya]]. I didn't send you a letter before I picked you up. Make sure you bring that with you when I see you next"
 
