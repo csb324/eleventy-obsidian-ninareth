@@ -11,8 +11,6 @@ aliases:
 
 When [[Freya]] was framed for some kind of crime (unclear) and left [[True North]], she received a note. The note had two symbols on it -- the symbol of the [[Wayfinders]], and these circles. 
 
-[[Freya]] asked [[Niko]] to look into it for her. He gave her a piece of paper that would allow one-way communication, and then incinerate itself, so that he could communicate securely.
-
 The incense takes on a purple tint, and [[Hugh|Finn]] hears a calm reassuring voice, "these infinite overlapping circles are the [[Freya's Mysterious Circles|Eye of the Everpresent]]]]. It is the symbol of [[Morthos]] and denotes an individual, object, or place that is under their influence. Where goes the eye, there goes their power. It observes the degradation of our most natural and fundamental lines and is a harbinger of the greatest doom"
 ### Connections
 * [[Morthos]] and [[The Silver Hand]]
