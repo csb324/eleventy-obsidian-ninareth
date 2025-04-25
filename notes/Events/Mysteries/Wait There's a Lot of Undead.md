@@ -13,7 +13,7 @@ Status: Ongoing
 * [[Costi's Dad|Vladimir Grosu]]
 	* The [[Beating Heart Battalion]], which [[Hugh]] was in (and presumably [[Costi's Dad|Vladdy Daddy]] was also in) was a specifically non-undead military unit
 * [[Jalantar Sunspot]]: There was a stone summoning ghosts to the basement.
-* [[Mysterious Circles]] 
+* [[Freya's Mysterious Circles |Mysterious Circles]] 
 	* OOC
 * [[Victoria Several]] 1/2 OOC
 	* She's got some secret necklace

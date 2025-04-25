@@ -8,7 +8,7 @@ prev:
 # Session 7: party with providers
 ![](/assets/obsidian/comic%209.jpeg)
 
-[[Freya]] talked to [[Niko]] to ask about the situation with the yaks. It turns out, some of [[Professor Leonard Klipitz]]'s machines had gone on the fritz. Seems like a normal day in [[Tinzelven]], and unfortunately unrelated to *her* [[Mysterious Circles]].
+[[Freya]] talked to [[Niko]] to ask about the situation with the yaks. It turns out, some of [[Professor Leonard Klipitz]]'s machines had gone on the fritz. Seems like a normal day in [[Tinzelven]], and unfortunately unrelated to *her* [[Freya's Mysterious Circles |Mysterious Circles]].
 
 We explained to [[Costi]] how to throw a shot behind your back..... He was great at it. 
 

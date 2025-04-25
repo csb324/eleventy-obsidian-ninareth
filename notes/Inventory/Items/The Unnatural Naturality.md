@@ -27,7 +27,7 @@ A dense non-fiction book by T.Y. Gurscock, written in 1753.
 Purchased in a used bookstore in [[Arkhosia (City)]]. called the  [[Kildee's Ink and Quill]] about 40 years ago by [[Professor Leonard Klipitz]]. 
 
 ### What's It to Us?
-Has the [[Mysterious Circles]] symbol [[Freya]] cares about doodled in the margins. [[Niko]] asked [[Professor Leonard Klipitz]], who remembered seeing it here.
+Has the [[Freya's Mysterious Circles |Mysterious Circles]] symbol [[Freya]] cares about doodled in the margins. [[Niko]] asked [[Professor Leonard Klipitz]], who remembered seeing it here.
 
 [[Jade]] learns a lot about the various hells and the origins of different planes. The Age of the Six true gods, and pre-material times. 
 

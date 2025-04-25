@@ -21,7 +21,7 @@ Eventually [[Cinder]], a half-orc in red armor, came in to talk to us. First of 
 * [[Hugh]] would like a pet. Preferably a nocturnal pet? And, again, info on [[Costi's Dad]]
 * [[Rez]] wants to meet the coolest wizard they've ever met. 
 
-[[Freya]] considered asking them about the [[Mysterious Circles]], but [[Cinder]] advised her not to -- if there's a symbol that's mysterious, sharing it more widely is probably going to bring trouble. So, she didn't.
+[[Freya]] considered asking them about the [[Freya's Mysterious Circles |Mysterious Circles]], but [[Cinder]] advised her not to -- if there's a symbol that's mysterious, sharing it more widely is probably going to bring trouble. So, she didn't.
 
 And all of us wouldn't say no to some money. So he gave us some money, and he's going to see what he can do about the other things. Some sounded easy, others sounded a bit harder.
 

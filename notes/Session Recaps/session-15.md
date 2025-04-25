@@ -38,4 +38,4 @@ We talked to [[Quarrin Witherspoon|Witherspoon]] for a bit while we cleaned ours
 
 Finally, we went back to [[The Golden Gryffon]], where [[Costi]] made the very noble decision to let everyone into the pillow fort. Inside the pillow fort, [[Adrienne Spout|Adrienne]] got drunk and everyone played a [[Wayfinders]] game called **"What the fuck is up is that"**
 
-[[Freya]] let us know a bit more about the origin of the [[Mysterious Circles]], [[Costi]] told us his dad's name, [[Rez]] defended her spending habits, [[Hugh]] revealed that he can't swim, and [[Adrienne Spout|Adrienne]] insisted that she definitely *has* had friends before, it's just *objectively* weird for people to be nice to you.
+[[Freya]] let us know a bit more about the origin of the [[Freya's Mysterious Circles |Mysterious Circles]], [[Costi]] told us his dad's name, [[Rez]] defended her spending habits, [[Hugh]] revealed that he can't swim, and [[Adrienne Spout|Adrienne]] insisted that she definitely *has* had friends before, it's just *objectively* weird for people to be nice to you.

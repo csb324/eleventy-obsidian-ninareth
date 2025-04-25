@@ -20,7 +20,7 @@ It seems like [[The Curator]] can't see what [[Jade]] is doing the same way when
 * When Jade saw [[Winifey]] at [[Flounder's]].
 	* Also, when jade saw [[Winifey]]'s tattoos
 * When Jade looked in the direction of [[Willow|our invisible pursuer]].
-* When Jade saw the [[Mysterious Circles]] in the margin of [[The Unnatural Naturality]]. 
+* When Jade saw the [[Freya's Mysterious Circles |Mysterious Circles]] in the margin of [[The Unnatural Naturality]]. 
 * When Jade saw [[Cinder]] destroy the [[Ring of Efreet Summoning]] with the [[Mithril Needle]]
 
 [[The Curator]] has said that they can see through [[Jade]]'s eyes. They don't appreciate company, as [[Costi]] found out.

@@ -9,7 +9,7 @@ prev:
 
 [[Costi]] looks at the spellbook from [[Olak]] with the [[Teld's Dogs]]: chromatic orb, frost fingers, blur, hold person, icingdeath's frost, lightning bolt, stinking cloud, banishment, wall of fire, storm sphere, cloudkill
 
-We argue about what to do legend's lore, and then decide to do this on [[Freya's Mysterious Circles]]. The incense takes on a purple tint, and [[Hugh|Finn]] hears a calm reassuring voice, "these infinite overlapping circles are the eye of the [[Everpresent]]. It is the symbol of [[Morthos]] and denotes and individual object or place that is under their influence. Where goes the eye, there goes their power. It observes the degradation of our most natural and fundamental lines and is a harbringer of the greatest doom"
+We argue about what to do legend's lore, and then decide to do this on [[Freya's Mysterious Circles]]. The incense takes on a purple tint, and [[Hugh|Finn]] hears a calm reassuring voice, "these infinite overlapping circles are the eye of the [[Freya's Mysterious Circles |Everpresent]]. It is the symbol of [[Morthos]] and denotes and individual object or place that is under their influence. Where goes the eye, there goes their power. It observes the degradation of our most natural and fundamental lines and is a harbringer of the greatest doom"
 
 "Hi [[Rawley]], uhm crazy question. Did you send me letter? When I left [[Polaris]]. It had [[Wayfinders]] symbol so I assumed you, is it?", he responds, "No, [[Freya]]. I didn't send you a letter before I picked you up. Make sure you bring that with you when I see you next"
 
@@ -17,7 +17,7 @@ We talk through [[Freya]]'s history, since it seems like there's someone else wh
 
 Secretly, [[Freya]] reaches out [[The Curator]] and asks if all desecrated things are the same? They say no. And following up, do you know all desecrated things? They again say no. Then deny a request to hang tonight. 
 
-[[Rez]] sends to [[Samson]], "I'm [[Rez]]! Welcome!! You know my sister, [[Eirian|E]]! You sound so interesting, I have a bunch of questions but FIRST - can you tell me what you know about the [[Mysterious Circles]] and the guy you found dead? You heard him talk about them? You can tell me whatever you tell her!!!", he  replies: "[[Rez]], it is SO nice to met you! I’ve heard so much, YOU sound so interesting. I hope we get to meet soon! Shoot, that’s a lot to unpack. [[Lorvak Nestle]], bookseller in [[Thelran Asari]], looking for something for my daughter and found book with [[Mysterious Circles]]! Planned a coffee to talk, but he died before. Found his body, seemed murdered."
+[[Rez]] sends to [[Samson]], "I'm [[Rez]]! Welcome!! You know my sister, [[Eirian|E]]! You sound so interesting, I have a bunch of questions but FIRST - can you tell me what you know about the [[Freya's Mysterious Circles |Mysterious Circles]] and the guy you found dead? You heard him talk about them? You can tell me whatever you tell her!!!", he  replies: "[[Rez]], it is SO nice to met you! I’ve heard so much, YOU sound so interesting. I hope we get to meet soon! Shoot, that’s a lot to unpack. [[Lorvak Nestle]], bookseller in [[Thelran Asari]], looking for something for my daughter and found book with [[Freya's Mysterious Circles |Mysterious Circles]]! Planned a coffee to talk, but he died before. Found his body, seemed murdered."
 
 The group talks a bit about [[Rez's Family]], she mentions her older brother [[Lee]] is asking [[Bahamut]] what is wrong / how they can be helped. 
 

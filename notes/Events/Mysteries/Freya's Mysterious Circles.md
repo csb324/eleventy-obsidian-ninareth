@@ -11,7 +11,7 @@ aliases:
 
 When [[Freya]] was framed for some kind of crime (unclear) and left [[True North]], she received a note. The note had two symbols on it -- the symbol of the [[Wayfinders]], and these circles. 
 
-[[Hugh|Finn]] legends lore the circles, hears a calm reassuring voice, "these infinite overlapping circles are the [[Freya's Mysterious Circles|Eye of the Everpresent]]. It is the symbol of [[Morthos]] and denotes an individual, object, or place that is under their influence. Where goes the eye, there goes their power. It observes the degradation of our most natural and fundamental lines and is a harbinger of the greatest doom"
+[[Hugh|Finn]] legends lore the circles, hears a calm reassuring voice, "these infinite overlapping circles are the [[Freya's Mysterious Circles|Eye of the Everpresent]]. It is the symbol of [[Morthos]] and denotes an individual, object, or place that is under their influence. Where goes the eye, there goes their power. It observes the degradation of our most natural and fundamental lines and is a harbinger of the greatest doom" - [[notes-123]]
 ### Connections
 * [[Morthos]] and [[The Silver Hand]]
 * [[Wait There's a Lot of Undead]]
@@ -44,7 +44,7 @@ Update: [[Professor Leonard Klipitz]] had seen the symbol in the margins of a bo
 
 [[The Curator]] reminds [[Freya]] that the only information they can access is that the collection can get, and they're still working to get anything more specific. They say it's seems as though not everyone in [[Polaris]] cannot be trusted - [[Freya's Mysterious Letter]] was given to her by one of the [[Keepers]]. Why would they put the [[Freya's Mysterious Circles|Eye of the Everpresent]]? Maybe it's because they wanted her to be warned. [[The Curator]] can only confirm that [[Freya]] has a friend in the [[Keepers]]. 
 
-[[Rez]] sends to [[Samson]], "I'm [[Rez]]! Welcome!! You know my sister, [[Eirian|E]]! You sound so interesting, I have a bunch of questions but FIRST - can you tell me what you know about the [[Mysterious Circles]] and the guy you found dead? You heard him talk about them? You can tell me whatever you tell her!!!", he replies: "[[Rez]], it is SO nice to met you! I’ve heard so much, YOU sound so interesting. I hope we get to meet soon! Shoot, that’s a lot to unpack. [[Lorvak Nestle]], bookseller in [[Thelran Asari]], looking for something for my daughter and found book with [[Mysterious Circles]]! Planned a coffee to talk, but he died before. Found his body, seemed murdered."
+[[Rez]] sends to [[Samson]], "I'm [[Rez]]! Welcome!! You know my sister, [[Eirian|E]]! You sound so interesting, I have a bunch of questions but FIRST - can you tell me what you know about the [[Freya's Mysterious Circles |Mysterious Circles]] and the guy you found dead? You heard him talk about them? You can tell me whatever you tell her!!!", he replies: "[[Rez]], it is SO nice to met you! I’ve heard so much, YOU sound so interesting. I hope we get to meet soon! Shoot, that’s a lot to unpack. [[Lorvak Nestle]], bookseller in [[Thelran Asari]], looking for something for my daughter and found book with [[Freya's Mysterious Circles |Mysterious Circles]]! Planned a coffee to talk, but he died before. Found his body, seemed murdered."
 
  [[Buddy the Bear]] recognizes [[Freya's Mysterious Circles]] and thinks maybe it was [[Balsandor]], a few times. There's also been a few times that he saw non-firbolgs. A few humanoids, human sized and a few even bigger. Seems like it's been floating around [[Polaris]].
 
@@ -54,7 +54,4 @@ We found a copy while [[Heal the Anchor Tree]], looking at the root where [[Adri
 
 [[Freya's Mysterious Circles|Mysterious Circles]] were carved into [[Winifey]]'s back. As [[Cinder]] pierces the [[Ring of Efreet Summoning]] [[Jade]]'s glasses flash ([[Whats up with Jade's Glasses]]?), her briefcase pulls out a card referencing [[Freya's Mysterious Circles]]. 
 
->  ****> The incense takes on a purple tint, and [[Hugh|Finn]] hears a calm reassuring voice, "these infinite overlapping circles are the eye of the [[Everpresent]]. It is the symbol of [[Morthos]] and denotes and individual object or place that is under their influence. Where goes the eye, there goes their power. It observes the degradation of our most natural and fundamental lines and is a harbringer of the greatest doom"
-
-^ [[notes-124]] 
 
