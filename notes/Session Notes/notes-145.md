@@ -40,7 +40,8 @@ On one of the pillars there’s a flayed draconic with another spike through it.
 
 [[Costi]] returns the ruby soul to [[Jalene]], freely given -- it returns to her ring. She says the draconics on site did not enslave her either. 
 
-[[Zormvrik]] showed up here two months ago, he primarily talked in this antiquated form of goblin. He's originally from [[The Shadowfell]], as refugees, trying to rebuild their numbers to take back their home city [[The City of Endless Night]] also known as [[Naitho Uvea]] -- it's roughly correlated to [[Quaath]] in [[The Shadowfell]]. [[The Raven Queen]] would be very against [[The City of Endless Night]], as she's constantly hunted within [[The Shadowfell]]. [[Zormvrik]] wanted revenge against their king, something like [[The Nightmare King]]. 
+[[Zormvrik]] showed up here two months ago, he primarily talked in this antiquated form of goblin. He's originally from [[The Shadowfell]], as refugees, trying to rebuild their numbers to take back their home city [[The City of Endless Night]] also known as [[The City of Endless Night|Naitho Uvea]] -- it's roughly correlated to [[Quaath]] in [[The Shadowfell]]. [[The Raven Queen]] would be very against [[The City of Endless Night]], as she's constantly hunted within [[The Shadowfell]]. [[Zormvrik]] wanted revenge against their king, something like [[The Nightmare King]]. 
+(*Sorry wait, something like who?? - Clara*)
 
 We ask if he said any names like Morty - he said maybe, but not in a friendly way. 
 

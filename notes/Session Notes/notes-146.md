@@ -11,7 +11,7 @@ Name: null
 
 Searching [[Zormvrik]]'s remains, we find a gold crown, black metal helmet with a scar over the right eye, and a gray silk shawl but they don't seem to currently have a magical air. An inert royal scepter. He wears a ring, with a wolf's skull on it's face made of bone, and a dunamancy scroll called gravity sinkhole. 
 
-We learn [[Shen]]'s name used to be [[Ophalek]], he can't remember his last name. He doesn't remember most things from his life before. The rift to [[Elemental Plane of Earth]] is in [[Gu’athrithen]], the mine here is just a side-effect of that. 
+We learn [[Shen]]'s name used to be [[Shen|Shen|Ophalek]], he can't remember his last name. He doesn't remember most things from his life before. The rift to [[Elemental Plane of Earth]] is in [[Gu’athrithen]], the mine here is just a side-effect of that. 
 
 [[Shen]] says he can take us to the location where they got back up, it's about 2 miles away in the wastes. We wonder if it might be an portal to [[The Shadowfell]]? He says things come out of it sometimes,
 
@@ -21,7 +21,7 @@ At the entrance we see an extremely skinny blue draconic [[Turgyd]], wearing rat
 
 [[Turgyd]] says that there's several other locations with large weapon stores. He says he has no loyalty to the [[Zhakastin Expedition]] and only spent a few years in [[Gu’athrithen]]. His parents were part of the [[Blue Dragon Special Forces]], and he just fell into it. He worked in some other mines, [[Girth Glade]] and (another). He just wants to get out of here alive, and maybe find another mine to work out? He worships [[Oghma]]. 
 
-We look at the spike that was successful for [[Shen]], it was made of ruby and obisidian. There's no dunamancy core now, but there might have been before it was removed. 
+We look at the spike that was successful for [[Shen]], it was made of ruby and obsidian. There's no dunamancy core now, but there might have been before it was removed. 
 
 [[Jalene]], [[Bek]], and [[Shraule]] depart for the [[Elemental Plane of Earth]]. 
 
@@ -78,7 +78,7 @@ She responds to each of them with "I'm alive!!! I'm with MOM, I'm sorry!! I'm OK
 
 [[Kaycee Teapetal]] learns from [[Rez]] that [[Rez's Dad|Azir]] hasn't been heard from in a while ([[Azir Is Missing]]) - she offered to ask [[Gemma]] if she knows anything. [[Rez]] also mentions the [[Dragon Scales Ahhhh]] attacks on [[Rez's Family]] - [[Kaycee Teapetal]] says she'll come talk to her later to learn more. 
 
-[[Shen]] offers to with [[Kaycee Teapetal]] back to [[The Shadowfell]], and [[Turgyd]] decides why not - he'll go too. We all book it out of there so [[Mr. Blueberry]]'s skylight can be moved somewhere else. 
+[[Shen]] offers to go go with [[Kaycee Teapetal]] back to [[The Shadowfell]], and [[Turgyd]] decides why not - he'll go too. We all book it out of there so [[Mr. Blueberry]]'s skylight can be moved somewhere else. 
 
 
 

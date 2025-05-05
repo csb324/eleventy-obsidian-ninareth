@@ -3,7 +3,7 @@
 ---
 # Group Inventory
 
-### Currency - 
+### Currency - 2000 pp and 3000 gp
 ##### Gems:
 Pearl
 Near flawless [[Elemental Plane of Earth]] diamond - worth 4000gp (Carried by [[Hugh]])
@@ -14,7 +14,7 @@ Topaz  ([[Rez]])
 Bag from [[Teld's Dogs]]: 3 shitty emeralds, a poorly cut diamond, a fine ruby
 4 large sapphires
 2 wings, each has about 40 sapphires
-Bag of gema from the [[Zhakastin Expedition]] and [[Bek]]
+Bag of gems from the [[Zhakastin Expedition]] and [[Bek]], sapphires worth ~2700gp
 
 ## Potions:
 Healing:
@@ -181,8 +181,9 @@ Carried by [[Hugh|Finn]]
 oak, glass, coal, githyarti wood, sapphire, an unclear silver alloy, bronze, ruby
 Carried by [[Rez]]
 
-Wolfskull Ring 
-Carried by [[Costi]]
+[[Wolfskull Sage's Ring]]
+Sage's signet: while wearing (a) must be able to cast spells, can casts augury 1 per day and cast two additional spells 1 per day: freedom of movement and pass without a trace
+Carried by [[Adrienne Spout|Adrienne]]
 ## Monster Parts
 
 ### Dragon Scales

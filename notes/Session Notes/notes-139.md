@@ -30,7 +30,7 @@ We decide to make camp for the night, [[Costi]] makes a hut. [[Freya]] takes the
 
 Finn comforts her, though she's not ready for much comfort yet. 
 
-Adrienne watch, talk about it, offering help. [[Rez]] confides in her some -- but makes it clear, she's not sorry, she's angry. She sends to [[Vask]].
+Adrienne wakes for her watch, and tries to talk about it, offering help. [[Rez]] confides in her some -- but makes it clear, she's not sorry, she's angry. She sends to [[Vask]].
 
 rez to the group in the morning tells them what happened, sharing that she keeps secrets to protect her family, but they know that there are people trying to systematically kill [[Rez's Family]]. Finn asks why, she says the most fucked up part of it is it's just unearned prejudice -- but it's past the time to try and correct them, the only option is for them all to die. She says there may come a time when she asks for [[The Unforged Few|Our Party]]'s help, things have changed - they've learned to use [[Rez's Family]]'s magic against them. 
 

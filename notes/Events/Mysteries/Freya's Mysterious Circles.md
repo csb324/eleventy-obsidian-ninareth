@@ -54,4 +54,6 @@ We found a copy while [[Heal the Anchor Tree]], looking at the root where [[Adri
 
 [[Freya's Mysterious Circles|Mysterious Circles]] were carved into [[Winifey]]'s back. As [[Cinder]] pierces the [[Ring of Efreet Summoning]] [[Jade]]'s glasses flash ([[Whats up with Jade's Glasses]]?), her briefcase pulls out a card referencing [[Freya's Mysterious Circles]]. 
 
+In the [[Halls of the Dead]] A body hung furthest in the room is missing his left hand.  The one near the skeleton's magic has a [[Dunamantic Ruby Eye]], after 'checking' [[Jade]] goes to grab it and discovers it's connected somehow, but pulls with a mucus-covered tendon where it seemed to be attached internally. [[Jade]]'s glasses flash ([[Whats up with Jade's Glasses]]?) and she notices on the back of the ruby, is a symbol [[Freya's Mysterious Circles]]. 
+
 

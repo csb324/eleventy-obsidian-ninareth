@@ -13,19 +13,19 @@ Owned-by: The Unforged Few
 
 ### Immediate
 * Figure out how we answer [[Colvia Ghul]]
+	* Finn Divination "What we should NOT convey 
+	* Finn Commune 
+		* "Does the threat posed to bahamut, pelor, Corellon, and moradin also put ioun at risk?"
+		* Would Ioun care about the threat/efforts of those using the Eye of the Everpresent
+	* 
 * [[Starstool Daygrip]] offered meeting for coffee with [[Adrienne Spout|Adrienne]], but maybe that was timed wrong? Have we heard [[Julian Slater-Runehorn|Julian]] would be in town??
 * We know to be on the lookout that "Soon, an official's secret family will be coming to light. After their fall from grace, we should be able to get an invitation to their replacement's coronation." 
-
-In the [[Turian Waste]]
-* Decide if we're trying out the [[Ring of the Undead Masses]]
 
 ### Short-Term
 * Find a way to get [[Burru Ilp]]'s notes from [[Father Thronestone]] at the end of the week
 	* [[Eirian]] dream?
 	* [[Hugh|Finn]] scry?
 	* [[Jalantar]] day trip?
-* Update from [[Eirian]] on [[Rez's Family]] counterattack 
-* [[Rez]] dream chat with [[Kaycee Teapetal|Kaycee]]
 
 In [[New Fairhaven]]
 * Hail bloodseeker, [[fourteen rue promade]], after nine - [[Freya]]
@@ -63,6 +63,7 @@ In [[Thelran Asari]]
 	* gold fingers from the [[Alhoon]]
 * sendings
 	* costis friend marius
+* * [[Rez]] dream chat with [[Kaycee Teapetal|Kaycee]]
 
 ### Long-Term
 * Meet [[Neiragneg]] at the [[Slavaadi College]] for [[Rez]]'s appointment with the Archmagi [[Rhend Triverswill]]

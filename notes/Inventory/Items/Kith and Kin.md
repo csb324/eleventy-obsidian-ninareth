@@ -72,7 +72,7 @@ mahtgo oath mg (oath to M prompted this clarification)
 * We have hit all the large Families of clues 
 
 ### Questions
-1
+3
 
 ### For Consideration
 * Map referencing the Mountains/Jorenn - there's something in the margin 

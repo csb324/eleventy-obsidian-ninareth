@@ -14,3 +14,5 @@ Status: Ongoing
 * The [[Fire Raisers]] seem to have opened up some kind of portal to the [[Elemental Plane of Fire]]
 * [[Freya's Mysterious Circles]] may represent overlapping planes
 * We've seen two augmented giants: sylvan with a twig inside it, and a half-undead with the green vial
+* There was a portal to  [[The Shadowfell]] in the [[Turian Waste]] near the [[Zhakastin Expedition]]. It turns out, that was [[Mr. Blueberry]]’s skylight. [[Kaycee Teapetal|Kaycee]] put it there, with a sword called “Planesrender”. (Rez convinced her to move the portal but uhhhhh)
+* 

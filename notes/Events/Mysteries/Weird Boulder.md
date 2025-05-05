@@ -13,7 +13,8 @@ We found this weird boulder in [[Burru Ilp]]'s basement.
 ## Possible outcomes
 - perhaps there's a silver dragon inside? [[Session-38]]
 - There's a *rumor* that some dwarves turned a silver dragon into this weird boulder. 
-	- It's not a rumor [[Rez]] says it's her sister [[Gin]]
+	- It's not a rumor. [[Rez]] says it's her sister [[Gin]]
+- Importantly, [[Rez]] also knows that [[Rez's Dad|Azir]] originally MADE the dragons from boulders. 
 
 Currently, [[Victoria Several]] owns the weird boulder, because she bought [[The Tiamat House]]. 
 

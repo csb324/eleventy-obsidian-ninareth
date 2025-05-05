@@ -12,3 +12,11 @@ Apparently there have been fires in [[Arkhosia (City)]], caravans have been atta
 
 Are the [[Fire Raisers]] to blame or is something else going on?
 
+In [[Jezeten]], the tension is high. That’s partially for [[ELA]] reasons, but they also have concerns about conflict with the draconics in [[Gu’athrithen]].
+
+**UPDATE:** 
+it certainly looks like [[Gu’athrithen]] is gearing up to invade [[Eberron]], as well as [[Deregheir]] and the [[Narathian Plains]] (based on weapons cache information - [[notes-146]])
+
+> They said the wanted to make it to [[Ordentan Lake]] on the border [[Eberron]] and the [[Slavaadi College]]. 
+
+Why??? What’s up with the lake? 
