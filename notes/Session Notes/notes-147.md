@@ -48,7 +48,7 @@ We discuss [[Colvia Ghul]], our work to find unlicensed necromancy from [[People
 
 We talk about who [[Colvia Ghul]] is as a person, that she'll be pursuing this knowledge with or without our help - but if she learns more before we can take care of her it could be a bigger problem. 
 
-[[Sienna Burbank|Sienna]] offers to let us stay there for a few days to figure out our response, we'll pretend [[Freya]] has 'sick sloughing' illness which can be caught in the [[Turian Waste]]. We'll use the cover of [[Costi]]'s menteeship to [[Cliff Burbank|Cliff]]. He should be back in 3 days. 
+[[Sienna Burbank|Sienna]] offers to let us stay there for a few days to figure out our response, we'll pretend [[Freya]] has 'skin sloughing' illness which can be caught in the [[Turian Waste]]. We'll use the cover of [[Costi]]'s menteeship to [[Cliff Burbank|Cliff]]. He should be back in 3 days. 
 
 [[Sienna Burbank|Sienna]] says they expect the timing to our [[A Murder of Dukes]] is still a few weeks out. They want tensions to increase, to find the most bloodless path, and think they'll be able to talk down the likelihood of war with [[Gu’athrithen]] or [[Arkhosia]]. 
 
@@ -96,8 +96,6 @@ NOT THE FIRST NIGHT because she’s playing it so cool, but, the second night [[
 	* [[Hugh]]! I have learned much, many secrets. Taken [[Rhynilex Svenik|Rhynilex]] as my lover. Killed great men. Tried new frosted dough, do you know of this? 
 
 [[Hugh|Finn]] does a divination to [[TrueSilver]]: "How can we mislead [[Colvia Ghul]] best without revealing too much truth of the [[Freya's Mysterious Circles|Eye of the Everpresent]]"
-
-Other scrying targets: Willow Fretze relakas
 
 
 

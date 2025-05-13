@@ -59,3 +59,24 @@ Looking at the stakes, they do have runes carved along them, reminding us of [[P
 * Silver Alloy
 	* The silver alloy spike is a magical metal (like adamantine or mithril) as a portion capture within it, however seems mostly silver and there's another metal in it like copper, bronze, or gold. 
 
+### How Well They Worked
+* Actually worked - [[Shen]]
+	*  Ruby and Obsidian combined
+* Sorta worked
+	* Obsidian
+	* Ruby
+* Were doing *something*
+	* Silver Alloy
+	* githyarti wood
+	* Emerald
+* Nada
+	* Birch
+	* Iron
+	* Silver
+	* oak
+	* glass 
+	* coal 
+	* sapphire
+	* bronze
+
+

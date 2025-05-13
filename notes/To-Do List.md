@@ -9,23 +9,31 @@ Owned-by: The Unforged Few
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
 ### Scheduled Events
-
+Meet with [[Duchess v'Dharinov]] 
 
 ### Immediate
 * Figure out how we answer [[Colvia Ghul]]
-	* Finn Divination "What we should NOT convey 
-	* Finn Commune 
-		* "Does the threat posed to bahamut, pelor, Corellon, and moradin also put ioun at risk?"
-		* Would Ioun care about the threat/efforts of those using the Eye of the Everpresent
-	* 
-* [[Starstool Daygrip]] offered meeting for coffee with [[Adrienne Spout|Adrienne]], but maybe that was timed wrong? Have we heard [[Julian Slater-Runehorn|Julian]] would be in town??
+	* What TO say
+		* Freya first saw the symbol when she left Polaris and has been looking for information since. It's been difficult finding additional information.
+		- We found the symbol in a book in the margins - The Unnatural Naturality.
+		- It's called the Eye of the Everpresent
+		- We believe it is tied to Morthos
+		- We've seen it a number of seemingly random places: books (Drimbias autobiography, Unnatural Naturality, a bookshop in TA), lots of sites with undead (some we stumbled upon just exploring, under cities, in the wastes, or under the halls of the dead), and on the bark of a tree in Dilandil
+		- We're not sure of the connections, and are learning more
+		- It was also found in the leadership of the Fire Raisers when we did our work there (do we tease we know Relakas is in town? Might throw her off some)
+		- It somehow ties to dunamantic magic
+	* What NOT to say
+		* wayfinders
+		- kith and kin
+		- Kaycee
+		- gods recruiting folks to resurrect someone tied in
+		- anchor trees are targeted
+		- Winnie
+		- Any info found within Kith and Kin: Polaris is fundamentally tied in here, dragons protecting or helping the gods, Bahamut, Pelor, Moradin, Corellon
 * We know to be on the lookout that "Soon, an official's secret family will be coming to light. After their fall from grace, we should be able to get an invitation to their replacement's coronation." 
 
 ### Short-Term
-* Find a way to get [[Burru Ilp]]'s notes from [[Father Thronestone]] at the end of the week
-	* [[Eirian]] dream?
-	* [[Hugh|Finn]] scry?
-	* [[Jalantar]] day trip?
+* Find a way to get [[Burru Ilp]]'s notes from [[Father Thronestone]] at the end of the week [[Jalantar]] day trip?
 
 In [[New Fairhaven]]
 * Hail bloodseeker, [[fourteen rue promade]], after nine - [[Freya]]
@@ -56,8 +64,9 @@ In [[Thelran Asari]]
 	* [[Petra]] - one success
 	* [[Niko]] / [[Giary]]
 	* [[Willow]] 
-	* [[Wyn Elreal]] - one success - one success
+	* [[Wyn Elreal]] - two successes
 	* [[Bhula Orbnose]]
+	* [[Relakas]] -  one success / one fail
 * legends lore
 	* [[Weirefesteria]] bark with [[Freya's Mysterious Circles |Mysterious Circles]]
 	* gold fingers from the [[Alhoon]]

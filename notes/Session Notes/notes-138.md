@@ -48,25 +48,3 @@ We end our night of fun with a game of "would you rather" but it's only about se
 
 [[The Curator]] visits [[Freya]], who asks how old they are, they say they wish they remembered. They remind [[Freya]] that the only information they can access is that the collection can get, and they're still working to get anything more specific. They say it's seems as though not everyone in [[Polaris]] cannot be trusted - [[Freya's Mysterious Letter]] was given to her by one of the [[Keepers]]. [[Freya]] is very confused. Why would they put the [[Freya's Mysterious Circles|Eye of the Everpresent]]? Maybe it's because they wanted her to be warned. [[The Curator]] can only confirm that [[Freya]] has a friend in the [[Keepers]]. These things take time, but they warned [[Polaris]] is not a safe place for her. [[Freya]] says the only one who could make sense is [[Dahana]], who helped raise her. She tries to think who else this could be or what it means. [[The Curator]] warns that it was only a few weeks ago the group of hunters from [[Polaris]] came after her. However, whatever happened there is complex. They counsel to have caution and have faith in [[Rawley]]. They are not the same being as any mortal, anywhere, in the multi-verse. [[Freya]] asks if they're their own kind of thing, and they say they're not unique entirely. [[Freya]] asks for any freebies about what we'll see in the [[Turian Waste]] - they say no, but to check-in once we're done. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -3,13 +3,13 @@
 ---
 # Group Inventory
 
-### Currency - 2000 pp and 3000 gp
+### Currency - 2250 pp and 3000 gp
 ##### Gems:
 Pearl
 Near flawless [[Elemental Plane of Earth]] diamond - worth 4000gp (Carried by [[Hugh]])
 diamond ring - 3's revivify's worth (900gp worth)
 diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~800gp
-diamonds - 500gp worth
+diamonds - 900gp worth
 Topaz  ([[Rez]])
 Bag from [[Teld's Dogs]]: 3 shitty emeralds, a poorly cut diamond, a fine ruby
 4 large sapphires
@@ -177,9 +177,8 @@ Carried by [[Costi]]
 [[tuning fork to the elemental plane of water]]. 
 Carried by [[Hugh|Finn]] 
 
-[[necromantic spikes]] (inert) - 8
-oak, glass, coal, githyarti wood, sapphire, an unclear silver alloy, bronze, ruby
-Carried by [[Rez]]
+Ruby and Obsidian Spike ([[Zhakastin Expedition]])
+Carried by [[Freya]]
 
 [[Wolfskull Sage's Ring]]
 Sage's signet: while wearing (a) must be able to cast spells, can casts augury 1 per day and cast two additional spells 1 per day: freedom of movement and pass without a trace
@@ -224,13 +223,15 @@ Writ of Authority for [[Viliki]] - negated by [[Mayor Galfeedz Drakurshire]]
 Broken half of a ruby
 Carried by [[Rez]]
 
+[[necromantic spikes]] (inert) - 8
+glass, coal, githyarti wood, sapphire, an unclear silver alloy, bronze, ruby, silver
+oak, birch, iron - given to [[Jehneim Bastienev]]
+Carried by [[Rez]]
+
 [[Zormvrik]]'s
 A gold crown
 black metal helmet with a scar over the right eye
 gray silk shawl
-
-Ruby and Obsidian Spike ([[Zhakastin Expedition]])
-Carried by [[Relakas]]
 ### Books and Correspondence:
 [[The Unnatural Naturality]] - read by [[Jade]]
 [[Kith and Kin]] - read by [[Freya]], [[Rez]]
@@ -288,6 +289,7 @@ carried by [[Rez]]
 - Mithril mix alloy from Dragon Scales Ahhh
 - Necklace of brass dragonscales, assuming from Neti
 - [[Curator Bell]]
+- Sliver of the silver alloy [[necromantic spikes]]
 
 ### Clothes
 One formal outfit each

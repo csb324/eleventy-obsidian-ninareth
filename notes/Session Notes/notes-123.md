@@ -13,7 +13,7 @@ We argue about what to do legend's lore, and then decide to do this on [[Freya's
 
 "Hi [[Rawley]], uhm crazy question. Did you send me letter? When I left [[Polaris]]. It had [[Wayfinders]] symbol so I assumed you, is it?", he responds, "No, [[Freya]]. I didn't send you a letter before I picked you up. Make sure you bring that with you when I see you next"
 
-We talk through [[Freya]]'s history, since it seems like there's someone else who wanted her to find the [[Wayfinders]]. She shows us the [[Freya's Mysterious Letter]] she got, and [[Adrienne Spout|Adrienne]] divines the letter but doesn't pick up anything. [[Freya]] suddenly brings up that she kept the holy symbol from [[Bagath Mizzragon]] from under [[Weirefesteria]], 
+We talk through [[Freya]]'s history, since it seems like there's someone else who wanted her to find the [[Wayfinders]]. She shows us the [[Freya's Mysterious [[Freya's Mysterious Letter]] she got, and [[Adrienne Spout|Adrienne]] divines the letter but doesn't pick up anything. [[Freya]] suddenly brings up that she kept the holy symbol from [[Bagath Mizzragon]] from under [[Weirefesteria]], 
 
 Secretly, [[Freya]] reaches out [[The Curator]] and asks if all desecrated things are the same? They say no. And following up, do you know all desecrated things? They again say no. Then deny a request to hang tonight. 
 

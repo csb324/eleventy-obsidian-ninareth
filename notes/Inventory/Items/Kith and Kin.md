@@ -64,15 +64,43 @@ What specific modification to the page and text should we be looking for for thi
 
 We've noticed the repeating pattern of references to 'mine/miners' in underlined sections and  'know/knowing' in nearby annotations on pages 120, 127, 163, 183, 245 -- what do we take that to mean?
 * We feel as though we've stumbled upon the last clue family, and that these five pages split between them, contain a clue. We don't feel like it's necessarily tied to mine/miner or know/knowing, although those might be seasoning to the clue. But the actual clue is contained within the words on the page that are underlined, and pulling something that is across all five will give us the clue 
-* We feel like 183 is different than the other 3 but still fits into the same pattern
+* We feel like 183 is different than the others but still fits into the same pattern
 mahtgo oath mg (oath to M prompted this clarification)
+* Are the scribbled out page 183 relevant and if so how?
+	* The scratched out letters themselves are not relevant, but they impact the content of the information provided on page 183, particularly the letters scratched out of the underlined portion of the page.
+* Oghma!!!!! 
+
+
+- 120
+	- Underlined: Miners who explored the hills and delved into new mining systems-until they dug too deep.
+	- Note: You know, it's the same old story. Going too far
+- 127
+	- U: A handful of other miners passed them by, with weapons by their sides and angry expressions, though whether that was because they'd overheard Vax or were simply emulating Thorn's snarl, Vax couldn't tell.
+	- N: you think he’d know how to keep his mouth shut by now….
+	- U: Ore.
+	- N: Heh.
+- 163
+	- U: He only faltered when the half dozen miners and Vax ran into the room, tensing at the sudden movement, and he was a second too late to parry the attack from the guard with the glaive.
+	- N: I know that feeling! Losing your rhythm.
+- 183
+	- U: To keep me company in mines so deep the light won't reach." (Newline) "Grim," Vax muttered.
+		- The “To” is also scribbled out: see doc for more 183 scribbling
+	- N: I know, just like Mauri! A sweet girl.
+	- N: Like a second daughter
+- 245
+	- U: Older miners as well, all huddled together and protecting themselves from the deep.
+	- N: It’s too true, knowing your enemy makes having enemies harder.
 
 ### Other Clues
 * There are two more substantial clues, that are discrete and singular, after we figure out the dots above letters thing - and one more family of clues
 * We have hit all the large Families of clues 
 
-### Questions
-3
+### Final Information Gleaned
+[[The Unforged Few|Our Party]] has the breakthrough on our final puzzle on the book. [[Oghma]] is tied into this. We also note: 
+* on page 154 - the 1 is scribbled out AND 345 - the 5 is scribbled out -- the year 3454 is 2 years away
+* Throughout the book, "keep" and "her" are together many times, alluding to "Keeper" 
+* There are some notes that we can trust [[Akros]] but not [[Gulsindip Desindever|Superior Desindever]]
+* Page 221 - "seems like a handy hiding place" we should check behind some portrait somewhere
 
 ### For Consideration
 * Map referencing the Mountains/Jorenn - there's something in the margin 
@@ -87,13 +115,15 @@ mahtgo oath mg (oath to M prompted this clarification)
 	* There’s a ring like fracture that controls the undead
 	* Someone in the [[Wayfinders]] is skimming  / smuggling
 	* [[Rawley]] spells Culwen with an 'I' not 'E'?
-* [[Brask]] is were some thieves guild is centered? Maybe [[The Silver Hand]]?
-* Almost every "Stubby" are circled or underlined
 * Many mentions of copper are circled or underlined
 * Dreamweavers? "Find out what that reminded you of" - struck through 
 * Other major family of clues
 	* Dog ears - is there something in common on the pages? 
 	* [[Wayfinders]] symbols - is there something in common on the pages? 
+* Re: final clue:
+	* We’ve noticed some interesting inconsistencies in the punctuation in the annotations — most are followed by a period, but there are more exclamation points and ellipses than one might expect. What is the meaning of this?
+	* the first letter of each underlined segment can be rearranged to “M OATH”. did we win??????
+	* maybe miners made an oath to morthos? in Polaris? 
 
 
 ### Pages for Final Clue 120, 127, 163, 183, 245

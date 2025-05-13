@@ -5,6 +5,7 @@ tags:
 aliases:
   - Mysterious Circles
   - Eye of the Everpresent
+  - Eye of the Everpresent
 ---
 
 # Freya's Mysterious Circles
@@ -24,6 +25,7 @@ When [[Freya]] was framed for some kind of crime (unclear) and left [[True North
 * It was found trying to [[Heal the Anchor Tree]]
 * Found [[Halls of the Dead]]
 * [[Zhakastin Expedition]]
+* [[Freya's Mysterious Letter]]
 
 ### Clues
 [[session-30]]: [[Niko]] got back to her, and said [[Professor Leonard Klipitz]] recognized the symbol. He couldn't say exactly what it was, but it was something that probably existed in his research. So, that's something!

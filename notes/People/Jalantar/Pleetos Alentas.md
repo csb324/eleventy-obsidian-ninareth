@@ -8,6 +8,8 @@ Relationship: neutral
 Affiliation:
   - Galaphanel
   - Unscaled
+  - Boulder Makers
+Workplace: The Academy in Thelran Asari
 Home: Thelran Asari
 ---
 
@@ -16,8 +18,9 @@ Home: Thelran Asari
 <span class="dataview inline-field"><span class="inline-field-key">Race</span><span class="inline-field-value">human</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Relationship</span><span class="inline-field-value">neutral</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Galaphanel]]</span></span>
-[Workplace::[[The Academy in Thelran Asari]]
+<span class="dataview inline-field"><span class="inline-field-key">Workplace</span><span class="inline-field-value">[[The Academy in Thelran Asari]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Unscaled]]</span></span>
+<span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Boulder Makers]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Thelran Asari]]</span></span>
 ### Physical Description
 - Half-elf
@@ -35,6 +38,7 @@ Recently left [[Jalantar]] via airship, after getting a bronze scale grafted. [[
 
 We also try [[Pleetos Alentas]], he's sitting in a garden, but [[Hugh|Finn]] doesn't recognize the flora, it's not tropical or [[Eberron]] or [[Dilandil]] -- when described to us it sounds like the [[Narathian Plains]] He's writing a letter, he can't see it all, but it seems as though he's writing orders, and sees it's addressed to [[Bhula Orbnose]], which [[Hugh|Finn]] believes to be a halfling name, and sees that they live in [[Durmask]], [[Hugh|Finn]] gets the street name and most of the number "X23 STREET NAME". He sends the letter at the end of the vision. 
 
+[[notes-148]]: [[Trisha]] is going to send someone she knows in [[Thelran Asari]] to search any property he might own.
 ### Who're They to Us?
 Worked with [[Burru Ilp]], [[Jorus]], and [[Sqwank]]
 

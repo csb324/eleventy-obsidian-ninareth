@@ -60,8 +60,3 @@ We agree to a deal, and they get working on a little bit of information they can
 
 [[Hugh|Finn]] tries to scry on [[Jalene]] but the spell doesn't work. He also gives a status update to [[Sienna Burbank|Sienna]]. "Check-in. At mine. Found mephits who are helping us inside. Former miners. Expecting a lich? Hole to [[Elemental Plane of Earth]]. Going in tomorrow." She replies, "Lich? None should exist, will research. Do not engage a lich, repeat, if it’s a lich do not engage. But do explore, back ASAP." [[Hugh|Finn]] doubles down, "Will try not to engage. You know how that is. Going in to help any remaining survivors. Mephits clearly described a lich. Will check in if able". She is worried in her response, "Cannot stress strongly enough: You are unprepared to fight lich. You will die. Do not engage lich. Could be multiple other kinds of advanced undead."
 
-
-
-
-
-
