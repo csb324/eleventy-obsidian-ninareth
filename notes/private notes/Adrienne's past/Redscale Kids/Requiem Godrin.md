@@ -26,4 +26,6 @@ Alma-Mater: Redscale
 -   Like, if she wasn’t sure what to eat in the cafeteria, she’d get in the back of the line and watch what everyone else got, but especially Requiem.
 -   The main things Adrienne learned from this set of interactions was “don’t let people find out too much about you because they will eventually make fun of you for it” and “it is very hard to undo a bad first impression”
     
+	
+	
 ```

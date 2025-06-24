@@ -39,5 +39,10 @@ There are 368, 47 has been cut by [[Freya]].
 	* She's a rogue necromancer who's done a lot of harm.
 	* Formerly known to be 'inactive' and now spotted out for the first time in 9 years. Appeared in a village near [[Orzudan]].
 	* [[Clifford Burbank, the 5th|Fivey]] is out trying to bring her back in. 
+* [[Costi's Dad|Vladimir Grosu]]
+	* At the point our friends were trying to figure out how to free him, there was a [[Orzudan Prisoner Breakout]] and his door just opened! He was escorted by a few people in guards uniform but in the pandemonium was able to escape. 
+* 2 killed
+* 1 caught shortly after
+* 1 more at large
 
 

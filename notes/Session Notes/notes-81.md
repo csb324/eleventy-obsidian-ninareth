@@ -46,7 +46,7 @@ He moves towards the black path, reaching into his pocket, grabbing a beetle thr
 
 He feels a coolness moving over him, at the end, there's nothing. Deciding to embrace, he falls into nothing
 
-healing him from unconsciousness, [[Costi]] is now cooler to the touch, and the black line on [[Potential]] grows, and the center pulls into a line white line, the edges moving into feathery pattern, he now holds [[Raven's Wing]].
+healing him from unconsciousness, [[Costi]] is now cooler to the touch, and the black line on [[Potential]] grows, and the center pulls into a line white line, the edges moving into feathery pattern, he now holds [[Raven's Edge]].
 
 We see that the bombs are fused to the wall, but the portal seems to be stabilizing. We decide half of us will stay and protect the bombs, while [[Hugh]] and [[Rez]] go to find [[Victor]]. We speak to him briefly, expressing our concern of people who can help guard the gate, bringing in some members from the army. [[Rez]] says to reach out to [[Professor Leonard Klipitz]], he may know how to open them, so he can maybe close them. [[Victor]] says he'll send for him. He tells us to go rest, and then thanks us. 
 

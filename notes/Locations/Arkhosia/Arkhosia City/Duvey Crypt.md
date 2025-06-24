@@ -14,7 +14,7 @@ A crypt for the [[Duvey Family]], in the [[Halls of the Dead]].
 [[Jade]] heard a rumor, of the Duveys, they are involved in international item shipping, and they're up to some shady shit. She's heard people talking about them similarly to [[Julian Slater-Runehorn|Julian]]. 
 
 ### Why do we care?
-[[The Unforged Few|Our Party]] was sent to investigate for the [[The Raven Queen]] order within the [[Halls of the Dead]], searching for [[Raven's Wing]]s and news of their missing acolytes. 
+[[The Unforged Few|Our Party]] was sent to investigate for the [[The Raven Queen]] order within the [[Halls of the Dead]], searching for [[Raven's Edge]]s and news of their missing acolytes. 
 
 We were also searching for the [[Mirror of Life Trapping]] and the [[The Gaze Grafter]] for [[Julian Slater-Runehorn|Julian]]. Those were with [[Sheske Eeping]]'s crypt. 
 

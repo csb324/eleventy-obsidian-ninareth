@@ -4,6 +4,7 @@ tags:
   - item
 Owned-by: Costi
 ---
+# Raven's Edge
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[Costi]]</span></span>
 Requires Attunement
 - +1 great sword

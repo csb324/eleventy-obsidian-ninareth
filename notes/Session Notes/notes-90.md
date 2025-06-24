@@ -24,7 +24,7 @@ We give [[Adrienne Spout|Adrienne]] back her things and decide to try and rest w
 
 On their watch [[Costi]] and [[Rhynilex Svenik|Rhynilex]] share commiserations about their fathers, and [[Rhynilex Svenik|Rhyn]] hopes [[Costi]] doesn't have to deal with what she did, but if he does, that he can also bring his father to peace.
 
-In the morning, as [[Costi]] prepares his glimpses of the future ahead, he sees blood where he hadn't before, then sees [[The Unforged Few|Our Party]] dead at his feet, then a totally different vision of us fine, then flashes of new visions until he notices a tremor of purple running down [[Raven's Wing]]. He feels a different connection to the future than what he's previously felt, and as he looks at his spell book he notices entirely different spells than before. Less about noticing the future and more about altering it. 
+In the morning, as [[Costi]] prepares his glimpses of the future ahead, he sees blood where he hadn't before, then sees [[The Unforged Few|Our Party]] dead at his feet, then a totally different vision of us fine, then flashes of new visions until he notices a tremor of purple running down [[Raven's Edge]]. He feels a different connection to the future than what he's previously felt, and as he looks at his spell book he notices entirely different spells than before. Less about noticing the future and more about altering it. 
 
 We do our best to sneak our way back to [[Izdeke]], we pass by many many undead bodies. When we make it back, [[Rhynilex Svenik|Rhyn]] says she'll talk to [[The Matron]] first then they'll come get us. 
 

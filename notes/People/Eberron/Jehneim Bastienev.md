@@ -2,6 +2,8 @@
 type: npc
 tags:
   - npc
+aliases:
+  - Chamberlain
 Status: alive
 Race: Human
 Relationship: enemy

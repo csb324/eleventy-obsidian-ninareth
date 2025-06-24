@@ -8,28 +8,16 @@ Owned-by: The Unforged Few
 # To-Do List
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
+ELA Countdown: 12hrs - 7 days
+Burbank Countdown: after 2 days - 36hrs - 13 days
+Thronestone Countdown: 3 days
+ELA Countdown: 12hrs - 7 days
+Burbank Countdown: after 2 days - 36hrs - 13 days
+Thronestone Countdown: 3 days
 ### Scheduled Events
 Meet with [[Duchess v'Dharinov]] 
 
 ### Immediate
-* Figure out how we answer [[Colvia Ghul]]
-	* What TO say
-		* Freya first saw the symbol when she left Polaris and has been looking for information since. It's been difficult finding additional information.
-		- We found the symbol in a book in the margins - The Unnatural Naturality.
-		- It's called the Eye of the Everpresent
-		- We believe it is tied to Morthos
-		- We've seen it a number of seemingly random places: books (Drimbias autobiography, Unnatural Naturality, a bookshop in TA), lots of sites with undead (some we stumbled upon just exploring, under cities, in the wastes, or under the halls of the dead), and on the bark of a tree in Dilandil
-		- We're not sure of the connections, and are learning more
-		- It was also found in the leadership of the Fire Raisers when we did our work there (do we tease we know Relakas is in town? Might throw her off some)
-		- It somehow ties to dunamantic magic
-	* What NOT to say
-		* wayfinders
-		- kith and kin
-		- Kaycee
-		- gods recruiting folks to resurrect someone tied in
-		- anchor trees are targeted
-		- Winnie
-		- Any info found within Kith and Kin: Polaris is fundamentally tied in here, dragons protecting or helping the gods, Bahamut, Pelor, Moradin, Corellon
 * We know to be on the lookout that "Soon, an official's secret family will be coming to light. After their fall from grace, we should be able to get an invitation to their replacement's coronation." 
 
 ### Short-Term
@@ -67,6 +55,8 @@ In [[Thelran Asari]]
 	* [[Wyn Elreal]] - two successes
 	* [[Bhula Orbnose]]
 	* [[Relakas]] -  one success / one fail
+	* [[Tyros]]
+	* [[Terrav]]
 * legends lore
 	* [[Weirefesteria]] bark with [[Freya's Mysterious Circles |Mysterious Circles]]
 	* gold fingers from the [[Alhoon]]

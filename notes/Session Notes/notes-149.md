@@ -8,7 +8,7 @@ Name: null
 ---
 # Detailed Notes: Session 149
 
-[[Colvia Ghul]] ushers us into a room she uses for interrogations. it's been 'interesting' since we left, but it seems like there's been an increase in [[ELA]] activity, and maybe some more work for [[The Unforged Few|Our Party]]. She'll let the [[Jehneim Bastienev]] tell us more. 
+[[Colvia Ghul]] ushers us into a room she uses for interrogations. it's been 'interesting' since we left, but it seems like there's been an increase in [[ELA]] activity, and maybe some more work for [[The Unforged Few|Our Party]]. She'll let the Chamberlain, [[Jehneim Bastienev]] tell us more. 
 
 We agree to tell her information in exchange for 'friendship' and no more threats or exchanges. She 'apologizes' for the heavy-handedness but says with our reputations she thought it was necessary.
 
@@ -69,7 +69,7 @@ We talk about if there's anyway to obscure the information, process, or replicab
 * Page 221 - "seems like a handy hiding place" we should check behind some portrait somewhere
 * [[Polaris]] guards something very important, it's fundamental
 
-[[Rawley]] will answer many more questions when we meet in person at the [[Wayfinder Annual Gathering]]. [[Freya]] sends to [[Rawley]], "we did it. Ogma, 3454, keepers are important, dot dot dot… please say this is enough and I don’t have to wait until TA . Now??", he replies, "Proud of you, kid. But we've gotta share this in person. You held out this long, you can make it a few weeks."
+[[Rawley]] will answer many more questions when we meet in person at the [[Wayfinder Annual Gathering]]. [[Freya]] sends to [[Rawley]], "we did it. Oghma, 3454, keepers are important, dot dot dot… please say this is enough and I don’t have to wait until TA . Now??", he replies, "Proud of you, kid. But we've gotta share this in person. You held out this long, you can make it a few weeks."
 
 [[Freya]] also bugs [[The Curator]] that she needs more information. They do not bite. [[Freya]] sends to [[Dahana]], "Dahana - why is it unwise to check in? I’m keeping my space (when [[Petra]] isn’t coming out of a tree to kill me). Anything new?", she replies, "With the way things ended, there's no such thing as too much space -- for both of us. I wish you well, dear."
 
@@ -78,3 +78,5 @@ We talk about if there's anyway to obscure the information, process, or replicab
 [[The Unforged Few|Our Party]] is out shopping, at some point [[Costi]] is outside of [[Hugh|Finn]]'s focus. Shortly after, he notices a piece of paper in his pocket. It has an address in the O'Ras, "10:30PM tonight". It has no smell, it does look like a girl's writing -- though maybe it looks familiar to her. 
 
 [[Adrienne Spout|Adrienne]] sendings to [[Zephyra]], "What are the odds you're in [[Jezeten]] and being cagey as fuck. It's [[Adrienne Spout|Adrienne]]. See you tonight, if so" she replies, "The odds are pretty good"
+
+Joe says 580 for the final session / 2032

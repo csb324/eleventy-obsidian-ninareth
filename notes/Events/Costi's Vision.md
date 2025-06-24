@@ -14,4 +14,4 @@ Involved: [[The Raven Queen]], [[The Curator]]
 
 ## Outcome
 
-The sword of Potential has transformed into [[Raven's Wing]]!!! Also, [[Samuel]] seems less testy. 
+The sword of Potential has transformed into [[Raven's Edge]]!!! Also, [[Samuel]] seems less testy. 

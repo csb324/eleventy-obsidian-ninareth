@@ -5,7 +5,6 @@ up:
 prev:
   - - session-148
 ---
-
 # Session 149
 
 The Unforged Few had some stressful conversations. 

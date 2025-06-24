@@ -3,7 +3,7 @@
 ---
 # Group Inventory
 
-### Currency - 2250 pp and 3000 gp
+### Currency - 2250 pp and 1142 gp
 ##### Gems:
 Pearl
 Near flawless [[Elemental Plane of Earth]] diamond - worth 4000gp (Carried by [[Hugh]])
@@ -19,12 +19,12 @@ Bag of gems from the [[Zhakastin Expedition]] and [[Bek]], sapphires worth ~2700
 ## Potions:
 Healing:
 	Supreme (6000?) - 1, carried by [[Freya]]
-	Superior healing (900) - [[Costi]], [[Adrienne Spout|Adrienne]] 
-	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]], and 1 by [[Rez]]
+	Superior healing (900) - [[Costi]], [[Adrienne Spout|Adrienne]], [[Rez]]
+	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]]
 	Regular healing (200) - 
 	? - [[Adrienne Spout|Adrienne]]
 Potion of Darkvision - 1
-Potion of Necrotic Resistance - 2 ([[Hugh|Finn]])
+Potion of Necrotic Resistance - 5 
 Aid - 1 ([[Hugh]])
 Lightning Resistance - 2 ([[Hugh|Finn]], [[Rez]])
 Potion of Maximum Power - 1 when you cast a spell that does damage of 4 level or lower, you do max damage, carried by [[Rez]] 
@@ -39,6 +39,7 @@ Gravity Sinkhole [[Costi]]
 
 ### Spell Materials
 Parchment - 5 spell levels ([[Costi]])
+Incense - 350 gold worth
 
 ## Magic Items:
 
