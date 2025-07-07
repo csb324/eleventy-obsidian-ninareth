@@ -8,15 +8,15 @@ Owned-by: The Unforged Few
 # To-Do List
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
-ELA Countdown: 12hrs - 7 days
-Burbank Countdown: after 2 days - 36hrs - 13 days
-Thronestone Countdown: 3 days
-ELA Countdown: 12hrs - 7 days
-Burbank Countdown: after 2 days - 36hrs - 13 days
-Thronestone Countdown: 3 days
 ### Scheduled Events
-Meet with [[Duchess v'Dharinov]] 
-
+?
+Marius and Marius - answer about bombs
+Arkoshia 
+	Henrik
+	Father Thronestone
+	Halls of the Dead? 
+	Buy supplies
+ELA Day
 ### Immediate
 * We know to be on the lookout that "Soon, an official's secret family will be coming to light. After their fall from grace, we should be able to get an invitation to their replacement's coronation." 
 
@@ -54,15 +54,13 @@ In [[Thelran Asari]]
 	* [[Willow]] 
 	* [[Wyn Elreal]] - two successes
 	* [[Bhula Orbnose]]
-	* [[Relakas]] -  one success / one fail
+	* [[Relakas]] -  one success / two fail
 	* [[Tyros]]
 	* [[Terrav]]
 * legends lore
 	* [[Weirefesteria]] bark with [[Freya's Mysterious Circles |Mysterious Circles]]
 	* gold fingers from the [[Alhoon]]
 * sendings
-	* costis friend marius
-* * [[Rez]] dream chat with [[Kaycee Teapetal|Kaycee]]
 
 ### Long-Term
 * Meet [[Neiragneg]] at the [[Slavaadi College]] for [[Rez]]'s appointment with the Archmagi [[Rhend Triverswill]]

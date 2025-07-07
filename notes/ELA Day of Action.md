@@ -7,8 +7,18 @@ aliases:
 ---
 # ELA Day of Action
 
-ELA Countdown: 12hrs - 7 days
-Burbank Countdown: after 2 days - 36hrs - 13 days
+ELA Countdown: 6 days
+Burbank Countdown: 6 days
+
+ELA
+Arkoshia 
+	Henrik
+	Father Thronestone
+	Halls of the Dead? 
+?
+Marius and Marius - answer about bombs
+?
+ELA Day
 
 We learn about the [[ELA Day of Action]], that they have multiple attacks happening at once, with their less skilled, to divert away of getting their most dangerous in to kill a top target. Who will depend on access: the [[Jehneim Bastienev]], [[Teld]], [[Nacrissa Thrudec]], or [[Cliff Burbank]]. They hope this chaos and loss of infrastructure will lead to some devolution of their power. First, they'll clamp down, putting a lot of pressure on the general public (which while hard) will hopefully lead to broader uprisings. 
 
