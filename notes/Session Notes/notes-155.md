@@ -24,7 +24,7 @@ Right as we were about to plant the first bomb, [[Rez]] casts modify memory. It 
 
 [[Rez]] implants the memory that we all readily agree to plant the bombs, are enthused about our duty, we all go together to plant the bombs - beginning with the farthest ones first and end at this one, and are having him come back to awareness near his entrance. She adds a moment of being so charmed by [[Rez]], and ends with feeling better about [[The Unforged Few|Our Party]],  less concerned about our loyalty than before, and happy to have run into us.
 
-As we approach where he's ending, we ask how in hiding he is as a whole, and we learn his code name is [[Stenvrik]]. He tells [[Costi]] to come by [[The Celler]] before [[ELA Day of Action]], maybe 2 nights before? We say our good byes and tell him to lay low. 
+As we approach where he's ending, we ask how in hiding he is as a whole, and we learn his code name is [[Stenvrik]]. He tells [[Costi]] to come by [[The Cellar]] before [[ELA Day of Action]], maybe 2 nights before? We say our good byes and tell him to lay low. 
 
 We decide to report in to [[Jehneim Bastienev]], [[Hugh|Finn]] sends, "11 of 12 vampires freed are dead, killed a clawed bone creature. One mimicry vampire, [[Wenric]], unaccounted, still searching. [[ELA]] defeated, uncovered bomb plot.", she replies, "Thank you. Report back to the palace."
 

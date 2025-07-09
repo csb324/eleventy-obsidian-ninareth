@@ -9,9 +9,8 @@ Owned-by: The Unforged Few
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
 ### Scheduled Events
-?
 Marius and Marius - answer about bombs
-Arkoshia 
+Arkoshia / Dania date
 	Henrik
 	Father Thronestone
 	Halls of the Dead? 

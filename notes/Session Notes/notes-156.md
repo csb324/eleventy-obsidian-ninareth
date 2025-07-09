@@ -10,9 +10,9 @@ Name: Go Piss Out of Your Bootyhole Adrienne
 
 We head to our meeting with [[Stulvorth Woolwalker]]. We feel like we're being tailed for the first minute or so of our journey, but we lose them. 
 
-Reaching the safehouse, we do our designated code knock and are let into a basement. Entering into the main room, there's a group of 5 [[ELA]] bodymen. [[Stulvorth Woolwalker]] is the only one we recognize, he says he's started traveling with a retinue for protection. 
+Reaching the safe house, we do our designated code knock and are let into a basement. Entering into the main room, there's a group of 5 [[ELA]] body men. [[Stulvorth Woolwalker]] is the only one we recognize, he says he's started traveling with a retinue for protection. 
 
-He didn't know about the mimcry vampires, but says they've been actively trying to let the country know about the human farms and have been actively trying to let people know. We say there's 
+He didn't know about the mimicry vampires, but says they've been actively trying to let the country know about the human farms and have been actively trying to let people know. We say there's 
 
 They try to push that the bombs should still be used, because they need the narrative, and would maybe even dangle [[ELA]] leadership in the [[Stormwall district]] to try and draw [[Eberronian Military]] back to the area. We push back - it's ineffective and innocents will die. The people who could tell what's happening already exist and could tell that narrative without new monsters freed. 
 
@@ -42,7 +42,7 @@ In the morning, as she leaves, [[Freya]] leaves a note telling [[Fingers]] she w
 
 [[Rez]], sendings to [[Giary]], "WAIT UNTIL YOU SEE THIS BAR, dolls, owner needs lesson staying on theme, horny old lady, [[The Dollhouse]]." He replies, "On my way".
 
-[[Freya]] goes to get pie with [[Fingers]], at a place called [[Binkies]], turns out pies aren't on the menu, you have to be in the know. It very quickly descends, turns our [[Fingers]] room shares a wall with [[Captain Ligo Krikeav|Ligo]]. [[Fingers]] likes what she hears. She hasn't ever gone there with [[Captain Ligo Krikeav|Ligo]], she thought he only went for warforged, but thinks it makes sense as they so much in common -- both only minutes away from losing it at times. [[Fingers]] says they are deliberate, even if they appear not to be. 
+[[Freya]] goes to get pie with [[Fingers]], at a place called [[Binky's]], turns out pies aren't on the menu, you have to be in the know. It very quickly descends, turns our [[Fingers]] room shares a wall with [[Captain Ligo Krikeav|Ligo]]. [[Fingers]] likes what she hears. She hasn't ever gone there with [[Captain Ligo Krikeav|Ligo]], she thought he only went for warforged, but thinks it makes sense as they so much in common -- both only minutes away from losing it at times. [[Fingers]] says they are deliberate, even if they appear not to be. 
 
 Beyond that, [[Fingers]] has ordered her a 12 mini-pie flight, and they are some of the best of the pies she's ever had. [[Fingers]] says [[Cliff Burbank|Cliff]] and [[Sienna Burbank|Sienna]] have asked them to keep an eye on [[The Unforged Few|Our Party]], and they've heard many things about us -- including who [[Freya]] has slept with. They head back to our house. 3/5 for [[Fingers]].
 
