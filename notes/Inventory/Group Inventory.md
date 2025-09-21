@@ -3,7 +3,7 @@
 ---
 # Group Inventory
 
-### Currency - 2250 pp and 1437 gp
+### Currency - 17,420 gp
 ##### Gems:
 Pearl
 Near flawless [[Elemental Plane of Earth]] diamond - worth 4000gp (Carried by [[Hugh]])
@@ -14,20 +14,20 @@ Topaz  ([[Rez]])
 Bag from [[Teld's Dogs]]: 3 shitty emeralds, a poorly cut diamond, a fine ruby
 4 large sapphires
 2 wings, each has about 40 sapphires
-Bag of gems from the [[Zhakastin Expedition]] and [[Bek]], sapphires worth ~2700gp
+Bag of gems from the [[Zhakastin Expedition]] and [[Bek]], sapphires worth ~2,700gp
 
 ## Potions:
 Healing:
-	Supreme (6000?) - 1, carried by [[Freya]]
-	Superior healing (900) - [[Costi]], [[Adrienne Spout|Adrienne]], [[Rez]]
-	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]]
+	Supreme (6000?) - 
+	Superior healing (900) - [[Costi]]
+	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]], 1 used by [[Costi]] 
 	Regular healing (200) - 
-	? - [[Adrienne Spout|Adrienne]]
 Potion of Darkvision - 1
-Potion of Necrotic Resistance - 5 
-Aid - 1 ([[Hugh]])
+Potion of Necrotic Resistance - 3 (Rez and Finn used) 
+Aid - 1 ([[Hugh|Finn]])
 Lightning Resistance - 2 ([[Hugh|Finn]], [[Rez]])
 Potion of Maximum Power - 1 when you cast a spell that does damage of 4 level or lower, you do max damage, carried by [[Rez]] 
+
 ## Scrolls:
 Silence [[Rez]]
 Detect Thoughts [[Rez]]
@@ -36,10 +36,17 @@ Feather Fall - 1, [[Costi]]
 [[Clarence the Cleaner]]'s card "for a speedy consultation" - held by [[Adrienne Spout|Adrienne]]
 [[Clarence the Cleaner]]'s card "for a business opportunity" - held by [[Adrienne Spout|Adrienne]]
 Gravity Sinkhole [[Costi]]
+Sunburst pendant worth 100gp - [[Costi]] and [[Hugh|Finn]]
+Scroll of Dawn
 
 ### Spell Materials
 Parchment - 5 spell levels ([[Costi]])
 Incense - 350 gold worth
+
+### Teleportation Circles
+[[Suncrest Palace]]
+[[People/Eberron/Burbanks|Burbanks]] Home in [[Jezeten]]
+[[Jezeten]] Duchal Palace
 
 ## Magic Items:
 
@@ -93,7 +100,7 @@ Carried by [[Costi]]
 [[Scales of Chaos]] (A)
 Carried by [[Rez]]
 
-Strand of True Silver
+Strand of True Silver 
 Carried by [[Hugh]]
 
 [[Blue Rose]] from [[Corellon Larethian]] 
@@ -146,7 +153,7 @@ Carried by [[Hugh]]
 Carried by [[Rez]]
 
  [[Boots of Misty Step]], when attuned you can cast misty step twice (A)
- Carried by [[Hugh]]
+ Carried by [[Costi]]
 
 [[Sanctuary Amulet]], resist necro, cast spare the dying BA, 1 per day creature within 60ft react to activate and goes to 1  
 Carried by [[Adrienne Spout|Adrienne]]
@@ -184,6 +191,12 @@ Carried by [[Freya]]
 [[Wolfskull Sage's Ring]]
 Sage's signet: while wearing (a) must be able to cast spells, can casts augury 1 per day and cast two additional spells 1 per day: freedom of movement and pass without a trace
 Carried by [[Adrienne Spout|Adrienne]]
+
+[[Lantern of Revealing]]
+Carried by [[Adrienne Spout|Adrienne]]
+
+Sending Stone to the Burbanks
+Carried by [[Rez]] 
 ## Monster Parts
 
 ### Dragon Scales
@@ -281,6 +294,12 @@ carried by [[Rez]]
     box of rusty screw
     a small heart pillow embroidered with "sorry"
 
+[[Necklace of brass dragonscales]]
+Diamond cream - eighth of an ounce
+- diamond cream with magical properties is a very expensive, specialty item. You'd have to order that special from an enchanter, but no one has any suggestions.
+Chunks of copper ore - 4
+Mithril mix alloy from Dragon Scales Ahhh
+Dragon engraved ring
 ##### Personal
 - Diamond cream - eighth of an ounce
 	- diamond cream with magical properties is a very expensive, specialty item. You'd have to order that special from an enchanter, but no one has any suggestions.
@@ -291,6 +310,7 @@ carried by [[Rez]]
 - Necklace of brass dragonscales, assuming from Neti
 - [[Curator Bell]]
 - Sliver of the silver alloy [[necromantic spikes]]
+- dagger made of copper pieces from [[Divitston Goldstone]]
 
 ### Clothes
 One formal outfit each

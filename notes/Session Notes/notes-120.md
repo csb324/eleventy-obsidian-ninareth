@@ -7,6 +7,8 @@ prev:
 ---
 # Detailed Notes: Session 120
 
+[[notes-119]] 
+
 [[Lukan]] calls out [[Freya]], saying she doesn't need to die with rest of [[The Unforged Few|Our Party]] - she has the makings of one of [[Teld's Dogs]], if she chooses to join them. 
 
 [[Jamzik Zodevzo|Jamzik]] clearly begins the conflict at war with who to side with, leaning towards the [[Teld's Dogs]] but has significant disgust for them.

@@ -48,6 +48,7 @@ A group of undead, believed to be fifty or sixty at least, were lead by a very c
 	* Cover story for the [[Orzudan Prisoner Breakout]]:
 		* [[Sienna Burbank|Sienna]] has been trying a diplomatic approach but believes the attack on the ship was an escalation and response to her work. 
 		* A second, related attack, seems to have happened near where our ship crashed. Some [[Arkhosia]] [[Listeners Party]] members were found there, which would be a worrying sign of increases in tension, though maybe some are acting on their own, or even members of the [[Fire Raisers]].
+* He took a boat here from [[The Tendrils]] because he had to talk to [[No-Karo]]. [[The Burning Sons]] are pretty mad at us, but he doesn't think he's mad at us. He gives each of us a [[Pelor Token]] in case we ever need anything from him. [[Tanim]] is the [[Moradin]] oracle, he's "testy". [[Rhehned]] is the oracle for [[Bahamut]], an old blue dragonborn. These are the only gods he knows of with oracles. They all have watchers, different ones than his. 
 
 ### Baddies (we can only assume)
 * [[Colvia Ghul]]

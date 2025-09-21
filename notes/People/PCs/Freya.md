@@ -2,6 +2,8 @@
 type: PC
 tags:
   - PC
+aliases:
+  - Womanifestation of the Planes
 Race: Firbolg
 Status: alive
 Class:

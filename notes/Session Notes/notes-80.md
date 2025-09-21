@@ -50,7 +50,7 @@ When we make it to [[Niko]], there are two unconscious guards, and he stands at 
 
 We run down towards the catacombs, trying to stop whatever is happening there. The deeper we go, the more signs of struggle we find, but it's also much clearer. The catacombs are famous and seem to be directly below the chamber where the [[Arkhosian Elections]] will take place. 
 
-Rounding a corner, we see about a dozen dead bodies - some guards some [[Fire Raisers]] - and [[Winifey]] killing [[Srictha]]. We cut through them, slowing them from doing as much damage as they could maybe do. As [[Freya]] kills [[Winifey]], she whispers with her undead dying breath, "It's a honor, Synchrona" 
+Rounding a corner, we see about a dozen dead bodies - some guards some [[Fire Raisers]] - and [[Winifey]] killing [[Srictha]]. We cut through them, slowing them from doing as much damage as they could maybe do. As [[Freya]] kills [[Winifey]], she whispers with her undead dying breath, "It's a honor, [[Synchrona]]" 
 
 As we heal, we quickly search them, taking [[Winifey]]'s sword and healing potion. As we search, we can also see her torso is covered in tattoos, including [[Freya's Mysterious Circles]]. We also find a black case on her body, about shoe box sized. It's metal, and has a clasp. [[Freya]] ties her up in case this brings her back, skinning off a patch of her tattoos that include the symbol. [[Jade]] opens the box, which has a thin depression on one side, it's about a foot long and 3 inches wide. [[Jade]] questions her ghost as we go about her box. He says there's a bomb below. 
 

@@ -28,19 +28,19 @@ costi's eyes roll back in his head and he falls from the cieling. He feels himse
 
 He begins moving towards the lights, with the lines underneath getting brighter on each step, a comfortable peace settling over him. Evntually, the steel ends, with a gold bar in front of him, covered in a few risen bumps. Stepping onto the gold platform, he can now see that the lights bracnh into four paths: a purple haze moving and shifting on the far left, a rolling mass of hot red, a soft verdant green that is homey, and on the right most, a sharp deeper black. In between the red and green paths, sits a hunched figure, a 2.5 ft ball of black feather. Sensing [[Costi]], it stands, large taloned feet with human legs, and thick torso covered in feathers, and two long arms holding a huge double bladed axe, ending a beaked head, it stands 14 feet tall
 
-"Samuel", "Hello Costi", where am I?, just having a little breather - good job today, thank you - thanks for the help, it's my job, do you work for someone?, i'm not here to answer any questinos, just here to explain what happens next, oh - what does happen next?, your father made a little bit of a deal - a deal to keep you safe so we've been watching over you for a little while and helped shepard you along your path - but now you're all grown up and it's time for you to make your choice - your father's pact is not yours - you are not to be forced into any decision you do not want to make - if you go down one of these paths, you keep your deal - or you can follow your own (looking back towards the steel) - it's your choice to make, don't bother asking me any questions because I'm not going to tell you - feel free to take a look before you choose because there ain't no unringing this bell
+"[[Samuel]]", "Hello Costi", where am I?, just having a little breather - good job today, thank you - thanks for the help, it's my job, do you work for someone?, i'm not here to answer any questinos, just here to explain what happens next, oh - what does happen next?, your father made a little bit of a deal - a deal to keep you safe so we've been watching over you for a little while and helped shepard you along your path - but now you're all grown up and it's time for you to make your choice - your father's pact is not yours - you are not to be forced into any decision you do not want to make - if you go down one of these paths, you keep your deal - or you can follow your own (looking back towards the steel) - it's your choice to make, don't bother asking me any questions because I'm not going to tell you - feel free to take a look before you choose because there ain't no unringing this bell
 
 he moves to look at the purple, he sees distortions where it's hard for his mind to process, flashes of his childhood frustrated studying, and glimpses of a decade in the future, strong and holding the blade at war
 
-at the red path, heat is overbearing but he's not uncomfortable, looknig down the flames burn and columns of smoke, he sees the Realdas overssers home (who exciled many of his friends) in flames, he sees a cliffside castle falling into the sea
+at the red path, heat is overbearing but he's not uncomfortable, looknig down the flames burn and columns of smoke, he sees the [[Deal 'Ras]] overssers home (who exciled many of his friends) in flames, he sees a cliffside castle falling into the sea - [[ELA]]
 
-the green path first has the light and familiar sound of [[Adrienne Spout|Adrienne]]'s favorite song, deep grass and wildflowers, with ivy covered trellis, flowers scents wafting towards him
+the green path first has the light and familiar sound of [[Adrienne Spout|Adrienne]]'s favorite song, deep grass and wildflowers, with ivy covered trellis, flowers scents wafting towards him - [[Corellon Larethian]]
 
-the black path is simpler, spiraling out, a thick spine with feathery tendrils like it is one long feather, and the sound of wings. 
+the black path is simpler, spiraling out, a thick spine with feathery tendrils like it is one long feather, and the sound of wings.  - [[The Raven Queen]]
 
-strangely, there's another path that [[Samuel]] didn't seem to notice, of straight porcleain, he hears a chuckle and a voice saying "offer is still on the table [[Costi]]"
+strangely, there's another path that [[Samuel]] didn't seem to notice, of straight porcelain, he hears a chuckle and a voice saying "offer is still on the table [[Costi]]" - [[The Curator]]
 
-He asks "if I turn around I cannot come back?" "There's not unringing theis bell, but you leave here with some kind of gift - you gave me too many beetles not to do something for you"
+He asks "if I turn around I cannot come back?" "There's not un-ringing this bell, but you leave here with some kind of gift - you gave me too many beetles not to do something for you"
 
 He moves towards the black path, reaching into his pocket, grabbing a beetle throwing it to [[Samuel]] "I've liked having you around, and this one seems more in line with you, sooo I'll see you on the other side" He lets it fall into his mouth and says "welcome to the family [[Costi]]"
 

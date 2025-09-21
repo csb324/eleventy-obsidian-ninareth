@@ -32,12 +32,30 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 
 [[The Unforged Few|Our Party]] scryed and saw [[Pleetos Alentas]] in [[Narathian Plains]] writing instructions to [[Bhula Orbnose]] in [[Durmask]]. [[Rez]] told her siblings, who went to investigate but it went wrong. [[Zoheret|Zoha]] was killed in an ambush [[Bhula Orbnose]] prepared - they have found a way to use dragonscales to increase their spell power, using scales from [[Nehushta|Neti]]. [[Zmaj]] killed the group, but [[Bhula Orbnose]] escaped. [[Eirian]] says they're planning a counterattack. 
 
+He brings out [[Burru Ilp]]'s notes:
+
+* There were 11 sets of initials in the notes or from conversations with those involved:
+	* B. I. - [[Burru Ilp]] - DEAD 
+	* B. O. - [[Bhula Orbnose]] - [[Durmask]], FLED 
+	* N. V. - [[Nikander Vhegohl]] - [[Jalantar]], CAPTURED 
+	* P. A. - [[Pleetos Alentas]] - [[Thelran Asari]] 
+	* J. T. - [[Jorus]] Tolvint - DEAD 
+	* Y. V. - [[Yhridex]] Vont - [[Durmask]], DEAD 
+	* N. B. - [[Nebrur Sunbreaker]] - [[Thelran Asari]] 
+	* R. D. - [[Raloberos Dewstar]] - [[Nervart]] 
+	* K. G. - [[Kelwin Gambletimble]] - [[Slavaadi College]]
+	* Z. S. - [[Zilbar Saplegople]] - [[Thelran Asari]] 
+	* T. A - [[Tunchon Agira]] - [[Zilvengrod]]
+* There's a place off of [[Yent Lake]], near [[Thelran Asari]] called [[Fenswick Cove]], where they keep sending scales and claws -- a few days SE of the city.
+* They've been able to identify there's latent magic in body parts of a dragon, even once removed. They're augmenting magic with it. This research was led by someone else, perhaps off site
+* [[Kelwin Gambletimble]] and [[Tunchon Agira]] were frequent sources
+
 ## Who's Involved
 
 #### Baddies
 * [[Burru Ilp]] - DEAD
 	* the main trouble maker 
-	* Got  scales grafted onto him by [[Father Thronestone]]
+	* Got scales grafted onto him by [[Father Thronestone]]
 	* Believes he's the blood of [[Galaphanel]]
 		* Convinced his friends they are too
 	* Killed a whole bunch of people trying to graft scales onto them
@@ -58,7 +76,7 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 	* Was in [[Thelran Asari]], seemingly skipped town to [[Durmask]], now in [[Narathian Plains]]
 	* Had brass scales grafted onto him
 	* Seems to be leading this, delegated to [[Bhula Orbnose]]
-* [[Yhridex]] - ?
+* [[Yhridex]] - DEAD?
 	* In the [[Order of the Platinum Dragon]] in  [[Durmask]], in the Saint Goldborn Order
 	* Communicated with [[Jorus]] about ?
 * [[Nikander Vhegohl]]

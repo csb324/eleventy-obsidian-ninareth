@@ -14,7 +14,7 @@ We talk about what we're going to find at the [[Fire Raisers]] hideout, and what
 
 Knowing what we do about [[Niko]], and especially [[Winifey]] and [[Cinder]], we decide that any information we find there might be a fake plant, and to take it with a grain of salt. 
 
-We get back on the road, and travel for about 3 hours, and in the late afternoon we see a broken down stone structure [[Fort Chyvasti]]. A collection of ruins open to the air on the road between [[Jalantar]] and [[Arkhosia (City)]]. The ceilings are blasted open, with large chunks of rock in a several hundred foot radius.  There's a large watchtower that is still standing, dispite holes throughout it's structure. 
+We get back on the road, and travel for about 3 hours, and in the late afternoon we see a broken down stone structure [[Fort Chyvasti]]. A collection of ruins open to the air on the road between [[Jalantar]] and [[Arkhosia (City)]]. The ceilings are blasted open, with large chunks of rock in a several hundred foot radius.  There's a large watchtower that is still standing, despite holes throughout it's structure. 
 
 It used to be a military outpost before cities were consolidated becfore [[The Three Dragons War]], but seems to have been targeted in the attacks and has been ruins ever since. It was the site of a horrific slaughter of more than 700 soliders were burned alive during the [[sundering]]. 
 

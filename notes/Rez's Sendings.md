@@ -48,6 +48,11 @@
 	- Vask... [[Zoheret|Zoha]]. I think we've been wrong, I think we've underestimated all of them. We don't need to be alone. Don't leave your group, okay? 
 		- [[The Silver Halves]] are making a detour to [[Durmask]]. I’ll put bullet in half the city if must. You keep on your mission, though, [[Zmaj]] is right. *(DM: He’s sincere sounding, not being an asshole)*.
 	- “From [[Vask]], where are you Rez this isn’t funny respond right now I’ll be there Rez, Rez, Rez, please, Rez?”
+	- [[Unscaled]]'s notes codebroken!! Headquarters near [[Yent Lake]], [[Fenswick Cove]]?? We'll 5/6 weeks. We should raze it. Can you come? We're killing the [[Duchess v'Dharinov]] tomorrow!
+		-  Ahhh!!!! You’re a little too early, we’ll be in [[Jezeten]] in three weeks! Good luck, and yeah, want a ride to [[Yent Lake]]? Shoot stuff.
+			* [[Vask]] I SO DO. Same scales / same brain.
+	* THE [[Amulet of the Planes]] FROM [[Victoria Several|Victoria]] is a plane shift amulet that's tied to [[The Shadowfell]]l!! We could TOTALLY go see mom! 
+		* Ohhhhhhh cool!!! I miss mom!
 - [[Professor Leonard Klipitz]] -
 	- deal for large quantities of diamonds?
 		- Said yes as long as we have money
@@ -77,6 +82,9 @@
 		- Yes, [[Simin]] and [[Taji]] were with the others yesterday. They won’t leave until after the counterattack, I’ll come to you tonight with more details.
 	- They didn’t get you too, did they? Rez, are you okay? This is a rough time for one of your pranks.
 		- I'm alive!!! I'm with MOM, I'm sorry!! I'm OKAY
+	- [[Unscaled]]'s notes codebroken!! Headquarters near [[Yent Lake]], [[Fenswick Cove]]?? DON'T GO. I'll be there with my people in 5/6 weeks. Look out.
+		- Think you can make it faster? Nervous they’ll leave soon. We’ll loosely scout it out.
+			* Turns out yes! Three weeks? I have SUPER important things going on but I have much more information I’ll tell you with more sendings later
 - [[Taji]] - 
 	- How're you liking your human body? Better love it since you'll be stuck for 100 years! GG's, better luck next game! (oh - hi to kiddos!)
 		- Fuck off, Rez.
@@ -87,6 +95,10 @@
 		- I'll do what I can do. Be patient, my child. Life is long, and we will find her if we can.
 	- BIG NEWS - I'm totally patient but, we're under [[Weirefesteria]]. We think [[Corellon Larethian]] sent us for Adrienne, other gods also sent people? Anchor tree is target? 
 		- That explains a great deal. I'm happy to hear you have this handled, and will assist if I can. Be careful who you trust.
+	- Hiiii!! Guess what we found?? A [[Shard of Maguebliet]]! Some mummy guy had it? We're taking it to the [[Niraani Sisterhood]]. Just seems like something you'd care about, if you want it! Also never mind, I got my person back, she's fine now. Oh ALSO, have you heard from [[Azir DarAxia|Rez's Dad]]?
+		- Disturbing, didn't know mummy with [[Shard of Maguebliet]], but [[Niraani Sisterhood]] should have it. See it safely there. Have [[Zmaj]] investigate, please, and tell [[Li]]. Glad person is fine. No, haven't spoken to [[Rez's Dad|Azir]] in...some time. Unclear how much. Is there reason to be concerned? If so, can investigate further.
+			- I mean, I'm sure he's fine, it's DAD. It's just NO ONE has in a few decades? I want to tell him there's some people targeting us. They killed Neti and Zoha. We're handling that soon though!! And Bahamut maybe needs help? But we're also totally handling that. I think.
+				- Thank **you** for telling me [[Rez]], I appreciate it. This is concerning, and I'll be speaking to the others."
 - [[Kaycee Teapetal|Kaycee]]
 	- Hi Mom!! I found a shard of the shadowfell - tell [[Mr. Blueberry]] hi!! Hope you're killing many things but don't worry things are good here.
 		- You hear a deep, rumbling voice echoing back in your head, "Kaycee's a little busy right now, but I'll be sure to pass the message along."
@@ -113,6 +125,8 @@
 	- [[The Game]] is yours to win. You’ll see my name on the bracelet soon, but I’m fine. Calling in reinforcements. Good luck, sis. 
 	- Rez, what happened? Report back immediately, are you safe? We can send the silvers to you.
 		- I'm alive!!! I'm with MOM, I'm sorry!! I'm OKAY
+	- [[Unscaled]]'s notes codebroken!! Headquarters near [[Yent Lake]], [[Fenswick Cove]]?? We'll 5/6 weeks I'll be there with my people in 5/6 weeks. We should raze it.
+		-  Deal. Let’s drive these fucks into the ground. [[Thelran Asari]] owes us, I’ll meet you there.
 - [[Ravona Silentreed]]
 	- Hi! It's Rez! Are you in [[Dilandil]] still? If so, I have a favor to ask you please (yes, you can tell him it's fine)
 		- I'm so sorry for your loss. [[Zmaj]] left quickly to investigate and said he'd call for us if he needed us. But I can help!
@@ -131,6 +145,13 @@
 		- Wyrmlings are already hidden and protected in [[Quaath]]. [[Kulta]] tracking a lead on [[Rez's Dad]]. [[Bahamut]], aware, but engagement opportunities are limited. Do not be rash, Rez. 
 	- I’m sending agents to your location immediately, don’t move. Respond if you aren’t in danger.
 		- I'm alive!!! I'm with MOM, I'm sorry!! I'm OKAY
+	-  "I FOUND ONE OF [[Tiamat]]'S SCALES. Scumbag in [[Jezeten]], seems defunct? BUT we shouldn't let this be, right?? 97k. [[Vask]] and I kinda... need money?"
+		- "Name and location, please. I'll see to it, we'll handle it subtly."
+			- "Fine. But I get to keep it for a while, FINDER'S KEEPERS. [[Vorpos Glitterdrop]], *address*, in the basement. Go quick, he's in trouble soon."
+				- "Good work."
+	- "It has been taken care of"
+		- "And on the way to my riiiiiight?"
+			- "It will be taken care of in [[Deregheir]]"
 - [[Samson]]
 	- I'm Rez! Welcome!! You know my sister, [[Eirian|E]]! You sound so interesting, I have a bunch of questions but FIRST - can you tell me what you know about [[Freya's Mysterious Letter|Mysterious Circles]] and the guy you found dead? You heard him talk about them? You can tell me whatever you tell her!!! 
 		- Rez, it is SO nice to meet you! I’ve heard so much, YOU sound so interesting. I hope we get to meet soon! Shoot, that’s a lot to unpack. [[Lorvak Nestle]], bookseller in [[Thelran Asari]], looking for something for my daughter and found book with [[Freya's Mysterious Letter|Mysterious Circles]]! Planned a coffee to talk, but he died before. Found his body, seemed murdered.
@@ -153,3 +174,6 @@
 - [[Simin]] -
 	- You just got out, right? We can commiserate over a pint, right? Come on Rez.
 		- I'm alive!!! I'm with MOM, I'm sorry!! I'm OKAY
+- [[Victoria Several|Victoria]]
+	- "Hi! I have a gift for you!! Well, I could buy it and you could help? A BLOOD MAGIC SWORD, Krummyr’s Screaming, in fact. 39,000?"
+		- "Sure, that works. We should come into some money in two days."

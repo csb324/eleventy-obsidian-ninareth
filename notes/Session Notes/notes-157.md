@@ -10,6 +10,8 @@ Name: null
 
 We wake up to find invitations to [[Major Stradvarth Coldseeker]]'s promotion party, at 7pm on [[ELA Day of Action]]. 
 
+We wake up to find invitations to [[Major Stradvarth Coldseeker]]'s promotion party, at 7pm on [[ELA Day of Action]]. 
+
 [[Freya]] pitches her new pie shop, [[Binky's]], to [[Rez]]. She's intrigued and they try to make a dinner reservation but there's any 
 
 [[Hugh|Finn]] pulls [[Rez]] aside for a chat, that's really more like a lecture. He tells [[Rez]] her wrote the letter from [[Trisha]] to test how serious [[Rez]] felt about [[Adrienne Spout|Adrienne]]. He tells [[Rez]] that he can read people, [[Adrienne Spout|Adrienne]] has been hurt before and she has serious feelings. She's not a game, she's a person, and [[Rez]] needs to be more serious than she's been about anything else in her life. [[Rez]] is not receptive, tries to pivot, and when that doesn't work - leaves. 

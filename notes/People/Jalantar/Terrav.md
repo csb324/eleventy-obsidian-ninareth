@@ -21,7 +21,7 @@ Home: Eberron
 <span class="dataview inline-field"><span class="inline-field-key">Location</span><span class="inline-field-value">[[Jalantar]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Home</span><span class="inline-field-value">[[Eberron]]</span></span>
 
-A human young man, approaching 30 with a bit of a limp dark tan skin and dark hair. Appears to be southern [[Eberron]]. 
+A human young man, approaching 30 with a bit of a limp dark tan skin and dark hair. Appears to be from southern [[Eberron]]. 
 
 ### Background
 Says he'd recongize a Grosu anywhere, was in the army and deserted. Found some ELA folks, and about 5 years ago [[Costi's Dad|Vladimir Grosu]] came through and helped trained the encampent there. Struck a friendship, they corresponded for a while. Used to return every 3 or 4 months. Eventually helped teach espionage skills. Camp was raided around two years ago, they all scattered. Is still in touch with him. 
