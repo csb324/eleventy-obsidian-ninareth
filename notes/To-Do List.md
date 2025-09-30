@@ -34,6 +34,7 @@ In [[Thelran Asari]]
  * [[Boulder Makers]] site attack - Headquarters near [[Yent Lake]], [[Fenswick Cove]]?
 	 * [[Zmaj]], [[Eirian]], [[Vask]], [[Zalvaris|Zalv]]
 	 * Refresh page with info
+	 * Send to [[Krarrhec]] on why [[Nikander Vhegohl]] was trying to craft mithril on wyrmling?
  * [[Wayfinder Annual Gathering]]
 	 * Help [[Freya]] on her speech
 	 * Teleport somewhere for her 10th job

@@ -7,7 +7,7 @@ Name: null
 ---
 # Session 167
 
-We walk through town towards [[The Academy in Thelran Asari]]. The city has grown and changed over the last several hundred years, but the Academy remains gorgeous, magically-enhanced campus grounds with sigiled gold and silver walls. There's a huge marble statue of [[Headmistress Seravana]], who died in [[The Second Sundering]].
+We walk through town towards [[The Academy in Thelran Asari]]. The city has grown and changed over the last several hundred years, but the Academy remains gorgeous, magically-enhanced campus grounds with sigiled gold and silver walls. There's a huge marble statue of [[Headmistress Seravana]], who died in [[The Second Sundering]]
 
 [[Samson]] says that where he was from was called [[Home]], because they didn't know anywhere else existed. Turns out it was a bit of a cult in general, and now there are continental powers who are talking about renaming it. Most homelanders will be making their way mainland, as it's gotten pretty bad there. It was a magical utopia for about 17,000 (!!) years, before recorded history. That was happening because they were pulling magic from all the rest of the world. Without all of that magic, things deteriorated quickly after that.
 
@@ -79,7 +79,10 @@ Before bed, [[Hugh|Finn]] sends:
 
 [[Rez]] also sends:
 * [[Zmaj]] - MANDATORY sibling night on the town tomorrow!! Don't be a grump.  Bring [[Zalvaris]] — he needs it. [[Eirian|E]] knows where.
+	* We’ll see. There’s still plenty of work to do, but if things go well I can stop by.
 * [[Zalvaris]] - MANDATORY sibling night on the town tomorrow!! Force [[Zmaj]] to come. We'll wipe the rest of them from existence afterwards.
+	* That sounds perfect, [[Rez]]. A night out with the coppers is exactly what I need right now.
 * [[Vask]] - MANDATORY sibling night on the town tomorrow!! You gotta meet this weird little guy [[Eirian]]'s messing around with. He's working for Aunt [[Gemma]]! 
+	* WAIT REALLY?!? I WANNA ASK HIM LOTS OF QUESTIONS. I’m in.
 
 

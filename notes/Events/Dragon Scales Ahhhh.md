@@ -17,10 +17,10 @@ Affiliation: Rez's Family
 ### What's Happened? 
 [[Father Thronestone]] talked shop with [[Burru Ilp]], and grafted some blue and red scales onto his forearm - bad call since it turns out he's a cultist who loves [[Tiamat]] and [[Galaphanel]], in fact, he thinks he's got [[Galaphanel]]'s blood. [[Burru Ilp]] starts acting strange and has a couple of friends who also say the same thing. Thronestone gave him scales, Burru supplied some more, and now they're forcing the procedure onto others. 
 
-We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Party]] goes to his house, which we decide to call [[The Tiamat House]]. It's covered in pro-[[Tiamat]] and pro-[[Galaphanel]] art, as well as other dragon decor. We kill them all, and steal there plans. Now to make sure this isn't spreading...
+We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Party]] goes to his house, which we decide to call [[The Tiamat House]]. It's covered in pro-[[Tiamat]] and pro-[[Galaphanel]] art, as well as other dragon decor. We kill them all, and steal their plans. Now to make sure this isn't spreading...
 
-### How Has this Spread?
-[[Ghez Yhutl]] got looped in by [[Rez]] and has been investigating the [[Platinum Sanctuary of Jalantar]], learning of [[Jorus]] exchanging letters with [[Yhridex]] from [[Platinum Sanctuary of Durmask]]. [[Pleetos Alentas]] fled to [[Thelran Asari]], where [[Ghez Yhutl]] is now headed believing he's uncovered a front. [[Rez]]'s sister [[Eirian]] is there on the hunt too. 
+### Fuck. It Spread
+[[Ghez Yhutl]] got looped in by [[Rez]] and has been investigating the [[Platinum Sanctuary of Jalantar]], learning of [[Jorus]] exchanging letters with [[Yhridex]] from [[Platinum Sanctuary of Durmask]]. [[Pleetos Alentas]] fled to [[Thelran Asari]], where [[Ghez Yhutl]] is now headed there believing he's uncovered a front. [[Rez]]'s sister [[Eirian]] is there on the hunt too. 
 
 [[Ghez Yhutl]] found a turncoat named [[Nikander Vhegohl]] who was working with others in [[Jalantar]] to graft a strange [[Mithril Alloy]] onto a young blue dragon. They got their material sourced from a blacksmith named [[Clive]]. [[Divitston Goldstone]] and [[Ghez Yhutl]] killed [[Clive]], but it seems [[Nikander Vhegohl]] is still at large. 
 
@@ -30,14 +30,14 @@ We agreed to go take care of it, and keep it a secret. [[The Unforged Few|Our-Pa
 
 [[Eirian]] and [[Ghez Yhutl]] report [[Pleetos Alentas]] escaped [[Thelran Asari]] and made it to [[Durmask]]. Suspicious, as [[Rez's Family]] gets word [[Nehushta]] is killed there. So [[Zmaj]], [[Zoheret|Zoha]], [[Zalvaris|Zalv]], [[Simin]], and [[Taji]] are all on the hunt in [[Durmask]]. [[Hugh|Finn]] scrying revealed [[Pleetos Alentas]] to be on a lake nearby, maybe [[Lake Delente]]? 
 
-[[The Unforged Few|Our Party]] scryed and saw [[Pleetos Alentas]] in [[Narathian Plains]] writing instructions to [[Bhula Orbnose]] in [[Durmask]]. [[Rez]] told her siblings, who went to investigate but it went wrong. [[Zoheret|Zoha]] was killed in an ambush [[Bhula Orbnose]] prepared - they have found a way to use dragonscales to increase their spell power, using scales from [[Nehushta|Neti]]. [[Zmaj]] killed the group, but [[Bhula Orbnose]] escaped. [[Eirian]] says they're planning a counterattack. 
+[[The Unforged Few|Our Party]] scryed and saw [[Pleetos Alentas]] in [[Narathian Plains]] writing instructions to [[Bhula Orbnose]] in [[Durmask]]. [[Rez]] told her siblings, who went to investigate but it went wrong. [[Zoheret|Zoha]] was killed in an ambush [[Bhula Orbnose]] prepared - they have found a way to use dragon body parts to increase their spell power, using scales from [[Nehushta|Neti]]. [[Zmaj]] killed the group, but [[Bhula Orbnose]] escaped. [[Eirian]] says they're planning a counterattack. 
 
 He brings out [[Burru Ilp]]'s notes:
 
 * There were 11 sets of initials in the notes or from conversations with those involved:
 	* B. I. - [[Burru Ilp]] - DEAD 
 	* B. O. - [[Bhula Orbnose]] - [[Durmask]], FLED, may be in [[Thelran Asari]]
-	* N. V. - [[Nikander Vhegohl]] - [[Jalantar]], CAPTURED 
+	* N. V. - [[Nikander Vhegohl]] - [[Jalantar]], DEAD 
 	* P. A. - [[Pleetos Alentas]] - [[Thelran Asari]] 
 	* J. T. - [[Jorus]] Tolvint - DEAD 
 	* Y. V. - [[Yhridex]] Vont - [[Durmask]], DEAD 
@@ -48,10 +48,11 @@ He brings out [[Burru Ilp]]'s notes:
 	* T. A - [[Tunchon Agira]] - [[Zilvengrod]]
 * There's a place off of [[Yent Lake]], near [[Thelran Asari]] called [[Fenswick Cove]], where they keep sending scales and claws -- a few days SE of the city.
 * They've been able to identify there's latent magic in body parts of a dragon, even once removed. They're augmenting magic with it. This research was led by someone else, perhaps off site
+	* Turns out the latent magic within [[Rez's Family]] is enough to slow the transformation back to a boulder into a longer process. This unfortunately has allowed [[Zoheret|Zoha]] and [[Nehushta|Neti]] to be mutilated.
 * [[Kelwin Gambletimble]] and [[Tunchon Agira]] were frequent sources
 
 [[The Game]]
-We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] maybe made it, it's tethered to our life force. We'll have a family meeting about maybe removing the bracelets so [[Rez's Family]] can transform if needed. [[Eirian|E]] maybe isn't sold. 
+We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] maybe made it, it's tethered to our life force. We'll have a family meeting about  removing the bracelets so [[Rez's Family]] can transform if needed. [[Eirian|E]]  isn't sold. 
 
 ## Who's Involved
 
@@ -76,13 +77,13 @@ We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] ma
 	* Told us about the [[Weird Boulder]]
 * [[Pleetos Alentas]] - ?
 	* Potentially supplied dragon scales to [[Burru Ilp]]
-	* Was in [[Thelran Asari]], seemingly skipped town to [[Durmask]], now in [[Narathian Plains]]
+	* Moved around significantly: in [[Thelran Asari]], seemingly skipped town to [[Durmask]], in [[Narathian Plains]]
 	* Had brass scales grafted onto him
 	* Seems to be leading this, delegated to [[Bhula Orbnose]]
 * [[Yhridex]] - DEAD?
 	* In the [[Order of the Platinum Dragon]] in  [[Durmask]], in the Saint Goldborn Order
 	* Communicated with [[Jorus]] about ?
-* [[Nikander Vhegohl]]
+* [[Nikander Vhegohl]] - DEAD
 	* In the [[Order of the Platinum Dragon]] in [[Jalantar]]
 	* Working with others to graft the [[Mithril Alloy]] onto young dragons?
 	* Got materials from [[Clive]]
@@ -104,6 +105,7 @@ We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] ma
 	* Breaking the code on their notes to figure out how far along their work was
 	* Confiscated copper dragon scales being smuggled into [[Jalantar]] with the help of [[Jalantan Guard]]
 	* STILL working on notes - says they'll be done end of the week (the day before we go into the mines) - how can to transmit? Talk to group about a day trip after the mines? 
+	* Codebroke the notes and traveled to share that information with [[Rez]]
 * [[Ghez Yhutl]]
 	* [[Rez]] convinced him to root out corruption in the [[Temple of  Platinum Dragon in Jalantar]] 
 		* "can I interest you in a curious folio?" 
@@ -116,6 +118,7 @@ We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] ma
 		* He's also been traveling with her group, as the've follow [[Pleetos Alentas]], their group almost walked into a trap. [[Ghez Yhutl]] found out that he'd skipped town, and went undercover to learn more - faked doing drugs to be on a bender with them, covered it up and prevented them from being attacked, even discredited [[Pleetos Alentas]] during the process! 
 	* Took the wrap for the murder of [[Clive]] and is now wanted in [[Jalantar]]
 	* Made [[Rez]] the [[Scales of Chaos]] with [[Divitston Goldstone]] from confiscated copper dragon scales
+	* Is now a [[Onyx Scale]] in the [[Order of the Platinum Dragon]] 
 * [[Vask]]
 	* Got [[Victoria Several]] to buy [[The Tiamat House]]
 	* Took the [[Weird Boulder]] 
@@ -125,7 +128,7 @@ We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] ma
 	* Meeting up to manage [[Ghez Yhutl]], thank god.
 	* Warned that [[Pleetos Alentas]] was back in the [[Narathian Plains]]
 * [[Dragonsfire Forge]]
-	* Leadership censored [[Father Thronestone]]
+	* Leadership censured [[Father Thronestone]]
 	* Contacting other followers of [[Moradin]] in [[Thelran Asari]] and [[The Academy in Thelran Asari]] to look for [[Pleetos Alentas]]
 	* Trying to reduce the sale of dragon scales, working with the [[Jalantan Guard]] 
 * [[Divitston Goldstone]]
@@ -152,7 +155,7 @@ We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] ma
 	* [[Wayfinders]] contact, who's in the [[Towers]]
 	* Working with [[Eirian]]
 * [[Zalvaris]] (Zalv)
-	* In [[Durmask]]
+	* In [[Durmask]], now [[Thelran Asari]] 
 * [[Simin]]
 	* In [[Durmask]]
 * [[Taji]]
@@ -186,17 +189,19 @@ We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] ma
 
 ### Where is Everyone?
 * [[Durmask]]
+	* [[Simin]]
+	* [[Taji]]
+* [[Thelran Asari]]
+	* [[Eirian]]
 	* [[Zalvaris|Zalv]]
 	* [[Zmaj]]
 	* [[Vask]]
-	* Simin
-	* Taji
-* [[Thelran Asari]]
-	* [[Eirian]]
 * [[K'falgaard|Kfalgaard]]
 * [[Deregheir]]
 	* [[Lee]]
+* [[Quaath]]
+	* All wyrmlings / younglings 
 * ?
-	* Cordelia
-	* Kansi
-	* Kulta - looking for [[Rez's Dad]] 
+	* [[Cordelia]]
+	* [[Kansi]]
+	* [[Kulta]] - looking for [[Rez's Dad]] 

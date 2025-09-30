@@ -54,6 +54,7 @@
 	* THE [[Amulet of the Planes]] FROM [[Victoria Several|Victoria]] is a plane shift amulet that's tied to [[The Shadowfell]]l!! We could TOTALLY go see mom! 
 		* Ohhhhhhh cool!!! I miss mom!
 	* MANDATORY sibling night on the town tomorrow!! You gotta meet this weird little guy [[Eirian]]'s messing around with. He's working for Aunt [[Gemma]]! 
+		* WAIT REALLY?!? I WANNA ASK HIM LOTS OF QUESTIONS. I’m in.
 - [[Professor Leonard Klipitz]] -
 	- deal for large quantities of diamonds?
 		- Said yes as long as we have money
@@ -131,6 +132,7 @@
 	- [[Unscaled]]'s notes codebroken!! Headquarters near [[Yent Lake]], [[Fenswick Cove]]?? We'll 5/6 weeks I'll be there with my people in 5/6 weeks. We should raze it.
 		-  Deal. Let’s drive these fucks into the ground. [[Thelran Asari]] owes us, I’ll meet you there.
 	- MANDATORY sibling night on the town tomorrow!! Don't be a grump.  Bring [[Zalvaris]] — he needs it. [[Eirian|E]] knows where.
+		- We’ll see. There’s still plenty of work to do, but if things go well I can stop by.
 - [[Ravona Silentreed]]
 	- Hi! It's Rez! Are you in [[Dilandil]] still? If so, I have a favor to ask you please (yes, you can tell him it's fine)
 		- I'm so sorry for your loss. [[Zmaj]] left quickly to investigate and said he'd call for us if he needed us. But I can help!
@@ -183,3 +185,4 @@
 		- "Sure, that works. We should come into some money in two days."
 - [[Zalvaris]]
 	- MANDATORY sibling night on the town tomorrow!! Force [[Zmaj]] to come. We'll wipe the rest of them from existence afterwards.
+		- That sounds perfect, [[Rez]]. A night out with the coppers is exactly what I need right now.
