@@ -65,7 +65,7 @@ Over the next few days, we get our clothes from the [[Winterseekers]], each with
 
 [[Costi]] sends to [[Stulvorth Woolwalker]], "If you have any voting members connections, [[Cliff Burbank|Cliff]] is the best choice", he replies, "Ehmmmmmmmm, we were leaning accelerationism, but no on - you're right. You earned it. 5 more votes".
 
-The day of voting comes, and we now can officially say [[Duke Burbank]]!!!! 
+The day of voting comes, and we now can officially say [[Duke Burbank]]!!!! Or rather, [[Duke v'Luthei]]
 
 [[Hugh|Finn]] sends to [[Dania]], "We heard the good news! Where should we be?", she replies, "tonight, celebrating with just the family. Tomorrow we'll have details, be broadly available" [[Rez]] sends to [[Trisha]], "TRISHA YAYYYYYYY You did it and we did it and now your dad is DUKE!! The BEST feeling is a loooooong scheme that WINS. Celebrate!", she replies, "Thank you, dear, we feel great. We’ll see you tomorrow, come by around 1:00!"
 
@@ -124,7 +124,7 @@ Over the journey, [[Rez]] begins her understand [[Adrienne Spout|Adrienne]] proj
 
 [[Adrienne Spout|Adrienne]] and [[Vask]] have a too tense exchange of insults, [[Freya]] offers to help kill him, [[Costi]] suggests outing him is worse. He tries to apologize with a bottle of wine on her bed later. 
 
-[[Vask]] and [[Rez]] catch up, he asks about [[Adrienne Spout|Adrienne]] - [[Rez]] shares that she's just so interesting. And he should hear her play the harp. But if he asked anything about her, [[Rez]] likely couldn't even answer. She wants to though. They talk a bit about their past experiences, [[Vask]] also like his beautiful enigma of [[Victoria Several|Victoria]], but they haven't even kissed. He thinks his secret is fine from [[The Silver Halves]], he hasn't dropped as many hints and no one has called him on it. They also talk about the difference of spending this much time with mortals. It's different than they both thought it would be. Busier, and more interesting, and very intense and fun. [[Rez]] learns they're in the books about the [[The Zumbinis]].  
+[[Vask]] and [[Rez]] catch up, he asks about [[Adrienne Spout|Adrienne]] - [[Rez]] shares that she's just so *interesting*. And he should hear her play the harp. But if he asked anything about her, [[Rez]] likely couldn't even answer. She wants to though. They talk a bit about their past experiences, [[Vask]] also like his beautiful enigma of [[Victoria Several|Victoria]], but they haven't even kissed. He thinks his secret is fine from [[The Silver Halves]], he hasn't dropped as many hints and no one has called him on it. They also talk about the difference of spending this much time with mortals. It's different than they both thought it would be. Busier, and more interesting, and very intense and fun. [[Rez]] learns they're in the books about the [[The Zumbinis]].  
 
 Both of our parties get together for dinner. [[Magister]] helps give [[Freya]] some information from his past experiences with [[Wayfinder Annual Gathering]]s, there's great panels, huge parties, trainings, and lots of networkings. She's reminded of her speech and it spirals her a little bit.
 

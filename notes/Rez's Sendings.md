@@ -53,6 +53,7 @@
 			* [[Vask]] I SO DO. Same scales / same brain.
 	* THE [[Amulet of the Planes]] FROM [[Victoria Several|Victoria]] is a plane shift amulet that's tied to [[The Shadowfell]]l!! We could TOTALLY go see mom! 
 		* Ohhhhhhh cool!!! I miss mom!
+	* MANDATORY sibling night on the town tomorrow!! You gotta meet this weird little guy [[Eirian]]'s messing around with. He's working for Aunt [[Gemma]]! 
 - [[Professor Leonard Klipitz]] -
 	- deal for large quantities of diamonds?
 		- Said yes as long as we have money
@@ -85,6 +86,8 @@
 	- [[Unscaled]]'s notes codebroken!! Headquarters near [[Yent Lake]], [[Fenswick Cove]]?? DON'T GO. I'll be there with my people in 5/6 weeks. Look out.
 		- Think you can make it faster? Nervous they’ll leave soon. We’ll loosely scout it out.
 			* Turns out yes! Three weeks? I have SUPER important things going on but I have much more information I’ll tell you with more sendings later
+	*  E!!! [[Vask]] and I land tomorrow morning! Should we stay with you?? I'm bringing my people but Vask is leaving his behind. Soooo 6?
+		* Let me see what we have roomwise, but regardless we'll meet you at the Point! I cannot WAIT to see you.
 - [[Taji]] - 
 	- How're you liking your human body? Better love it since you'll be stuck for 100 years! GG's, better luck next game! (oh - hi to kiddos!)
 		- Fuck off, Rez.
@@ -127,6 +130,7 @@
 		- I'm alive!!! I'm with MOM, I'm sorry!! I'm OKAY
 	- [[Unscaled]]'s notes codebroken!! Headquarters near [[Yent Lake]], [[Fenswick Cove]]?? We'll 5/6 weeks I'll be there with my people in 5/6 weeks. We should raze it.
 		-  Deal. Let’s drive these fucks into the ground. [[Thelran Asari]] owes us, I’ll meet you there.
+	- MANDATORY sibling night on the town tomorrow!! Don't be a grump.  Bring [[Zalvaris]] — he needs it. [[Eirian|E]] knows where.
 - [[Ravona Silentreed]]
 	- Hi! It's Rez! Are you in [[Dilandil]] still? If so, I have a favor to ask you please (yes, you can tell him it's fine)
 		- I'm so sorry for your loss. [[Zmaj]] left quickly to investigate and said he'd call for us if he needed us. But I can help!
@@ -177,3 +181,5 @@
 - [[Victoria Several|Victoria]]
 	- "Hi! I have a gift for you!! Well, I could buy it and you could help? A BLOOD MAGIC SWORD, Krummyr’s Screaming, in fact. 39,000?"
 		- "Sure, that works. We should come into some money in two days."
+- [[Zalvaris]]
+	- MANDATORY sibling night on the town tomorrow!! Force [[Zmaj]] to come. We'll wipe the rest of them from existence afterwards.

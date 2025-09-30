@@ -36,7 +36,7 @@ He brings out [[Burru Ilp]]'s notes:
 
 * There were 11 sets of initials in the notes or from conversations with those involved:
 	* B. I. - [[Burru Ilp]] - DEAD 
-	* B. O. - [[Bhula Orbnose]] - [[Durmask]], FLED 
+	* B. O. - [[Bhula Orbnose]] - [[Durmask]], FLED, may be in [[Thelran Asari]]
 	* N. V. - [[Nikander Vhegohl]] - [[Jalantar]], CAPTURED 
 	* P. A. - [[Pleetos Alentas]] - [[Thelran Asari]] 
 	* J. T. - [[Jorus]] Tolvint - DEAD 
@@ -49,6 +49,9 @@ He brings out [[Burru Ilp]]'s notes:
 * There's a place off of [[Yent Lake]], near [[Thelran Asari]] called [[Fenswick Cove]], where they keep sending scales and claws -- a few days SE of the city.
 * They've been able to identify there's latent magic in body parts of a dragon, even once removed. They're augmenting magic with it. This research was led by someone else, perhaps off site
 * [[Kelwin Gambletimble]] and [[Tunchon Agira]] were frequent sources
+
+[[The Game]]
+We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] maybe made it, it's tethered to our life force. We'll have a family meeting about maybe removing the bracelets so [[Rez's Family]] can transform if needed. [[Eirian|E]] maybe isn't sold. 
 
 ## Who's Involved
 
@@ -143,6 +146,7 @@ He brings out [[Burru Ilp]]'s notes:
 	* Was given [[Rez's Report]] on all of this information
 	* Investigating some of the moles in the order
 		* Monitoring [[Nikander Vhegohl]], seized him after attack. Interrogating now, awaiting info
+			* Seems like he didn't know much 
 		* [[Yhridex]] was with [[Bhula Orbnose]], also escaped. 
 * [[Farybar]], (who is not [[F. Arybar]])
 	* [[Wayfinders]] contact, who's in the [[Towers]]

@@ -3,7 +3,7 @@
 ---
 # Group Inventory
 
-### Currency - 17,420 gp
+### Currency - 15,220 gp
 ##### Gems:
 Pearl
 Near flawless [[Elemental Plane of Earth]] diamond - worth 4000gp (Carried by [[Hugh]])
@@ -20,7 +20,7 @@ Bag of gems from the [[Zhakastin Expedition]] and [[Bek]], sapphires worth ~2,70
 Healing:
 	Supreme (6000?) - 
 	Superior healing (900) - [[Costi]]
-	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]], 1 used by [[Costi]] 
+	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]], 1 used by [[Costi]], 1 used by [[Rez]]
 	Regular healing (200) - 
 Potion of Darkvision - 1
 Potion of Necrotic Resistance - 3 (Rez and Finn used) 
@@ -40,7 +40,7 @@ Sunburst pendant worth 100gp - [[Costi]] and [[Hugh|Finn]]
 Scroll of Dawn
 
 ### Spell Materials
-Parchment - 5 spell levels ([[Costi]])
+Parchment - 0([[Costi]])
 Incense - 350 gold worth
 
 ### Teleportation Circles

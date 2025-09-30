@@ -8,23 +8,21 @@ Name: null
 ---
 # Detailed Notes: Session 147
 
-We start to discuss the news, but [[Adrienne Spout|Adrienne]], our voice of reason, says we should probably make camp first. 
+We start to discuss the news (Rez is a DRAGON???), but [[Adrienne Spout|Adrienne]], our voice of reason, says we should probably make camp first. 
 
 freya asks the curator if they've been listening and they answer yes. freya asks if they knew before the last couple of hours and they say yes
 
 [[The Unforged Few|Our Party]] has lots of questions: about [[Rez's Family]] and the [[Order of the Platinum Dragon]], [[The Game]], and [[Rez]]'s time in [[Zalev]]. 
 
-zmaj strode into the irvanhold, demanded an audience with the queen, and demanded assistance, proclaiming himself [[Rez's Dad|Azir]]'s descendant and a dragon. They gave him a small unit, and he's hunting zmaj and li maybe made it, it's tethered to our life force. 
+[[Zmaj]] strode into the [[Irvenhold]], demanded an audience with the queen, and demanded assistance, proclaiming himself [[Rez's Dad|Azir]]'s descendant and a dragon. They gave him a small unit, and he's hunting. We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] maybe made it, it's tethered to our life force. 
 
-E says Zalv is somewhere, needing space. They'll give him some space, then send someone to go find him. 
+[[Eirian]] says [[Zalvaris|Zalv]] is somewhere, needing space. They'll give him some space, then send someone to go find him. She's having a fling with [[Samson]], he's a weird little thing but makes an impact. 
 
-she's having a fling with Samson, he's a weird little thing but makes an impact. 
+The secret island was almost ripped out of time and space, seemed like an [[Alhoon]] - she told him some, he's been trying to research for a few weeks, but it turns out he doesn't read very well. 
 
-the secret island was almost ripped out of time and space, seemed like an alhoon - she told him some, he's been trying to research for a few weeks, but it turns out he doesn't read very well. 
+We make plans to meet for the [[Wayfinder Annual Gathering]]
 
-we make plans to meet for the wayfinder convention 
-
-adrienne and rez go on their watch, adrienne asks about the game, saying how many points charming some one was worth - Rez says that's not part of the game! Rez apologizes for not saving [[Adrienne Spout|Adrienne]] when she had the chance, but adrienne is pretty unbothered, she says bringing her back to life is the kind of crazy idea that has Rez written all over it. Rez says Adrienne flirted with her too, and she didn't have any points to win. Adrienne decides that now that Rez's secret is out, it's not like anything serious could happen, so they might as well have fun. Rez agrees wholeheartedly. But Adrienne is too worried about our party's reactions, so they agree to keep it secret. Rezdrienne official begins. 
+adrienne and rez go on their watch, adrienne asks about the game, saying how many points charming some one was worth - Rez says that's not part of the game! Rez apologizes for not saving [[Adrienne Spout|Adrienne]] when she had the chance, but adrienne is pretty unbothered, she says bringing her back to life is the kind of crazy idea that has Rez written all over it. Rez says Adrienne flirted with her too, and she didn't have any points to win. Adrienne decides that now that Rez's secret is out, it's not like anything serious could happen, so they might as well have fun. Rez agrees wholeheartedly. But Adrienne is too worried about our party's reactions, so they agree to keep it secret. Rezdrienne officially begins. 
 
 In the morning, [[Costi]] identifies the ring we found in the [[Zhakastin Expedition]], it's the [[Wolfskull Sage's Ring]].
 

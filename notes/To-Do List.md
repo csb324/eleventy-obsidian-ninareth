@@ -8,24 +8,45 @@ Owned-by: The Unforged Few
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
 ### Immediate
-In [[Jezeten]]
-* [[Synchrona]]?? Legends Lore, Research, Commune?
+
+Tonight:
+* 
+
+Tomorrow:
+* Gods trips? 
+* Going out with [[Eirian]] 
+* [[Freya]] and [[Samson]] bath tub drinks
+
+2:
+* [[Farybar]] meeting [[Freya]] at [[The Solarian Respite]]
+
+3:
+* [[Boulder Makers]] attack
+
+9:
+* Day trip to [[Nervart]] 
+
+?:
+* [[Wayfinder Annual Gathering]]
 
 ### Short-Term
 In [[Thelran Asari]]
  * [[Boulder Makers]] site attack - Headquarters near [[Yent Lake]], [[Fenswick Cove]]?
 	 * [[Zmaj]], [[Eirian]], [[Vask]], [[Zalvaris|Zalv]]
- *  [[Eirian|E]] has a surprise for [[Rez]] about [[Samson]]
+	 * Refresh page with info
  * [[Wayfinder Annual Gathering]]
- * [[Nadia]] 
+	 * Help [[Freya]] on her speech
+	 * Teleport somewhere for her 10th job
+	 * Refresh info for [[Wayfinders]] 
  * See [[Jamzik Zodevzo|Jamzik]]
- * [[Hugh|Finn]] see his ex
+ * [[Hugh|Finn]] see his ex in [[The Pocket]]
  * Meet up with [[Rawley]], 2 weeks before WAG
  * [[Colvia Ghul]] conversation about [[Synchrona]]
  * [[Niraani Sisterhood]] [[Shard of Maguebliet]] 
  * [[The Academy in Thelran Asari]] 
  * Visit the [[Zumbinis Assless Chapel]] 
  * [[Elena]] tour of the [[The Academy in Thelran Asari]] 
+ * Go to the [[Platinum Sanctuary of Thelran Asari]]
 
 In [[New Fairhaven]]
 * Hail bloodseeker, [[fourteen rue promade]], after nine - [[Freya]]
@@ -38,6 +59,7 @@ In [[New Fairhaven]]
 * [[Salid]], who worked with [[Burston Courtev]] and [[Lance Corporal Jalvena Kharim|Jalvena]] on the flesh-stitched behemoths
 * [[Wyn Elreal]] is traveling south, maybe to [[New Fairhaven]]? Unspecified thus far
 * [[Willow]] maybe? Seems like that's a thing that will happen
+* [[People/Eberron/Burbanks|Burbanks]] are looking into information on [[Freya's Mysterious Circles|Eye of the Everpresent]] and [[Von]]
 
 ### Middle-Term
 * scries
@@ -81,6 +103,7 @@ In [[New Fairhaven]]
 *  Remove [[Marius A]]'s modify memory in a few months
 * Ask [[Rez's Dad|Azir]] about [[Morthos]]
 * [[ELA]]'s role? Mobilize towards other Dukes?
+* Talk to a pretty powerful conjuration wizard who is [[Eirian]]'s recommendation on someone who can help with [[diamond goo]] and operation [[De-Boulder]], [[Grym Wildbranch]]. He's guest lecturing at [[The Slavaadi College]], and will be back in [[The Academy in Thelran Asari]] in a few months
 
 ### To Buy
 * holy water
