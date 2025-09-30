@@ -51,8 +51,20 @@ He brings out [[Burru Ilp]]'s notes:
 	* Turns out the latent magic within [[Rez's Family]] is enough to slow the transformation back to a boulder into a longer process. This unfortunately has allowed [[Zoheret|Zoha]] and [[Nehushta|Neti]] to be mutilated.
 * [[Kelwin Gambletimble]] and [[Tunchon Agira]] were frequent sources
 
-[[The Game]]
+### [[The Game]]
 We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] maybe made it, it's tethered to our life force. We'll have a family meeting about  removing the bracelets so [[Rez's Family]] can transform if needed. [[Eirian|E]]  isn't sold. 
+
+## Counterattack
+
+* [[Zmaj]] has arrived in [[Thelran Asari]], he's helping with tunnels to get into an underground cave near the [[Boulder Makers]]
+* In about 3 days, we'll surround and attack:
+	* [[Eirian|E]]'s crew will draw attention from a back entrance
+	* [[The Unforged Few]] and [[Vask]] will go through the main entrance - we're supposed to be seen coming
+	* [[Zmaj]] and [[Zalvaris|Zalv]] will be behind the tunnels in the main chambers to join us
+* There's between 20 and 50 there
+* [[Bhula Orbnose]] is in [[Thelran Asari]] here now
+* The [[Thelran Asari]] guard will help raid [[Pleetos Alentas]] estate after our attack
+* There's been no info on [[Zilbar Saplegople]] but [[Nebrur Sunbreaker]] is in the [[Frontier]] and involved somehow in sourcing creatures for the Arena
 
 ## Who's Involved
 
