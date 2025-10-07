@@ -89,6 +89,8 @@
 			* Turns out yes! Three weeks? I have SUPER important things going on but I have much more information I’ll tell you with more sendings later
 	*  E!!! [[Vask]] and I land tomorrow morning! Should we stay with you?? I'm bringing my people but Vask is leaving his behind. Soooo 6?
 		* Let me see what we have roomwise, but regardless we'll meet you at the Point! I cannot WAIT to see you.
+	* Hey - have you spent much time at the Platinum Sanctuary here?? Think they've been infested too or are they clear? I'm going today! Unless no?
+		* Since Jalantar, I've stayed away just in case. Figured we'd go back once we knew who to cart out. Assume someone is compromised, at least.
 - [[Taji]] - 
 	- How're you liking your human body? Better love it since you'll be stuck for 100 years! GG's, better luck next game! (oh - hi to kiddos!)
 		- Fuck off, Rez.

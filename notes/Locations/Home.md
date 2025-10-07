@@ -39,3 +39,7 @@ After that, he was laying in bed and saw a woman (read: a devil formerly know as
 An airship expedition has already gone, captained by [[Bigseeker]]. News of [[Home]] is spreading. [[Eirian|E]] knows some from folks from [[Durmask]] and [[Ru'Nileth]] have sent folks too. 
 
 [[Trisha]] has expressed interest in leading an expedition.
+
+
+## NPCs
+{% include 'list-references.html', reference_data: npcs %}

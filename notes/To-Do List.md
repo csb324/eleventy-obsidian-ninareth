@@ -26,12 +26,15 @@ Tomorrow:
 9:
 * Day trip to [[Nervart]] 
 
+In one week:
+* [[Rawley]] arrives
+
 ?:
 * [[Wayfinder Annual Gathering]]
 
 ### Short-Term
 In [[Thelran Asari]]
- * [[Boulder Makers]] site attack - Headquarters near [[Yent Lake]], [[Fenswick Cove]]?
+ * [[Boulder Makers Counterattack]] - Headquarters near [[Yent Lake]], [[Fenswick Cove]]?
 	 * [[Zmaj]], [[Eirian]], [[Vask]], [[Zalvaris|Zalv]]
 	 * Refresh page with info
 	 * Send to [[Krarrhec]] on why [[Nikander Vhegohl]] was trying to craft mithril on wyrmling?
@@ -39,6 +42,8 @@ In [[Thelran Asari]]
 	 * Help [[Freya]] on her speech
 	 * Teleport somewhere for her 10th job
 	 * Refresh info for [[Wayfinders]] 
+	 * Don't trust [[Lirnis Kilzire]] due to his ties to [[Gulsindip Desindever|Superior Desindever]]
+	 * Figure out if [[Skiv]] ties into [[Rawley]] and [[Polaris]] 
  * See [[Jamzik Zodevzo|Jamzik]]
  * [[Hugh|Finn]] see his ex in [[The Pocket]]
  * Meet up with [[Rawley]], 2 weeks before WAG
@@ -48,6 +53,7 @@ In [[Thelran Asari]]
  * Visit the [[Zumbinis Assless Chapel]] 
  * [[Elena]] tour of the [[The Academy in Thelran Asari]] 
  * Go to the [[Platinum Sanctuary of Thelran Asari]]
+ * Talk to the heads of [[Pelor]], [[Bahamut]], [[Corellon Larethian]], and [[Moradin]]. 
 
 In [[New Fairhaven]]
 * Hail bloodseeker, [[fourteen rue promade]], after nine - [[Freya]]

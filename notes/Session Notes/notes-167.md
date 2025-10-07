@@ -13,7 +13,7 @@ We walk through town towards [[The Academy in Thelran Asari]]. The city has grow
 
 [[Freya]] and [[Samson]] share some similarities: restrained upbringing locations, exes, and bathtub liquor. Fast friends!
 
-[[Dragon Scales Ahhhh]] 
+[[Dragon Scales Ahhhh]] and the [[Boulder Makers Counterattack]] 
 * [[Zmaj]] has arrived in [[Thelran Asari]], he's helping with tunnels to get into an underground cave near the [[Boulder Makers]]
 * In about 3 days, we'll surround and attack:
 	* [[Eirian|E]]'s crew will draw attention from a back entrance
