@@ -16,11 +16,12 @@ subsetMatch = (p, property, filename) => {
     }
 }
 
-const onlyPeople = (note) => {
-    if(!note.template.frontMatter.data.tags) {
+const onlyPeople = async (note) => {
+    const t = await note.template.read();
+    if(!t.frontMatter.data.tags) {
         return false;
     }
-    return note.template.frontMatter.data.tags.includes('npc') || note.template.frontMatter.data.tags.includes('PC');
+    return t.frontMatter.data.tags.includes('npc') || t.frontMatter.data.tags.includes('PC');
 }
 
 module.exports = {
