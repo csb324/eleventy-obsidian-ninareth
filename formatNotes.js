@@ -14,8 +14,6 @@ function replaceEmbeds(string) {
     foundEmbeds.forEach((e) => {
       if(e.match(/(\.jpe?g|\.png)/)) {
         const embedName = e.slice(3, -2);
-        console.log(e);
-        console.log(embedName);
         string = string.replace(e, `![](/assets/obsidian/${encodeURI(embedName)})`);
       } else {
         const embedName = e.slice(3, -2);
