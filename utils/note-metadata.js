@@ -18,10 +18,10 @@ subsetMatch = (p, property, filename) => {
 
 const onlyPeople = async (note) => {
     const t = await note.template.read();
-    if(!t.frontMatter.data.tags) {
+    if(!t.data.tags) {
         return false;
     }
-    return t.frontMatter.data.tags.includes('npc') || t.frontMatter.data.tags.includes('PC');
+    return t.data.tags.includes('npc') || t.data.tags.includes('PC');
 }
 
 module.exports = {
@@ -43,10 +43,13 @@ module.exports = {
             const currentFileSlug = data.page.fileSlug;            
             let locations = [];
 
-            locations = notes.filter((note) => {
-                return note.template.frontMatter.data.type == 'location';
-            }).filter((note) => {
-                return subsetMatch(note.template.frontMatter.data, 'Location', currentFileSlug);
+            locations = notes.filter(async (note) => {
+                const t = await note.template.read();
+                return t.data.type == 'location';
+            }).filter(async (note) => {
+                const t = await note.template.read();
+
+                return subsetMatch(t.data, 'Location', currentFileSlug);
             }).map((note) => {
                 return {
                     url: note.url,
@@ -101,8 +104,10 @@ module.exports = {
             const notes = data.collections.notes;            
             const currentFileSlug = data.page.fileSlug;            
             let npcs = [];
-            npcs = notes.filter(onlyPeople).filter((note) => {
-                return subsetMatch(note.template.frontMatter.data, 'Affiliation', currentFileSlug);
+            npcs = notes.filter(onlyPeople).filter(async (note) => {
+                const t = await note.template.read();
+
+                return subsetMatch(t.data, 'Affiliation', currentFileSlug);
             }).map((note) => {
                 return {
                     url: note.url,
@@ -115,11 +120,13 @@ module.exports = {
             const notes = data.collections.notes;
             const currentFileSlug = data.page.fileSlug;
             let npcs = [];
-            npcs = notes.filter(onlyPeople).filter((note) => {
-                const isLocation = subsetMatch(note.template.frontMatter.data, 'Location', currentFileSlug);
-                const isWorkplace = subsetMatch(note.template.frontMatter.data, 'Workplace', currentFileSlug);
-                const isAlmaMater = subsetMatch(note.template.frontMatter.data, 'Alma Mater', currentFileSlug);
-                const isHome = subsetMatch(note.template.frontMatter.data, 'Home', currentFileSlug);
+            npcs = notes.filter(onlyPeople).filter(async (note) => {
+                const t = await note.template.read();
+
+                const isLocation = subsetMatch(t.data, 'Location', currentFileSlug);
+                const isWorkplace = subsetMatch(t.data, 'Workplace', currentFileSlug);
+                const isAlmaMater = subsetMatch(t.data, 'Alma Mater', currentFileSlug);
+                const isHome = subsetMatch(t.data, 'Home', currentFileSlug);
                 return isLocation || isWorkplace || isAlmaMater || isHome;
             })
             .map((note) => {
@@ -136,8 +143,9 @@ module.exports = {
             let backlinks = [];
 
             // Search the other notes for backlinks
-            for(const otherNote of notes) {
-                const noteContent = otherNote.template.frontMatter.content;
+            notes.map(async (otherNote) => {
+                const otherTemp = await otherNote.template.read();
+                const noteContent = otherTemp.content;
                 // Get all links from otherNote
                 const outboundLinks = (noteContent.match(wikilinkRegExp) || [])
                     .map(link => (
@@ -148,7 +156,7 @@ module.exports = {
                             .trim()
                     ));
 
-                const metadata = otherNote.template.frontMatter.data;
+                const metadata = otherTemp.data;
                 if (metadata) {
                     const metaLinks = Object.values(metadata).flat();
                     outboundLinks.concat(metaLinks);
@@ -162,7 +170,7 @@ module.exports = {
                         isSession: (otherNote.data.type == 'session')
                     })
                 }
-            }
+            })
 
             return backlinks;
         },
@@ -176,7 +184,13 @@ module.exports = {
             }
 
             // Search the other notes for backlinks
-            for(const otherNote of sessions) {
+
+            sessions.map(async (otherNotePromise) => {
+                const otherNote = await otherNotePromise; // pretty sure this is an antipattern
+
+                if(!otherNote.data) {
+                    console.log("this note has no data???");
+                }
                 let thatSession = {
                     url: otherNote.url,
                     title: otherNote.data.title,    
@@ -190,7 +204,8 @@ module.exports = {
     
                     backlinks.push(thatSession)    
                 }
-            }
+            })
+
 
             backlinks.sort((a, b) => {
                 return a.index - b.index;
