@@ -66,6 +66,8 @@ We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] ma
 * The [[Thelran Asari]] guard will help raid [[Pleetos Alentas]] estate after our attack
 * There's been no info on [[Zilbar Saplegople]] but [[Nebrur Sunbreaker]] is in the [[Frontier]] and involved somehow in sourcing creatures for the Arena
 
+
+
 ## Who's Involved
 
 #### Baddies
@@ -190,14 +192,16 @@ We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] ma
 * [[Rez]] and [[Vask]] talked about [[Rez's Family]] and their *natural* dragonscales
 	* Let's hope no one learns about this or gets them confused! 
 * No foul play was discovered in the [[Platinum Sanctuary of Arkhosia]] when [[Rez]] investigated
-* [[Krarrhec]] seized [[Nikander Vhegohl]], and is interrogating him now. [[Yhridex]] was with [[Bhula Orbnose]], also escaped.
+* [[Krarrhec]] seized [[Nikander Vhegohl]], and interrogated him. [[Yhridex]] was with [[Bhula Orbnose]], also escaped.
 * [[Li]] says it's been hard to communicate with [[Bahamut]]. Is that normal? 
 
 ### RIP
 * [[Zoheret]] (Zoha)
 	* Killed by a group with [[Bhula Orbnose]] in [[Durmask]]
+	* [[Zoheret|Zoha]]'s boulder was saved, and is in [[Durmask]]
 * [[Nehushta]] ([[Nehushta|Neti]])
 	* Killed by unknowns in [[K'falgaard|Kfalgaard]]
+	* [[Nehushta|Neti]]'s boulder was shattered.
 
 ### Where is Everyone?
 * [[Durmask]]

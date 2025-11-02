@@ -5,6 +5,7 @@ up:
 prev: notes-167
 Name: null
 ---
+
 # Session 168
 
 Before bed, we talk more about [[Gulsindip Desindever|Superior Desindever]], his untrustworthiness from our code breaking of [[Kith and Kin]], and remember [[Skiv]], her ties to [[Rawley]] and [[Polaris]] and her unspecified feud with [[Gulsindip Desindever|Superior Desindever]], that caused her to leave the [[Wayfinders]].
@@ -41,7 +42,7 @@ After 15 minutes of waiting (in which the reassuring touch of [[Rez]] causes mor
 
 After a few hours of quiet time tending the hearth, [[Costi]] and [[Hugh|Finn]] head down towards [[Mombant Park]] to the [[Cemetery of Thelran Asari]] where there's a small chapel to [[The Raven Queen]]. [[Samuel]] asks [[Costi]] if he can do something, and in getting permission guides him into borrowing knowledge to understand thieves cant.
 
-They approach a bandshell, with unlit black candles throughout, and a feather pattern in cut black stone along the walls. [[Costi]] sits to meditate, lighting one of the candles. Hearing nothing, he tries to ask [[Samuel]] for more advice beyond "listen", but doesn't get much back. He turns inward to try to listen of [[The Raven Queen]]'s presence in this site. [[Costi]] is hit by a compulsion to move, and in wandering through the graves bumps into a young woman. He uses his thieves cant to say "I don't know what I'm doing". She uses the tail end of their conversation to reply "He sent me, you're not alone here", rubbing her thumb over a black hilted knife at her belt. Checking his pocket, [[Costi]] finds a note saying "[[Sorni Gomadril]] and an address in [[West Shore]]"
+They approach a bandshell, with unlit black candles throughout, and a feather pattern in cut black stone along the walls. [[Costi]] sits to meditate, lighting one of the candles. Hearing nothing, he tries to ask [[Samuel]] for more advice beyond "listen", but doesn't get much back. He turns inward to try to listen of [[The Raven Queen]]'s presence in this site. [[Costi]] is hit by a compulsion to move, and in wandering through the graves bumps into a young woman. He uses his thieves cant to say "I don't know what I'm doing". She uses the tail end of their conversation to reply "He sent me, you're not alone here", rubbing her thumb over a black hilted knife at her belt. Checking his pocket, [[Costi]] finds a note saying "[[Sorni Gomadril]] and an address in [[East Shore]]"
 
 On the way back to [[The Unforged Few|Our Party]]:
 * [[Costi]] sends to [[Costi's mom|Sonia Grosu]], "Finally learned this stupid spell. Always seemed like lots of magic for few words. Met with [[Nadia]]. She's good! Miss you and Dad", she replies, "Oh good, I’m glad we can finally talk just us. Good! Give her our love, we miss you too."

@@ -19,5 +19,7 @@ Home: Ru'Nileth
 Brother to [[Adrienne Spout|Adrienne]]
 3rd of 4 siblings.
 
+He got a job! 
+
 Mother: [[Raina Spout]]
 Father: [[Branton Spout]]

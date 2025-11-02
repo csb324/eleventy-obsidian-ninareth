@@ -41,7 +41,7 @@ Scry on [[Ronan]]: Smiling and happy, well dressed, jewelry, sitting around a fi
 
 We talk about how to communicate to [[Elena]] that she should target the forces that in their backyard, the [[Eberronian First Division]] and avoid more the [[People/Eberron/Burbanks|Burbanks]] [[Eberronian Second Division]]. [[Costi]] goes to talk to his mom at [[AVAD]].
 
-[[Rez]], [[Freya]], and [[Adrienne Spout|Adrienne]] go shopping to get the recommended gear list for [[Who's Undead is That]] and the [[Turian Waste]]. 
+[[Rez]], [[Freya]], and [[Adrienne Spout|Adrienne]] go shopping to get the recommended gear list for [[Whose Undead is That]] and the [[Turian Waste]]. 
 
 [[Costi]] and [[Hugh|Finn]] go to [[AVAD]] to speak with [[Costi's mom]] (he's ask for a scroll of sunbeam if she can help provide it) and meet his mage-pong coach [[Professor Vried Anglesmet]]. Interestingly, it seems like the mood has soured on [[Costi]]'s reputation. But his mood is lifted by a surprise party of his former teammates - there's cake and they play a few games. [[Rulyania Bvok]], who's two years younger than [[Costi]], follows him around - she was the first girl he ever turned down.   
 
