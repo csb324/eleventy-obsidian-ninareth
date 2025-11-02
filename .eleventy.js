@@ -1,3 +1,6 @@
+/**
+ * @param {import("@11ty/eleventy").UserConfig} eleventyConfig
+ */
 module.exports = function(eleventyConfig) {
     const markdownIt = require('markdown-it');
     const markdownItOptions = {
@@ -7,7 +10,6 @@ module.exports = function(eleventyConfig) {
     };
 
     const knownFileNames = {};
-
 
     eleventyConfig.addFilter("getRandom", function(items, filterTag) {
         let possible = [...items];  
@@ -25,9 +27,10 @@ module.exports = function(eleventyConfig) {
             const aIndex = parseInt(a.fileSlug.split("-")[1]);
             const bIndex = parseInt(b.fileSlug.split("-")[1]);            
             return bIndex - aIndex;
-        }).filter((s) => s.data.type == "session").map((sesh) => {
-            const markdown = sesh.template.inputContent;
+        }).filter((s) => s.data.type == "session").map(async (sesh) => {
+            const markdown = await sesh.template.inputContent;
             const searchFor = /# session \d+.*$/gmi;
+
             const result = markdown.match(searchFor);
             const cuteTitle = sesh.Name;
             if(result) {
@@ -50,8 +53,8 @@ module.exports = function(eleventyConfig) {
             const aIndex = parseInt(a.fileSlug.split("-")[1]);
             const bIndex = parseInt(b.fileSlug.split("-")[1]);            
             return bIndex - aIndex;
-        }).filter((s) => s.data.type == "detailed-notes").map((sesh) => {
-            const markdown = sesh.template.inputContent;
+        }).filter((s) => s.data.type == "detailed-notes").map(async (sesh) => {
+            const markdown = await sesh.template.inputContent;
             const searchFor = /# session \d+.*$/gmi;
             const result = markdown.match(searchFor);
             const cuteTitle = sesh.data.Name;
@@ -73,8 +76,9 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addCollection("notes", function (collection) {
         const c =  collection.getFilteredByGlob(["notes/**/*.md", "index.md"])
-            .filter((item) => {
-                return !item.template.frontMatter.data.private;
+            .filter(async (item) => {
+                const template = await item.template.read();
+                return !template.data.private
             });
 
         c.forEach((note) => {

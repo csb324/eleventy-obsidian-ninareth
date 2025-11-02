@@ -1,7 +1,7 @@
 {
   "name": "eleventy-garden",
   "version": "1.0.0",
-  "description": "A starter site for building a mind garden in eleventy.",
+  "description": "The world of Ninarith, online",
   "scripts": {
     "fetch": "node ./formatNotes.js",
     "build:css": "postcss styles/main.css -o assets/style.css",
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/binyamin/eleventy-garden#readme",
   "devDependencies": {
-    "@11ty/eleventy": "1.0.0-beta.7",
+    "@11ty/eleventy": "^3.1.2",
     "autoprefixer": "^10.4.0",
     "chokidar": "^3.5.2",
     "chokidar-cli": "^3.0.0",
