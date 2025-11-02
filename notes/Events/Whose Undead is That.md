@@ -10,10 +10,12 @@ Affiliation:
   - Eberronian Second Division
 Related-to: A Murder of Dukes
 ---
-# Who's Undead is That?
+# Whose Undead is That?
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Military]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Eberronian Second Division]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Related to</span><span class="inline-field-value">[[A Murder of Dukes]]</span></span>
+
+> Ok I’m not saying it was Rez’s mom’s FAULT but she was definitely INVOLVED. - Clara 
 
 ### What We've Been Told
 About 6 months ago [[Gu’athrithen]] complained that undead have been spotted along the southern border of [[Turian Waste]]. They allege [[Eberron]] has been sending them intentionally to do damage and harm, but [[Eberron]] claims they did not send them. 
@@ -45,6 +47,8 @@ Our starting point would be going to where the last undead were found. If we can
 ### Baddies (we can only assume)
 * [[Colvia Ghul]]
 	* Apparently has spent a lot of time in [[Turian Waste]]. Why??
+* [[Kaycee Teapetal|Kaycee]]
+	* It turns out, has been opening portals to the shadowfell all over the place 
 
 ### Other Players
 * [[Gu’athrithen]]
@@ -52,3 +56,4 @@ Our starting point would be going to where the last undead were found. If we can
 	* The blue draconics that attacked the [[People/Eberron/Burbanks|Burbanks]] airship were able to get some papers, schematics of some of the border facilities on the desk.
 * [[Deregheir]] 
 	* [[Lee]] is [[Rez]]'s brother and lives there. He said not to get involved, but when does [[Rez]] ever listen to him anyways?
+

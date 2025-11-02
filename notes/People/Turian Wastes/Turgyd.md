@@ -17,7 +17,7 @@ Pronouns: " He/Him"
 <span class="dataview inline-field"><span class="inline-field-key">Affiliation</span><span class="inline-field-value">[[Oghma]]</span></span>
 <span class="dataview inline-field"><span class="inline-field-key">Pronouns</span><span class="inline-field-value"> He/Him</span></span>
 
-Strange little coward we met in the [[Zhakastin Expedition]] in the [[Turian Waste]] who survived [[Who's Undead is That?]] by hiding. Helped us learn about some secret weapons caches, holds no loyalty to his home of [[Gu’athrithen]]. 
+Strange little coward we met in the [[Zhakastin Expedition]] in the [[Turian Waste]] who survived [[Whose Undead is That]] by hiding. Helped us learn about some secret weapons caches, holds no loyalty to his home of [[Gu’athrithen]]. 
 
 Worships [[Oghma]]
 

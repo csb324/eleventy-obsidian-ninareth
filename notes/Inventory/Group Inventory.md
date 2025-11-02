@@ -3,10 +3,10 @@
 ---
 # Group Inventory
 
-### Currency - 15,220 gp
+### Currency - 12,120 gp
 ##### Gems:
 Pearl
-Near flawless [[Elemental Plane of Earth]] diamond - worth 4000gp (Carried by [[Hugh]])
+Near flawless [[Elemental Plane of Earth]] diamond - worth 4,000gp (Carried by [[Hugh]])
 diamond ring - 3's revivify's worth (900gp worth)
 diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~800gp
 diamonds - 900gp worth
@@ -19,7 +19,7 @@ Bag of gems from the [[Zhakastin Expedition]] and [[Bek]], sapphires worth ~2,70
 ## Potions:
 Healing:
 	Supreme (6000?) - 
-	Superior healing (900) - [[Costi]]
+	Superior healing (900) - [[Costi]], [[Hugh|Finn]], [[Freya]], [[Adrienne Spout|Adrienne]], [[Rez]]
 	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]], 1 used by [[Costi]], 1 used by [[Rez]]
 	Regular healing (200) - 
 Potion of Darkvision - 1
@@ -38,6 +38,7 @@ Feather Fall - 1, [[Costi]]
 Gravity Sinkhole [[Costi]]
 Sunburst pendant worth 100gp - [[Costi]] and [[Hugh|Finn]]
 Scroll of Dawn
+Scrolls of disguise self [[Rez]] and [[Costi]]
 
 ### Spell Materials
 Parchment - 0([[Costi]])
@@ -83,7 +84,7 @@ Carried by [[Hugh]]
 [[Blow Em]] (AKA Blowie)
 Carried by [[Freya]]
 
-[[Claw Tattoos]] (A)
+[[Claw Tattoo]] (A)
 Carried by [[Freya]]
 
 [[Nourishing Loafs]]

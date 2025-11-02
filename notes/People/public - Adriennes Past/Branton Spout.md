@@ -18,3 +18,4 @@ Home: Ru'Nileth
 
 Father to [[Adrienne Spout]]. In debt -- a debt that has been purchased by [[Julian Slater-Runehorn]]. 
 
+Has a gambling problem, and makes it everyone's problem.

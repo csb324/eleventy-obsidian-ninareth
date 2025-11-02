@@ -55,6 +55,8 @@
 		* Ohhhhhhh cool!!! I miss mom!
 	* MANDATORY sibling night on the town tomorrow!! You gotta meet this weird little guy [[Eirian]]'s messing around with. He's working for Aunt [[Gemma]]! 
 		* WAIT REALLY?!? I WANNA ASK HIM LOTS OF QUESTIONS. I’m in.
+	* You know, I was thinking... [[E]] could REALLY use some help redecorating. If you have time on your way, want to bring some copper paint? :)
+		* Sure! I’ll ask Pikpak to go.
 - [[Professor Leonard Klipitz]] -
 	- deal for large quantities of diamonds?
 		- Said yes as long as we have money

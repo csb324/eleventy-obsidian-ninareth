@@ -5,6 +5,8 @@ tags:
 aliases:
   - Igolide
   - Casimir
+  - Goldilocks
+  - Goldy
 Status: alive
 Relationship: neutral
 Affiliation:
