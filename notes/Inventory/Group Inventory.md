@@ -5,7 +5,7 @@
 
 ### Currency - 12,120 gp
 ##### Gems:
-Pearl
+Pearl - 1
 Near flawless [[Elemental Plane of Earth]] diamond - worth 4,000gp (Carried by [[Hugh]])
 diamond ring - 3's revivify's worth (900gp worth)
 diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~800gp
@@ -19,8 +19,8 @@ Bag of gems from the [[Zhakastin Expedition]] and [[Bek]], sapphires worth ~2,70
 ## Potions:
 Healing:
 	Supreme (6000?) - 
-	Superior healing (900) - [[Costi]], [[Hugh|Finn]], [[Freya]], [[Adrienne Spout|Adrienne]], [[Rez]]
-	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]], 1 used by [[Costi]], 1 used by [[Rez]]
+	Superior healing (900) - [[Costi]], [[Hugh|Finn]], [[Adrienne Spout|Adrienne]], 
+	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]], 1 used by [[Costi]], 2 used by [[Rez]]
 	Regular healing (200) - 
 Potion of Darkvision - 1
 Potion of Necrotic Resistance - 3 (Rez and Finn used) 
@@ -32,7 +32,6 @@ Potion of Maximum Power - 1 when you cast a spell that does damage of 4 level or
 Silence [[Rez]]
 Detect Thoughts [[Rez]]
 Counterspell [[Adrienne Spout|Adrienne]]
-Feather Fall - 1, [[Costi]]
 [[Clarence the Cleaner]]'s card "for a speedy consultation" - held by [[Adrienne Spout|Adrienne]]
 [[Clarence the Cleaner]]'s card "for a business opportunity" - held by [[Adrienne Spout|Adrienne]]
 Gravity Sinkhole [[Costi]]

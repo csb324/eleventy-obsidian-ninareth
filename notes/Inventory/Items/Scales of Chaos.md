@@ -49,7 +49,7 @@ You can use these points as if they were normal sorcery points. The Scales can h
 	* 4 - Flame Strike CENTERED ON ME "Oops"
 	* 6 - dimension door, with one unknown creature 
 	* 8 - polymorph myself and people near me, I get wings with fly speed 40ft. get action anew, but I am that animal
-	* 9 - *know in advance* I would get a huge burst of magical energy
+	* 9 - *know in advance* I would get a huge burst of magical energy, 4 spell slot levels, can then immediately cast a spell, free 2 sp
 * 3 points
 	* 6 - Dimension door, designate one creature to come with me
 	* 8 - I turn into a beast of my choice no flying/speed and one other creature within 60 ft of DMs choice turns into something else WITH a flying/speed

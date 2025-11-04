@@ -61,7 +61,7 @@ We share the various lore we all received. Then head back to the [[The Silver To
 
 [[Hugh|Finn]] spends some time with [[Zmaj]], bringing him a cup of tea. [[Zmaj]] asks for his help reading the ground and the maps. [[Hugh|Finn]] is naturally helpful, but also is able to tell he's getting a task to help with anxiety, but [[Zmaj]] also needs some connection himself. [[Zmaj]] offers to scry on [[Bhula Orbnose]] tonight, and ask [[Hugh|Finn]] to try on a sketch on a dwarf (her too). 
 
-[[Adrienne Spout|Adrienne]] goes to find [[Eirian]]. That bitch definitely trails down her side. They talk magical musical shop, and [[Eirian|E]] tries to show her how to use the mage hand - also showing off her flute from a friend of [[Aedara Alinar|Auntie A]]. Over the course of the two hours they talk, [[Adrienne Spout|Adrienne]] notes that [[Eirian|E]] has been paying extra intentional attention to her. She changes her mind from thinking she's being made fun of, it's clear she thinks a lot of [[Adrienne Spout|Adrienne]]. They have a moment of game recognizing game, though [[Eirian|E]] take steps slightly too far, kissing [[Adrienne Spout|Adrienne]] on the cheek with just enough intention. 
+[[Adrienne Spout|Adrienne]] goes to find [[Eirian]]. That bitch definitely trails a hand down her side. They talk magical musical shop, and [[Eirian|E]] tries to show her how to use the mage hand - also showing off her flute from a friend of [[Aedara Alinar|Auntie A]]. Over the course of the two hours they talk, [[Adrienne Spout|Adrienne]] notes that [[Eirian|E]] has been paying extra intentional attention to her. She changes her mind from thinking she's being made fun of, it's clear she thinks a lot of [[Adrienne Spout|Adrienne]]. They have a moment of game recognizing game, though [[Eirian|E]] take steps slightly too far, kissing [[Adrienne Spout|Adrienne]] on the cheek with just enough intention. 
 
 [[Costi]] finds some disguise self scrolls, with the help of [[Rez]]. Then, he goes to find [[Zalvaris|Zalv]] for info on [[Synchrona]]. He spent a few decades in the Eastern [[Ragndaar Mountains]]. [[Costi]] thinks both this could be real and true, even likely, but it's still wildly unhelpful. The most noteworthy thing is that it's tied to either cloud or storm giant. 
 
@@ -69,7 +69,7 @@ We share the various lore we all received. Then head back to the [[The Silver To
 
 [[Hugh|Finn]] sends to [[Dania]], "How was your day? I’ve felt a little down….? Over the last few days. wish we could talk for more than 25 words. It would help", she replies, "I'm sorry, Finn. My day was nice, we negotiated an excellent trade deal with [[Nervart]]. I would like to speak at greater length, as well."
 
-That evening, when we're all together, [[Freya]] gets her revenge shot, perferctly nailing his left butt cheek. He threatens her with a bullet to hold onto for future placement in her chest. She eats it. Told ya.
+That evening, when we're all together, [[Freya]] gets her revenge shot on [[Vask]], perfectly nailing his left butt cheek. He threatens her with a bullet to hold onto for future placement in her chest. She eats it. Told ya.
 
 [[Zmaj]] and [[Hugh|Finn]] both scry on [[Bhula Orbnose]], doesn't work for [[Hugh|Finn]], nor on [[Pleetos Alentas]]. 
 
@@ -82,5 +82,7 @@ That evening, when we're all together, [[Freya]] gets her revenge shot, perferct
 [[Adrienne Spout|Adrienne]] messages to [[Rez]] "You're not going to die tomorrow", "No one is. Right?" "Right. No one is, not if we can help it."
 
 Late night anxiety brings [[Rez]] to [[Adrienne Spout|Adrienne]]'s door, saying "we don't have to be roommates... but tonight can I just stay?" She relents.
+
+[[Hugh|Finn]] casts word of recall at [[The Silver Tongue]] so we can escape there if needed.
 
 We wake up and head to the [[Captain's Wharf]]. 

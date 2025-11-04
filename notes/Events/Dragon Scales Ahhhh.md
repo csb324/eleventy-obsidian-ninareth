@@ -58,15 +58,22 @@ We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] ma
 
 * [[Zmaj]] has arrived in [[Thelran Asari]], he's helping with tunnels to get into an underground cave near the [[Boulder Makers]]
 * In about 3 days, we'll surround and attack:
-	* [[Eirian|E]]'s crew will draw attention from a back entrance
+	* [[Eirian|E]]'s crew ([[Ghez Yhutl]], [[Samson]], [[Ferdinand]], and [[Melnir]]) will draw attention from a back entrance
 	* [[The Unforged Few]] and [[Vask]] will go through the main entrance - we're supposed to be seen coming
 	* [[Zmaj]] and [[Zalvaris|Zalv]] will be behind the tunnels in the main chambers to join us
 * There's between 20 and 50 there
 * [[Bhula Orbnose]] is in [[Thelran Asari]] here now
 * The [[Thelran Asari]] guard will help raid [[Pleetos Alentas]] estate after our attack
 * There's been no info on [[Zilbar Saplegople]] but [[Nebrur Sunbreaker]] is in the [[Frontier]] and involved somehow in sourcing creatures for the Arena
+* Tomorrow, [[Eirian|E]], [[Vask]], and [[Rez]] will take our people on a boat to [[Fenswick Cove]], about an hour and a half. We should meet at the [[Captain's Wharf]]. We will be seen approaching but that is part of the plan. [[Zmaj]] and [[Zalvaris|Zalv]] will sneak by land undetected. 
+* [[Vask]] and [[Eirian|E]]'s group will go into the tunnels that lead to a store room. After the main room there's a few chambers that takes a lift down to the main area. They'll go into the storerooms and attack from behind with more resistance. They'll attack first and try to stay there.
+* [[The Unforged Few|Our Party]] will go through the front directly into the main chamber. [[Zmaj]] and [[Zalvaris|Zalv]] will join us there. 
 
-
+### What Fucked Up Shit They're Doing
+* They use our bodies to make themselves stronger, [[Bhula Orbnose]] has a necklace will several scales, one will glow with each casting and it makes the magic stronger. Chromatics and metallics parts alike.
+* They have counterspell, even from non-casters. They know [[Bhula Orbnose]] was seen there, [[Pleetos Alentas]] may be, along with [[Nebrur Sunbreaker]] and [[Zilbar Saplegople]]. We want to take at least a few alive. There's at least 40, but up to 150 could be there. 
+*   [[Zmaj]] has spoken with the [[Platinum Sanctuary of Thelran Asari]], they're conducting an investigation but at least a few there know of our situation. They're given us some materials, 300gp each.
+* They're not sure how they're keeping some dragons in their forms. 
 
 ## Who's Involved
 
