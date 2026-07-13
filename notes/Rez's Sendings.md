@@ -93,6 +93,10 @@
 		* Let me see what we have roomwise, but regardless we'll meet you at the Point! I cannot WAIT to see you.
 	* Hey - have you spent much time at the Platinum Sanctuary here?? Think they've been infested too or are they clear? I'm going today! Unless no?
 		* Since Jalantar, I've stayed away just in case. Figured we'd go back once we knew who to cart out. Assume someone is compromised, at least.
+	* Soo, couple of slaad just attacked the Songside. Green got away. We probably need some clerics and guards and disease removals like now? Tell someone?". We tell the guards, including our new boy [[Ambrose]], who gets to work. 
+		Um. Yeah, could have gone straight to the sanctuary with this one, Rez. We're on it though.
+			You're the goody two shoes who reports to the Council, Sis! But don't worry, I got it - don't loop in E. Message received! 🙂
+				In a crisis, you have my formal permission to go to the people who can ACTUALLY solve a problem first.
 - [[Taji]] - 
 	- How're you liking your human body? Better love it since you'll be stuck for 100 years! GG's, better luck next game! (oh - hi to kiddos!)
 		- Fuck off, Rez.
@@ -137,6 +141,8 @@
 		-  Deal. Let’s drive these fucks into the ground. [[Thelran Asari]] owes us, I’ll meet you there.
 	- MANDATORY sibling night on the town tomorrow!! Don't be a grump.  Bring [[Zalvaris]] — he needs it. [[Eirian|E]] knows where.
 		- We’ll see. There’s still plenty of work to do, but if things go well I can stop by.
+	- Miss me?? How's things? Going to Nervart - will NOT be seeking out fuckers, but just in CASE there's anything I should know (is there anything I should know?) Also - can you check in on Adrienne's family for me? I just want to know they're okay. Did you give her letter?
+		- If you are able to determine any of Dewstar’s associates WITHOUT making a spectacle of yourself, it could be helpful. We are keeping our heads down. Yes, I passed letter along. I can confirm it was received, but have not been given a response. I’d wanted to know more before saying anything. 
 - [[Ravona Silentreed]]
 	- Hi! It's Rez! Are you in [[Dilandil]] still? If so, I have a favor to ask you please (yes, you can tell him it's fine)
 		- I'm so sorry for your loss. [[Zmaj]] left quickly to investigate and said he'd call for us if he needed us. But I can help!

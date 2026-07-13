@@ -10,7 +10,7 @@ prev:
 
 We begin by fighting - the leader wants to target [[Costi]] seemingly due to his connection to the [[The Raven Queen]]. [[Costi]] sees behind the veil and sees a skeletal figure that is interfering with our magic. 
 
-vine out of mouth, watcher came out of portal, when skeleton came out of portal - who speak in elvish
+vine out of mouth, [[Watcher]] came out of portal, when skeleton came out of portal - who speak in elvish
 
 [[Willow]]'s voice churns like rocks are in his throat and says "below the depths, roots of oldest anchor, aching, leaking, empty, bled for power" then later "the (four, form, sword, void, ford, forge) **touches** **together**/to gather, patch, **mend the tear** / mend them there, and set things right,  **anew no worse for wear** / numbers for where/ forbear" "when time is right, worlds align, veils are thin, strings will sing, and what will rise fights again".
 

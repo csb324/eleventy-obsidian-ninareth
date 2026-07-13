@@ -15,4 +15,4 @@ Status: Ongoing
 * [[Freya's Mysterious Circles]] may represent overlapping planes
 * We've seen two augmented giants: sylvan with a twig inside it, and a half-undead with the green vial
 * There was a portal to  [[The Shadowfell]] in the [[Turian Waste]] near the [[Zhakastin Expedition]]. It turns out, that was [[Mr. Blueberry]]’s skylight. [[Kaycee Teapetal|Kaycee]] put it there, with a sword called “Planesrender”. (Rez convinced her to move the portal but uhhhhh)
-* 
+* [[Plane of Fire]] tie in? artificer book from [[Colvia Ghul]], weapons from the giant [[G.T.]], [[Cinder]] being there, and the [[Fire Raisers]] opening a portal, [[Loombrace Cenacle]] 

@@ -17,7 +17,7 @@ Tricia: "Understood. Stay where you are, in twenty minutes you’ll feel a sligh
 Costi: "Should we go back and destroy further evidence of our presence?"
 Tricia: "I recommend you stay exactly where you are and do exactly what the experts say."
 
-Two people walk out of a tree towards us. First is a stocky dwarf ([[Clarence the Cleaner]]), thin white beard, gold braids, ill-fitting armor. Second is a woodelf ([[Molly]] in  Gaiathoren armor. Clarence charges 1100g. We explain the details. They chat:
+Two people walk out of a tree towards us. First is a stocky dwarf ([[Clarence the Cleaner]]), thin white beard, gold braids, ill-fitting armor. Second is a woodelf ([[Gia'Thoren Molly]] in  Gaiathoren armor. Clarence charges 1100g. We explain the details. They chat:
 
 Clarence: "We could probably [[Gauthoc]]?"
 Molly: "We've been cultivating that for so long. Will he do it?"

@@ -1,0 +1,6 @@
+---
+{}
+---
+1. [[Costi]]: Aish, we’ve met a crazy creature who calls itself a “MoggleWoggle” or Molly. We learned he’s a thing called a Mimsy! Supposedly he is actually a dream of a powerful being made material.. somehow? Anything you can learn about these things would be appreciated. I think you’d find him fascinating—hopefully you can come meet him soon. Oh, also Finn is taking some much needed time off. Luckily Molly is shockingly good with a hand crossbow.
+	1. [[Aisha]]: I'm happy to hear Finn is getting some rest and relaxation! He seemed...taxed by our trip. I hope he enjoys the time to recover, and I'm sure your sister will be thrilled to have him close by. That is FASCINATING. I'm adding this to my research list immediately, Culvia is so far quite forgiving about indulging my personal curiosities as long as I pursue what she asks. I hope I can sneak away to see him soon, but I imagine it will be some time; there is much reading to do. We've had an excellent start, you would not believe the resources here. I often get lost in the library stacks and completely lose track of time; I could spend years here and not make a dent in the tomes available. I certainly hope to retain my access once we finish here.
+2. 

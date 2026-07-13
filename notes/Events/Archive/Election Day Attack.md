@@ -17,7 +17,7 @@ One group was sent to the [[Flyway Central Station]].
 
 [[The Unforged Few]] found [[Ellinev Del]] dead, and immediately spoke to [[Victor]], who told us... a lot of stuff. Then we got in touch with [[Niko]], and were able to convince him not to launch the arrow that would have ignited bombs at the [[Flyway Central Station]]. Just in time for us all to see [[Giary]] (with support from [[Terrav]] and [[Zephyra]]) leap from the train, yeet the bomb, and crash into the rocks below. He was fine. Niko was appropriately shaken.
 
-Then we went to the basement, to pursue [[Cinder]], [[Willum]], and [[Winifey|Winnie]]. We met [[Winifey|Winnie]] first, as she was cutting [[Srictha]]'s throat. We attacked, and defeated her and her squad of fire raisers. As [[Freya]] killed her, she whispered "It's an honor, Synchrana," which is *weird*. But we didn't have time to dwell on that, so, we kept going into the catacombs. 
+Then we went to the basement, to pursue [[Cinder]], [[Willum]], and [[Winifey|Winnie]]. We met [[Winifey|Winnie]] first, as she was cutting [[Srictha]]'s throat. We attacked, and defeated her and her squad of fire raisers. As [[Freya]] killed her, she whispered "It's an honor, [[Synchrona]]," which is *weird*. But we didn't have time to dwell on that, so, we kept going into the catacombs. 
 
 We got to the Catacombs just in time to see [[Cinder]] take out a long silvery stick, like a knitting needle, and use it to smash the [[Ring of Efreet Summoning]] (the one that we stole from [[Norathar Pent]], way back when). That burst of energy opened some sort of [[There's Plainly Something Wrong with the Planes|rift]] to the [[Elemental Plane of Fire]] or something, and turned [[Cinder]] into... something else. It also lit four fuses. 
 

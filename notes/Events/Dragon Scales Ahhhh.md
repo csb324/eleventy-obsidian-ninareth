@@ -36,12 +36,12 @@ He brings out [[Burru Ilp]]'s notes:
 
 * There were 11 sets of initials in the notes or from conversations with those involved:
 	* B. I. - [[Burru Ilp]] - DEAD 
-	* B. O. - [[Bhula Orbnose]] - [[Durmask]], FLED, may be in [[Thelran Asari]]
+	* B. O. - [[Bhula Orbnose]] - [[Durmask]], FLED, may be in [[Thelran Asari]], DEAD
 	* N. V. - [[Nikander Vhegohl]] - [[Jalantar]], DEAD 
-	* P. A. - [[Pleetos Alentas]] - [[Thelran Asari]] 
-	* J. T. - [[Jorus]] Tolvint - DEAD 
+	* P. A. - [[Pleetos Alentas]] - unknown
+	* J. T. - Jorus Tolvint - DEAD 
 	* Y. V. - [[Yhridex]] Vont - [[Durmask]], DEAD 
-	* N. B. - [[Nebrur Sunbreaker]] - [[Thelran Asari]] 
+	* N. B. - [[Nebrur Sunbreaker]] - [[Thelran Asari]], DEAD
 	* R. D. - [[Raloberos Dewstar]] - [[Nervart]] 
 	* K. G. - [[Kelwin Gambletimble]] - [[Slavaadi College]]
 	* Z. S. - [[Zilbar Saplegople]] - [[Thelran Asari]] 
@@ -74,6 +74,21 @@ We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] ma
 * They have counterspell, even from non-casters. They know [[Bhula Orbnose]] was seen there, [[Pleetos Alentas]] may be, along with [[Nebrur Sunbreaker]] and [[Zilbar Saplegople]]. We want to take at least a few alive. There's at least 40, but up to 150 could be there. 
 *   [[Zmaj]] has spoken with the [[Platinum Sanctuary of Thelran Asari]], they're conducting an investigation but at least a few there know of our situation. They're given us some materials, 300gp each.
 * They're not sure how they're keeping some dragons in their forms. 
+
+### Questions for our Hostage
+Pretend we already know everything and then just say “tell us everything and we’ll know if you leave something out”
+
+Vetting him for the chance to survive as our mole.
+
+- Where is Pleetos Alentas?
+- How did you contact your suppliers Kelwin Gambletimble and Tunchon Agira?
+- Did you work with anyone in the OOTPD?
+- Where are your other sites? Safehouses?
+- How did you join the BM?
+- How can we find the rest of you?
+- Do you have any secret way of identifying each other? Handshakes, code-phrases, symbols, things you wear? 
+	- How they identified each other, to know they belonged, after small talk they mentioned "balance the scales". 
+- What have you been planning next? 
 
 ## Who's Involved
 
@@ -111,7 +126,7 @@ We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] ma
 * [[Clive]] - DEAD
 	* Metal-worker in [[Jalantar]]
 	* Killed by [[Divitston Goldstone]] and [[Ghez Yhutl]]
-* [[Bhula Orbnose]]
+* [[Bhula Orbnose]] - DEAD
 	* Receiving instructions from [[Pleetos Alentas]]
 	* Was prepared with a group for [[Zoheret|Zoha]] and [[Zmaj]] in [[Durmask]]. 
 *  [[Driega Jolentia]] was the jewelers [[Starstool Daygrip]] used in [[Durmask]] where [[Julian Slater-Runehorn|Julian]] found brass dragon scales
@@ -183,6 +198,8 @@ We talk about how to get our [[The Game]] bracelets off - [[Zmaj]] and [[Li]] ma
 	* In [[Durmask]]
 * [[Trisha]]
 	* Digging into some information
+* [[Gold Scale Udovarax]]
+	* He'll try to track down where [[Pleetos Alentas]] is, if possible, particularly in the mercantile class of [[Thelran Asari]].
 
 ### Things to Note
 * [[Hugh]] and [[Costi]] wrote a note on [[Father Thronestone]]'s behalf for his confession

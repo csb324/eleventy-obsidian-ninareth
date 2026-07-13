@@ -9,47 +9,42 @@ Owned-by: The Unforged Few
 
 ### Immediate
 
-Tonight:
-* Going out with [[Eirian]] 
-* [[Freya]] and [[Samson]] bath tub drinks
+21
+* lighthouse adventure
 
-2:
-* [[Farybar]] meeting [[Freya]] at [[The Solarian Respite]]
-
-3:
-* [[Boulder Makers]] attack
-
-9:
-* Day trip to [[Nervart]] 
-
-In one week:
-* [[Rawley]] arrives
-
-?:
+22
 * [[Wayfinder Annual Gathering]]
-
-### Short-Term
-In [[Thelran Asari]]
- * [[Boulder Makers Counterattack]] - Headquarters near [[Yent Lake]], [[Fenswick Cove]]?
-	 * [[Zmaj]], [[Eirian]], [[Vask]], [[Zalvaris|Zalv]]
-	 * Refresh page with info
-	 * Send to [[Krarrhec]] on why [[Nikander Vhegohl]] was trying to craft mithril on wyrmling?
- * [[Wayfinder Annual Gathering]]
-	 * Help [[Freya]] on her speech
+	* Help [[Freya]] on her speech
 	 * Teleport somewhere for her 10th job
 	 * Refresh info for [[Wayfinders]] 
 	 * Don't trust [[Lirnis Kilzire]] due to his ties to [[Gulsindip Desindever|Superior Desindever]]
 	 * Figure out if [[Skiv]] ties into [[Rawley]] and [[Polaris]] 
+	 * Day of partial synchronicity 
+
+23
+* harpstring ready
+
+24
+* Chairman's Address on the third night. 
+* We know its also the night of partial [[synchronicity]].
+
+25
+* Enrollment announcements from [[The Academy in Thelran Asari]] for [[Elena]]
+
+?
+* Use [[Aisha]]'s gun to scry on [[Schrayol Vactderdin]]. 
+
+Dragon BS
+* Send to [[Krarrhec]] on why [[Nikander Vhegohl]] was trying to craft mithril on wyrmling?
+
+### Short-Term
+In [[Thelran Asari]]
  * See [[Jamzik Zodevzo|Jamzik]]
  * [[Hugh|Finn]] see his ex in [[The Pocket]]
- * Meet up with [[Rawley]], 2 weeks before WAG
  * [[Colvia Ghul]] conversation about [[Synchrona]]
- * [[Niraani Sisterhood]] [[Shard of Maguebliet]] 
  * [[The Academy in Thelran Asari]] 
  * Visit the [[Zumbinis Assless Chapel]] 
  * [[Elena]] tour of the [[The Academy in Thelran Asari]] 
- * Go to the [[Platinum Sanctuary of Thelran Asari]]
- * Talk to the heads of [[Pelor]], [[Bahamut]], [[Corellon Larethian]], and [[Moradin]]. 
 
 In [[New Fairhaven]]
 * Hail bloodseeker, [[fourteen rue promade]], after nine - [[Freya]]
@@ -107,6 +102,8 @@ In [[New Fairhaven]]
 * Ask [[Rez's Dad|Azir]] about [[Morthos]]
 * [[ELA]]'s role? Mobilize towards other Dukes?
 * Talk to a pretty powerful conjuration wizard who is [[Eirian]]'s recommendation on someone who can help with [[diamond goo]] and operation [[De-Boulder]], [[Grym Wildbranch]]. He's guest lecturing at [[The Slavaadi College]], and will be back in [[The Academy in Thelran Asari]] in a few months
+* [[Rez]] ensure the holding room in platinum sanctuaries are cool enough
+* cleanse more woe anchors at [[Bogwood Outpost]]
 
 ### To Buy
 * holy water
@@ -116,12 +113,13 @@ In [[New Fairhaven]]
 ### Misc
 
 Chelsea:
+* purple dunamantic counterspell stones vs ioun stones, list and differentiate 
 * make list of mithril items? 
 	* [[Mithril Needle]]
 	* the alloy (add page)
 	* fuses
 	* potion to cut the fuses?
-
+* How to steal vask's magic mouth
 ### End of Campaign Question
 - What would have happened if we kept Prof. Klippitz’ emerald?
 - What would’ve changed if we did the magic circle request for Korden instead? 

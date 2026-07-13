@@ -3,30 +3,29 @@
 ---
 # Group Inventory
 
-### Currency - 12,120 gp
+### Currency - 14,948 gp
 ##### Gems:
-Pearl - 1
-Near flawless [[Elemental Plane of Earth]] diamond - worth 4,000gp (Carried by [[Hugh]])
-diamond ring - 3's revivify's worth (900gp worth)
-diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~800gp
-diamonds - 900gp worth
-Topaz  ([[Rez]])
-Bag from [[Teld's Dogs]]: 3 shitty emeralds, a poorly cut diamond, a fine ruby
-4 large sapphires
-2 wings, each has about 40 sapphires
-Bag of gems from the [[Zhakastin Expedition]] and [[Bek]], sapphires worth ~2,700gp
+Diamonds: 6,600 gp
+	Near flawless [[Elemental Plane of Earth]] diamond - worth 4,000gp (Carried by [[Hugh]])
+	diamond ring - 3's revivify's worth (900gp worth)
+	diamond tennis bracelet from [[Sheske Eeping]] - 14 near flawless stones ~800gp
+	diamonds - 900gp worth
 
 ## Potions:
 Healing:
 	Supreme (6000?) - 
-	Superior healing (900) - [[Costi]], [[Hugh|Finn]], [[Adrienne Spout|Adrienne]], 
-	Greater healing (400) - 2 per person: 1 used by [[Adrienne Spout|Adrienne]], 1 used by [[Costi]], 2 used by [[Rez]]
+	Superior healing (900) - [[Adrienne Spout|Adrienne]], [[Rez]], [[Freya]], [[Costi]], [[Molly]]
+	Greater healing (400) - 
+		[[Adrienne Spout|Adrienne]] 4
+		[[Costi]] 2
+		[[Rez]] 4 
+		[[Freya]] 2
 	Regular healing (200) - 
 Potion of Darkvision - 1
-Potion of Necrotic Resistance - 3 (Rez and Finn used) 
-Aid - 1 ([[Hugh|Finn]])
-Lightning Resistance - 2 ([[Hugh|Finn]], [[Rez]])
+Aid - 1 
 Potion of Maximum Power - 1 when you cast a spell that does damage of 4 level or lower, you do max damage, carried by [[Rez]] 
+Potion of Magma Shield, orange with black blobs potion -when you drink, magma coats your body for 1m, shed bright light in a 10ft radius and dim in another 10, resistant to cold. Whenever a creatrue w/n 5ft hits a melee, take 2d8 and when you hit with melee, take 2d8 damage
+Potion of Gravitational Density, thick but clear purple potion - dunamancy, for 1m you cannot be moved by magical or physical means, BA force creature you can see w/n 120ft to make CHA SVT DC 17 or move them up to 20 ft in any direction. Success on save is 1d8 bldg dmg 
 
 ## Scrolls:
 Silence [[Rez]]
@@ -40,8 +39,10 @@ Scroll of Dawn
 Scrolls of disguise self [[Rez]] and [[Costi]]
 
 ### Spell Materials
-Parchment - 0([[Costi]])
+Parchment - 5 [[Costi]]
 Incense - 350 gold worth
+Pearls - 3 [[Costi]]
+[[The Shadowfell]] impacted blood - [[Freya]]
 
 ### Teleportation Circles
 [[Suncrest Palace]]
@@ -124,12 +125,6 @@ Carried by [[Hugh]]
 [[An Ice Brand]]: +1 long sword, d8 cold (A)
 [[Freya]]
 
-[[Fire Resistant Breastplate]]
-Carried by [[Adrienne Spout|Adrienne]]
-
-[[Flametongue Longsword]]
-Carried by [[Adrienne Spout|Adrienne]]
-
 [[Reverberating String]]
 Carried by [[Adrienne Spout|Adrienne]]
 
@@ -163,15 +158,11 @@ Carried by [[Adrienne Spout|Adrienne]]
  [[Blood Curler]] (A) - +1 long sword, does 1d8, added 1d10 necrotic. On a hit, expand a charge (2 per day) to require a DC 17 Con SVT or be stunned until the end of your next round.
  Carried by [[Freya]]
 
-Hats of Disguise (5) (A)
-
-Kuo-Toa staffs - 1
+[[Hats of Disguise]] (5) (A)
 
 [[Glowy-green sorta undead making cylinders]] - 3
 
-magical longsword
-
-warforged bracer
+warforged bracer [[Hugh|Finn]]
 
 [[Shadowform Shield]] 
 Carried by [[Freya]]
@@ -197,23 +188,45 @@ Carried by [[Adrienne Spout|Adrienne]]
 
 Sending Stone to the Burbanks
 Carried by [[Rez]] 
+
+Barbarian from [[Fenswick Cove]] weapon
+Carried by [[Zalvaris|Zalv]] 
+
+2 [[purple dunamantic stones]] [[Node of Arcane Displacement]]
+
+A notable ring from [[Bhula Orbnose]] 
+
+Key to [[Pleetos Alentas]]'s mansion [[Sanctum Key]]
+
+[[Amulet of Calm]] - 2 
+Carried by [[Rez]] and [[Malachi]]
 ## Monster Parts
 
-### Dragon Scales
-Carried by [[Freya]]
+
+### Draconic
+Scales
 	Blue - 8
 	Red - 9
-Medusa snakes -5
-Medusa eyes - 2
-Bullette plates - 3
+Retrieved from [[Fenswick Cove]]
+	Gold - 3
+	Silver - 2 
+	Copper - 1
+	Blue - 4
+	Red - 4
+	Brass - 1
+Hide
+	7 sq/in black dragon hide
+	9 sq/in green dragonhide. 
+Scaled necklace (with one scale of every color: white black green blue red silver gold copper brass bronze and bits of draconic organs, 1 fang, and 1 claw)
+Dragon blood - 1/3 vial (wiped from the remnants of the tongue [[Bhula Orbnose]] swallowed) 
+Tooth - 2
+Dried eye - 1
 
 ## Mundane Items: 
 
-[[Winifey]] tattoo skin flap
-
 vials of black ooze - 6
 
-black tipped crossbow bolts - 20
+black tipped crossbow bolts - 20 [[Hugh|Finn]]
 
 [[Vlad Grosu Patch]]
 
@@ -246,6 +259,28 @@ Carried by [[Rez]]
 A gold crown
 black metal helmet with a scar over the right eye
 gray silk shawl
+
+Draconic scaled necklace from [[Bhula Orbnose]], non-magic
+
+Nice dagger
+
+36 lead lined boxes of various sizes
+
+masterwork picture frame 
+
+rings - 1 
+
+candlesticks - 2
+
+rubbing of magic ravings in [[Bogwood Outpost]] 
+
+impression of key from [[Willan Cherrycloak]]'s desk 
+
+[[Unknown Key from Willan Cherrycloak]]
+carried by [[Rez]]
+
+Book of letters from [[Willan Cherrycloak]] - IIII
+carried by [[Costi]]
 ### Books and Correspondence:
 [[The Unnatural Naturality]] - read by [[Jade]]
 [[Kith and Kin]] - read by [[Freya]], [[Rez]]
@@ -271,6 +306,10 @@ gray silk shawl
 Letter of introduction from [[The Matron]] of [[Izdeke]]
 Letter to Hugh from [[Charky]]
 Correspondence from [[Johviteo Bachekdem]] - carried by [[Adrienne Spout|Adrienne]]
+[[Pleetos Alentas]] address book and papers, ledger
+[[Pleetos Alentas]] blackmail papers
+[[Pleetos Alentas]] letters
+Several pieces of melted down platinum shapes
 ### Rez
 
 ##### Bag of Mischief:
@@ -293,13 +332,6 @@ carried by [[Rez]]
     hammer set (6 sizes, quite small to normal size)
     box of rusty screw
     a small heart pillow embroidered with "sorry"
-
-[[Necklace of brass dragonscales]]
-Diamond cream - eighth of an ounce
-- diamond cream with magical properties is a very expensive, specialty item. You'd have to order that special from an enchanter, but no one has any suggestions.
-Chunks of copper ore - 4
-Mithril mix alloy from Dragon Scales Ahhh
-Dragon engraved ring
 ##### Personal
 - Diamond cream - eighth of an ounce
 	- diamond cream with magical properties is a very expensive, specialty item. You'd have to order that special from an enchanter, but no one has any suggestions.
@@ -307,10 +339,13 @@ Dragon engraved ring
 - Scroll of Silence
 - Scroll of Detect Thoughts
 - Mithril mix alloy from Dragon Scales Ahhh
-- Necklace of brass dragonscales, assuming from Neti
 - [[Curator Bell]]
 - Sliver of the silver alloy [[necromantic spikes]]
 - dagger made of copper pieces from [[Divitston Goldstone]]
+- a heavy inlaid porcelain or ivory key hidden there, it's engraved with [[Pleetos Alentas]] initials. 
+- [[Necklace of brass dragonscales]], assuming from Neti
+- Dragon engraved ring
+- [[Stalwart Mudd]] replica Sword and Shield
 
 ### Clothes
 One formal outfit each

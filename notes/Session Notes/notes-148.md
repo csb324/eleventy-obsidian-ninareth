@@ -55,7 +55,7 @@ We talk about any political play we could make with the [[Duchess v'Dharinov]], 
 
 The [[People/Eberron/Burbanks|Burbanks]] say we should focus on one thing at a time, this first and then they'll try to help us with our world ending problem. [[Cliff Burbank|Cliff]] asks to speak to [[Costi]] alone. 
 
-He leads him through a series of hidden and magically protected rooms, including with blood magic, into a shrine to [[The Raven Queen]]. A massive raven skull serves as an alter in a room with the starry sky enchanted flooring. He says, welcome to Headquarters of [[the Matron's Conspiracy]], there's about 15, and offers him the chance to officially join, from his role of [[First Sword]]. 
+He leads him through a series of hidden and magically protected rooms, including with blood magic, into a shrine to [[The Raven Queen]]. A massive raven skull serves as an alter in a room with the starry sky enchanted flooring. He says, welcome to Headquarters of [[The Matron's Conspiracy]], there's about 15, and offers him the chance to officially join, from his role of [[First Sword]]. 
 
 He tells him to hold on tight, not letting go of the alter, and say "I swear to honor the moment" then runs him through. The blood pours down into the alter. Red feathers begin to appear, as though formed from [[Costi]]'s blood. 
 

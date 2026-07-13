@@ -1,12 +1,13 @@
 ---
 type: world-event
 region: "[[Eberron]]"
-status: Ongoing
+status: Success
 ---
 # A Murder of Dukes
 [Affiliation::[[Eberronian Military]]
 [Affiliation::[[Eberronian Second Division]]
 [Affiliation::[[ELA]]
+
 
 [[Cliff Burbank]] has asked us to help his family kill [[Duchess v'Dharinov]]. Oh goodie! 
 
@@ -66,4 +67,6 @@ Round 1:
 
 Bastinev?
 * Dawn while she's low, Finn maintain concentration 
-* 
+
+# Outcome
+We did it! See: [[notes-161]]. But we did it with the help of [[Colvia Ghul]], who is now the Chamberlain to Duke [[Cliff Burbank]], so that's a wrinkle. It seems [[Colvia Ghul]] partially decided to help us when she discovered [[Freya]] was [[Synchrona]].

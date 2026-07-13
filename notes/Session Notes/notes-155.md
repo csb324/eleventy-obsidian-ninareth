@@ -75,7 +75,7 @@ We learn that [[Captain Ligo Krikeav|Ligo]] plans to be in town for about a week
 
 [[Adrienne Spout|Adrienne]] circulates with [[Clifford Burbank, the 5th|Fivey]], and learns [[Lieutenant Stradvarth Coldseeker]] is now [[Major Stradvarth Coldseeker]]. He's got a party coming up! 
 
-[[Clifford Burbank, the 5th|Fivey]] pulls [[Costi]] aside to run and grab some bottles from the cellar. Pulling him into the lead room, says welcome to the family. He shares that none of the [[Bone Breakers]] are in the [[the Matron's Conspiracy]], and only one other is in [[Eberron]]. He shares that the [[Dobosta Cumunzal]] expedition was truly a success. He hopes that he, himself, will be the [[First Sword]] of [[The Raven Queen]] before too long. It's been passed down in their family for generations. 
+[[Clifford Burbank, the 5th|Fivey]] pulls [[Costi]] aside to run and grab some bottles from the cellar. Pulling him into the lead room, says welcome to the family. He shares that none of the [[Bone Breakers]] are in the [[The Matron's Conspiracy]], and only one other is in [[Eberron]]. He shares that the [[Dobosta Cumunzal]] expedition was truly a success. He hopes that he, himself, will be the [[First Sword]] of [[The Raven Queen]] before too long. It's been passed down in their family for generations. 
 
 [[Adrienne Spout|Adrienne]] chats with [[Fingers]], who is making a small bomb to go off in 30 minutes. From [[Rez]]'s pocket! She invites [[Adrienne Spout|Adrienne]] to join the game. 
 

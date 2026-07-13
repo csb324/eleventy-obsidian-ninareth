@@ -5,7 +5,6 @@ tags:
 aliases:
   - Mysterious Circles
   - Eye of the Everpresent
-  - Eye of the Everpresent
 ---
 
 # Freya's Mysterious Circles
@@ -58,4 +57,58 @@ We found a copy while [[Heal the Anchor Tree]], looking at the root where [[Adri
 
 In the [[Halls of the Dead]] A body hung furthest in the room is missing his left hand.  The one near the skeleton's magic has a [[Dunamantic Ruby Eye]], after 'checking' [[Jade]] goes to grab it and discovers it's connected somehow, but pulls with a mucus-covered tendon where it seemed to be attached internally. [[Jade]]'s glasses flash ([[Whats up with Jade's Glasses]]?) and she notices on the back of the ruby, is a symbol [[Freya's Mysterious Circles]]. 
 
+We do a legend's lore, and then decide to do this on [[Freya's Mysterious Circles]]. The incense takes on a purple tint, and [[Hugh|Finn]] hears a calm reassuring voice, "these infinite overlapping circles are the eye of the [[Freya's Mysterious Circles |Everpresent]]. It is the symbol of [[Morthos]] and denotes and individual object or place that is under their influence. Where goes the eye, there goes their power. It observes the degradation of our most natural and fundamental lines and is a harbringer of the greatest doom"
 
+
+### Known Members
+
+List of [[Everpresent]] Associations:
+
+Ceravul Neshom - Wayfinder, [[Ru'Nileth]]
+Phia Goldvin - Teacher, [[Durmask]]
+Merdisth Hirkero - Brewer, [[Durmask]]
+Vindil - Council Secretary, [[Durmask]] (Davril’s Brother)
+Davril - Council Secretary, [[Dembara]] (Vindril’s Brother)
+Elkinthendal Vorqiroth - Mine Owner, [[Zilvengrod]]
+Corbul Longbraid - Mercenary, [[Zilvengrod]]
+Cordak Havenbridge - Labor Leader,[[Zilvengrod]]
+Plumbue Guldonir - Tinkerer, [[Cerendon]]
+Danos Leafeet - Soldier, [[Cerendon]]
+Tadvur Tallflower - Potion Shop Owner, [[Nervart]]
+	Corresponding with [[Willan Cherrycloak]]
+Paxton - Privateer, [[Nervart]]
+Teezzo Sternsinger - Architect, [[Brask]]
+Albus Duvey - Antiques Dealer, [[Quaath]]
+Yarrin Silvercobble - Leader of Third Circle, [[Crossroads]]
+Protho Bradenbraker - Member of the Coin, [[K'falgaard|Kfalgaard]]
+Mraldred Skrekrti - Stoneworker, [[K'falgaard|Kfalgaard]]
+[[Caleb Schleuse]] - Academic, [[Slavaadi College]]
+Gorcin - Evocation Professor, [[Slavaadi College]]
+Gulsindip [[Gulsindip Desindever|Superior Desindever]] - Wayfinder, [[Thelran Asari]]
+Dmitri [[Jabokav]] - Divination Professor,  [[Thelran Asari]]
+Willan Cherrycloak - Owner and Operator [[The Seven Copper Opera]], [[Thelran Asari]]
+	Corresponding with [[Tadvur Tallflower]], codes in notes, red sending stone
+Sotieu - Warrior at The Rumble,  [[Thelran Asari]]
+Thefu Falraor - Wayfinder,  [[Thelran Asari]]
+Wutherford Odlinstin - Historian, [[Jalantar]]
+Cynthe Stredmek - Representative, [[Jalantar]]
+Joniss - Priest of [[Kelemvor]], [[Arkhosia (City)]]
+Dhurhak Galfy - Guardian Delegate,[[Arkhosia (City)]]
+Genesis - Singer, [[Arkhosia (City)]]
+Optan Stredvi - Horse Trainer, [[Zalev]]
+	[[Rez]] wanted THE BEST horse, interviewed with him - gregarious and very Zalevi, chose to buy from someone else 
+Kundo - Giant, [[Thalfar]]
+Lord Sulfren Brook - Criminal Syndicate, [[Thalfar]]
+Jhelget Fre - Diviner, [[Antaourth]]
+Miohvor Sketruud - Treasurer, [[Tinkate]]
+Dizion Tale - Second in Command, Guard Captain, [[Tinkate]]
+Billa Corvthek - Mercenary, [[Tinkate]]
+Winatet Denati - Shipping Magnate, [[Baldur]]
+[[Balsandor]] Polaris - [[Polaris]]
+Jorona Polaris - [[Polaris]]
+Aragwyn Polaris  - [[Polaris]]
+[[Petra]] Polaris -  [[Polaris]]
+Luren Polaris -  [[Polaris]]
+[[Mhrhaal]] - [[Alhoon]], [[New Fairhaven]]
+[[Cinder]] (AKA the Cinder Prince) - Revolutionary [[Plane of Fire]]
+[[Sezathkathon]] - [[Alhoon]], Unknown
