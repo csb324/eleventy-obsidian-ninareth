@@ -9,6 +9,8 @@ See also: [[Wayfinder Annual Gathering]]
 
 ### Schedule
 * Freya fighting pits - two fights (unknown, then [[Vy]])
+	* morning fight - 11:30 
+	* afternoon fight - 3:00 
 * Meet up with [[Hugh|Finn]] for death ward on [[Freya]]
 * Meet up with [[Maycee Marie Teapetal]] regarding the solvent trade
 * Speak to [[Below the Wall]] for favor sticking [[Stone of Misfortune]] to [[Gulsindip Desindever|Superior Desindever]] during the attack
@@ -35,7 +37,15 @@ See also: [[Wayfinder Annual Gathering]]
 			* get a chalice? 
 * Reminders:
 	* [[Jabokav]] - dispel 
-	* 
+
+### To - Do
+* Arcane eye below [[The Rumble]]
+* Sending to [[Hugh|Finn]]
+* Note to [[Maycee Marie Teapetal]]
+* Sending to [[Below the Wall]]
+* reception by [[Rawley]] after at 9:30 pm
+		-  [[The Miscasts]] comes, and try to drug up [[Gulsindip Desindever|Superior Desindever]]
+
 ### Who's Going to Be There
 
 ##### Baddies

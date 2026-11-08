@@ -28,7 +28,7 @@ Aid - 1
 Potion of Maximum Power - 1 
 	when you cast a spell that does damage of 4 level or lower, you do max damage, carried by [[Rez]] 
 Potion of Magma Shield
-	orange with black blobs potion -when you drink, magma coats your body for 1m, shed bright light in a 10ft radius and dim in another 10, resistant to cold. Whenever a creatrue w/n 5ft hits a melee, take 2d8 and when you hit with melee, take 2d8 damage
+	orange with black blobs potion -when you drink, magma coats your body for 1m, shed bright light in a 10ft radius and dim in another 10, resistant to cold. Whenever a creature w/n 5ft hits a melee, take 2d8 and when you hit with melee, take 2d8 damage
 Potion of Gravitational Density
 	thick but clear purple potion - dunamancy, for 1m you cannot be moved by magical or physical means, BA force creature you can see w/n 120ft to make CHA SVT DC 17 or move them up to 20 ft in any direction. Success on save is 1d8 bldg dmg 
 Gravedirt - 1

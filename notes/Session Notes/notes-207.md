@@ -5,7 +5,7 @@ up:
 prev: notes-206
 Name: null
 ---
-x# Session 207
+# Session 207
 
 [[Adrienne Spout|Adrienne]] coordinates a greater restoration for [[Molly]] at the [[Corellon Larethian]] temple. 
 

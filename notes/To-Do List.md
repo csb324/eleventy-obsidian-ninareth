@@ -44,10 +44,10 @@ Recon
 - ~~"New ways to find, extraplanar wayfinding in 3450 and beyond" by [[Caleb Schleuse]] - 2 pm~~
 - ~~Wayfinding competition at multiple times~~
 	- ~~12 - 6 pm (planning 4pm)~~
-- Freya Speech - 8 pm
-	- call time 7:45 pm
+- ~~Freya Speech - 8 pm~~
+	- ~~call time 7:45 pm~~
 	- ~~dinner before by [[Gulsindip Desindever|Superior Desindever]] at 5 pm~~
-	- cocktail hour before by [[Gulsindip Desindever|Superior Desindever]] at 6 pm
+	- ~~cocktail hour before by [[Gulsindip Desindever|Superior Desindever]] at 6 pm~~
 	- reception by [[Rawley]] after at 9:30 pm
 		-  [[The Miscasts]] comes, and try to drug up [[Gulsindip Desindever|Superior Desindever]]
 
@@ -82,7 +82,6 @@ In [[Thelran Asari]]
  * [[Hugh|Finn]] see his ex in [[The Pocket]]
  * [[Colvia Ghul]] conversation about [[Synchrona]]
  * [[The Academy in Thelran Asari]] 
- * Visit the [[Zumbinis Assless Chapel]] 
  * [[Elena]] tour of the [[The Academy in Thelran Asari]] 
 
 In [[New Fairhaven]]
