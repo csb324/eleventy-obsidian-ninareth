@@ -43,6 +43,9 @@ He brings out [[Burru Ilp]]'s notes:
 	* Y. V. - [[Yhridex]] Vont - [[Durmask]], DEAD 
 	* N. B. - [[Nebrur Sunbreaker]] - [[Thelran Asari]], DEAD
 	* R. D. - [[Raloberos Dewstar]] - [[Nervart]] 
+		*  He likes to procure his own ingredients, often coming and going from the city -  he used to be an adventurer himself. He's both strong and has some magical capabilities.
+		* His potions lab has both bones, unknown type but at least large, and some sparkling powder, with seeming inherent magical quality. 
+		* Shop connects one [[Dewstar Alchemicals]] is clearly the connection, the other is an unmarked residential address. 
 	* K. G. - [[Kelwin Gambletimble]] - [[Slavaadi College]]
 	* Z. S. - [[Zilbar Saplegople]] - [[Thelran Asari]] 
 	* T. A - [[Tunchon Agira]] - [[Zilvengrod]]

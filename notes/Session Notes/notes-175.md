@@ -74,7 +74,7 @@ As we walk around, it's clear that things have been put away and carefully order
 
 Upstairs, we find a study, and tear apart his desk. We take an address book with several hundred entries. Finding secret levers, we take a nice dagger. In the other, we find incriminating letters implicating other people. [[Rez]] steals a few books on dragons. 
 
-We find an art room, it seems as though [[Pleetos Alentas]] getting into sculpture. It's very clean, but there's several boulders, all about the size of [[Gin]] ([[Weird Boulder]]). [[Rez]] starts to descend into anger. The room also has a bronze mounted head. We accidentally trigger it, knocking [[Freya]] out, then decide to try and un-pull it, eventually succeeding with [[Costi]] and [[Rez]]'s mage hands. We note that in the art he's been wearing a silver, brass, and gold circlet. There's a picture of [[Roland the Bold]]
+We find an art room, it seems as though [[Pleetos Alentas]] getting into sculpture. It's very clean, but there's several boulders, all about the size of [[Gin]] ([[Weird Boulder]]). [[Rez]] starts to descend into anger. The room also has a bronze mounted head. We accidentally trigger it, knocking [[Freya]] out, then decide to try and un-pull it, eventually succeeding with [[Costi]] and [[Rez]]'s mage hands. We note that in the art he's been wearing a silver, brass, and gold circlet. There's a picture of [[Roland the Bold]].
 
 Entering into a storage room, we see that once again everything is in lined boxes, we decide we don't have to time to investigate so we literally clear it out. 37 lead lined boxes of various sizes. 
 

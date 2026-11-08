@@ -38,7 +38,7 @@ You can use these points as if they were normal sorcery points. The Scales can h
 * 2 - empty necklace, missing 3 of my usual sorcery points
 * 13 -
 * 20 - (d10 : 9) 
-* 1 - empty necklace, missing 4 of my usual sorcery points
+* 1 - empty necklace, missing ? (between 1 and 4) of my usual sorcery points
 * 15 - 
 
 ### Activation - I

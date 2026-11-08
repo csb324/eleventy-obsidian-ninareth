@@ -93,3 +93,8 @@ You mean your family? Rez, we’re gonna stop the unscaled. They’re not going 
 
 *I meant US. You and me. And whatever is making you not do what you really want.
 
+Oh. That’s a question. 
+(long silence)
+(Then there was a 31 insight check)
+
+Im gonna go to bed goodnight Rez!!!!

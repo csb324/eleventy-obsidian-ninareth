@@ -4,6 +4,8 @@
 # Group Inventory
 
 ### Currency - 14,948 gp
+but also 0 
+and -5,000
 ##### Gems:
 Diamonds: 6,600 gp
 	Near flawless [[Elemental Plane of Earth]] diamond - worth 4,000gp (Carried by [[Hugh]])
@@ -14,18 +16,22 @@ Diamonds: 6,600 gp
 ## Potions:
 Healing:
 	Supreme (6000?) - 
-	Superior healing (900) - [[Adrienne Spout|Adrienne]], [[Rez]], [[Freya]], [[Costi]], [[Molly]]
+	Superior healing (900) - [[Adrienne Spout|Adrienne]], [[Molly]]
 	Greater healing (400) - 
 		[[Adrienne Spout|Adrienne]] 4
-		[[Costi]] 2
-		[[Rez]] 4 
+		[[Costi]] 3
+		[[Rez]] 3 
 		[[Freya]] 2
 	Regular healing (200) - 
 Potion of Darkvision - 1
 Aid - 1 
-Potion of Maximum Power - 1 when you cast a spell that does damage of 4 level or lower, you do max damage, carried by [[Rez]] 
-Potion of Magma Shield, orange with black blobs potion -when you drink, magma coats your body for 1m, shed bright light in a 10ft radius and dim in another 10, resistant to cold. Whenever a creatrue w/n 5ft hits a melee, take 2d8 and when you hit with melee, take 2d8 damage
-Potion of Gravitational Density, thick but clear purple potion - dunamancy, for 1m you cannot be moved by magical or physical means, BA force creature you can see w/n 120ft to make CHA SVT DC 17 or move them up to 20 ft in any direction. Success on save is 1d8 bldg dmg 
+Potion of Maximum Power - 1 
+	when you cast a spell that does damage of 4 level or lower, you do max damage, carried by [[Rez]] 
+Potion of Magma Shield
+	orange with black blobs potion -when you drink, magma coats your body for 1m, shed bright light in a 10ft radius and dim in another 10, resistant to cold. Whenever a creatrue w/n 5ft hits a melee, take 2d8 and when you hit with melee, take 2d8 damage
+Potion of Gravitational Density
+	thick but clear purple potion - dunamancy, for 1m you cannot be moved by magical or physical means, BA force creature you can see w/n 120ft to make CHA SVT DC 17 or move them up to 20 ft in any direction. Success on save is 1d8 bldg dmg 
+Gravedirt - 1
 
 ## Scrolls:
 Silence [[Rez]]
@@ -35,7 +41,7 @@ Counterspell [[Adrienne Spout|Adrienne]]
 [[Clarence the Cleaner]]'s card "for a business opportunity" - held by [[Adrienne Spout|Adrienne]]
 Gravity Sinkhole [[Costi]]
 Sunburst pendant worth 100gp - [[Costi]] and [[Hugh|Finn]]
-Scroll of Dawn
+Scroll of Dawn [[Costi]]
 Scrolls of disguise self [[Rez]] and [[Costi]]
 
 ### Spell Materials
@@ -200,6 +206,18 @@ Key to [[Pleetos Alentas]]'s mansion [[Sanctum Key]]
 
 [[Amulet of Calm]] - 2 
 Carried by [[Rez]] and [[Malachi]]
+
+[[Stone of Misfortune]]
+Carried by [[Rez]] 
+
+[[Sovereign Glue]] - 1
+Carried by [[Rez]] 
+
+Jars of [[Everpresent]] fingers - 4
+	pinky finger
+	pinky finger
+	index finger - [[Demetri Jabokav]]
+	set of index and pointer fingers - [[Gulsindip Desindever|Superior Desindever]] 
 ## Monster Parts
 
 
@@ -281,6 +299,8 @@ carried by [[Rez]]
 
 Book of letters from [[Willan Cherrycloak]] - IIII
 carried by [[Costi]]
+
+Hair of [[Caleb Schleuse]] - 1
 ### Books and Correspondence:
 [[The Unnatural Naturality]] - read by [[Jade]]
 [[Kith and Kin]] - read by [[Freya]], [[Rez]]
@@ -310,6 +330,7 @@ Correspondence from [[Johviteo Bachekdem]] - carried by [[Adrienne Spout|Adrienn
 [[Pleetos Alentas]] blackmail papers
 [[Pleetos Alentas]] letters
 Several pieces of melted down platinum shapes
+Key to [[Everpresent]] codebreaking
 ### Rez
 
 ##### Bag of Mischief:

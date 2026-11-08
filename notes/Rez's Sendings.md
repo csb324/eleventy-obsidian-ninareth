@@ -168,6 +168,8 @@
 	- "It has been taken care of"
 		- "And on the way to my riiiiiight?"
 			- "It will be taken care of in [[Deregheir]]"
+	- "Hiiii! At another auction, super important find!! Lich guidebook WITH broken phylactery. "JF" winning, maybe same as known Everpresent associate in Dereghir - Jhelget Fre, Diviner?"
+		- That would line up, we'll put Jhelget under observation.
 - [[Samson]]
 	- I'm Rez! Welcome!! You know my sister, [[Eirian|E]]! You sound so interesting, I have a bunch of questions but FIRST - can you tell me what you know about [[Freya's Mysterious Letter|Mysterious Circles]] and the guy you found dead? You heard him talk about them? You can tell me whatever you tell her!!! 
 		- Rez, it is SO nice to meet you! I’ve heard so much, YOU sound so interesting. I hope we get to meet soon! Shoot, that’s a lot to unpack. [[Lorvak Nestle]], bookseller in [[Thelran Asari]], looking for something for my daughter and found book with [[Freya's Mysterious Letter|Mysterious Circles]]! Planned a coffee to talk, but he died before. Found his body, seemed murdered.

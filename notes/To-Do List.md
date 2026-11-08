@@ -7,35 +7,74 @@ Owned-by: The Unforged Few
 # To-Do List
 <span class="dataview inline-field"><span class="inline-field-key">Owned by</span><span class="inline-field-value">[[The Unforged Few]]</span></span>
 
-### Immediate
+## Immediate
 
-21
-* lighthouse adventure
+Recon
+* ~~Freya ask timing on synchronicity~~
+* ~~Freya detect magic with Desindever near~~
+* ~~Rez try to remember poisons that last~~
+* All try to think of debuffs or items to hurt Desindever
+* ~~Costi work on decoding papers from seven copper opera~~
+* ~~Molly equinox recon with weaver thing~~
+* Could we scry on the chair? If we know what the one in the shadow fell was like?
+* ~~Greater restoration Molly~~
 
+### Wayfinder Convention
 22
 * [[Wayfinder Annual Gathering]]
-	* Help [[Freya]] on her speech
-	 * Teleport somewhere for her 10th job
-	 * Refresh info for [[Wayfinders]] 
-	 * Don't trust [[Lirnis Kilzire]] due to his ties to [[Gulsindip Desindever|Superior Desindever]]
-	 * Figure out if [[Skiv]] ties into [[Rawley]] and [[Polaris]] 
-	 * Day of partial synchronicity 
+	- ~~breakfast with Rawley - done~~
+	- ~~scry on Baelos, potentially look at his room?~~
+	- ~~go pick up our programs~~
+	- ~~[[Optan Stredvi]] "It's called Husbandry for Reason - the vows we make to those who carry us" - 11 AM~~
+	- ~~[[Molly]] sign us up for [[The Rumble]] fighting~~
+* ~~Tell Below the Wall meeting - 12pm~~
+* ~~[[Gulsindip Desindever|Superior Desindever]] speech - 8 pm~~
+* ~~[[Carlot Duvey]] hosted auction - 8 pm~~
+* ~~Seven Copper Opera basement crawl~~
 
 23
-* harpstring ready
+* ~~Scry on fingers~~
+* ~~[[Gulsindip Desindever|Superior Desindever]] meeting with [[Freya]]~~
+* ~~Chat with [[Rawley]]~~
+* ~~tell [[Eirian|E]] about sweepstakes and also portal to [[Plane of Limbo]]~~ 
+* ~~harpstring ready~~
+* ~~the Miscasts - 3:30 pm~~ 
+- ~~Freya fighting pits Day 1~~
+	- ~~book a time or show up and wait~~ 
+- ~~"New ways to find, extraplanar wayfinding in 3450 and beyond" by [[Caleb Schleuse]] - 2 pm~~
+- ~~Wayfinding competition at multiple times~~
+	- ~~12 - 6 pm (planning 4pm)~~
+- Freya Speech - 8 pm
+	- call time 7:45 pm
+	- ~~dinner before by [[Gulsindip Desindever|Superior Desindever]] at 5 pm~~
+	- cocktail hour before by [[Gulsindip Desindever|Superior Desindever]] at 6 pm
+	- reception by [[Rawley]] after at 9:30 pm
+		-  [[The Miscasts]] comes, and try to drug up [[Gulsindip Desindever|Superior Desindever]]
 
 24
-* Chairman's Address on the third night. 
-* We know its also the night of partial [[synchronicity]].
+* Freya fighting pits Day 2
+	* two fights chosen for her 
+* Meet up with [[Maycee Marie Teapetal]] regarding the solvent trade
+* "journeying between the lines - a map making session with notable cartographer Grumblepick and [[Wutherford Odlinstin]]" - 2 pm
+* Leave a door open for [[Below the Wall]]
+* [[Julian Slater-Runehorn]] hosted auction 5:30
+- [[Thelran Asari Council]] Chairman's Address on the third night at 8 pm
+	- Potential moment of partial [[synchronicity]] between 8:30-9:15
+	- reception with [[Gulsindip Desindever|Superior Desindever]] at 9:30 pm
+- We know its also the night of partial synchronicity
 
+### After
 25
-* Enrollment announcements from [[The Academy in Thelran Asari]] for [[Elena]]
+* Enrollment announcements from [[The Academy in Thelran Sari]] for [[Elena]]
 
 ?
 * Use [[Aisha]]'s gun to scry on [[Schrayol Vactderdin]]. 
 
-Dragon BS
+Rez BS
 * Send to [[Krarrhec]] on why [[Nikander Vhegohl]] was trying to craft mithril on wyrmling?
+* Take over [[The Seven Copper Opera]]
+* Have [[Eirian|E]] help make [[Fimbeth Udovarax]] the new [[Thelran Asari Council]] Chairman
+* history check on poisons
 
 ### Short-Term
 In [[Thelran Asari]]
@@ -127,3 +166,9 @@ Chelsea:
 - Where did Costi’s other vision paths lead and who did they represent? Purple, red, and green? (green corellan, porcelain curator)
 - If Rez had not counterspelled the plane shift on the Gith in the underdark what would they have done? Would they have hurt or helped us?
 * Could we have converted [[Major Stradvarth Coldseeker]]?
+* Add page on our dice superstitions / rolling process to our book
+* would have pushing the blue sapphire in the seven copper opera have worked instead of kissing it? 
+
+#### Rez
+* sending Zmaj re: Nervart
+* sending Eirian re: council

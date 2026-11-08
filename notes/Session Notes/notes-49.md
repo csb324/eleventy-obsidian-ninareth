@@ -136,7 +136,7 @@ Seems like he was acting independently, aside from this priest of the order in [
 
 ##### Freya and the Historian
 
-[[Freya]] went to the historian to share some background, he shared that there's more than one reclusive tribe, which is news for [[Freya]]. After some conversation and learning how genuinely respectful wutherford seems, [[Freya]] opens up. She share some of their nomeclature, and life style, and talks about how isolated they were. Seeing how much they had to talk about, he offers to come to [[Arkhosia (City)]] for them to talk more. He's inbetween projects and looking for inspiration. They seem to connect some, though [[Freya]] still struggles with her suspicions due to his [[Julian Slater-Runehorn|Julian]] ties. 
+[[Freya]] went to the historian to share some background, he shared that there's more than one reclusive tribe, which is news for [[Freya]]. After some conversation and learning how genuinely respectful [[Wutherford Odlinstin]] seems, [[Freya]] opens up. She share some of their nomenclature, and life style, and talks about how isolated they were. Seeing how much they had to talk about, he offers to come to [[Arkhosia (City)]] for them to talk more. He's inbetween projects and looking for inspiration. They seem to connect some, though [[Freya]] still struggles with her suspicions due to his [[Julian Slater-Runehorn|Julian]] ties. 
 
 ##### Adrienne's Burial
 

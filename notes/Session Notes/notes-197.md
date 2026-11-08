@@ -21,7 +21,7 @@ We arrive at [[The Seven Copper Opera]], which has one main stage and six smalle
 
 [[Costi]] creates an arcane eye to see if he can find where [[Willan Cherrycloak]]'s office might be. Eventually he finds it, in one of the higher levels of one of the towers. It would only take us a few minutes to get there, but there's several locked doors, lots of employees, and several armed guards. 
 
-We decide to make a creative plan with staff uniforms, using [[My Hole]], [[Molly]]'s stealth, and [[Freya]]'s new invisibility skills. [[Molly]] steals us some staff outfits, we barricade in a bathroom to change, reup our [[Hats of Disguise]]. [[Costi]] sends the eye to the basement and sees trap doors. 
+We decide to make a creative plan with staff uniforms, using [[My Hole]], [[Molly]]'s stealth, and [[Freya]]'s new invisibility skills. [[Molly]] steals us some staff outfits, we barricade in a bathroom to change, reup our [[Hats of Disguise]]. [[Costi]] sends the eye to the basement and sees trap doors through an alcove inbetween two theatres down some hidden hallways. 
 
 Quickly neutralizing one guard, we hold him and break into [[Willan Cherrycloak]]'s office. 
 

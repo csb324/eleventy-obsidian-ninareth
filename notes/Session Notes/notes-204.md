@@ -1,0 +1,20 @@
+---
+type: detailed-notes
+up:
+  - Session Log
+prev: notes-203
+Name: It's Planular
+---
+# Session 204
+
+[[Costi]] and [[Molly]] take a short rest before [[Molly]] goes wandering, following his nose. Quickly they become turned around, but [[Costi]] is able to keep pace. Turns out he was following the scent of some old discarded blue cheese rind. He pockets it. Continuing to follow his nose, they travel deep into the [[Equinox Citadel]], [[Molly]] finds a band with a jade circle inlaid in it, with the engraved name [[Baelos]]. 
+
+Eventually, we all make it back to the [[Twilight Sanctuary]] to wrap up the final preparations of [[Freya]]'s party. [[F’rocidi]] is there, along with [[Oyin Ifernell]], [[Schelva]], [[Akros]], [[Naya]], [[Costi's Dad|Vladdy Daddy]], [[Nadia]], and [[Hugh|Finn]]. They've decorated the room reminiscent of [[Polaris]] and have [[Lendith]] in her honor. 
+
+[[Costi]] talks to [[Costi's Dad|Vladimir Grosu]] about [[Below the Wall]], both to see if he knows them, and also to warn him to watch out for his, and [[Nadia]]'s, safety. [[Costi's Dad|Vladimir Grosu]] asks for specific names, we give [[Kindy]], [[Alvar]], and [[Gimzid]]. [[Costi's Dad|Vladimir Grosu]] did work with a [[Larav]] about ten years ago, who was eccentric and angry, suppling the [[ELA]] with some weaponry. He shares some more about [[refined firestone]], which is a very rare version of [[luck stone]], and makes you significantly better at everything. A single piece can go for tens of thousands of gold. 
+
+Despite a couple of rounds of shots each, [[Rawley]] gives her official induction tattoo. She chooses from a number of options an eye, which is both a nice fakeout for [[Freya's Mysterious Circles]] and increases her perception. 
+
+We reach the concerning revelation that the night of partial [[synchronicity]] is almost upon us and we've done... nothing. [[Costi]] spins [[Rez]] like a chaos compass and she ends up pointing up towards where the sitting room of music was. [[Costi]] sends the arcane eye up. He's able to see that fairly close to wear [[Molly]] found [[Baelos]], there's a tiny speck of blood. 
+
+The next morning, we go to meet [[Rawley]]. They believe something important is behind [[Gulsindip Desindever|Superior Desindever]]'s desk, based on a cleaner saying they thought someone was tinkering with it. [[Freya]] says her new unique relationship with [[The Weaver]] could help. [[Baelos]] is (was?) a cleric of [[Pelor]], medium rank but liaised with the [[Wayfinders]]. We agree to scry on him. [[Adrienne Spout|Adrienne]] and [[Rawley]] tiff on the same lines that seem to always be the case. [[Rawley]] doesn't know much more on what's happening. He thinks the primary opportunities to gather information will be in the next three days. They've been watching weak points in the city. We fill him on that's the same date [[Below the Wall]] is planning an attack. He says it could be helpful or hurtful, we also shared their ties to the [[Plane of Fire]] and potentially [[Cinder]]. It seems like there's good odds they will try to open another planar rift or portal - we warn [[Malachi]] to stay away but he won't commit to it. [[Rawley]] warns not to let people mess with her head, it prompts [[Costi]] to dispel magic on her. Nothing takes hold so either there is no effect or it's one immune to dispel. [[Schelva]] has noticed something off with some of the preparations for the Wayfinding. It would be really suspicious for [[Freya]] not to participate. We decide [[Freya]] will do the colosseum solo so the rest of us save our strength for the rest of the deal later on the day of partial [[Synchrona]]. He gives us the clear to investigate more. He gives us the locations of a few other (6) one time use sigils in the [[Equinox Citadel]] where we can communicate safely. 
