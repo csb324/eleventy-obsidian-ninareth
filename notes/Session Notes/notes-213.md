@@ -7,9 +7,9 @@ Name: null
 ---
 # Session 213
 
-The fight continues to be bad. But little by little, we knock them out. We finally just eek it out, but all of their bodies are not from this plane. As our last enemy, the scythe guy, starts to go, she uses an ability from [[The Weaver]] to keep him here so we can try and take his stuff. This lets [[Costi]] have the chance to search his body. 
+The fight continues to be bad. But little by little, we knock them out. We finally just eek it out, but all of their bodies are not from this plane. As our last enemy, the scythe guy, starts to go, [[Freya]] uses an ability from [[The Weaver]] to keep him here so we can try and take his stuff. This lets [[Costi]] have the chance to search his body. 
 
-His body has at least 500 of these stones still on his body. Cutting the lines of tattoo at any point cause them to shatter. He has the signet ring we need for the [[Wayfinder Annual Gathering]] competition. [[Costi]] wristpockets the scythe to keep.
+His body has at least 500 of these stones still on his body. Cutting the lines of tattoo at any point cause them to shatter. He has the signet ring we need for the [[Wayfinder Annual Gathering]] competition. [[Costi]] wristpockets the scythe to keep. [[Freya]] both fucks up his body to destroy the stones and cut his mouth. 
 
 [[Rez]] and [[Freya]] determine the brass dragon has been dead for longer than a minute. [[Rez]] pours out the nice apricot brandy that she was hoping would be a party gift, and instead dissolves his body in the most potent acid she can create to spare him any potential mutilation from the [[Unscaled]]. 
 

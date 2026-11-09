@@ -219,7 +219,7 @@ Jars of [[Everpresent]] fingers - 4
 	index finger - [[Demetri Jabokav]]
 	set of index and pointer fingers - [[Gulsindip Desindever|Superior Desindever]] 
 ## Monster Parts
-
+Hair from [[Lirnis Kilzire]]
 
 ### Draconic
 Scales
